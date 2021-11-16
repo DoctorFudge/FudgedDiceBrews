@@ -1,0 +1,42 @@
+## Yetifolk
+[**Source:** *Old Gus’ Errata: Plantfolk, Undead, and Other Oddities*](https://drive.google.com/file/d/1rhNUe5owqrRFA8jNWBHUaRzTBX6Il6n9/view)
+
+#### Cold Hands, Warm Hearts
+Hardy and reclusive, most yeti prefer to patrol the same forested mountains or snowy mountain peaks, and almost all yeti prefer a life of near-total solitude. They are tall, hirsute creatures, covered in fur. Some have decorative horns atop their heads.
+
+Yeti form tight-knit family groups only for a short time and for a singular purpose: to rear their young, which are almost always single births. There is almost no substance known that is more nutritious than the blue milk of a nursing yeti, and infant yeti reared on the stuff grow so quickly than in a few short years, the trio separate and each goes their own way. After rearing or losing a child, most yeti wait at two or three decades before starting a new family.
+
+### Yetifolk Racial Traits
+***Ability Scores.*** Your Strength and Wisdom scores increase by 1.
+
+***Age.*** Yeti reach adulthood at around 4 years and live an average of 200 years.
+
+***Alignment.*** A life of elected solitude leads most yeti toward neutral alignments. Some welcome or even aid travelers through the peaks, glad of the company for short stints. A few evil yeti enjoy actively preying upon those less well adapted to their home climate.
+
+***Size.*** Yeti are between 7 and 8 feet tall and weigh between 300 and 400 pounds. Your size is Medium.
+
+***Speed.*** You have a base walking speed of 30 feet.
+
+***Languages.*** You can speak, read and write Common and Primordial.
+
+***Peakvision.*** You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light. You cannot see color in darkness. Your vision is also unobscured for 30 feet in fog, snow or sleet.
+
+***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+***Peak Performance.*** You have resistance to cold damage, and difficult terrain due to snow or ice does not hinder your movement. You're acclimated to high altitude, including elevations above 20,000 feet. You're also naturally adapted to cold climates, as described in chapter 5 of the *Dungeon Master's Guide*.
+
+***Subrace.*** Choose one of the following subraces: *Yeti*, or *Sasquatch*.
+
+#### Yeti
+Yeti make their homes in shallow caves. Their fur is white, and they use the most inhospitable peaks they can survive in to stay hidden away from others.
+
+***Ability Scores.*** Your Constitution score increases by 1.
+
+***Yeti Magic.*** You know the *frostbite* cantrip. When you reach 3rd level, you can cast the *ice knife* spell once as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Wisdom is your spellcasting ability for these spells.
+
+#### Sasquatch
+Sasquatch are yeti who have left the peaks and made their homes in boreal forests. Their fur is brown. They are strict vegetarians, and have a great love for the creatures of the forests. More commonly seen, but less numerous, they are generally bashful creatures who vanish without warning once they realize they have been observed.
+
+***Ability Scores.*** Your Wisdom score increases by 1.
+
+***Sasquatch Magic.*** You know the *druidcraft* cantrip. When you reach 3rd level, you can cast the *pass without trace* spell once, you must finish a long rest in order to cast the spell again using this trait. Wisdom is your spellcasting ability for these spells.

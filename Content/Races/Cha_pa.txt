@@ -1,0 +1,28 @@
+## Cha'Pa
+[**Source:** *Old Gus' Errata: Beastfolk*](https://drive.google.com/file/d/12PE02rLX8fM072__CFZJhVvMeKOcsvIo/view)
+
+### Of Water and Wood
+The industrious beaverfolk live primarily along rivers, building tiered structures upon and within a its waters. They live in family groups of eight to twelve members, and by the time they are four years old, most have already learned how to swim and how to build. Cha’pa consider cooperation a virtue, so they teach their young how to work with others from an early age.
+
+Cha’pa also take great pride in the craftsmanship, maintenance and expansion of their lodges, which afford them not only a roof over their head, but a constant food supply, all located somewhere inconvenient to their enemies. Clever cha’pa create sections of their dwellings that can be quickly detached, carried away by the river’s turbulent current, or lay hidden traps that utilize sharp wooden stakes as a deterrent to invasion. Some even keep a hidden chamber of the structure underwater, dry and with an air pocket, where their loved ones can retreat to until such time as a danger has passed.
+
+### Cha'Pa Racial Traits
+***Ability Scores.*** Your Strength, Constitution and Wisdom scores increase by 1.
+
+***Age.*** Cha’pa mature at 8 years, and live up to 50 years.
+
+***Alignment.*** Sudden changes, loud noises, and interruptions are anathema to most cha’pa, who prefer an orderly, structured life. Most are of lawful alignments.
+
+***Size.*** Cha’pa stand between 4 and 5 feet tall and average about 150 pounds. Your size is Medium.
+
+***Speed.*** You have a walking speed of 25 feet. Your webbed feet also grant you a swimming speed of 30 feet when you aren’t wearing heavy armor.
+
+***Languages.*** You can speak, read and write Common and cha’pa. Cha’pa is a high, melodious language that is whistled through the front teeth.
+
+***Hold Breath.*** You can hold your breath for up to 15 minutes at a time.
+
+***Tail.*** Your broad, scaly tail is a natural weapon with which you can make unarmed strikes, dealing 1d6 bludgeoning damage. You can also slap your tail on a liquid surface and produce a sound that is audible up to 200 feet away.
+
+***Woodworker.*** You are proficient with woodworker’s tools and carpenter’s tools, and your hardy front teeth can be used for simple woodworking tasks, such as chipping, shaping. Many cha’pa take pride in working with no proper tools at all, preferring the intimacy (and nutrition) of crafting their works using nothing more than their own teeth. For example, if you have a length of wood, you can sharpen a stick to a deadly point and create a simple wooden spear during a short rest.
+
+***Wood Ken.*** Whenever you make an Intelligence (Nature) check related to woodwork or architecture, you are considered proficient in the History skill and add double your proficiency bonus to the check, instead of your normal proficiency bonus. For example, you might identify the type of wood used, identify rotted wood or other structural inefficiencies in a wooden structure.

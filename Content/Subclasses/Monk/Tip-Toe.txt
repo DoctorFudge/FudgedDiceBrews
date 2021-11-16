@@ -1,0 +1,29 @@
+### Way of the Tip Toe
+[**Source:** *Way of the Tip-Toe*](https://homebrewery.naturalcrit.com/share/1AszxmAuD3DCW9B3XDYmefQQJcIwWyLWMLjwJRtzUyyFK)
+
+Monks of the Tip-Toe have learned the secrets of concentrating Ki into the smallest of body parts, and releasing their power with just the touch of their digits. Doing this requires great control, precision, and a clear mind.
+
+Many monks of the Tip-Toe spend much of their training tensed in meditation, and the rest of it releasing their built-up ki performing miracles of great strength and speed. A large peice of their method is patience. The Way of the Tip-Toe is not one to be hastened, but rather nudged into place, with great wisdom and control.
+
+#### Concentrate Ki
+Starting at 3rd level before you move on your turn you can use a bonus action to concentrate (as if concentrating on a spell) on your Ki. You gain 1 ki point. You may repeat this bonus action on subsequent turns. When you spend ki, the concentrating ki is used first. You can store ki up to your monk level this way.
+
+While concentrating on your Ki, you may use deflect missiles on any attack targeting only you and each foot of movement costs an extra foot. When you deflect missiles an attack that isn't a missile and reduce the damage to 0, you may spend 1 ki point to make an unarmed strike.
+
+If your concentration is broken, you lose all of your sotored ki, as a wave of energy blows from you. Each creature but you in a 10-foot area cenetered around yourself must make a constitution saving throw equal to 8 + your proficiency Bonus + your wisdom modifier. On a failure, the creature is blinded and deafened for a number of rounds equal to the amount of Ki lost, and on a sucess nothing happens to them.
+
+#### Ki Release
+Starting at 3rd level, when you hit a creature with an unarmed strike, you can expend one or more ki to deal force damage to the target. The extra damage per ki spent is equal to your martial arts die.
+
+#### Focused
+By 6th level, your focus is a force to be reckoned with. You gain proficency in one of the following skills: Arcobatics, Sleight of Hand, or Stealth. If you already are proficent in the chosen skill, you gain expertise in it instead.
+
+In addition, you gain resistance to Psychic damage, as your very will and wisdom are overpowering compared to many beings.
+
+#### Improved Concentration
+By 11th level, your Concentrate Ki feature has grown. You now can gain 2 ki points for each bonus action spent concentrating ki.
+
+#### Shattering Force
+At 17th Level, you have learned to apply your Ki to devestate your obstacles as well as your opposition. Whenever you make an unarmed strike, you may spend 1 ki point. If you do, a shockwave of force rips out from your strike. Each creature in a 15-foot cone must make a Dexterity saving throw. On a failure, that creature takes additional force damage equal to 2 of your martial arts die, and is pushed back 15 feet. On a success, the creature takes half the damage and is not pushed back. Constructs have disadvantage on this saving throw.
+
+You may use this feature a number of times per long rest equal to your wisdom modifier.

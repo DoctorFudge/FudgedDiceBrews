@@ -1,0 +1,24 @@
+## Vessel
+[**Source:** *Vessel*](https://homebrewery.naturalcrit.com/share/1mT9CfsNGGXzyB2aj1xytZMQPoSprHrmxZA0gVypBCJ3G)
+
+Hailing from the strange land of Hollownest, surrounded by an ancient kingdom once great, now filled with monsters crawling through it's tunnels and out of the cracks unseen. Vessels are a rare creature, ones that find themselves wandering around these ruins, with origins unknown, even to themselves. Most Vessels go to search for answers as to who they are or were, going down the path of the adventurer in hopes of achieving such goals.
+
+### Vessel Names
+Vessels are genderless creatures, adopting whatever name might have caught their attention along their travels, or one they've come up with themselves. Examples of names a Vessel might be heard using are seen below.
+
+**Vessel Names:** Knight, Radiance, Hornet, Abyss, Zote, Grimm.
+
+### Vessel Traits
+***Ability Score Increase.*** Your Dexterity increases by 2, additionally, your Wisdom increases by 1.
+
+***Age.*** The age Vessels mature at is unknown. And their maximum lifespan remains a mystery.
+
+***Alignment.*** Usually driven towards a single goal, Vessels are commonly Lawful. Though some have broken off from what they were trying to achieve, adopting more chaotic alignments.
+
+***Speed.*** You have a walking speed of 25 feet.
+
+***Size.*** Your size is small. And due to your light build, you only weigh 20 pounds.
+
+***Nail Jumping.*** As an action, you may leap up to ten feet into the air and fifteen feet horizontally, and make a melee weapon attack against one creature below you. If the attack hits, you are propelled ten feet into the air, where you remain until the start of your next turn. On your next turn, you may either make an acrobatics check (DC13) to land in a space within 5 feet of your current spot, or make one melee weapon attack to attempt to be propelled ten feet above the target of the attack. This action does not provoke attacks of opportunity *unless* the attack misses.
+
+***Languages.*** You can speak, read, and write Common and one other language of your choice.

@@ -1,0 +1,25 @@
+### Circle of Steel
+[**Source:** *A Thousand Classes and A Thousand More*](https://drive.google.com/file/d/11ZbvclSxDg9KrQX6pyRE5dRg1eudAPLc/view)
+
+Druids have a taboo against metal equipment, but not you. Your circle embraces metal as another form of nature, one tempered by the hand of sentient creatures. There is no such thing as “unnatural” to your order. Druids of the circle of steel will often preside over mines in the wilderness in order to make use of the precious metals within. Other druid circles may turn their nose up, but these Druids are just as devoted to nature as any other, and that is hard for anyone to deny.
+
+#### Bonus Proficiencies
+When you choose the Circle of Steel at 2nd level, you become proficient in Heavy Armor, Simple Weapons, Martial Weapons, and Smithy's Tools. Your druidic sect has no taboo against using metal equipment. Your druidic focus can be an amalgamation of metal
+
+#### Construct Wild Shape
+When you choose this circle at 2nd level, The rites of your circle grant you the ability to transform into dangerous metal animal forms.
+
+You gain the ability to use Wild Shape on your turn as a bonus action, rather than as an action, and you can transform into a metal automaton version of a beast, or a creature with the Construct creature type, instead of one of flesh and blood.
+
+Additionally, while you are transformed as a construct wild shape, you can use your humanoid form's AC in place of your Wild Shape's AC, and you do not need to eat sleep or breath.
+
+#### Tooth and Steel
+Starting at 6th level, your attacks in wild shape count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+#### Form of Steel
+At 10th level your druid sect has taught you how to manipulate metal as if it were regular earth. It takes 1 minute to shape one cubic foot of non-magical metal into a usable form. You can separate fragments of metal from a whole only if it is not magical.
+
+You must have proficiency in a tool or weapon to shape metal into it.
+
+#### Mind of Matter
+Starting at 14th level your mind in an automated wild shape cannot be swayed from your prime directives. You become immune to charms and mind control.

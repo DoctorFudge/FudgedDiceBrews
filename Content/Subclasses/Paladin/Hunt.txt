@@ -1,0 +1,57 @@
+### Oath of the Hunt
+[**Source:** *Paladin: Oath of the Hunt*](https://docs.google.com/document/d/1J47CtTxhiLYoiQtKH0CHq4YcGPpWFjYEu3o3pEdaE8Y/edit)
+
+This Oath is based on the idea that one is truly without a home and without a people, his home and his people are the world. Using wits and strategy rather than pure strength, they keep the endless watch, protecting the land beyond civilization from the terrors within it. Paladins who take the Oath of the Hunt do not idealize perfect, heroic figures. Instead, they hold up as examples ordinary people struggling to improve their lives, and strike down any who would prey on such folk, be they man or beast.
+
+#### Tenets of the Hunt
+Though the exact words and strictures of the Oath of the Hunt vary, paladins of this oath share these tenets:
+
+***Confidence.*** When the time comes to face your quarry, do not doubt yourself, but deliver a sure strike against the forces of evil.
+
+***Family of the Voyagers.*** Treat those you travel and share food with as your own kin and help them when needed.
+
+***Readiness.*** Always be prepared to act swiftly when the time is right, and never be caught unable to accept a request for help.
+
+***The World is your Home.*** You must believe that you are welcomed everywhere, not everyone owes you something but you show others kindness to expect kindness.
+
+#### Oath Spells
+You gain oath spells at the paladin levels listed.
+
+##### Oath of the Hunt Spells
+| Paladin Level | Spells |
+| :-: | :-- |
+| 3rd | <em>Hunter's Mark, Hail of Thorns</em> |
+| 5th | <em>Acid Arrow, Cordon of Arrows</em> |
+| 9th | <em>Conjure Barrage, Lightning Arrow</em> |
+| 13th | <em>Freedom of Movement, Guardian of Nature</em> |
+| 17th | <em>Conjure Volley, Swift Quiver</em> |
+
+#### Additional Fighting Style
+When you take this oath, you may replace your fighting style with the Archery fighting style.
+
+#### Sacae Bow
+At 3rd level, you gain the ability to bond your oath with a bow to create a sacae bow. Any time you hit a creature with an attack using your sacae bow, you may apply your Divine Smite feature, dealing 2d6 instead of 2d8. After you reach 11th level, you may also apply your improved divine smite feature to attacks made with your sacae bow, dealing 1d6 instead of 1d8.
+
+Creating a sacae bow is a holy ritual requiring one hour of uninterrupted concentration. If your bonded bow is destroyed or lost, you may bond to a new bow by spending another hour and a paladin spell slot to repeat the ritual.
+
+#### Channel Divinity
+When you take this Oath at 3rd level, you gain the following two Channel Divinity options:
+- ***Eye of the Sacae.*** You can use your Channel Divinity to focus your strike with the eye of the Sacae. When you make an attack roll, you can use your Channel Divinity to gain a +10 bonus to the roll. You make this choice after you see the roll, but before the DM says whether the attack hits or misses.
+- ***Guided Arrow.*** You can use your Channel Divinity to make a weapon deadlier. As a bonus action, you touch one piece of ammunition, imbuing it with your might. The next time you hit a target with an attack using that ammunition, the target takes force damage immediately after the attack. The force damage equals 2d10 + your paladin level, or 20 + your paladin level if you had advantage on the attack roll
+
+#### Aura of Camouflage
+At 7th level, your oath lends itself to your allies, and conceals their presence. You and any creature of your choice within 10 feet of you have advantage on Dexterity (Stealth) checks. At 18th level, the range of this aura increases to 30 feet.
+
+#### Hidden Breeze
+At 15th level, you have the ability to slip away from your foes. Immediately after you are hit by an attack, you can use your reaction to turn invisible and teleport up to 30 feet to a spot you can see. You remain invisible until the end of your next turn.
+
+You use this feature by expending a spell slot of 1st level or higher.
+
+#### Marksman of the Plains
+At 20th level, you can embody the essence of your Oath with the land as a bonus action. For 1 minute, you gain the following benefits:
+- You have advantage on ranged weapon attacks.
+- Ranged attacks against you have disadvantage.
+- Your ranged weapon attacks ignore all but total cover, and can go through walls if you know where the target is.
+- Your ranged weapon attacks deal an additional 1d8 radiant damage.
+
+Once you use this feature, you can't use it again until you finish a long rest

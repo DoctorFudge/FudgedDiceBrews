@@ -1,0 +1,30 @@
+### Ethereal Warrior
+[**Source:** *Fighter Archetype: Ethereal Warrior*](https://homebrewery.naturalcrit.com/share/f78AFYAkeNvp)
+
+Every fighter has their preferred field of battle, but for the Ethereal Warrior that battlefield is the boundary between worlds, bounding between their own world and the Ethereal Plane between the stroke of a blade, striking from unexpected angles and appearing behind enemy lines.
+
+#### Planar Leap
+Starting at 3rd level, you learn to leap through the boundaries between worlds, stepping into the Ethereal Plane, albeit briefly. As a bonus action, you can teleport up to 30 feet to an unoccupied space that you can see. You can use this feature a number of times equal to your constitution modifier, regaining all uses on a short rest.
+
+#### See Beyond
+Also at 3rd level, your eyes become accustomed to seeing in the Ethereal Plane. As an action you can focus your senses and peer through the veil of reality, gaining 30 feet of Truesight for 1 minute.
+
+You can use this feature once, and must finish a short rest before you can use it again. You gain one additional use at 10th and 15th level
+
+#### Planar Cloister
+Beginning at 7th level you improve your your ability to step between worlds, allowing you to spend more time in the Ethereal Plane. As an action you can shift into the Ethereal Plane, causing you vanish from your current plane of existence. At the start of your next turn, you return to an unoccupied space of your choice that you can see within 10 feet of the space you vanished from. If no unoccupied space is available within that range, you appear in the nearest unoccupied space (chosen at random if more than one space is equally near).
+
+While on the Ethereal Plane, you can see and hear the plane you originated from, which is cast in shades of gray, and you can't see anything there more than 60 feet away. You can only affect and be affected by other creatures on the Ethereal Plane. Creatures that aren't there can't perceive you or interact with you, unless they have the ability to do so. Once you use this ability, you must finish a short rest before you can do so again.
+
+#### Astral Edge
+At 10th level, when you use your Planar Leap to teleport within 5 feet of a creature, you gain advantage on attack rolls made against that creature for this turn, as you reappear in its plane of existence behind it.
+
+#### Ethereal Emissary
+Starting at 15th level you further master your ability to enter the Ethereal Plane. You may now use your Planar Cloister ability as a bonus action, and when you do so, you can bring with you to the Ethereal Plane for the duration one willing creature you touch or one you are grappling.
+
+When you return from the ethereal plane any creature that willingly came with you may also return. Any creature you forcibly brought there and is not grappled by you or grappling you must succeed on a DC 15 Charisma saving throw or be left behind
+
+#### Blink Hunt
+By 18th level you have learned to move freely between your home plane of existence and the Ethereal Plane. When you reduce a creature to 0 hit points, you may teleport up to 30 feet to an unoccupied space that you can see without expending a use of your Planar Leap.
+
+Additionally, when a creature makes an attack roll against you, you may use your reaction and expend a use of your Planar Leap, causing the attack to automatically fail.

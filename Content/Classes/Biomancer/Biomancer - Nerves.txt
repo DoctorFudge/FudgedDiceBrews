@@ -1,0 +1,35 @@
+### Practitioner of the Nerves
+It is said that a sound soul dwells within both a sound body and a sound mind. Practitoners of the Nerves consider this an absolute truth, manipulating the cognition and mind of their patients to control the workings of their bodies. Doctors of this practice are masters of their craft, able to make nearly imperceptable influences at a moments notice.
+
+#### Insight
+When you choose this Practice at 1st level, your study has revelaed the secrets of the mind to you. As an action you can tune into a mind, and telepathically speak to any one creature you can see within 30 feet of you. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
+
+While you are attuned to the mind of a creature in this way, it has disadvantage on attack rolls against you.
+
+#### Numbing Miasma
+Your miasma takes the form of a shimmering, heavy fog that interrupts signals from a creatures mind to it's body. At 2nd level as an action you can activate your Miasmatic Organ to create a cloud around your body extending 5 feet in each direction.
+
+When a creature starts its turn in the cloud, they must make an Intelligence saving throw. If it fails, it wastes its action that turn doing nothing. The cloud lasts for 1 minute, and once you use this feature you cannot use it again until you finish a Long Rest.
+
+#### Quiet the Mind
+Starting at 6th level you learn to assist those whose minds are suffering. As an action you can choose a creature you can see within 30 feet of you and soothe its mind.
+
+For a number of rounds equal to your Intelligence modifier, the creature gains advantage on saving throws to avoid becoming Charmed, Frightened, Paralyzed, or Stunned. Creatures that already have advantage against these saves instead become immune.
+
+Once you use this feature, you must finish a short or long rest before you can do so again.
+
+#### Tactile Excruciation
+Starting at 14th level, you can amplify your enemies nerves, causing them pain whenever they move. As an action you can choose one target within 30 feet that you can see, and force the target to perform an Intelligence saving throw. On a failed save, their sense of touch becomes distorted. For the next minute, all movement the creature makes is treated as moving through Difficult Terrain, and a creature under this effect takes 1d6 damage for every 5 feet it travels.
+
+At the end of each of its turns, the target can make another Intelligence saving throw. On a success, the effect ends on the target. The effect also ends if the target moves more than 30 feet away from you.
+
+At 16th level the damage die increases to 1d8, and at 20th level to 1d12. Once you use this feature, you must finish a long rest before you can do so again.
+
+#### Synaptic Invasion
+The mind is a terrible thing to waste, but at 18th level it has become yet another plaything for you. As an action on your turn, you can choose one creature within 30 feet and force it to make an Intelligence saving throw. On a failed save, it follows one command against its own will.
+- **Break.** You force a creature to break one of their own fingers. The target takes 1d4 piercing damage, and for 1 hour after they are unable to cast any spell with a Somatic component.
+- **Cut.** You force a creature to make an attack roll against itself. This attack is made with disadvantage as it struggles against your influence.
+- **Throw.** You force a creature to throw whatever it is holding in a direction of your choosing.
+- **Fight.** You force the target to make a melee weapon attack at one other creature within 5 feet.
+
+Regardless of your choice, after following your command the target falls prone as its nerves deaden. Once you use this feature, you must finish a Long Rest before you can do so again.

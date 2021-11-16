@@ -1,0 +1,30 @@
+### Patissier
+Chefs who favor desserts are called Patissiers. These eccentric individuals often have a reactionary mind, making decisions based on the situation at hand. Patissiers have an answer for everything, complimenting each action with a sweet finish.
+
+#### Special Recipes: Desserts
+Meals created from a Dessert Recipe are not consumed as a bonus action. Instead, they are consumed as a reaction to certain events occuring.
+
+| Chef Level | Recipes |
+|:----:|:-------------|
+| 3rd  | Strawberry Vanilla Cupcake |
+| 7th  | Lemon Tart |
+| 13th  | Passionfruit Cheesecake |
+| 18th | Creme Brulee |
+
+#### Sweet Smell
+When you choose this specialty at 3rd level, your constant experimentation with sweet flavors has left you with an overpowering scent. Your odor permeates in a 5-foot radius around you. Hostile creatures have disadvantage on opportunity attack rolls while inside the odor.
+
+#### Cake Munitions
+At 7th level, Your surplus ingredients can be made into projectiles. You can hurl special ammunition with your ladle. These special types of ammunition do not deal damage to the target on a hit, instead applying an effect as described below:
+
+***Sugar Syrup:*** the target is restrained until the end of it's next turn. A creature can use it's action to make a strength check against your recipe save DC, freeing the restrained creature on a success.
+
+***Flour Bomb:*** Until the end of its next turn, attack rolls against the target have advantage, and the target loses any benefits from being invisible.
+
+***Rotten Egg:*** the target is poisoned until the end of it's next turn.
+
+#### Sugar Rush
+At 13th level, any creature that consumes one of your desserts is blessed with a rush of energy. In addition to the dessert's benefits, the creature also gains an additonal action on their next turn. This action can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action.
+
+#### Sweet Miasma
+At 18th level, the radius of your Sweet Smell odor increases to 10 feet.

@@ -1,0 +1,50 @@
+### The Dearly Departed
+[**Source:** *Warlock: The Dearly Departed*](https://www.gmbinder.com/share/-MB6wIWZsHsk8PUrUYui)
+
+You have made a pact with the spirit of someone you loved, or with the god of death that was their jailor. This spirit's soul has been returned to you in the mortal plane, and is referred to as your Dearly Departed. Your Dearly Departed can be anyone of great importance to you, who passed away with unfinished business. In exchange for being reunited with this spirit, you must pay with your vitality. For every day that your Dearly Departed's soul is in the mortal plane with you, your lifespan is shortened by an equal amount. Once the business of your Dearly Departed is concluded and they are at rest, their spirit will leave the mortal plane and return to their eternal grave.
+
+#### Expanded Spell List
+Your pact with your Dearly Departed or their jailor allows you to choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+| Spell Level	| Spells |
+| :-: | :-- |
+| 1st	| <em>False Life, Sanctuary</em> |
+| 2nd	| <em>Gentle Repose, Warding Bond</em> |
+| 3rd	| <em>Life Transference, Speak with Dead</em> |
+| 4th	| <em>Banishment, Death Ward</em> |
+| 5th	| <em>Antilife Shell, Raise Dead</em> |
+
+#### Spectral Training
+At 1st level, as their spirit now resides with you, your Dearly Departed shares some of the skills they learned during their life. Cantrips learned this way count as warlock cantrips for you, but they don't count against your number of cantrips known. Choose one of the following presets to represent your Dearly Departed:
+- **Jester.** You learn the vicious mockery and minor illusion cantrips. You can cast tasha's hideous laughter once with this feature and regain the ability to do so when you finish a long rest.
+- **Mage.** You learn two of the following cantrips: acid splash, fire bolt, shocking grasp, poison spray, ray of frost, or thunderclap. You additionally learn one of the following cantrips: control flames, gust, mold earth, or shape water.
+- **Priest.** You learn the sacred flame and spare the dying cantrips. You can cast shield of faith once with this feature and regain the ability to do so when you finish a long rest.
+- **Thief.** You gain proficiency with one finesse or ranged martial weapon. Once per round, you can deal additional damage equal to half your level (rounded down, minimum of one) to one creature you hit with a weapon attack.
+- **Warrior.** You gain proficiency with two melee martial weapons, or one martial weapon and shields. You also gain proficiency with medium armor.
+
+#### Bittersweet Memories
+Also at 1st level, when you expend a warlock spell slot, your mind is flooded with memories of your Dearly Departed, and you gain temporary hit points equal to the spell slot expended.
+
+#### Only a Shadow
+At 6th level, your Dearly Departed has been given enough vitality to manifest itself. Once per long rest, you can cast *animate dead* When casted this way, you follow all the rules of the animate dead, with the following changes:
+
+- Upon creating your undead servant, your Dearly Departed's soul inhabits it, transforming the corpse's appearance into an exact replica of themselves when they were alive (creature statistics for your Dearly Departed are below). You can only control one undead servant at a time this way. As your undead servant takes damage, their appearance progressively becomes more undead. When your undead servant's health falls to 0, it completely loses the appearance of your Dearly Departed and returns to being a regular corpse.
+- In addition, your undead servant has the personality and memory of your Dearly Departed. They can speak the languages they knew in life, they have skill and saving throw proficiences, they benefit from your Spectral Training feature, and they grow stronger as you level up, all of which is detailed in the Dearly Departed creature statistics.
+- If you do not reuse this feature on your undead servant after 24 hours, or if you lose control of your undead summon, your Dearly Departed's spirit will be forcibly ripped from the corpse, and it returns to being a usual zombie.
+Restless Soul
+At 10th level, your soul has intertwined more strongly with that of your Dearly Departed. You and your undead servant gain an additional benefit from Spectral Training based on the preset you initially chose:
+
+**Jester:** Once per long rest, you can give yourself advantage on any attack roll, saving throw, or ability check. You can use this ability after the original roll, but before the outcome is revealed.
+
+**Mage:** When you cast one of their Spectral Training cantrips, you add your spellcasting modifier to the damage it deals.
+
+**Priest:** You gain resistance to radiant and necrotic damage. When you cast spare the dying to stabilize a dying creature, the stabilized creature also regains 1 hit point.
+
+**Thief:** You learn a Fighting Style from the Ranger's list. You can't take a fighting style more than once.
+
+**Warrior:** You learn a Fighting Style from the Paladin's list. You can't take a fighting style more than once.
+
+#### Ultimate Sacrifice
+Starting at 14th level, when you would fail your last death saving throw, if your Dearly Departed is inhabiting your undead servant, they immediately sacrifice themselves, losing all their hit points and disintegrating. You are stabilized and heal an amount equal to half the hit points your undead servant lost this way (rounded down, minimum of one).
+
+Once you use this feature, you can't use it again until you finish a long rest.

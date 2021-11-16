@@ -1,0 +1,26 @@
+### Enchanter
+While many Black Mages focus their studies on the destructive arts, the Enchanter has shifted their study to empower their allies and weaken their allies through the use of powerful magics.
+
+#### Expanded Spell List
+Your specialization as an Enchanter lets you choose from an expanded list of spells when you learn a blackmage spell. The following spells are added to the blackmage spell list for you.
+
+##### Expanded Spell List
+| Spell Level | Spell |
+|:----:|:-------------|
+| 1st  | *Bless, Cause Fear* |
+| 2nd  | *Enlarge/Reduce, Magic Weapon* |
+| 3rd | *Slow, Haste* |
+| 4th | *Blight, Charm Monster* |
+| 5th | *Dominate Person, Hold Monster* |
+
+#### Point of Influence
+Beginning at the 2nd level, you are able to use your Leylines feature for both enchantment and evocation spells.
+
+#### Silvered Tongue
+Beginning at the 6th level, your focus on enchantment magic has improved your speech. You gain proficiency in one of the following skills: deception, intimidation, persuasion. If you are already proficient in that skill, you gain expertise with it. Your proficiency bonus is doubled for any ability check you make that uses the chosen skill. Additionally, you may use Intelligence as your ability score for the selected skill.
+
+#### Unshaken Will
+Beginning at the 10th level, when you must make a wisdom saving throw, you may spend 1 mana point to gain advantage on the saving throw.
+
+#### Deep Influence
+Beginning at the 14th level, when you cast an enchantment spell, you may spend 1 mana point to cause the target to have disadvantage on their saving throw.

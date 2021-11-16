@@ -1,0 +1,47 @@
+### Oath of the Fox
+[**Source:** *A Treasury of Tales and Legends*](https://drive.google.com/file/d/1ghK_gGGfGMXSQImUGZc8dlxXd-YwC1D0/view)
+
+Like the nimble vixen outsmarting the mighty wolf, some paladins commit themselves to deceiving, outwitting, and undermining those in power. With their love of mischief and often deviant dispositions, these crafty few swear themselves to the Oath of the Fox.
+
+#### Tenets of the Fox
+The tenets of the Oath of the Fox can be as elusive and flexible as the tricky few who follow them. Nonetheless, these paladins are generally guided by a sense of spitefulness directed at those who do them wrong.
+
+***Strength through Artifice.*** You are to fight with your cunning, first and foremost. Resolving conflicts through force and brutality is far too often a waste of resources.
+
+***Personal Justice.*** You must seek justice against those who have done personal harm to you. This punishment that you exact on your enemies must be tempered and appropriate.
+
+***Playful Spite.*** Keep a note of comedy to everything you do. Even when acting in spite of someone else, make sure that they can see the humor in your actions.
+
+***Smiling Scoundrel.*** You must keep a positive disposition in all of your pursuits. A likeable presentation can compensate for your less likeable actions.
+
+##### Oath Spells
+| Paladin Level | Spells |
+| :-: | :-- |
+| 3rd | <em>Charm Person, Disguise Self</em> |
+| 5th | <em>Calm Emotions, Pass without Trace</em> |
+| 9th | <em>Feign Death, Nondetection</em> |
+| 13th | <em>Compulsion, Private Sanctum</em> |
+| 17th | <em>Mislead, Passwall</em> |
+
+#### Channel Divinity
+When you take this Oath at 3rd level, armor you wear can no longer cause you to have disadvantage on Dexterity (stealth) checks. Additionally, you gain the following two Channel Divinity options:
+
+***Suave Presence.*** As an action, you enamour those who act against you. All creatures within 30 feet of you that can see you must succeed a Wisdom saving throw against your paladin spellcasting DC. On a failure, they become Charmed by you for 1 minute.
+
+***Blessing of Evasion.*** As an action, you call upon a blessing of elusive cunning. Select a number of creatures that you can see up to a total equal to your Charisma modifier, with a minimum of one. For one minute, you and the creatures you selected have advantage on all Dexterity saving throws and skill checks that they make.
+
+#### Aura of Evasion
+Starting at 7th level, your elusive nature works to shield both you and your allies from detection. You and allies within 10 feet are seen as heavily obscured when they would be seen as lightly obscured by other creatures, are treated as having full cover when they would actually three-quarters cover, and are treated as having three-quarters cover when they would actually have have half cover.
+
+The range of this aura increases to 30 feet at 18th level.
+
+#### Cunning Conniver
+Starting at 15th level, you are immune to the charmed condition.
+
+#### Scion of Knavery
+At 20th level, as an action, you can become an icon of charming elusivity. For one minute, you gain the following benefits.
+- You can choose to become Invisible when you activate this ability, and can end your invisibility at any time. You can become Invisible again as a bonus action. This invisibility ends when Scion of Knavery ends.
+- You can cast the *Misty Step* spell at will, without using verbal components or expending a spell slot.
+- You have advantage on all Charisma and Dexterity checks and saving throws that you make.
+
+Once you use this feature, you can't use it again until you finish a long rest

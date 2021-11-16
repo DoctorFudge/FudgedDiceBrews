@@ -1,0 +1,27 @@
+### Order of the Ghostslayer
+The Order of the Ghostslayer is the oldest of the orders, having originally rediscovered the secrets of blood magic and refined them for combat against the scourge of undeath. ghostslayers seek out and study the moment of death, obsessing over the mysteries of the transition and how it can become corrupted by unholy powers to rise once more. Tuning their abilities to annihilate such abominations, these zealous blood hunters seek out the sources of such necromantic energies, intent to destroy them wherever they arise.
+
+#### Rite of the Dawn
+When you join this order at 3rd level, you learn the Rite of the Dawn esoteric rite (detailed below).
+
+***Rite of the Dawn.*** Your rite damage is radiant damage. While the rite is active, you gain the following benefits:
+- Your weapon sheds bright light out to a radius of 20 feet.
+- You have resistance to necrotic damage.
+- Your weapon deals one additional hemocraft die when you hit an undead.
+
+#### Curse Specialist
+Beginning at 3rd level, your ancient order teaches advanced mastery over blood curses. You gain an additional use of your Blood Maledict feature. In addition, your blood curses can target any creature, whether it has blood or not.
+
+#### Ethereal Step
+Upon reaching 7th level, at the start of your turn, if you aren't incapacitated, you can choose to magically step into the veil between the planes. You can move through other creatures and objects as if they were difficult terrain, as well as see and affect creatures and objects on the Ethereal Plane. You take 1d10 force damage if you end your turn inside an object. If you are inside an object when this feature ends, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to twice the number of feet you moved. This feature lasts for a number of rounds equal to your Intelligence modifier (minimum of 1 round).
+
+You can use this feature once. Beginning at 15th level, you can use your Ethereal Step feature twice between rests. You regain all expended uses when you finish a short or longrest.
+
+#### Brand of Sundering
+Beginning at 11th level, your Brand of Castigation now exposes a fragment of your foe's essence, leaving them vulnerable to your Crimson Rite. Whenever you damage a branded creature with your Crimson Rite, you roll one additional hemocraft die. In addition, the branded creature can't move through creatures or objects.
+
+#### Blood Curse of the Exorcist
+At 15th level, you've honed your hemocraft to tear wicked influence from your allies, punishing those who would infiltrate their body and mind. You gain the Blood Curse of the Exorcist for your Blood Maledict feature. This doesn't count against your number of blood curses known.
+
+#### Rite Revival
+Upon reaching 18th level, you learn to protect your fading life by absorbing your blood rite. When you are reduced to 0 hit points while you have an active Crimson Rite, but don't die outright, the rite ends and you drop to 1 hit point instead. If you have multiple rites active, you choose which one ends.

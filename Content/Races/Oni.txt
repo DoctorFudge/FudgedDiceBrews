@@ -1,0 +1,44 @@
+## Oni
+*Give an Oni an iron club? What next, give the dragon a cannon?!*
+
+-Ufthak Stonecrusher, during negotiations between Dwarves and Oni
+___
+Oni are a race of rugged mountain dwellers, distantly related to Trolls and Ogres, with either one or two horns. However, they differ starkly from their cousins. While still large, strong, and often brutish, Oni are known for possessing powerful magic and being far smarter. They are large and fearsome, standing taller than the tallest man, and often wear loincloths made of the pelts of great beasts.
+
+### Revelers on the Mountains
+All oni possess extreme strength and constitution, and many of them are also accomplished sorcerers. They are ferocious warriors, and live high on mountain peeks where they train and make merry in great endless festivals.
+
+### Noble Demons
+While not actually related to the denizens of Hell or the Abyss, an Oni's huge horned figure makes for a common misconception. Despite this, Oni are honorable, and despise liars. They easily settle in to the life of adventure in pursuit of strong foes and stronger drink.
+
+### Oni Names
+___
+- **Male Names:** Waka, Douji, Akuran, Yorozu, Ibaraki, Jizou, Hachiman, Daikoku, Akuma
+- **Female Names:** Hashi, Rairaku, Akane, Izami, Koyane, Sakuya, Benzen, Amematsu, Suika, Yuugi
+
+### Oni Traits
+____
+- ***Ability Score Increase.*** Your Strength score increases by 2.
+- ***Age.*** Oni reach maturity about the same time as humans do, but their aging slows down drastically after that. Most live to about 1000 years old.
+- ***Alignment.*** Raging and wild Aka Oni lean towards Chaotic Alignments, while the calmer and more studious Ao Oni lean towards Lawful ones.
+- ***Size.***	Oni are large, hulking brutes, standing 7 to 8 feet tall and weighing as much as 250 to 300 pounds. Your size is Medium.
+- ***Speed.*** Your base walking speed is 30 feet.
+- ***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+- ***Inhuman Strength.*** Befitting of their huge, imposing figures, Oni are incredibly strong compared to the average person. Your unarmed strikes deal bludgeoning damage equal to 1d4 + your Strength modifier.
+- ***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+- ***Beast Among Men.*** You can cast the spell *disguise self* once per day, using Charisma as your spellcasting ability. You must finish a long rest before you can cast the spell again in this way.
+- ***Drunkard.*** Oni have a love for drink in all it's forms, with one famous Oni staying drunk for 700 years. You have disadvantage on saving throws against the poisoned condition.
+- ***Languages.*** You can speak, read and write Common and Giant.
+- ***Subrace.*** There are two main variety of Oni, however others are very rarely seen. Choose from Aka Oni or Ao Oni.
+
+#### Aka Oni
+Aka Oni, more commonly called Red Oni, are the more famous of the two. They embody the wild and raging nature of the Oni, and are enthusiastic, determined, and filled with a zest for life. Red Oni are often wild berserkers and brawlers.
+___
+- ***Ability score increase.*** Your Constitution score increases by 1.
+- ***Oni Brutality.*** Thanks to your ridiculous strength, you have access to a unique ability. When you successfully grapple a creature, you can use your bonus action to throw it. The distance you can throw a creature is equal to 5 feet times your Strength modifier. The creature must succeed on a Dexterity saving throw equal to 8 + your Strength modifier + your Proficency bonus or land prone. You can use this feature a number of times equal to your proficency bonus, and must finish a short or long rest before you can do so again.
+
+#### Ao Oni
+More rarely seen are the Ao Oni, or Blue Oni. While not any weaker than their crimson bretheren, they are more intellectual, proud, and traditional, often practicing sorcery.
+___
+- ***Ability score increase.*** Your Charisma score increases by 1.
+- ***Oni Cunning.*** Owing to your more mystically aligned nature, your strength manifests itself differently than your counterparts. When you cast a spell with the range of Touch, you can deal additional damage of the same type equal to your Strength modifier. You can use this feature a number of times equal to your proficency bonus, and must finish a long rest before you can do so again.

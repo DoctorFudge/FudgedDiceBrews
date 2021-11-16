@@ -1,0 +1,36 @@
+## Opsu
+[**Source:** *Old Gus' Errata: Beastfolk*](https://drive.google.com/file/d/12PE02rLX8fM072__CFZJhVvMeKOcsvIo/view)
+
+### Nomadic Opportunists
+The opossumfolk live in nomadic families of six to twelve members, and make their livings wherever the weather is good and the food is plentiful, preferring woodlands and jungles. Often erroneously thought to be bearers of disease by folk, opsu are actually clean and fastidious creatures. As their family travels, they will bargain for food and lodging in exchange for honest labor, an enterprise an entire family learns to pitch in with not long as soon as they can walk.
+
+Opsu are efficient climbers, and so many become carpenters, lumberjacks or other work that takes advantage of their natural talents.
+
+Female opsu have a pouch on their abdomens that they use to carry their young until they are mobile enough to get around on their own. The pouch is roughly six inches wide and four inches deep. Some opsu keep important and personal items, such as keys in their pouches, while others frown on this practice and consider it unsanitary.
+
+### Opsu Racial Traits
+***Ability Scores.*** Your Constitution, Wisdom and Charisma scores increase by 1.
+
+***Age.*** Opsu mature at 5 years, and live up to 30 years.
+
+***Alignment.*** Opsu are usually of neutral alignments.
+
+***Size.*** Opsu are between 3 and 4 feet tall, and weigh an average of 40 pounds. Your size is Small.
+
+***Speed.*** You have a base walking speed of 25 feet.
+
+***Languages.*** You can speak, read and write Common and opsu. Opsu is a languge composed of hisses, clicks and glottal stops.
+
+***Keen Smell.*** You have advantage on checks you make with the Wisdom (Perception) skill that rely on smell.
+
+***Nimble Claws.*** Your claws and tail are useful climbing tools, and grant you a climbing speed of 20 feet.
+
+***Prehensile Tail.*** You can make object interactions using your tail, and if you are not wearing medium or heavy armor, you can suspend your body from it.
+
+***Nomadic Proficiency.*** You are proficient with one set of artisan’s tools of your choice.
+
+***Opsu Resilience.*** You have advantage on saving throws against poison and disease, and resistance to poison damage.
+
+***Play Dead.*** As a reaction, you can enter a cataleptic state that is indistinguishable from death for up to 10 minutes. You appear dead to all outward inspection. For the duration, you are blinded and incapacitated, you fall prone and your speed drops to 0. You resist all damage except psychic damage. You can end the state and reawaken using a bonus action on your turn.
+
+Once you use this trait, you can't use it again until you complete a long rest.

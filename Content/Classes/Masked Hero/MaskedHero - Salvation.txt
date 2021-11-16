@@ -1,0 +1,40 @@
+### Decree of Salvation
+The Decree of Salvation brings heroes that shall light a path to a brighter future. With the assistance of magical familiars and spiritual weaponry, these masked heroes seek to bring hope  to wherever they go, all while bestowing an invigorating energy that their souls are capable of manifesting at will.
+
+#### Decree Magic
+Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Salvation Spells table. The spell counts as a masked hero
+spell for you, but it doesn't count against the number of masked hero spells you know.
+
+##### Salvation Spells
+| Masked Hero level | Spell |
+|:----:|:-------------|
+| 3rd  | *sanctuary* |
+| 5th  | *spiritual weapon* |
+| 9th | *hypnotic pattern* |
+| 13th | *banishment* |
+| 17th | *wall of force* |
+
+#### Servant of Miracles
+When you select this decree at 3rd level, you gain the ability to call upon otherwordly creatures.  You gain proficiency in the Animal Handling skill if you don't already have it.
+
+In addition, you learn the *find familiar* spell, and while your bonded device is on your person, you can cast it as a ritual. The spell doesn't count against your number of spells known.
+
+At 15th level, as an action, you can merge your familiar if it is within 30 feet of you with a bonded device that is on your person. You then gain a bonus to your masked hero spell-save DC equal to half your Constitution modifier while your  device is on your person. After 1 hour has passed - or in the case you lose your device - your familiar reappears in an unoccupied space within 5 feet of you while your  device disappears, requiring you to replace it with another one.
+
+#### Soul Charge
+At 3rd level, after using Deflective Strike, you generate raw, divine energy. This radiant energy lasts until the end of your next turn, and you can store only one of these within you at a time. As a bonus action, you can expend this raw energy to choose one creature that you can see within 30 feet of you. That creature gains one Soul Charge, which equals to your Charisma modifier (minimum of one).
+
+Once within the next 5 minutes, that creature can  add this Soul Charge to one saving throw it makes. That creature can wait until after it rolls the d20 before deciding to use the Soul Charge, but must decide before the DM says whether the roll succeeds or fails. Once a Soul Charge is expended, it is lost. A creature can have only one Soul Charge at a time.
+
+You may expend one masked hero spell slot when granting a Soul Charge to choose an additional number of creatures equal to the slot's level, to a maximum of three additional creatures that you can see within 30 feet of you.
+
+#### Spiritual Emissary
+At 7th level, you learn the *animal messenger* spell, and while your bonded device is on your person, you can  cast it as a ritual. The spell doesn't count against your number of spells known, and whenever you cast this spell, you can choose your familiar if you can see it within range to deliver the message. Your familiar must in the animal form of either a bat, hawk, owl, or raven in order for you to do this.
+
+#### Decree Enhancements
+Starting at 11th level, you gain the following benefit for your Masked Transformation:
+
+***Radiant Counterattack.*** When an enemy creature within your reach makes an attack against a target other than you, you can  use your reaction to make one weapon attack against the attacking creature. If the attack hits, all damage dealt by that attack becomes radiant damage. You cannot use this feature and Deflective Strike within the same turn.
+
+#### Divine Beacon
+At 15th level, you can use your heroic soul to call upon divine assistance. Whenever you finish a long rest, you can choose one of the spells you know and replace it with another spell from the masked hero spell list. The replacement spell must be of a level for which you have spell slots. To do this, make an ability check using your masked hero spellcasting ability. The DC equals 10 + the spell's level, and on a success, you replace one of the spells you know with the new spell.

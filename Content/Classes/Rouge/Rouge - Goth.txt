@@ -1,0 +1,40 @@
+### Goth
+Goths take control of their nightmares and use them to combat the real terrors of the world. The worst isn't inside of us. Inside of us is the power to ensure that no innocent person will lay awake in fear ever again.
+
+##### Goth Spells
+| Spell Level | Spells |
+|:-:|:--|
+| 1st | <em>protection from evil and good, sleep</em> |
+| 2nd | <em>darkness, gentle repose</em> |
+| 3rd | <em>bestow curse, speak with dead</em> |
+| 4th | <em>banishment, death ward</em> |
+| 5th | <em>dispel evil and good, dream</em> |
+
+#### Goth Make-Up
+After taking this specialisation at 2nd level, while wearing your make-up, you know chill touch and spare the dying. This doesn't count against the number of cantrips you know.
+
+#### Blanket of Darkness
+Starting at 2nd level, while you are wearing make-up, you can use your action to meld into an area of dim light or darkness, becoming invisible until the end of your next turn or until you make an attack roll or force a creature to make a saving throw. While you are invisible, your speed is 0, but you can use your bonus action to teleport up to 30 feet away into an empty space of dim light or darkness that you can see.
+
+#### Favoured Face Option: The Veil of Death
+At 3rd level, this option becomes available to you.
+
+While motionless, you are indistinguishable from a corpse. A creature can make a Wisdom (Medicine) check against your spell save DC to determine that you are alive.
+
+#### Fearful Magic
+Starting at 6th level, when a creature fails a saving throw against one of your spells of 1st level or higher, the creature is also frightened of you for the duration of the spell if you choose.
+
+#### Nightmare Weaver
+Starting at 13th level, you can regain a 5th-level spell slot or lower after casting dream. Once you have done this, you can't do so again until you finish a long rest.
+
+In addition, a creature that you've cast dream on is particularly susceptible to your influence. For the next 24 hours after failing a saving throw against your dream, a creature has disadvantage on Wisdom saving throws against spells and other magical effects originating from you.
+
+#### Deepest, Darkest Fears
+At 20th level, you can summon forth creatures of the darkness to overwhelm your enemies in a waking nightmare. As an action, you choose a creature within 30 feet of you that you can see. The target must succeed on a Wisdom saving throw against your spell save DC or become swarmed by spectral monsters related to its deepest fears. The target is petrified for 1 minute.
+
+The spectral monsters can take any shape. Some suggestions are included as follows.
+- Snakes wind their way around the target's legs.
+- Spiders wrap the target up in webs.
+- Imps hover around the target, poking and prodding with their barbed spears, pulling at its hair, reading out from an arcane contract all of the bad things the target has done.
+- Ghostly apparitions of the target's deceased family members circle around them, criticising them for not living up to expectations.
+- A grim specter of death wraps the target possessively in its cloak. The time is nigh for oblivion.

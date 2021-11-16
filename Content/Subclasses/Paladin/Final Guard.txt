@@ -1,0 +1,48 @@
+### Oath of the Final Guard
+[**Source:** *Oath of the Final Guard*](https://homebrewery.naturalcrit.com/share/4FftpwCv_)
+
+The Oath of Final Guard represents an elite knight who would protect their master at any cost. You are not merely a line in the sand, you are an unbreakable wall of steel between your allies and those who would wish them harm. Paladins who take up the Oath of the Final Guard are those who seek to protect others, be it as a kingsguard or merely protecting a child from beasts. Those who take this oath are unflinching upholders of life and justice in all forms.
+
+#### Tenets of the Final Guard
+***Strength of Will.*** If you must suffer, or even die in defense of another, you would do so without question.
+
+***Protect the Innocent.*** Let no harm come to those who lead a just life. Lend your shield to those who cannot carry their own.
+
+***Dedication.*** You are sworn to protect your ward no matter what. No enemy, no fear of death can compell you to abandon them.
+
+#### Oath Spells
+You gain oath spells at the paladin level listed.
+
+| Paladin Level | Spells |
+|:----:|:-------------|
+| 3rd  | *Alarm, Sanctuary* |
+| 5th  | *Aid, Barkskin* |
+| 9th | *Counterspell, Protection from Energy* |
+| 13th | *Fire Shield, Otiluke's Resilient Sphere* |
+| 17th | *Hallow, Wall of Force* |
+
+#### Channel Divinity
+When you take this oath at 3rd level, you gain the following two Channel Divinity options.
+
+***Crush Weapon.*** As an action you can extend your unbreakable will to subdue your foes killing intent. Creatures that you can see in a 30 foot cone originating from you must make Charisma saving throws. For the next minute, whenever a target that fails this saving throw makes an attack roll or a saving throw, the target must roll a d4 and subtract the number rolled from the attack roll or saving throw.
+
+***Untouchable Ward.*** Whenever an ally within 60 feet of you would take damage from an attack or spell, you can use your reaction and expend one use of your Channel Divinity to transfer their pain to you instead. Until the start of your next turn, you gain resistance to to all of that spell or attack's damage and you take the damage instead.
+
+#### Aura of the Unbreakable
+Starting at 7th level, your unshakable fortitude extends to allies around you. Choose one damage type from acid, cold, fire, lightning, necrotic, psychic, radiant, or thunder damage. Creatures you choose wthin 10 feet of you gain resistance to this damage type. When you finish a long rest, you may choose a different damage type from the above list to replace your current choice.
+
+At 18th level, the range of this aura increases to 30 feet, and you may choose one additional damage type.
+
+#### Martyrdom
+Starting at 15th level when you and one or more other creatures are included in the same effect or spell that deals damage, you may choose to sacrifice yourself for them. As a reaction, you may choose to fail any saving throws involved and one creature of your choice takes no damage and doesn't suffer any additional effects.
+For each creature beyond the first, you may take additional damage equal to half of the total that would be dealt to that creature if they failed their saving throw, if any. That creature takes no damage and suffers no additional effects.
+
+#### Indomitable Guardian
+By 20th level you are an unflinching wall before your enemies. As an action, you may transform your body into a form of unbreakable steel. For 1 minute you gain the following benefits.
+
+- You have resistance to all damage, and immunity to the two damage types chosen for your Aura of the Unbreakable.
+- Whenever you would take damage, reduce it by an amount equal to your Armor Class + your Charisma modifier, to a minimum of 1.
+- You have advantage on saving throws to avoid being Charmed, Stunned, Poisoned, or put to sleep.
+- You cannot be moved against your will.
+
+Once you use this feature, you must finish a long rest before you can do so again.

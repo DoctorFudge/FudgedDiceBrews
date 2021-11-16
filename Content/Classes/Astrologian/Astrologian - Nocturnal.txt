@@ -1,0 +1,22 @@
+### Nocturnal Sect
+Many a man have spent their nights gazing at the moon and stars, but few know of the power that the evening sky holds. The nocturnal sect believes the nighttime bodies represent the passive and the unknown. Through the night's mysterious power do they weave their cautious magicks.
+
+#### Benefic
+When you choose this sect at 2nd level, choose one of the following spells: *cure wounds*. *healing word*, or *false life*. You add this spell to your spell list without it counting against your spells known.
+
+#### Nocturnal Aspect
+At 2nd level, your healing spells are woven with extra protection. Whenever you cast a spell of 1st level or higher that restores hit points, your target gains temporary hit points equal to half your astrologian level.
+
+#### Lunar Protection
+At 6th level, you can grant temporary hit points to your allies. As an action, choose a number of creatures (which can include yourself) within 30 feet of you up to your Wisdom modifier. Each creature gains temporary hit points equal to your Wisdom modifier. You may use this ability once and regain the ability to do so after a short or long rest.
+
+#### Essential Dignity
+At 14th level, you learn a healing method of varying potency. As an action, expend any number of astrologian hit dice up to your current total. You then choose yourself or an ally within 30 feet of you to regain 1d4 hit points per hit die spent. Additionally, if the target is at half their hit point maximum or below they gain half the amount rolled in temporary hit points.
+
+#### Astral Vigor
+At 20th level, you can prepare for the unknown with the help of the stars. You can meditate for 10 minutes and grant temporary hit points to yourself and every ally within 30 feet equal to your astrologian level. You may use this ability once and regain the ability to do so after a long rest.
+
+> ##### **Temporary Hit Points**
+> Remember, temporary hit points cannot be added together. The temporary hit points gained from astrologian class features do not have a listed duration, so they remain until depleted or until you finish a long rest.
+>
+> Full rules for temporary hit points can be found in chapter 9 of the *Player's Handbook*.

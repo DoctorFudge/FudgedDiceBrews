@@ -1,0 +1,16 @@
+### College of Rhyme
+[**Source:** *College of Rhyme*](https://drive.google.com/file/d/1FpQ0-IxBwufzMjzPUw8eVa-aZ1fgi_Jl/view)
+
+Bards of the College of Rhyme are experts in the spoken word, able to compose verse and prose almost effortlessly. Rather than the conventional ballads and sonnets, these bards perform by improvising rhythmic poetry accompanied by music. They often gather in taverns or mead halls to participate in contests of wit and verbal mastery, in which two bards recite insulting poems about each other while the audience decides who got the better of the exchange.
+
+#### Raconteur
+When you join the College of Rhyme at 3rd level, you learn the vicious mockery cantrip if you don't already know it. Additionally, you can add your Charisma modifier to the damage dealt by vicious mockery.
+
+#### Wordsmith
+Starting at 3rd level, you have a knack for vocal performance and a steel will. Whenever you make a Charisma check or saving throw, you can expend a Bardic Inspiration die and add the number rolled to that check.
+
+#### Lyrical Duelist
+When you reach 6th level, your words and rhymes cut as deep as any sword. When you cast vicious mockery, instead of the spell's normal effect, you can make a single melee spell attack against a creature within 10 feet, dealing the spell's effects on a hit. Additionally, when you cast vicious mockery in this way, the damage die increases to a d8.
+
+#### Freestyle
+Starting at 14th level, you can use your action to improvise a short but entrancing vocal performance. All creatures that you choose within 30 feet must make a Charisma saving throw, becoming either Frightened or Charmed by you (your choice) for one minute on a failed save. Creatures that are Frightened can repeat this saving throw at the end of each of their turns, ending the effect on a successful save. You must finish a short or long rest before you can use this feature again.

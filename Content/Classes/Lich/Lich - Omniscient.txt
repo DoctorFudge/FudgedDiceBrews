@@ -1,0 +1,16 @@
+### Pathway of the Omniscient
+Whereas other liches may look upon souls like scraps of wood to fuel their fire, the Omniscient views souls like books. Tasty delicious books full of information to be devoured. The lives swirling within a lich's phylactery are not that of sheep or cattle, they are at least modestly intelligent creatures and it would be terribly wasteful to not use every part of the soul.
+
+#### Knowledge Syphon
+When you choose this pathway at 3rd level, you can draw upon the collective experience of the souls you have collected. When you make an Intelligence ability check, you may expend 1 soul in your phylactery to add +5 to the roll.
+
+#### Known Source
+Also at 3rd level, you choose one creature type: aberrations, beasts, celestials, dragons, elementals, fey, fiends, giants, monstrosities, oozes, or plants. Alternatively, you can select two races of humanoid (such as gnolls and orcs) as known sources. When you collect a soul from a known source, it counts as an additional soul. You have advantage on knowledge checks to recall information about these types of creatures.
+
+You may choose an additional known source when you reach 6th level, and again at 14th level.
+
+#### Experimental Vulnerability
+At 6th level, your accumulated experience allows you to twist your spells to your advantage. When you target a Known Source creature, you can expend a number of souls equal to half the creatures CR (rounded down, minimum of 1). If the spell requires a saving throw you can force the creature to make the save at disadvantage. If the spell requires an attack roll you make the roll at advantage, and for this casting of the spell the target becomes vulnerable to the damage type of the spell or loses one level of resistance or immunity.
+
+#### Knowledge is Power
+At 14th level, when you capture a soul from a Known Source creature you regain hit points equal to their CR.

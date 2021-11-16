@@ -1,0 +1,165 @@
+## Doctor
+[**Source:** *Doctor*](https://drive.google.com/file/d/1UNVbpO1yj3EgD2EFIxy-AEYDydP5-Py9/view)
+
+A dwarf covered in dirt looks down in annoyance as he stitches up an arm after an avoidable mining accident, his supplies for the day already running low.
+
+Sliding a razor—sharp blade along the serpent's back an elf expertly severs its spinal cord, slaying the creature While preserving its body for harvesting toxins.
+
+The sharp claws of a dragonbom swipe downward, removing the infected limb of a fellow adventurer before the poison can spread, a burning torch already prepared to cauterize the wound
+
+Doctors are the healers of the common man, working tirelessly in places the gods have overlooked Though they lack the magical abilities of other healers their results are no less effective. Whether it's saving a life or ending a life, a doctor utilizes their hard-earned knowledge to achieve their goals; no matter What they are.
+
+### Knowledge is Power
+Doctors aren't born, they are made. It takes years of study and practice to gain the skills required to be a competent healer, and even then, there is always more to learn. Everything from long lost scrolls to dusty tomes might hold a new secret to preserving life, and it is their responsibility to discover it. It isn't uncommon for a doctor to spend their down time seeking out the nearest library, only to be dragged away days later by the party in order to move on with their adventure.
+
+### Hard Earned Healing
+Unlike many who can heal simply by calling on the powers that be, Doctors must make do With intelligence, skill, and hard work. Not only that, but healing Without magic is far less convenient. Every sedative and healing salve a doctor uses was hand crafted by them. They spend most evenings boiling bandages and refilling syringes, all While trying to get the blood out of their clothes. It can be a hard life, but luckily a doctors skills are always in high demand.
+
+### Creating a Doctor
+When making a doctor your first thoughts should be towards your practice. Did you own your own clinic Where injured townspeople gathered? Perhaps you sold experimental potions out of your bag to travelers in need along on the road? Or maybe you spent your days in the back of a tavern, stitching up the wounds of thieves and cutthroats Who paid well for your discretion.
+
+Have you become an adventurer by choice, seeking to protect those Who put their lives on the line for the greater good? Or were you run out of town for selling oro blood as healing potions, and found yourself With other outcasts? Regardless, wherever you go a healer is almost always welcome.
+
+#### Quick Build
+You can make a Doctor quickly by following these suggestions. First, put your highest ability score into Intelligence, followed by Dexterity. Second, choose the sage background.
+
+##### The Doctor
+| Level | Proficiency Bonus | Features |
+|:-:|:-:|:--|
+| 1st | +2 | Oath Benefit, Medical Training, Doctor's Bag, First Aid |
+| 2nd | +2 | Second Opinion |
+| 3rd | +2 | Doctor Profession feature |
+| 4th | +2 | Ability Score Improvement |
+| 5th | +3 | Patch Up, Diagnosis |
+| 6th | +3 | Paramedic, Vaccination |
+| 7th | +3 | Doctor Profession feature |
+| 8th | +3 | Ability Score Improvement |
+| 9th | +4 | Expert Treatment |
+| 10th | +4 | Reanimation |
+| 11th | +4 | Doctor Profession feature |
+| 12th | +4 | Ability Score Improvement |
+| 13th | +5 | Experienced Healer |
+| 14th | +5 | Sedate |
+| 15th | +5 | Doctor Profession feature |
+| 16th | +5 | Ability Score Improvement |
+| 17th | +6 | Practiced Hands |
+| 18th | +6 | Doctor Profession feature |
+| 19th | +6 | Ability Score Improvement |
+| 20th | +6 | Experimental Procedure |
+
+## Class Features
+As a doctor, you gain the following class features
+
+#### Hit Points
+___
+- **Hit Dice:** 1d8 per doctor level
+- **Hit Points at lst Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per doctor level after lst
+
+#### Proficiencies
+___
+- **Armor:** Light armor, medium armor
+- **Weapons:** All simple weapons, hand crossbows
+- **Tools:** Alchemist's supplies, herbalisrn kit
+___
+- **Saving Throws:** Intelligence, Constitution
+- **Skills:** Medicine and choose two from History, Insight, Investigation, Perception, and Sleight of Hand
+
+#### Equipment
+You start With the following equipment, in addition to the equipment granted by your background:
+- two simple weapons
+- a hand crossbow and 20 bolts
+- *(a)* scholar's pack or *(b)* a diplomat's pack
+- *(a)* leather armor or *(b)* hide armor
+
+> ##### Tools of the Trade
+> A doctor has a number of unique items that they use in their practice. Small hammers for breaking bones, saws for removing limbs, scalpels, and other sharp blades. An experienced doctor has learned to turn these tools of healing into deadly weapons. If you wish to use these as weapons ask your DM to help you determine their stats.
+
+### Oath
+When you completed your medical training, you adopted an oath to solidify your resolve towards the healing arts. At lst level choose one of the following options.
+
+**"To Do No Harm"** The doctor heals for the maximum amount an ability allows as long as they have not harmed a living creature that day.
+
+**"For the Greater Good"** The doctor gains proficiency in Persuasion and Deception, having learned What to say to stop unnecessary questions.
+
+**"The Natural Way is the Only Way"** The doctor gains proficiency in Nature and Survival, preferring to utilize natural ingredients and treatments.
+
+<center>
+
+**Ability Save DC** = 8 + your proficiency bonus + your intelligence modifier
+
+</center>
+
+### Medical Training
+Due to your meticulous study into the healing arts you can use your Intelligence modifier instead of your Wisdom modifier for Medicine checks. In addition your proficiency bonus is doubled for any Medicine checks that you make.
+
+### Doctor's Bag
+Beginning at 1st level you gain access to a number of special supplies due to your medical training. These supplies include things like bandages, syringes, medicinal powders, and healing salves. You keep these in a storage container of your choice such as a bag, a series of pouches, or even a trunk.
+
+As long as you have access to your Doctor's Bag you may use an action to stabilize a creature that has 0 hit points, Without needing to make a Medicine check.
+
+### First Aid
+Beginning at 1st level you can apply basic first aid to an adjacent creature you can touch. As a bonus action you heal the target for 1d4 hit points. This increases by 1d4 When you reach 5th leve1(2d4), 11th level (3d4), and 17th level (4d4).
+
+You can use this feature a number of times equal to your Intelligence modifier + 1. You regain any expended uses When you finish a short or long rest.
+
+### Second Opinion
+Once you have reached 2nd level you have become accustomed not only to combat, but to coordinating With other healers. Whenever an ally Within 20ft of you uses a healing ability, spell, or item, you can use your reaction to increase the amount healed to a single target by half, rounded up. Your ally must be able to see or hear you.
+
+### Doctor Profession
+At 3rd level, you choose a profession that you focus on: Surgeon, Combat Medic, or Pharmacist. Each is detailed at the end of the class description. Your Choice grants you features at 3rd level and again at 7th, 11th, 15th, and 18th level.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Patch Up
+By 5th level you have learned that there is always another fight around the corner, and it's best to be ready for it. Select up to 6 Willing creatures that you can touch. You spend the next 10 minutes quickly stitching up any open wounds and applying painkillers Where needed, Whatever it takes to get them to the next battle. This cures them of any non—magical ailments and restores a number of hit points equal to half of their maximum rounded up.
+
+You can use this feature a number of times equal to your Intelligence modifier divided by two (a minimum of once). You regain any expended uses When you finish a Long Rest.
+
+### Diagnosis
+By 5th 1eve1 you have learned to treat hostile scenarios as just another day at the office. As an action you study a living creature and gain vital insight towards its physical state.
+
+You learn one of the targets following statistics: Damage Vulnerabilities, Damage Resistances, Damage Immunities, Highest Saving Throw, Lowest Saving Throw, or whether or not the creature is below half its health.
+
+You can use this feature a number of times equal to your Intelligence modifier (a minimum of once) You regain expended uses When you finish a short or long rest.
+
+### Paramedic
+When you have reached 6th level you have become experienced at reaching the injured Without taking damage. When you use your action to disengage you may also double your movement speed until the end of your turn.
+
+### Vaccination
+At 6th level you have spent countless hours attempting to aid those suffering from disease and have developed a number of treatments. As an action you can cure a target of a single disease afflicting them. Alternatively, you can inoculate a target against disease for the next 24 hours.
+
+In addition, due to exposure from numerous patients the doctor gains immunity to all disease.
+
+### Vitality Boost
+Upon reaching 9th level you have become an expert at healing at a moment's notice. As an bonus action you can heal an adjacent creature you can touch for 4d6 hit points. This increases by 2d6 when you reach 15th level (6d6)
+
+You can use this feature a number of times equal to your Intelligence modifier + 1. You regain any expended uses when you finish a short or long rest.
+
+### Reanimation
+Once you have reached your 10th level the lines between life and death have started to blur. You provide life saving aid to a creature that has died within the last 10 minutes and return them to life. The creature returns to life with 1 hit point.
+
+This procedure can't return to life a creature that has died of old age, nor can it restore any missing body parts. You cannot use this feature again until you have completed a short or long rest.
+
+### Experienced Healer
+At 13th level you are unlikely to fail at common medical tasks. Whenever you make a Medicine check you can treat a d20 roll of 9 or lower as a 10.
+
+### Sedate
+By 14th level you have managed to create sedatives using standard supplies. As an action you can inject a willing creature with a sedative that will cause them to go unconscious for 1d4 hours.
+
+You can also attempt to inject an unwilling creature for the same effect. An unwilling target must be below one quarter of its maximum hit points for this ability to take effect. They must then succeed a Constitution saving throw or immediately fall unconscious for 1d4 hours.
+
+### Practiced Hands
+By 17th level you have performed the same procedures countless times. Whenever you use a healing ability, item, or other effect that involves a die roll you can add an additional healing die of the same type to the end result, even if the result would otherwise be maximized,
+
+### Experimental Procedure
+At 20th level you recognize that the limitations of the mortal body are simply defects waiting to be corrected
+
+You target a specific stat; Strength, Dexterity, Constitution, Intelligence, Wisdom, or Charisma and attempt to improve it. This may involve replacing organs, changing appearance, or altering brain chemistry.
+
+To be successful you must succeed on a DC25 Medicine check or the procedure fails. On a success the target gains a permanent +1 bonus to the targeted ability score. You may not attempt this procedure on the same target more than 3 times, regardless of success or failure.
+
+Due to your skills a failure does not inflict any negative effects on the target, but the target receives no benefits.
+
+The procedure takes eight hours from start to finish, and cannot be paused or interrupted The targeted creature takes five days to recover, and remains incapacitated.

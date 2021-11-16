@@ -1,0 +1,23 @@
+### College of Knowledge
+[**Source:** *A Thousand Classes and A Thousand More*](https://drive.google.com/file/d/11ZbvclSxDg9KrQX6pyRE5dRg1eudAPLc/view)
+
+As much a scholar as any wizard, despite the rhyming name, the bards of the college of knowledge quest to uncover as much about their chosen expertise as they can. They delve into ancient ruins on the off-chance it will contain a book they have not read, and are just as common within libraries and universities as they are daring their friend to do something crazy "just to see what happens".
+
+#### Scholarly Focus
+When you choose the college of knowledge choose 3 races that you have studied in depth the history of. You may also choose nations, time periods, or specific creatures, if it would be more relevant to your character and campaign. You learn the language of each race if you do not know it already. In addition, when you or an ally is making an Arcana, History, Religion, or Nature check related to your chosen race, you can consume a use of bardic inspiration to grant them advantage on the ability check.
+
+#### Well Read
+Also at 3rd level you have an incredible knowledge of the creatures of the realm, and are able to use that knowledge to aid your allies in combat. As a bonus action, choose one creature you can see, and a damage type. You immediately learn whether or not the creature is vulnerable, resistant, or immune to the chosen damage type, you also learn if the resistance is dependent on the damage type being magical or not.
+
+You can choose bludgeoning, piercing, and slashing damage, or one of acid, cold, fire, force, lightning, necrotic, poison, psychic, radiant, and thunder damage.
+
+#### Educated Guess
+By 6th level you have a knack for figuring things out that others may miss. You gain the following benefits:
+- When you see a spell get cast, you know what the spell is
+- When a spell fails, or acts in a way that is unusual, you know why
+- When you spend at least 1 uninterrupted minute with a magic item, you learn information about the item as if you had cast the identify spell on it
+
+#### Secrets of History
+At 14th level you are a master of your field. You learn the legend lore spell, and you can cast it without the need for material components if your target is a creature, place, or historical event related to your scholarly focus.
+
+This spell does not count towards your maximum number of spells known.

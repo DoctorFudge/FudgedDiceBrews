@@ -1,0 +1,16 @@
+### Censure of Retribution
+The world over which your god presides follows strict laws of balance and ones your god seeks to maintain. And thus it is that any who would strike out against their chosen agents would receive punishment in kind, any who seek to undo their champion will face the same. The censure of retribution focuses on abilities that hinder your foes and deal immediate retribution for wrongs done. No act against your god will go unpunished.
+
+#### Bond of Retribution
+Starting at 3rd level, when your hit points are equal to or less than half of your maximum hit points your weapon attacks deal an additional 1d4 damage.
+
+#### Spiteful Challenge
+Also starting at 7th level, when you place your oath of enmity on a creature you may choose to have that creature roll a Wisdom saving throw. On a failed save, that creature has disadvantage on any attack that does not include you as a target for one minute. On a successful save nothing happens and the creature is immune to this effect for 24 hours.
+
+Once you have used this feature you may not do so again until you finish a short or long rest.
+
+#### Wrath's Reward
+Starting at 14th level, whenever you reduce your oath of enmity target to 0 hit points, you may choose to roll a hit die. You regain a number of hit points equal to the die roll plus your Wisdom modifier.
+
+#### Fanatic's Rebuke
+Starting at 18th level, when your oath of enmity hits you with an attack you may use your reaction to make a melee attack against your oath of enmity target if within range.

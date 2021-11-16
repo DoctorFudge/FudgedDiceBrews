@@ -1,0 +1,12 @@
+## Level 8
+
+#### Kevin's Faithful Goodberry
+Transmutation*
+___
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** V, S, M (one goodberry)
+- **Duration:** Concentration, up to 24 hours
+- **Classes:** Druid, Cleric, Bard, Witch
+___
+You conjure forth a golden berry that orbits about a foot around your head. If you are reduced to 0 hit points at any point during the duration of this spell, you are instantly brought to half of your maximum hit points and the spell ends.

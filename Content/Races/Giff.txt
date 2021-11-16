@@ -1,0 +1,52 @@
+## Giff
+[**Source:** *Book of Uncommon Ancestry*](https://drive.google.com/file/d/1LKItpZ_y7ZqtGyK5h1UKwSV1e_by_VHV/view)
+
+*The fight was over in a flash. A literal flash, mind you, and a very loud boom. They had rigged an entire ship with barrels of gunpowder and fired on it themselves when pirates tried to board the vessel. As payment all they wanted was more barrels of gunpowder.*
+
+<div style="text-align: right">
+— Captain Thalion, frequent employer of giff mercenaries
+</div>
+
+Long ago the giff, a race of hippopotamus-headed humanoids, lost their home world. Since that time, they have been traveling the multiverse operating as mercenaries. Despite their itinerant society, their culture is highly structured. Every giff has a rank in a military hierarchy that includes all giff, with strict rules and guidelines for interacting with superiors, inferiors, and peers.
+
+### Ungentle Giants
+Even in crowded places, a giff stands out. Giff stand between 6 and 7 feet tall and weigh over 300 pounds. If that wasn’t enough to attract attention, they are rarely seen wearing anything but garish military regalia. If the giff is particularly wealthy, it will also smell of gunpowder, which serves as both a currency and an aphrodisiac for the giff.
+
+Asking a giff about their outfit, particularly a military medal, is likely to lead to a long monologue about the rarity of the award and the courage the giff displayed in earning it. Pipe smoking and wearing items such as glasses or monocles are popular affectations among giff.
+
+### Weapons of War
+The only thing that giff love more than military hierarchy is gunpowder and the weapons that use it. Young giff are taught to use pistols shortly after they learn to walk and muskets when they are capable of firing one without falling down from the recoil. It is tradition for a giff to be welcomed to adulthood by receiving a grenade from all close personal and professional associates. The giff is expected to use these gifts as soon as possible.
+
+Despite their love of loud bangs and bright flashes of light, giff are ambivalent about magic. Exact attitudes vary depending on the giff, but it is very rare for giff to become spellcasters. Those giff that do learn to cast spells are assigned ranks that prevent them from rising too high in the chain of command. Spellcasters may also endure prejudice from other giff who accuse magic-users of being too cowardly to “fight fair.”
+
+### Adventurers By Birth
+Giff are born adventurers but the structure of their society, and their fondness for that structure, means few giff are interested in adventuring with non-giff. Instead, giff move from one mercenary adventure to the next with as many other giff as required to successfully complete the mission. Although giff are a proud people, they are not shy about ensuring they have all the reinforcements necessary to accomplish a job.
+
+When giff do adventure with others it may be because they have been exiled. Giff spellcasters are often shunned by other giff, so they might join others who show more respect for their craft. Cowardice among giff is usually rewarded with a demotion but, if an act of cowardice caused sufficient loss of giff life, the offender could be exiled. Very rarely a giff simply chafes against the structure of its society or prefers the company of other peoples.
+
+### Giff Names
+Every giff has a personal name and a military rank and they insist, in almost all situations, to be called by this full title and name. Military rank titles are very specific, often including variations to identify particular honors the giff has earned. Personal names are typically short and simple. Giff take too much pride in their titles to be overly concerned with impressive names.
+
+___
+- **Female Names:** Beluarr, Drena, Hrusta, Jala, Pomo, Sirla, Ulyrn, Undra, Weelso, Yuralsha
+- **Male Names:** Brost, Dromb, Hurst, Lewmur, Krak, Pomj, Romd, Tug, Ularn, Undar
+- **Military Titles:** Cadet, Officer Cadet, Officer, Third Lieutenant, Second Lieutenant, Lieutenant, Captain, Lieutenant-Major, Major
+
+### Giff Traits
+Your giff character has the following racial traits. Ability Score Increase. Your Strength score increases by 2, and your Constitution score increases by 1.
+
+***Age.*** Giff reach adulthood in their early teens and can live to be 80 years old. Giff who survive past their 50th birthday are often looked down upon by other giff as being insufficiently adventurous.
+
+***Alignment.*** Giff live in a highly structured society that emphasizes the value of hierarchy but places no special importance on issues of moral consideration. Most giff are lawful neutral.
+
+***Size.*** Giff typically stand about 7 feet tall and weigh in excess of 300 pounds. Your size is Medium.
+
+***Speed.*** Your base walking speed is 30.
+
+***Giff Firearms Mastery.*** You have proficiency with simple firearms, and can ignore the Misfire property of firearms.
+
+***Headfirst Charge.*** When you take the Dash action, you can choose to make one melee weapon attack as part of the same action. If you deal damage with this attack, that creature must succeed on a Strength saving throw (DC = 8 + your proficiency bonus + your Strength modifier) or be knocked prone. You can use this trait again after you finish a short or long rest.
+
+***Intimidating Size.*** When you make an Intimidation ability check against a creature your size or smaller, you gain advantage.
+
+***Languages.*** You can speak, read, and write Common and one extra language of your choice. Giff often pick up the languages of their long term employers.

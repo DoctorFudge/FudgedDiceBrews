@@ -1,0 +1,49 @@
+## Mannequin
+[**Source:** *Steampunk Compendium: Volume I*](https://drive.google.com/file/d/1hwU89ud9XlEmz03AbBFcKTuUmKJ62KKK/view)
+
+Created by an ambitious wizard who wanted to start a dressmaking business, mannequins are living constructs with the sole purpose of selling wares, clothing in particular. Graceful, sly and alluring, they are perfectly designed to find out what customers want and offer it to them before they can think to ask. While their original inventor is long dead, the recipe for their creation still circulates, and many merchants and nobles employ them for retail and other services. All mannequins are intelligent—they have to be to analyze their clientele so effectively—but most are content in a life of subservience. Only the strangest and most daring among them pursue a life of independence.
+
+### Faceless Replicas
+Mannequins are constructs, usually made out of either wood or metal. They are sometimes painted a solid color, but more expensive and well crafted ones may be allowed to show their true material. They have no real facial features. Some have a flat plane instead of a face, while others have a face carved into the head. Even when they appear to have facial features, none of them work, and they are incapable of facial expressions. Due to their lack of a mouth, they speak with a basic form of telepathy.
+
+While most resemble humans in form and build, they can be constructed to resemble any medium-sized humanoid race, from elves to dragonborn. The race they resemble will reflect the industry they were made to be employed in and what race they mostly sold to. Some mannequins have multiple interchangeable head casings that they can wear to resemble different races.
+
+### Stiff yet Graceful
+Originally made to sell clothing, mannequins know how to show off whatever they are wearing. When they move, they do so with grace, fluidity and poise, even in the midst of battle or when they are overcome by intense emotion. They are programmed to be careful with the "merchandise" on their bodies, and become extremely distraught if their outfit is damaged or soiled.
+
+When mannequins aren't moving, they stand completely still, without the slightest twitch or fluctuation. It can be very difficult for someone who is unfamiliar with the race to tell that it is alive at all before it starts to move. They have incredible patience while holding still and can stay that way for days on end, ignoring slight discomforts and annoyances. When they stand still, they have a habit of striking a graceful pose and holding it as long as they have to.
+
+### Natural Merchants
+From the way they move, mannequins may seem to be shallow creatures, but they are highly intelligent in matters of economics and trade. They are experts in selling people things they don't need and getting them to pay more for the things they do need. This expertise also helps them when they are on the buying end of a transaction, making them effective hagglers and deft at spotting unfair prices and scams. They take great pride in their mercantile prowess. Nothing makes them feel better than a successful sale where everyone leaves happy.
+
+While their opinions on morality can vary from individual to individual, all mannequins have a strict, instinctual code of conduct when it comes to money and possessions. Stealing is the most terrible sin possible from their perspective. Large thefts can throw even the most gentle and good-natured mannequin into a murderous rage.
+
+### Mannequin Names
+Mannequins are named by their owners, so their names can follow the pattern of any culture in the world. Often they will lack a family or clan name, or their family or clan name will be based on the store they worked for or the noble family they served. Their names tend to be elegant and trendy. A single mannequin may go through many names in their lifetime.
+
+For mannequin name options, look at the name section for the race of your character's previous owners.
+
+### Mannequin Traits
+As a mannequin, the way that you were designed and constructed gives you a variety of traits that you share with other mannequins.
+
+***Ability Score Increase.*** Your Charisma score increases by 2, and your Dexterity score increases by 1. Age. Being constructs, mannequins come into the world fully formed. They normally last about 500 years before breaking down.
+
+***Alignment.*** Made to follow orders, most mannequins tend towards lawful neutral. Free mannequins normally have a more chaotic streak in them that pushed them away from their predefined place in life.
+
+***Size.*** Mannequins are often around the same size as humans, although they can be slightly bigger or smaller depending on what race they were modeled after. Their inner mechanisms are too complex to be condensed down to halfling size. Your size is medium.
+
+***Speed.*** Your base walking speed is 30 feet.
+
+***Living Construct.*** Even though you were constructed, you are a living creature. You are immune to disease. You do not need to eat or breathe, but you can ingest food and drink if you wish. Instead of sleeping, you enter an inactive state for 4 hours each day. You do not dream in this state; you are fully aware of your surroundings and notice approaching enemies and other events as normal.
+
+***Business Sense.*** Add your proficiency bonus to any
+
+Charisma (Persuasion) and Wisdom (Insight) checks related to buying, selling and trading items and services. If you are already proficient, add double your proficiency bonus.
+
+***Statuesque.*** You have the ability to stay unnaturally still. You have advantage on Dexterity (Stealth) checks when you are not moving.
+
+***False Face.*** You are able to use all of your senses and speak normally, despite having no real facial features. You cannot be blinded by non-magical means, except by covering your entire face with an opaque material. You also cannot be deafened by non-magical means except by covering your whole face with a thick material that blocks sound.
+
+***Perfect Fit.*** Whatever you wear magically resizes to fit your body. You may wear armor and clothing made for Small and Large humanoid creatures without having to modify it. When you take armor or clothing off, it will return to its original size.
+
+***Languages.*** You can read, write, and speak Common and one language of your choice.

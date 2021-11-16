@@ -1,0 +1,35 @@
+## Hvetur
+[**Source:** *Hvetur (Fudged Up Edition)*](https://www.gmbinder.com/share/-MeH1DUuDtS67SEAto63)
+
+On an icy cliff high above the frigid wasteland stands a snowy white figure with long white braids and an ironwood bow. Silvery blue eyes pierce the freezing dark sky.  An arrow flies in through the misty cloud surrounding the mountainside seconds of silence then an eagle falls from the heavens in clashes onto a rocky cliff side before landing in the thick snow in front of her feet.
+
+Hvetur are an old secluded mountain dwelling race, known for their bluish-white skin and hair and their unyielding resolve in the face of adversity.  small settlements house up to 100 people which fall under their cheeks in this command. These snowy Warriors are far and few, but welcome any snow Clan into their arms. Members of other races are kept at Bay until proven a great asset and battle. Hvetur are regarded as the strong and silent type, but they are also wise and expert trackers in the most harsh mountain environments imaginable. They dare to hunt the most dangerous beasts, even when they will be days away from home.
+
+### Hvetur Names
+Hvetur have given names and lineage name.  The name of lineage come from the parent who raised them into adulthood can be father or mother, preferring father if both thought were present for the entire upbringing stop the lineage is a combination of the parent's name and "-ssun" for boys or "-dotar" for girls.
+
+___
+- **Male Names:** Aarun, Banur, Bilfr, Durrin, Eilar, Faan, Fjodir, Hrunnir, Leif, Nidrin, Nill, Otar, Rodri, Sandr, Vitor.
+- **Female Names:** Anil, Beia, Dirsa, Elna, Eili, Fori, Hjella, Hennir, Leira, Luun, Nitri, Olhe, Skadi, Sanna, Wikka.
+- **Lineage Names:** Bilfrssun, Beiassun, Durrindotar, Faanssun, Foridotar, Luundotar, Nillssun, Otarssun, Olhedotar.
+
+### Hvetur Traits
+Your Hvetur has a number of traits as a result of living in a harsh, snowy environment.
+
+***Ability Score Increase.*** Your wisdom score increases by 2, and one other ability score of your choice increases by 1.
+
+***Age.*** Hvetur mature at a slower rate than humans do and reach adulthood around the age of 40. they live much longer than humans, often exceeding 160 years.
+
+***Alignment.*** Most Hvetur value the laws of nature in the gods that ruled them above individual believes, and thus tend towards lawful alignments. They strive to be their very best in the face of adversity and do not like to sit still for long when things calm down either. Duty and honor are sacred, but always with a clear, logical mind.
+
+***Size.*** Hvetur stand taller than humans, ranging from 6 to 7 feet tall. Your size is Medium.
+
+***Speed.*** Your base walking speed is 30 ft.
+
+***Darkvision.*** Long nights in the icy regions have resulted in superior vision in dark and dim conditions you can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of grey.
+
+***Snowy Skin.*** You are resistant to cold damage.
+
+***Frostwalker.*** You gain proficiency in the Survival skill. Whenever you make a Wisdom (Survival) check in snowy or icy terrain, you add double your proficiency bonus to the check instead of your normal proficiency bonus.
+
+***Languages.*** You can speak read and write Common and Hvetur. The Hvetur language is a surprisingly elegant language similar in grammar to Dwarvish and Giant. Travelers describe it as the midway point between Elvish and Giant. It sounds like the northern winds carrying the snow in the winter. Many scholars desperately want to study the language, but there is little-to-no Hvetur literature.

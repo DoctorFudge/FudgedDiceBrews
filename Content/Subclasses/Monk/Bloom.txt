@@ -1,0 +1,72 @@
+### Way of the Bloom
+[**Source:** *Way of the Bloom*](https://www.gmbinder.com/share/-MHRh23gF60L9GRjIDIs)
+
+Monks who study the Way of the Bloom believe in the improvement of themselves and others through ki. They are often empathetic and kind, understanding that we can only flourish in an environment where our needs are met. They believe that every person is a flower bud, who just needs a little extra help to reach their full potential and blossom.
+
+#### Bonus Proficiencies
+Your fascination with the way that life blossoms and grows gives you new insight. You can proficiency in the Nature skill if you don't already have it. You also gain proficiency with an Herbalism Kit if you don't already have it.
+
+#### Ki Blossoms
+Monks of the Way of the Bloom are masters of creating auras with their life force and ki. Immense focus and meditation is required of these monks to learn to harness ki in a way to bolster others.  At 3rd level, you learn the ki blossoms that are signature to the Way of the Bloom, which require ki to use.
+
+You learn two ki blossoms of your choice, as detailed in the ki blossoms sections below. You learn two additional ki blossoms of your choice at 6th, 11th, and 17th level.
+
+Whenever you learn a new ki blossom, you can also replace one ki blossom that you already know with another blossom.
+
+Blossoms are always centered on yourself, and will follow you as you move. You are assumed to also be under the effect of an active blossom unless a blossom specifically states otherwise. The radius of the blossom is 10 feet, but spending an additional ki point can increase the radius by 5 feet. At 3rd level you can only spend 1 ki point to increase the radius, but this goes up to a maximum of 2 at 6th level, 3 at 11th level, and 4 at 17th level.
+
+Some blossoms may require a saving throw. The DC for this saving throw is **8+your Proficiency Bonus+your Wisdom Modifier**.
+
+Ki blossoms takes immense focus to use and maintain. Activating a blossom requires your concentration, as if you were concentrating on a spell. The maximum duration for a bloom is 1 minute, unless stated otherwise.
+
+#### 3rd Level Ki Blossoms
+You may spend 1 extra ki point as a part of creating a bloom to increase the radius by 5 feet.
+
+**Whispers of Mint:** You can spend 1 ki point as a bonus action to create a soothing blossom that bolsters others with vitality. Creatures of your choice that end their turn within your blossom may gain temporary HP equal to a roll of your martial arts die.
+
+**Six-Pointed Clemantis:** You can spend 2 ki points as an action to create a bright bloom that helps clear the mind. Creatures of your choice within the radius have advantage on saving throws against being charmed, frightened or possessed. Creatures that already have such conditions can repeat their saving throw upon first entering the radius.
+
+**Sprig of Holly:** Your ki takes the shape of a sharp, scented bloom that heightens your senses. You can spend 1 ki point as an action to create a bloom of foresight. Creatures of your choice within the radius have advantage on Perception (Wisdom) and Investigation (Intelligence) checks. This effect can last up to 1 hour.
+
+**Winds of Honeysuckle:** You can spend 2 ki points as an action to create a bloom that has a sweet and intoxicating scent. A number of creatures equal to your Wisdom modifier must make a Wisdom saving throw or become charmed by you. It does so with advantage if you or your companions are fighting it. Those that succeed do not know that you attempted to charm them, but those that fail will know after the effect ends. This effect can last up to 1 hour.
+
+**Lotus of Many Colors:** Your ki takes the shape of a bloom that protects others from harm. You can spend 2 ki points as a bonus action to align your lotus petals to a color or a chakra. As you activate this blossom, choose a damage type among acid, cold, fire, lightning, poison or thunder damage. Creatures of your choice within the radius are resistant to that type of damage.
+
+#### 6th Level Ki Blossoms
+You may spend up to 2 extra ki points as a part of creating a bloom, adding 5 feet to the radius for each ki point spent.
+
+**Cobalt Blue Hyacinth:** Your ki takes the shape of a vibrant bloom that helps others predict danger. You can spend 2 ki points as a bonus action to strengthen the bond of your fellow blooms among the bunch. When a creature of your choice other than you within the radius rolls a saving throw which you are also proficient in, they may add your total modifiers for that saving throw to their result.
+
+**Sphere of Valerian:** You can spend 3 ki points as an action to create the shape of a flower that increases accuracy. Creatures of your choice within the radius have advantage on attack rolls against other creatures also within the radius.
+
+**Budding Tarragon:** You can spend 2 ki point as a bonus action to create a bloom of stamina. Creatures of your choice, other than you, that start their turn within the radius have their walking speed increased by 10 feet until the end of their turn. Additionally, their movement within the radius does not provoke attacks of opportunity.
+
+**Circle of Acanthus:** You can spend 1 ki point as an action to foster a bloom that symbolizes great knowledge. As a part of activating this blossom, choose one language, tool, or skill in which you are proficient. Creatures of your choice within the aura can speak, read, and write the language, and your modifier for the tool or skill is added to all rolls for that tool or skill done by others. You cannot benefit from this effect.
+
+**Magnolia's Essence:** You can spend 2 ki points as an action to have your ki takes the shape of a bloom that shows the grandeur of nature. Creatures of your choice ignore difficult terrain and have advantage on Nature (Intelligence) and Survival (Wisdom) checks. This effect can last up to 8 hours.
+
+#### 11th Level Ki Blossoms
+You may spend up to 3 extra ki points as a part of creating a bloom, adding 5 feet to the radius for each ki point spent.
+
+**Winds of Lavender:** You can spend 3 ki as a bonus action to create an aura that emits a calming scent. A number of creatures equal to your Wisdom modifier within the radius gain the benefits of the Sanctuary spell.
+
+**Striking Calla Lily:** You can spend 3 ki points as an action to create a bloom with stunning beauty. When a creature other than you within the radius successfully hits with a melee weapon attack, you may use your reaction to apply the effects of your Stunning Strike feature. The DC for the Stunning Strike uses your own DC, and the duration will last until the end of the attacker's next turn, not your own. You do not have to spend extra ki to apply this Stunning Strike.
+
+**Ripples of the Pond Lily:** You can spend 2 ki points as an action to invoke a beautiful floating pond lily. You can extend the benefits of your Improved Unarmored Movement feature to creatures of your choice within the radius. If your movement would cause the effected creatures to leave the radius, they may use their reaction to move up to their speed towards you. This effect can last up to 1 hour.
+
+**Wildflower's Freedom:** You can spend 3 ki points as an action to have your ki takes the shape of a free flowing petal in the wind, unable to be held down. Creatures of your choice within the radius cannot be grappled or restrained, cannot have their movement slowed, and have advantage on saving throws against being paralyzed, stunned, or petrified.
+
+**Fan of Corriander:** Youcan spend 4 ki points as a bonus action to create a bloom that emboldens your strikes. When creatures of your choice within the radius hit with a weapon attack, they may roll the damage dice twice, taking the higher of the two results.
+
+#### 17th Level Ki Blossoms
+You may spend up to 4 extra ki points as a part of creating a bloom, adding 5 feet to the radius for each ki point spent.
+
+**Fern's Blessings:** You can spend 5 ki points as an action to have your ki take the shape of a bloom known to thwart magic. A number of creatures equal to your Wisdom modifier have advantage on saving throws against magic while within the radius.
+
+**Winds of Chamomile:** You can spend 4 ki points as a bonus action to create a blossom with awe inspiring beauty. Whenever a creature of your choice other than you within the radius misses an attack roll or fails a saving throw or ability check, they may add a roll of your martial arts die to the result. This can turn a failure into a success, and may only be applied once per turn.
+
+**Spring Rebirth:** You can spend 6 ki points as an action to have your ki transform yourself and others into flowery petals that can reform. A number of creatures of your choice equal to your Wisdom modifier gain the following benefits while within your radius. They can use a bonus action to teleport a number of feet equal to their movement speed to a place within the radius, they gain resistance to bludgeoning piercing and slashing damage, and may squeeze through tight spaces no smaller than 1 inch.
+
+**Moonflower's Light:** You can spend 4 ki points as a bonus action to form a night bloom. Creatures of your choice may see up to 60 feet through magical and non-magical darkness, and they gain blindsight within the radius.
+
+**Spring Wind Waltz:** You can spend 5 ki points as an action to take the form of a soaring petal. Creatures within the radius gain a fly speed equal to their walking speed, and gain the benefits of your Evasion ability if they do not have it already. If your movement would cause the effected creatures to leave the radius, they may use their reaction to move up to their speed towards you.

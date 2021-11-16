@@ -1,0 +1,34 @@
+### Coven of the Full Moon
+Though the night may be dark, it is not without life, compassion, and mercy. The light of the full moon is a beacon to those that travel by night, assuaging their fears and lending them hope in the darkness. So, too, do the witches sworn to the Coven of the Full Moon give hope and healing, both to their allies and to the domains of nature. Witches of this coven are known as white witches and are often neutral or good, very rarely having any reason to stray towards evil, though they may be as lawful or chaotic as they see fit.
+
+#### Full Moon Spells
+You gain advanced tutelage into specific spells important to your coven. You learn each of the spells on the following list at the witch level associated with them. These spells count as witch spells for you and do not count against the total spells you can know.
+
+##### Full Moon Spells
+| Witch Level | Spells |
+|:-:|:--|
+| 2nd | <em>cure wounds, healing word</em> |
+| 3rd | <em>calm emotions, lesser restoration</em> |
+| 5th | <em>remove curse, revivify</em> |
+| 7th | <em>aura of purity, death ward</em> |
+| 9th | <em>dispel evil and good, greater restoration</em> |
+
+#### Abundant Health
+When you join this coven at 2nd level, your healing magic carries with it the abundance of nature. If a witch spell or ability you use heals a target to its hit point maximum, any healing the spell or ability would do in excess of this amount instead becomes temporary hit points for the target, which last for up to one minute.
+
+#### Familiar’s Solace
+At 6th level, your familiar’s ties to your magic can save those around them from the specter of death. On your turn, you can use a bonus action to stabilize any number of creatures of your choice that are at 0 hit points and within 5 feet of your familiar.
+
+The first time a creature is affected by this ability, you can cause it to regain 1 hit point. After a creature regains a hit point in this way, it cannot regain hit points from this feature again until it has finished a long rest.
+
+#### Warding Moonlight
+Beginning at 10th level, when a creature within 5 feet of you or your familiar takes damage, you can use a reaction to weave a defense out of moonbeams. After taking damage, that creature then gains temporary hit points equal to your witch level + your Intelligence modifier, which last for up to one minute.
+
+Once you use this ability, you must finish a short or long rest before you can use it again.
+
+#### Light of the Full Moon
+Starting at 14th level, you can use an action and choose one creature you can see within 60 feet of you, imbuing that creature with the radiance of the full moon for one minute. During this time, the creature emits dim light in a 30 foot radius.
+
+A creature subject to this effect cannot be charmed, frightened, poisoned, or have its hit point maximum reduced, and is immune to disease for the duration. Additionally, the creature can use a bonus action on its turn to draw power from the moonlight, healing itself for an amount of hit points equal to your Intelligence modifier + half your witch level.
+
+Once you use this ability, you cannot use it again until you have finished a long rest.

@@ -1,0 +1,36 @@
+### Bouncer
+[**Source:** *The Complete Martialist Handbook*](https://drive.google.com/file/d/1oGWtJWYIL63dUACooColfDVhX6MllXji/view)
+
+Most rogues focus on the elegant arts of infiltration, trickery, and mind games, but as a Bouncer, you prefer the simple but effective techniques of the back alleys - using anything within your reach as a weapon, even your foes themselves. You rely more on brute strength and an ability to tie your opponents in knots than cunning, though you know better than to discard any natural advantages. Other rogues may think you lack guile, but you'd rather have a reputation for an iron fist than a silver tongue.
+
+#### Back Alley Training
+When you choose this archetype at 3rd level, you augment your clandestine skills with the rough and tumble practices of the back alleys, learning to utilize everything around you to your advantage. You gain proficiency with the Athletics skill, medium armor, and improvised weapons.
+
+You also gain an additional way to use your Sneak Attack; you can use your Sneak Attack against a creature when you make an attack with a melee weapon, even if it doesn't have the finesse property. All other rules of Sneak Attack still apply to you.
+
+#### Anything at Hand
+At 3rd level, while you have a creature of your size or smaller grappled, you can use it as a melee improvised weapon. If the creature is the same size as you, you treat it as though it's a weapon with the two-handed property; otherwise, you can make the attack with only the hand you used to grapple the creature. When you do, you deal bludgeoning damage depending on the creature's size category, as shown in the Improvised Creature Weapons table. When you deal damage with a creature used as an improvised weapon, the target of the attack and the creature used for the attack each take half the damage you rolled, instead of the normal damage for the attack.
+
+##### Improvised Creature Weapons
+| Size Category | Damage Die |
+| :-: | :-- |
+| Tiny | 1d4 |
+| Small | 1d6 |
+| Medium | 1d8 |
+| Large\* | 1d10 |
+| Huge\* | 2d6 |
+| Gargantuan\* | 3d6 |
+
+> ##### Improvised Creature Weapons of Larger Categories
+> Per the normal grappling rules, you can only grapple a creature that is no more than one size category larger than you. Since players may be able to increase their size beyond Medium through the use of spells and magic items, the table includes size categories that they won't be able to grapple under normal circumstances.
+
+#### Barroom Brawler
+At 9th level, when you take the Attack action and make only grapple attempts, you can make a weapon attack as a bonus action this turn.
+
+#### Menacing Glare
+Starting at 13th level, you have a look in your eye that implies you can tie your opponents into knots. As a bonus action on your turn, you stare into the eyes of a creature you can see, and who can see you, within 30 feet of you, promising violence. Make a Strength (Intimidation) check contested by the target's Wisdom (Insight) check. If you succeed, the creature is frightened of you for 1 minute, or until you use this feature on a different target. If a creature frightened this way ends its turn in a location where it doesn't have a direct line of sight to you, it regains its composure and is no longer frightened.
+
+Once you use this feature on a creature, you can't use it on that creature again until you finish a long rest.
+
+#### Ballroom Blitzer
+Beginning at 17th level, when you make an attack using a creature you have grappled, you can use your Sneak Attack even if you don't have advantage on the attack roll, but not if you have disadvantage on it.

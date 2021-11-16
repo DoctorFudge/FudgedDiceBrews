@@ -1,0 +1,55 @@
+## Lunaxi
+[**Source:** *Lunaxi*](https://docs.google.com/document/d/1o_lRXcO01vkxEoEtsQncYzAxOq8Za7agzGiveTcE_0Y/edit)
+
+Lunaxi are a humanoid race that largely appears human with elvish features, such as pointed ears. However, their hair is often frosty white with hints of pastel colors that one would only be able to attain via dyes. Their eyes are also said to always be colored by the evening sky. This color varies, often sourcing the hue of their hair color. Stars dot all over within, like they have nebulas and the cosmos within the windows to their soul. Generally they are known to be of somewhat average if not petit build. They have no mouth however, and often mask that area to avoid discomfort. The skin of the Lunaxi can be any color between a light cream to a dark chocolate, helping them draw in heat on the colder nights.
+
+### History
+Tens of thousands of years ago, an unnamed mother lay her dead child in the nighttime desert. The Moon Goddess saw their suffering and shed a tear, falling onto the child and guiding them to safety with her moonlight. In gratitude, the mother praised the Goddess and swore the lifelong devotion of her family to her. In return, the Goddess would continue to protect them under her light. Generations later, in the moonlit nights of endless travel, her descendants — the Lunxai — carry on her promise and the blessing. They also found purpose in the only deity who had mercy on them. At her command, they continue to roam, sharing her kindness with all they meet.
+
+### Religion
+The Lunaxi worship Selûne, a deity who dwells in a planar realm called the Gates of the Moon. Known as the Goddess of the Moon, the Moonmaiden, She Who Guides, she is the figure around which the Lunaxi have built their wardering civilization. Wherever her light leads, the Lunaxi follow.
+
+Under the guidance of her moon above, they've built their society and raise their young to her teachings. Some take on owls as companions, others become navigators with the knowledge they've been given. Similar to the first child who was saved by Selune, they all take on names with lunar meaning, further tying themselves to her.
+
+### Society
+Nomads of vast steppes or arid places, they herd livestock of all types primarily for trading. Most Lunaxi will have some animal husbandry skills, depending on the clan and whether they are semi-nomadic or fully nomadic, sometimes this is with the dire wolves they ride into battle, but sometimes if semi-nomadic it is with the cows or goats that they breed for meat or milk in the pot.
+
+Nowadays, Lunaxian tribes live a nomad life in the desert while maintaining commercial relationships with the major cities. Lunaxi society naturally recognize the goddess of the moon, Selûne while exiled often fall to Shar, the goddess of darkness, or embrace the Dark Moon heresy. Lunaxi are known for their high-skilled traders and guides. Rarely does a Lunaxi separate themselves entirely from their tribe, though those who do and settle are known for their farming.
+
+### Lunaxi Names
+Lunaxi are a tribal nomadic people and they do not usually use family surnames, rather sharing one for their entire caravan. Grand titles are given for performing impressive feats. Parents bring children before the tribe chief for the Naming Ceremony that is performed at maturity.
+
+During this ceremony, a Lunaxi selects an adult name, although those who knew him or her as a youngster might continue to use the child name, and is given a title based on their abilities. Each name is a unique creation, reflecting the hopes and desires of the person while tying them to their beliefs. Little distinction exists between male names and female names; the groupings here reflect only general tendencies.
+___
+- **Male:** Apollo, Atlas, Charon, Galileo, Io, Jericho, Koray, Lucian, Oberon, Puck
+- **Female:** Altalune, Artemis, Aruna, Cynthia, Deva, Diana, Lucine, Luna, Mona, Selene
+
+### Lunaxi Racial Traits
+Lunaxi are sociable travelers, making friends as they make homes. They rely heavily on each other.
+
+***Ability Score Increase.*** Your Wisdom score increases by 2 and your Dexterity or Intelligence score increases by 1.
+
+***Age.*** Lunaxi enter adulthood at around the age of 18, but they're considered young until they reach the age of 40. They can live to 350 years on average, but it's not too uncommon for them to reach 500 years of age.
+
+***Alignment.*** As people who follow the rhythm of nature and see themselves as its caretakers, most Lunaxi are lawful, believing firmly in the benefits of a well-ordered society. They tend toward good as well, with a strong sense of fair play and a belief that everyone deserves to share in the benefits of a just order. 
+
+***Size.*** Lunaxi stand between 4 and 6 feet tall and average about 150 pounds. Your size is Medium.
+
+***Speed.*** The wind guides your steps. Your base walking speed is 35 feet.
+
+***Sunlight Sensitivity.*** You have disadvantage on attack rolls and Wisdom (Perception) checks that rely on sight when you, the target of the attack, or whatever you are trying to perceive is in direct sunlight.
+
+***Darkvision.*** Accustomed to low lighting of the moon, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+***Selûne's Guidance.*** When you have direct line of sight and are standing in moonlight, anything lit by moonlight appears to you to be bright light, and shadows cast by moonlight appear to be dim light.
+
+Additionally, while in moonlight you can roll a d4 and add the number rolled to any ability check of your choice. You can roll the die before or after making the ability check.
+
+***Moonlight Eyes.*** As a bonus action, moonlight may shine from your eyes. For 1 hour, you shed bright light in a 10-foot radius and dim light for an additional 10 feet. You can end this effect at any time, no action required.
+
+***Silent Night.*** You have no mouth and breathe through your nose. You use this hum to perform verbal components of spells. You cannot eat traditional food, including berries and potions. Instead, you soak up moonlight. You have an irresistible urge to stare at the moon and breathe fresh air whenever you can
+
+***Mind Speak.*** You have no mouth, and therefore, cannot speak normally, but you can speak telepathically to any creature you can see, provided the creature is within a number of feet of you equal to 10 times your level. You don't need to share a language with the creature for it to understand your telepathic utterances, but the creature must be able to understand at least one language.
+- When you're using this trait to speak telepathically to a creature, you can use your bonus action to give that creature the ability to speak telepathically with you for 1 hour or until you end this effect as an action. To use this ability, the creature must be able to see you and must be within this trait's range. You can give this ability to only one creature at a time; giving it to a creature takes it away from another creature who has it.
+
+***Languages.*** You can read, write, and understand Common and Sylvan, but cannot speak.

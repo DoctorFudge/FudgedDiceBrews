@@ -1,0 +1,67 @@
+### Arsonist
+[**Source:** *Artificer Specialization: Arsonist*](https://homebrewery.naturalcrit.com/share/-O_F-A7Iq)
+
+An Arsonist is an expert when it comes to using Fire Bombs, making it harder for enemies to get past certain points, and more times than not lighting said enemies ablaze in glorious fiery explosions
+
+##### Arsonist Spells
+|Artificer Level|Spell|
+|:---:|:---|
+|3rd|Burning Hands, Compelled Duel|
+|5th|Blindness/Deafness, Scorching Ray|
+|9th|Fly, Melf's Minute Meteors*|
+|13th|Fire Shield, Wall of Fire|
+|17th|Antilife Shell, Flame Strike|
+___
+\* This spell can be found in Xanthar's Guide to Everything
+
+#### Tool Proficiency
+When you adopt this specialization at 3rd level, you gain proficiency with alchemist's supplies. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
+
+#### Fire Bombs
+|Name|Damage|Weight|Properties|
+|:--:|:--:|:--:|:--:|
+|Fire Bomb|2d6 fire|1 lb.|Range (20/60)|
+Beginning at 3rd level, whenever you finish a Short or Long rest, you can make a concoction which you call a Fire Bomb. When you hit an enemy with a Fire Bomb, it deals 2d6 fire damage and the creatures
+ takes 1d6 fire damage at the start of each of their turns. You are also proficient with the use of your Fire Bombs.
+
+A creature can end the damage over time by using its action to make a Dexterity saving throw or athletics check to extinguish the flames, the DC of which is equal to 8 + your Proficiency Bonus + your Dexterity Modifier.
+
+The number of these you can make per rest is equal to your intelligence modifier (minimum of one), and you can carry a number of Fire Bombs equal to half your Artificer Level rounded up.
+
+Making one of these Fire Bombs also requires you to have alchemist's supplies on your person.
+
+You can make a thrown weapon attack with these fire bombs, and can do this as either an action or a bonus action, as many times on your turn as you are able. Flammable objects caught by your Fire Bombs ignite.
+
+##### Making Fire Bombs
+When you make fire bombs as part of a rest, you're so focused on making them that you don't have as much time as others. You don't gain the benefits of a Short Rest when making your bombs, and a Long Rest counts as a Short Rest when making your bombs.
+
+#### Improved Fire Bombs
+Beginning at 5th level, as you begin to tinker with your bomb's housing, you've found a way to increase it's explosive capabilities, creating something you like to call a Napalm Bomb. Whenever you target a creature or a surface with your Napalm Bomb, your Bombs creates a 10 ft. radius of burning tar and whatever else you mixed in on the ground around the target.
+
+Afterwards, the area becomes difficult terrain for the duration. Any creature that starts or ends their turn, or that moves into or within this area takes 2d4 fire damage for every 5 feet it travels. This stays lit for a number of rounds equal to half your Artificer level rounded up.
+
+In addition, your Fire Bombs now do double damage to objects.
+
+|Name|Damage|Weight|Properties|
+|:--:|:--:|:--:|:--:|
+|Napalm Bomb|4d6 fire|2 lb.|Range (30/70)|
+
+#### Expert Arson
+Starting at 9th level, you've begun to perfect the formula for your Napalm Bombs, instead of making Napalm Bombs as part of a short or long rest, you now make Incendiary Grenades. Whenever you or a creature takes the attack action to throw one of your Incendiary Grenades at a target, you add your intelligence modifier (minimum of +1) to the damage roll.
+
+Additionally, the fires caused by your bombs are now so intense that it's much more difficult to resist. When your bombs do damage to a creature that is immune or resistant to fire damage, it is instead considered resistant if immune, and non-resistant if resistant
+
+|Name|Damage|Weight|Properties|
+|:--:|:--:|:--:|:--:|
+|Incendiary Grenade|6d6 fire|3 lb.|Range (30/70)|
+
+#### Master Arsonist
+By 15th level, as you introduce new components to your mixture, you've created a new substance to enhance your Grenades with. Instead of making Incendiary Grenades when you finish a Short or Long rest, you now create Inferno Bombs instead, the damage of these bombs increases as seen below.
+
+Additionally, the concussive force of your Bombs is now so strong it has a chance of knocking creatures down. All creatures within 10 ft. of where you threw a bomb must succeed on a strength saving throw against your spell save DC or be knocked prone. Getting up causes the creature to take 2d4 fire damage.
+
+|Name|Damage|Weight|Properties|
+|:--:|:--:|:--:|:--:|
+|Inferno Bomb|6d12 fire|4 lb.|Range (30/70)|
+
+When you cast a spell of 1st through 3rd level that deals fire damage, you can deal maximum damage with that spell. You can do this a number of times equal to your intelligence modifier  and regain all uses when you finish a long rest

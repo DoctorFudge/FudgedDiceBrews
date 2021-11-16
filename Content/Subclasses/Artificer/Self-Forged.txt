@@ -1,0 +1,66 @@
+### Self-Forged
+[**Source:** *Expanded Artificer: Additional Specialist and Infusion Options*](https://drive.google.com/file/d/1_vQkVogd65ZhGopNk-ddEK_7lvbzfWXV/view)
+
+While others use their craft to improve the world around them, you tinker with the substance of your own being. A Self-Forged augments their body, gradually replacing it with arcane technology in an endless quest for personal perfection.
+
+#### Tool Proficiency
+When you adopt this specialization at 3rd level, you gain proficiency with smith's tools. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
+
+#### Battlefist
+Also at 3rd level, you gain a battlefist, a mechanical golem arm that replaces one of your existing arms of your choice, which you have constructed in your spare time. You can use your battlefist as a normal hand, as a spellcasting focus for your artificer spells, and can make attacks with it while it is unoccupied as if it was a martial melee weapon with the light property. The battlefist cannot be disarmed.
+
+You have proficiency with attacks you make with your battlefist, and it deals 1d8 bludgeoning damage on a hit. Attacks with the battlefist can also substitute your choice of your Dexterity modifier or Intelligence modifier in place of the Strength modifier on attack and damage rolls. Your battlefist can be the target of spells and effects which target weapons, such as spells like magic weapon and some artificer Infusions.
+
+Additionally, you add your Intelligence modifier to your Strength modifier when determining your carrying capacity, and when making any Strength checks to lift, drag, pull, carry, or similar using your battlefist.
+
+#### Self-Forged Spells
+Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Self-Forged Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
+
+##### Self-Forged Spells
+Artificer Level|Spells
+:-----:|:-----
+3rd|<em>burning hands, searing smite</em>
+5th|<em>mirror image, misty step</em>
+9th|<em>blinding smite, vampiric touch</em>
+13th|<em>dimension door, staggering smite</em>
+17th|<em>banishing smite, destructive wave</em>
+
+#### Fortified Form
+Also at 3rd level, the improvements you've made to your body increase your durability. When you are not wearing any armor or holding a shield, your AC is equal to 10 + your Dexterity modifier + your Intelligence modifier.
+
+Additionally, as a bonus action on your turn you can expend an artificer spell slot to gain temporary hit points equal to twice your Intelligence modifier, which last for up to one minute. Increase the temporary hit points you gain from this feature by 5 for each level of the spell slot expended above 1st.
+
+Whenever you gain temporary hit points from this feature, you also gain your choice of one of the following benefits. This benefit lasts until the temporary hit points are lost, or until you gain a different benefit from this list.
+
+***Gravetic Pull.*** Squares within 5 feet of you are difficult terrain to all creatures other than those you designate. You have advantage on opportunity attacks you make with your battlefist. A creature hit by an opportunity attack made with your battlefist has its speeds reduced to 0 until the start of its next turn.
+
+***Overdrive.*** Attacks with your battlefist ignore resistance and immunity, deal an additional 1d6 lightning damage, and can push Large or smaller creatures up to 10 feet directly away from you on a hit.
+
+***Preternatural Speed.*** Increase your normal movement speed by 25 feet. Opportunity attacks made against you have disadvantage, and you have advantage on Dexterity saving throws.
+
+#### Extra Attack
+Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.
+
+#### Modular Upgrades
+At 9th level, your form becomes ever more mechanical. You gain the following benefits.
+
+***Constructed Might.*** The damage die for your battlefist increases from a d8 to a d10. Additionally, you have proficiency with Strength saving throws, and add your Intelligence modifier to any Strength saving throws you make.
+
+***Integrated Crossbow.*** You have integrated a hand crossbow into the design of your battlefist, with which you have proficiency. This crossbow can be deployed or stowed using a bonus action. While deployed, this hand crossbow occupies the battlefist's hand. Any spell or effect that functions on your battlefist or its attacks also affects the crossbow and its attacks. When you attack with this crossbow, you can choose to use your Intelligence modifier in place of your Dexterity modifier for attack and damage rolls.
+
+Instead of regular bolts, the integrated crossbow automatically conjures bolts of force that it fires, dealing force damage on a hit in place of the piercing damage typical for a crossbow. The integrated crossbow ignores the Loading property, and conjured bolts disappear within 1 round of being fired.
+
+You can also manually load mundane or magical bolts into your integrated crossbow. In this case, the Loading property is still in effect, and handles how these bolts are loaded. Once manually loaded bolts are fired, they are automatically replaced by conjured bolts unless other physical bolts are again manually loaded.
+
+***Warforged Components.*** You can add wondrous items restricted to warforged characters to your body, such as those on pages 276-279 of *Eberron: Rising from the Last War*, or those contained in the *Warforged Components* supplement from Walrock Homebrew on DM's Guild. You can attune to two additional items beyond your normal capacity, but these must be items normally restricted to warforged.
+
+Once attuned, items that have replaced portions of your body cannot be removed or have their attunement broken until you have spent a long rest crafting replacement parts for your body. These parts carry no mechanical benefit, but they do not require attunement. If you have already crafted replacement parts for a particular portion of your body, waive this restriction.
+
+#### Transcendent
+Starting at 15th level, you can choose to count as a construct for any spell or effect that would treat constructs differently. The mending cantrip restores 2d6 hit points when you are its target, and afterwards you must finish a short or long rest before you can be healed by mending again. When you have tinker's tools on your person and expend hit dice to heal, those hit dice have the maximum possible result instead of needing to be rolled.
+
+You are also immune to being frightened, charmed, poisoned, or put to sleep by magic, and have resistance to poison damage. You no longer need to sleep, instead entering into a period of fully aware light activity for 4 hours.
+
+Whenever you finish a short or long rest, you gain temporary hit points as if you had used your Fortified Form feature and expended a 1st-level spell slot. Temporary hit points gained from Fortified Form now last for up to 1 hour, instead of their normal duration.
+
+In addition, the damage die from your battlefist increases from a d10 to a d12.

@@ -1,0 +1,26 @@
+## Trick Shots
+Trick Shots are presented in alphabetical order.
+
+**Bleeding Blast.** When you hit a creature that can bleed using a firearm, you can cause the target to bleed heavily. The creature takes damage as usual and must make a Constitution saving throw. On a failure, the creature takes half of the initial damage again, at the end of their next turn.
+
+**Blinding Shot.** When you hit with a firearm attack you can attempt to blind your target, the creature takes damage as normal and must make a Constitution saving throw. On a failure, the target is blinded for one minute. A creature can repeat its saving throw at the end of its turns.
+
+**Concussive Burst.** When you hit with firearm attack, you blast through some of a creature's defenses. The target must make a Dexterity saving throw, suffering a -5 penalty to its AC until the start of your next turn.
+
+**Crippling Shot.** When you hit a creature with firearm, you can attempt to impede its movement. The target suffers damage as normal and must make a Dexterity saving throw. It is knocked prone on failed save. In addition, the creature's movement speed is halved for 1 minute.
+
+**Deadeye Shot.** When you roll your attack, you can gain advantage on the roll. If you miss, you do not expend a use of your Trick Shot.
+
+**Disarming Shot.** When you make an attack, you can shoot an object from a creature's grasp. On a hit, the creature suffers normal damage and must make a Strength saving throw. Should the target fail, it must drop its held objects and have those objects pushed 10 feet away from you.
+
+**Overcharged Shot.** You can pack additional damage into an attack roll you make. On a hit, you can roll one additional damage die for your weapon for each use of your Tick Shot you choose to expend. There is no limit to the number of uses you can expend at once.
+
+**Piercing Shot.** You can attempt to fire through multiple creatures with a single bullet. On a hit, your target suffers damage as normal and you can make amd you can make an attack roll at disadvantage at every creature in direct line behind them and within 30 feet. On subsequent hits, you deal normal damage.
+
+**Precision Shot.** When you hit with an attack roll, you can negate half or three quarters cover. Additionally, on a hit the creature takes damage as normal and is unable to benefit from half or three quarters cover until the start of your next turn.
+
+**Hobbling Shot.** When you hit a creature with a firearm attack, you deal damage as normal and the creature must make a Constitution saving throw. On a failure, a creature takes damage equal to your Intelligence modifier for every 5 feet it moves for one minute. The creature may repeat its saving throw at the end of its subsequent turns.
+
+**Suppressing Fire.** When you hit a creature, you can pin it down. The target takes damage as normal and, if the creature moves voluntarily before the start of your next turn you can use your reaction to make an attack against them.
+
+**Warning Shot.** When you make an attack roll you can attempt to intimidate the target. On a hit, the creature takes no damage as instead the bullet misses by an inch. The creature must make a Wisdom saving throw, becoming frightened on a failure. If the target fails its saving throw by or more, it instead is charmed by you and will defend you and your allies. Both effects last for one minute, and a frightened creature can use its action to repeat its saving throw on its turn.

@@ -1,0 +1,48 @@
+### Custodian Defender
+[**Source:** *Custodian Defender (5E Artificer Subclass)*](https://homebrewery.naturalcrit.com/share/XKp0SsQdAAX5)
+
+Custodian Defenders are designed for a multitude of attacks from all sides; but where they lack strength, they make up for it in wits, and tactical advantage. armed with their adaptation shields, they can react to any situation, defending themselves and their allies, providing a strong defensive support whilst the team make up the offensive. but for when such times call, they can convert their shields into Camograph Suits, charging headfirst into battle with the aid of their adaptable shields, or laying down covering fire from a distance.
+
+#### Custodian Defender Spells
+| Artificer Level | Spells |
+|:----:|:-------------|
+| 3rd | *Shield*, *Entangle* |
+| 5th | *Warding Bond*, *Find Traps* |
+| 9th | *Pulse Wave*, *Aura of Vitality* |
+| 13th | *Resilient Sphere*, *Intellect Fortress* |
+| 17th | *Circle Of Power*, *Wall of Force* |
+
+#### Custodian Barrier
+At 3rd level, you learn how to create a defensive barrier. As an action, you can choose to activate your defensive barrier; you can either place it on an ally for the Reflective Barrier, or throw it up to 20ft away for the Bulwark or Fortification Shields.
+
+Once you create a barrier, you can't do so again until you finish a long rest. or until you expend a spell slot of 1st level or higher. You can have only one barrier at a time and can't create one while your shield is present. The shields are considered a magical object.  If the Mending spell is cast on it, it regains 2d6 hit points(or temporary hit points, for the Reflective Shield). It breaks if it is reduced to 0 hit points, and you can dismiss it early as an action.
+
+##### Custodian Barrier
+| Barrier Type | Effects |
+|:----:|:-------------|
+| **Reflective Barrier** | Upon placement on a friendly creature within 5 feet of you, the reflective barrier covers their body completely, acting as a second skin. when activated, they gain temporary hit points equal to 3 times your artificer level.  |
+| **Bulwark Shield** | The Bulwark Shield acts as a 15ft long; when activated, you can expand it or shrink it in any direction, and you can choose its shape, and it can be as tall as 5 feet. It's AC is 0, and it has an amount of hit points equal to 6 + 2 times your artificer level. whilst directly behind it, each creature gains the benefits of half cover.|
+| **Fortification Shield** | The Fortification shield expands in a 20ft radius from the point its activated, creating a hemispherical barrier; each creature within 20ft is concealed inside it. It's AC is considered 0, and it has an amount of Hit points is equal to 4 times your Artificer Level. attacks and spells cannot pierce the shield, and creatures inside or out cannot see through.  |
+
+#### Enhanced Barriers
+Beginning at 5th level, your abilities as a defender are enhanced, as each barrier form gains an upgrade. whenever you create a barrier, it gains the following ability matching its type.
+
+**Reflective Barrier**: The Reflective Barrier now acts as an active camoflauge; whilst someone has your barrier active, they gain a bonus to stealth checks equal to your Intelligence Modifier.
+
+**Bulwark Shield**: The Bulwark Shield becomes sturdier, increasing in defence. It's AC is now considered equal to your spell save DC.
+
+**Fortification Shield**: The Fortification shield increases in its defensive capabilities and size; its radius now increases to 30ft, and it's AC is now considered equal to your spell save DC.
+
+#### Defense Operative
+Beginning at 9th level, your abilities as a Defensive Specialist grow beyond your barriers, as you find ways to defend and secure large areas.
+
+You can spend 10 minutes on an area up to 100x100, placing "Sensors" in strategic positions. once the hour is complete, you can choose up to 6 creatures (including yourself) to not be affected by the sensors. for the next 8 hours, anyone who steps into the area and is affected must make a Dex save against your Sensors for every 10ft they move. if they fail,  an alarm is triggered, stating which 10x10 area was triggered by the sensors. you can choose to have the alarm sound be either in your mind or to activate at a point you choose; If you are resting, this alarm can wake you up.
+
+#### Ultimate Sentinel
+Beginning at 15th level, you gain access to powerful upgrades, maxing out your defensive capabilities. each Shield now gains an additional ability, dependant on which shield you create.
+
+**Reflective Barrier**: Whenever a bearer of a reflective barrier is hit with a ranged attack, as a reaction they can reflect a portion of the attack; the original attacker is forced to make a dexterity saving throw, taking half the damage they dealt on a failed save, or none on a success. As a part of the same reaction, they can then move up to their walking speed instantly.
+
+**Bulwark Shield**: The bulwark shield increases in size, gaining access to a second form. it's length now increases to 30ft whilst in half-cover mode. as an action, you can switch modes; its length decreases to 10ft, but increases to up to 30ft in height, providing full cover to anyone behind it.
+
+**Fortification Shield**: The Fortification shield now allows creatures inside it to see through its walls, and they can also now make ranged weapon attacks through it to targets outside.

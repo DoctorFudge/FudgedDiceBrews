@@ -1,0 +1,95 @@
+### Crusader
+[**Source:** *The Complete Martialist Handbook*](https://drive.google.com/file/d/1oGWtJWYIL63dUACooColfDVhX6MllXji/view)
+
+Archetypal Crusaders faithfully execute the will and enforce the ideologies of their deities, their martial prowess augmented by divine magic. Crusaders specialize in abjuration and evocation magic to better protect the allies of their god and destroy their god's enemies. A crusader's greatest ambition is to build an army of faithful devotees and bring the word of their deity to all.
+
+#### Divine Domain
+When you choose this archetype at 3rd level, choose one divine domain from your chosen deity's list of eligible domains.
+
+#### Spellcasting
+When you reach 3rd level, you augment your martial prowess with divine manifestations of your faith by casting spells. See chapter 10 in the Player's Handbook for the general rules of spellcasting and chapter 11 in the same for the cleric spell list.
+
+***Cantrips.*** You learn two cantrips of your choice from the cleric spell list. You learn an additional cleric cantrip of your choice at 10th level.
+
+***Preparing and Casting Spells.*** The Crusader Spellcasting table shows how many spell slots you have to cast your cleric spells of 1st level and higher. To cast one of these cleric spells, you must expend a spell slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+You prepare the list of cleric spells that are available for you to cast, choosing from among the abjuration and evocation spells on the cleric spell list. When you do, choose a number of those spells equal to your fighter level divided by 3, rounded up. The spells must be of a variety for which you have spell slots.
+
+For example, if you are a 7th-level fighter, you have four 1st-level spell slots and two 2nd-level spell slots. Your list of prepared spells can include 3 spells of 1st or 2nd level, in any combination. If you prepare the 1st- level spell cure wounds, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of cleric spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+
+##### Crusader Spellcasting
+| Fighter Level | Cantrips Known | 1st | 2nd | 3rd | 4th |
+|:-:|:-:|:-:|:-:|:-:|:-:|
+| 3rd | 2 | 2 | — | — | — |
+| 4th | 2 | 3 | — | — | — |
+| 5th | 2 | 3 | — | — | — |
+| 6th | 2 | 3 | — | — | — |
+| 7th | 2 | 4 | 2 | — | — |
+| 8th | 2 | 4 | 2 | — | — |
+| 9th | 3 | 4 | 2 | — | — |
+| 10th | 3 | 4 | 3 | — | — |
+| 11th | 3 | 4 | 3 | — | — |
+| 12th | 3 | 4 | 3 | — | — |
+| 13th | 3 | 4 | 3 | 2 | — |
+| 14th | 3 | 4 | 3 | 2 | — |
+| 15th | 3 | 4 | 3 | 2 | — |
+| 16th | 3 | 4 | 3 | 3 | — |
+| 17th | 3 | 4 | 3 | 3 | — |
+| 18th | 3 | 4 | 3 | 3 | — |
+| 19th | 3 | 4 | 3 | 3 | 1 |
+| 20th | 3 | 4 | 3 | 3 | 1 |
+
+***Domain Spells.*** Each domain has a list of spells (found in the Cleric section of the Player's Handbook) — its domain spells — that you gain at certain fighter levels shown in the Crusader Domain Spells table. Once you gain a domain spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
+
+If you have a domain spell that isn't an abjuration or evocation spell on the cleric spell list, the spell is nonetheless a crusader spell for you.
+
+***Spellcasting Ability.*** Wisdom is your spellcasting ability for your crusader spells since your spells come from your devotion to your deity. You use Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a crusader spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+
+</center>
+
+<center>
+
+**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+
+</center>
+
+***Spellcasting Focus.*** You can use a holy symbol (found in chapter 5 of the Player's Handbook) as a spellcasting focus for your crusader spells.
+
+##### Crusader Domain Spells
+| Spell Levels | Fighter Level Gained |
+|-|-|
+| 1st | 3rd |
+| 2nd | 7th |
+| 3rd | 13th |
+| 4th | 19th |
+| 5th | — |
+
+#### Channel Divinity
+At 3rd level, you gain the ability to channel divine energy directly from your deity, using that energy to fuel magical effects. You start with two such effects: Silence Heathens and an effect determined by your Divine Domain's 2nd-level feature. Your fighter level counts as your cleric level for the purpose of your domain's Channel Divinity.
+
+When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest before you can use your Channel Divinity again.
+
+Some Channel Divinity effects require saving throws. When you use such an effect from this class, the DC equals your crusader spell save DC.
+
+Beginning at 15th level, you can use your Channel Divinity twice between rests.
+
+***Silence Heathens.*** As an action, you present your holy symbol and speak a prayer censoring your foes. Each enemy within 10 feet of you that can see or hear you must make a Charisma saving throw. If the creature fails its saving throw, it is silenced for 1 minute. At the end of each of its turns, an affected creature can repeat the saving throw, ending the effects on a successful save.
+
+A silenced creature can't produce verbal sounds or provide the verbal components for spells. Any feature that requires it to speak or otherwise make verbal sound is unusable while it is silenced.
+
+***March to War.*** Starting at 7th level, you can guide your compatriots through the worst terrain and toward your divine calling, using your Channel Divinity. As an action, choose a number of willing creatures within 30 feet of you that you can see up to your Wisdom modifier (minimum 1). You and each of the chosen creatures ignore difficult terrain and gain the benefits of the water walk spell for 1 hour. The duration ends early if you become unconscious or die, or if you choose to end it (no action required by you).
+
+#### Glorious Bastion
+Beginning at 10th level, battling in your deity's name increases your divine resilience. When you take the Attack action and hit one or more creatures with weapon attacks, you have advantage on the next saving throw you make against one of those creatures' effects before the start of your next turn.
+
+#### Divine Surge
+Starting at 15th level, when you use your Action Surge, you burst with a corona of your deity's power. Enemy creatures within 10 feet of you take 2d8 radiant damage, and you and allied creatures within 10 feet of you regain 2d8 hit points.
+
+#### Deity's Chosen
+At 18th level, you gain your Divine Domain's 17th- level feature.

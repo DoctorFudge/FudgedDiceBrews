@@ -1,0 +1,50 @@
+## Book Wyrm
+[**Source:** *Book of Uncommon Ancestry*](https://drive.google.com/file/d/1LKItpZ_y7ZqtGyK5h1UKwSV1e_by_VHV/view)
+
+*Our party was running low on rations, so Shakespeare volunteered to go without for the night. The next morning my spellbook was missing and I couldn’t help but notice she refused to make eye contact with me. Needless to say I’ll be packing my spellbook with dried fire peppers from now on.*
+
+<div style="text-align: right">
+— Maximillian Darkblade, drow wizard
+</div>
+
+Despite a cursory resemblance to winged kobolds, what sets book wyrms apart from their draconic cousins, or any other people for that matter, is their unusual diet: written documents. Book wyrms can gain sustenance from the same food as any other race but vastly prefer to dine on scrolls, tomes, and books. This quirk makes them unpopular with most wizards.
+
+### Leatherbound Tome Tasters
+Often mistaken for dragonborn children or a distant cousin of that race, book wyrms have a draconic appearance but are smaller with long thin tails and wings as long as they are tall. These bibliovores typically stand between 3 and 4 feet tall although they may appear shorter as they almost all have a stoop in their posture. They infrequently weigh more than 100 pounds. A book wyrm’s leathery wings span up to 4 feet wide and their long tail hovers above the ground behind them when they walk.
+
+Book wyrms are hairless though some exhibit whiskers around their snout that can resemble facial hair. They range in color from off-white to tan to dark brown and are fond of decorating themselves with body paint, often utilizing bright colors. It is a custom for book wyrms to carry an autobiographical document on their person at all times so that, should they die, their life story can be served as a delicious and sentimental meal at their own funeral.
+
+### Living Libraries
+Scholars among book wyrms believe the origin of their people lies in the ancient experiments of a wizard. There is a great debate over whether book wyrms were made to be servants who could helpfully absorb any written knowledge, or created to be a plague meant to harass rival casters with spellbook-eating enemies. Whatever the true origins of the book wyrms, it must not have been written down because they don’t know it.
+
+Despite their habit of treating rare and obscure books as delicacies, book wyrms are taught from a young age to be moderate in their habits and to copy any book that looks important before consuming it. This habit is a result of the great chagrin of other races from having given a book wyrm access to their personal library only to discover it was used as a buffet. Book wyrms prefer written documents they’ve never had before and only eat something they themselves have written if no other book or food is available.
+
+### Hungry for Knowledge
+Being bibliovores makes book wyrms natural travelers. Book wyrms rarely settle in one place for very long, unless it is a large enough city to support a near constant supply of fresh and original writing. In the absence of a literary mecca, book wyrms travel from place to place, tasting the finest poems, the most obtuse bureaucratic documents, books of lore, and historical treatises.
+
+This wanderlust makes adventuring a relatively easy transition for them. First, traveling long distances to far off places is a gastronomic imperative. Second, subterranean ruins, where no living being has been in hundreds of years, sound like the perfect place to find a one-of-a-kind book for a special feast.
+
+### Book Wyrm Names
+Book wyrms are commonly given up to three names upon hatching. Unlike many other races, book wyrms have no family or clan name. Each of the names given to a book wyrm is a part of their personal name. Often book wyrms name their children after famous, prolific, or remarkable but obscure authors. As a result, some book wyrms have odd combinations of other race’s names.
+
+___
+- Book Wyrm Names: Aumar, Bigby, Elminster, Geddarm, Harpell, Iggwilv, Leomund, Melf, Mordenkainen, Rudolph, Shakespeare, van Richten, Volothamp
+
+### Book Wyrm Traits
+Your book wyrm character has the following racial traits.
+
+***Ability Score Increase.*** Your Constitution score increases by 2, and your Intelligence score increases by 1.
+
+***Age.*** Book wyrms are hatched from eggs rather than born live. They hatch within a matter of months, reach maturity in 3 years, and have a lifespan of approximately 100 years.
+
+***Alignment.*** Book wyrms are collectivistic, putting the needs of their community above their own desires. As such, they are often lawful, and chaotic book wyrms can be treated as pariahs. Book wyrms are often neutral, sometimes good, and rarely evil.
+
+***Size.*** Book wyrms stand between 3 and 4 feet tall, with a wingspan of the same length, and weigh up to 100 pounds. Your size is Small.
+
+***Speed.*** Your base walking speed is 25, and you have a flying speed of 25 feet.
+
+***Bibliovorous.*** Books, scrolls, and other written documents count as food for you. When you eat a written document, you learn the entirety of the text as if you had read it.
+
+***Well Read.*** You are proficient with calligrapher’s supplies and in your choice of two of the following skills: Arcana, History, Investigation, Nature, and Religion.
+
+***Languages.*** You can speak, read, and write Common. You can read all written languages.

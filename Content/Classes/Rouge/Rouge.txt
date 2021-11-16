@@ -1,0 +1,257 @@
+## Rouge
+[**Source:** *The Rouge*](https://drive.google.com/file/d/1JoSZJgk7QeAXitp25iZEsFIKrFWQbO4G/view)
+
+##### The Rouge
+| Level | Proficiency Bonus | Features | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1st | +2 | Make-Up Savant, Spellcasting | 3 | 2 | — | — | — | — | — | — | — | — |
+| 2nd | +2 | Rouge Specialisation | 3 | 3 | — | — | — | — | — | — | — | — |
+| 3rd | +2 | Favoured Face, Mirror Mirror | 3 | 4 | 2 | — | — | — | — | — | — | — |
+| 4th | +2 | Ability Score Increase | 4 | 4 | 3 | ─ | ─ | ─ | ─ | — | — | — |
+| 5th | +3 | Inked Magic (1st) | 4 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th | +3 | Rouge Specialisation Feature | 4 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th | +3 | — | 4 | 4 | 3 | 3 | 1 | ─ | ─ | — | — | — |
+| 8th | +3 | Ability Score Increase | 4 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th | +4 | Inked Magic (2nd) | 4 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | +4 | Someone Else's Face | 5 | 4 | 3 | 3 | 3 | 2 | ─ | — | — | — |
+| 11th | +4 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12th | +4 | Ability Score Increase | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | +5 | Rouge Specialisation Feature | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | +5 | Comedy and Drama | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | +5 | Inked Magic (3rd) | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | +5 | Ability Score Increase | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | +6 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | +6 | Face of Habit | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th | +6 | Ability Score Increase | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th | +6 | Rouge Specialisation Feature | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
+***Quick Build.*** Make Charisma and Dexterity your top stats, and take the Entertainer background.
+
+Mysterious and alluring, the rouge's true nature is always in flux. Their faces change with the hours of the day. Their hands are as quick as rabbits, their paints in colours no one has ever seen before. The rouge's magic comes from their careful application of face paint to achieve magical effects that can be equally enchanting and terrifying. Rouges can be anyone or anything, and the weave that forms the world twists for their benefit.
+
+## Class Features
+As a rouge, you gain the following class features.
+
+#### Hit Points
+___
+- **Hit Dice:** 1d6 per rouge level
+- **Hit Points at 1st Level:** 6 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per rouge level after 1st
+
+#### Proficiencies
+You are proficient with the following items, in addition to any proficiencies provided by your race or background.
+___
+- **Armor:** none
+- **Weapons:** daggers, darts, slings, quarterstaffs, light crossbows
+- **Tools:** disguise kit, painter's tools
+___
+- **Saving Throws:** Wisdom, Charisma
+- **Skills:** Choose four from Acrobatics, Arcana, Deception, History, Insight, Intimidation, Perception, Performance, Persuasion, Religion, Sleight of Hand, and Stealth.
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* 2 daggers or *(b)* a quarterstaff
+- *(a)* a light crossbow and 20 bolts or *(b)* any simple weapon
+- *(a)* an entertainer's pack, *(b)* a diplomat's pack, or *(c)* an explorer's pack
+- a disguise kit, a set of painter's tools, and a make-up kit
+
+#### Make-Up Savant
+Starting at 1st level, your proficiency bonus is doubled for any ability check that involves the use of your disguise kit, your painter's tools, or your make-up kit.
+
+### Spellcasting
+Your ability to channel magic through the application of make-up is an uncommon source of power in the world, replicating effects from both the study of the arcane and the divine. When you cast spells, the somatic and material components of the spell are replaced with the act of applying make-up to you or your target. See chapter 10 for the general rules of spellcasting.
+
+#### Cantrips
+At 1st level, you know three cantrips of your choice from the rouge spell list. You learn additional rouge cantrips of your choice at higher levels, as shown in the Cantrips Known column of the rouge table.
+
+#### Preparing and Casting Spells
+The rouge table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+You prepare the list of rouge spells that are available for you to cast, choosing from the rouge spell list. When you do so, choose a number of rouge spells equal to your Charisma modifier + your rouge level (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+For example, if you are a 3rd-level rouge, you have four 1st- level and two 2nd-level spell slots. With a Charisma of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell *cure wounds*, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of rouge spells requires time spent arranging your make-up kit in the correct configuration: at least 1 minute per spell level for each spell on your list.
+
+#### Spellcasting Ability
+Charisma is your spellcasting ability for your rouge spells. The power of your spells comes from your technical ability with your make-up supplies. You use your Charisma whenever a rouge spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a rouge spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell Save DC** = 8 + your proficiency bonus + your Charisma modifier
+
+**Spell attack modifier** = your proficiency bonus + your Charisma modifier
+
+</center>
+
+#### Spellcasting Focus
+You use your make-up kit as a spellcasting focus for your rouge spells, which can also replace somatic components. Without your make-up kit, you cannot cast spells of 1st level or higher, but you can still cast cantrips.
+
+When you cast a spell that has material components with a gold cost, you can replace the components of that spell with your make-up, but you require specialised, expensive make-up to do so. The specialised make-up you need costs the same amount as the materials components would have cost.
+
+### Rouge Specialisation
+At 2nd level, choose one rouge specialisation: Clown, Effects Master, Fashionista, Goth, or Pretty Face. Each specialisation is a different mode of application for your make-up skills.
+
+#### Specialisation Spells
+Each rouge specialisation has a list of spells -- its specialisation spells -- that you gain when you can cast spells of the level listed in the description. Once you gain a specialisation spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day.
+
+If you have a specialisation spell that doesn't appear on the rouge spell list, the spell is nonetheless a rouge spell for you.
+
+### Favoured Face
+Starting at 3rd level, you can choose a favoured face from the following list. The effects apply only as long as your make-up remains on your face, and these are not considered to be magical effects (for example, they cannot be dispelled). Using a mirror, you can change your favoured face by taking ten uninterrupted minutes to apply new make-up.
+
+Your rouge specialisation gives you an additional favoured face option.
+
+##### Blushing Bride
+You have advantage on Charisma checks made to flirt with humanoid creatures.
+
+##### Eyes of Horus
+You have advantage on Wisdom (Perception) checks that rely on sight.
+
+> Your passive Perception score is also increased by 5 by this feature.
+
+##### Empty Doll
+Other creatures have disadvantage on Wisdom (Insight) checks made to gain insight on your thoughts or behaviour.
+
+##### Venomous Ivy
+When you use your action to kiss a humanoid creature on the lips, they take 2d8 poison damage. This damage increases to 3d8 at your 5th level of rouge, to 4d8 at 11th level of rouge, and 5d8 at 17th level of rouge. A creature that knows you are trying to kiss it can make a Dexterity saving throw against your spell save DC to avoid being kissed.
+
+##### Shadowy Stalker
+You can take the Hide action as a bonus action while in dim light or darkness.
+
+### Mirror Mirror
+Also at 3rd level, you gain the ability to fabricate mirrors from any substance. As an action, choose a 1 foot by 1 foot block of loose materials that you can see within range that are stone, sand, or another mineral substance. You create a circular mirror that has a diameter of no more than 1 foot. This mirror can include a handle. Creatures or magic items are unaffected by this ability.
+
+### Ability Score Increase
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+
+### Inked Magic
+Starting at 5th level, you can replenish your source of magic by taking 10 minutes to paint a rune into your skin using your make-up kit. You can smear away this rune as a bonus action to regain a 1st-level spell slot. Once you have replenished a spell slot using this feature, you can't repaint the rune on your body until you have completed a short or long rest.
+
+At 9th level, you gain the knowledge to paint a second rune into your skin. This second rune functions the same as the first, but can be used to replenish a 1st- or 2nd-level spell slot.
+
+At 15th level, you gain the knowledge to paint a third rune into your skin. This third rune functions the same as the first and second, but can be used to replish a 1st-, 2nd-, or 3rd- level spell slot.
+
+### Someone Else's Face
+Starting at 10th level, your make-up ability becomes uncanny. After studying a humanoid face for at least 10 minutes, you can take another 10 minutes to perfectly replicate that face onto your own. In addition to changing your face, your magic also changes your voice to match, and can also make you shorter or taller by up to 1 foot. The effects last until the make-up is removed.
+
+A suspicious creature can make a Wisdom (Insight) ability check to examine you, rolling against your spell save DC to identify you as an imposter. The creature has advantage on this check if they know the person you are impersonating personally.
+
+### Comedy and Drama
+Starting at 14th level, when you are under the effects of a spell or other magical effect, you can take an action to repaint your face, changing your expression in the process. If you do so, the next saving throw you make to end the spell or effect is made with advantage. This doesn't end any effects that rely on wearing make-up. It also changes your mood from optimistic to pessimistic, or vice versa.
+
+### Face of Habit
+At 18th level, you have grown so adept at painting your face that much of your magical ability comes without conscious thought. You don't need to spend spell slots to cast 1st-level spells from your list of specialisation spells. To cast the spell at a higher level, you must spend the appropriate spell slot. For example, a clown can cast *color spray* at will, or it can spend a 2nd-level slot to cast *color spray* at a higher level.
+
+## Make-Up and Magic
+Casting spells using your make-up kit as a spell focus may look different to how spells are usually cast in the game. The following are clarifications and examples of this.
+___
+- ***The spell is cast on yourself.*** You apply the makeup to your own face. For example, for disguise self, you paint a semblance of a disguise on your face, at which point the magic effects take over and complete the disguise.
+- ***The spell is cast on an ally and has a range of touch.*** You apply the makeup to your ally. For example, cure wounds may involve painting fresh healed skin over the wound.
+- ***The spell is cast on an ally and has a range further than touch.*** You apply the makeup to yourself and the magic spreads to nearby allies. For example, you paint winged eyeshadow as part of feather fall, and when the magic kicks in, it affects allies of your choice as it would under any other circumstance. You apply the makeup to yourself even if you aren't one of the targets of the spell.
+- ***The spell is cast on an enemy and has a range of touch.*** You slop a loose coat of make-up over your enemy when you touch them. For example, bestow curse may require you to paint a cursed sigil on the palm of your hand and slap the wet paint onto a flat surface on their armor.
+- ***The spell is cast on an enemy and has a range further than touch.*** You apply makeup to your own face and the enemy looks on in horror. For example, you paint a terrifying monstrous visage to cast fear. Some spells don't require the enemy to see you, in which case the makeup merely imbues you with the power to cast the spell.
+- ***The spell requires a ranged attack roll.*** You apply the makeup to your own face and then make the attack roll as the magic kicks in. For example, you paint your face an angelic shade of white for guiding bolt, filling you with heroic energy that is released when you point at your target.
+- ***The spell has no specific target.*** You apply the makeup to your own face, and the magic emanates out into the world from there. For example, the makeup applied as part of silent image might slide off of your face and reform into the illusion the spell creates, or, while casting prestidigitation, the gestures required for your makeup like flicking your wrist or pinching your nose can be replicated in the world as a candle sputtering to life or an odor disappearing.
+- ***When in doubt.*** You apply the makeup to your own face and cast the spell as normal.
+
+## Rouge Spells
+##### Cantrips (0 Level)
+- blade ward
+- booming blade
+- friends
+- guidance
+- mending
+- prestidigitation
+- resistance
+- thaumaturgy
+- vicious mockery
+
+##### 1st Level
+- absorb elements
+- armor of agathys
+- charm person
+- comprehend languages
+- cure wounds
+- detect poison and disease
+- detact magic
+- disguise self
+- expeditious retreat
+- false life
+- feather fall
+- jump
+- longstrider
+- mage armor
+- protection from evil and good
+- sanctuary
+
+##### 2nd Level
+- alter self
+- barkskin
+- blur
+- darkvision
+- detect thoughts
+- dragon's breath
+- enhance ability
+- enlarge/reduce
+- enthrall
+- gen tIe repose
+- invisibility
+- mirror image
+- pass without trace
+- see invisibility
+
+##### 3rd Level
+- fear
+- feign death
+- haste
+- meld into stone
+- nondetection
+- protection from energy
+- remove curse
+- revivify
+- tongues
+- vampiric touch
+- water breathing
+
+##### 4th Level
+- compulsion
+- confusion
+- death ward
+- divination
+- freedom of movement
+- greater invisibility
+- polymorph
+
+##### 5th Level
+- awaken
+- creation
+- dream
+- modify memory
+- passwall
+
+##### 6th Level
+- contingency
+- harm
+- heal
+- sunbeam
+- true seeing
+
+##### 7th Level
+- etherealness
+- plane shift
+- regenerate
+- symbol
+
+##### 8th Level
+- clone
+- glibness
+- mind blank
+- telepathy
+
+##### 9th Level
+- astral projection
+- foresight
+- invulnerability
+- shapechange
+- time stop

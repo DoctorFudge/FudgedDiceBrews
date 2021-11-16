@@ -1,0 +1,50 @@
+
+
+### Eldritch Mutations
+#### Enhanced Strength
+As a bonus action, you may expend 1+ mutation points to empower your strength. These Effects each last one minute per mutation point spent, minimum of 1.
+- If you spend 1 or more mutation points on this mutation,  when you would add your strength modifier to an attack or damage roll, you may instead use your constitution modifier.
+- If you spend 3 or more mutation points on this mutation, you have advantage on strength checks and saving throws.
+- If you spend 5 or more mutation points on this mutation, you have advantage on all melee attack rolls.
+- If you spend 9 or more mutation points on this mutation, whenever you make a strength check or saving throw, you can treat a d20 roll of 9 or lower as a 10.
+- If you spend 11 or more mutation points on this mutation, whenever you make a melee attack, you can treat a d20 roll of 9 or lower as a 10.
+
+#### Enhanced Defence
+As a bonus action, you may expend 1+ mutation points to empower your defenses. These Effects each last one minute per mutation point spent, minimum of 1.
+- If you spend 1 or more mutation points on this mutation,  you gain a +1 to your armor class.
+- If you spend 3 or more mutation points on this mutation, whenever another creature hits you with a melee attack, you can use your reaction to add your Constitution Modifier to your AC for that attack, potentially causing the attack to miss you.
+- If you spend 5 or more mutation points on this mutation, when another creature forces you to make a constitution saving throw, you can use your reaction to add your Constitution Modifier to your saving throw for that save, potentially causing a failure to become a success.
+- If you spend 9 or more mutation points on this mutation, whenever you make a constitution check or saving throw, you can treat a d20 roll of 9 or lower as a 10.
+- If you spend 11 or more mutation points on this mutation, any critical hit against you becomes a normal hit.
+
+#### Arm Blades
+As a bonus action, you may expend 1+ mutation points to cause blades to sprout from your arms. These Effects each last one hour per mutation point spent, to a maximum of 8 hours, minimum of 1.
+- If you spend 1 or more mutation points on this mutation,  your unarmed attacks count as simple melee weapons with the finesse and light properties. Your unarmed strikes deal 1d8 piercing damage instead of its normal damage.
+- If you spend 3 or more mutation points on this mutation, your unarmed strikes count as magical for the purpose of overcoming resistances and immunities. Furthermore, you gain a bonus to your attack and damage rolls with your unarmed strikes equal to half your proficiency bonus, rounded down.
+- If you spend 5 or more mutation points on this mutation, attacks with your unarmed strikes score critical hits on 19-20
+- If you spend 9 or more mutation points on this mutation, whenever you score a critical hit with your unarmed strikes, roll three times the dice instead of two times.
+- If you spend 11 or more mutation points on this mutation, attacks with your arm-blades score critical hits on 18-20
+
+#### Acidic Body
+As a bonus action, you may expend 1+ mutation points to cause your system to rapidly start producing acid. These Effects each last one minute per mutation point spent, minimum of 1.
+- If you spend 1 or more mutation points on this mutation,  whenever you take the attack action, you can choose to replace any number of your attack with a special acid spit. Target one creature within 5ft of you. The targeted creature must make a dexterity saving throw against your mutation save DC or take 1d6 acid damage, and then must make a constitution save or be covered in acid. While covered in acid, the creature takes 1d4 acid damage at the start of each turn. The affected creature or any creature adjacent to it can spend its action to wipe it off, taking 1d4 acid damage in the process.
+- If you spend 3 or more mutation points on this mutation, whenever a creature within 5ft of you hits you with a melee attack, the creature takes 1d8 acid damage.
+- If you spend 5 or more mutation points on this mutation, whenever you deal acid damage to a creature, the acid damage ignores resistances.
+- If you spend 9 or more mutation points on this mutation,  your melee weapon attacks deal an extra 2d6 acid damage on a hit.
+- If you spend 11 or more mutation points on this mutation, whenever you deal acid damage to a creature, the acid damage ignores immunities.
+
+#### Enhanced Speed
+As a bonus action, you may expend 1+ mutation points to empower your speed. These Effects each last one minute per mutation point spent, minimum of 1.
+- If you spend 1 or more mutation points on this mutation, your speed increases by 15 ft. and you may take the dash action as a bonus action.
+- If you spend 3 or more mutation points on this mutation, While this Mutation is Active, you use your constitution modifier in place of dexterity to calculate armor class.
+- If you spend 5 or more mutation points on this mutation, you gain 2 reactions on your turn instead of one, though you may only use one reaction
+- If you spend 9 or more mutation points on this mutation, when you make a dexterity check or saving throw, you can treat a d20 roll of 9 or lower as a 10.
+- If you spend 11 or more mutation points on this mutation, once on each of your turns you gain an extra action, which can only be used to take the disengage or dash action.
+
+#### Modify Form
+As a bonus action, you may expend 1+ mutation points to alter your physical form. These Effects each last one hour per mutation point spent, to a maximum of 8 hours, minimum of 1.
+- If you spend 1 or more mutation points on this mutation, you can use your action to transform your Appearance. You decide what you look like, including your height, weight, facial features, sound of your voice, hair length, coloration, and distinguishing Characteristics, if any. You can make yourself appear as a member of another race, though none of your Statistics change. You also don't appear as a creature of a different size than you, and your basic shape stays the same, if you're bipedal, you can't use this feature to become quadrupedal, for instance.
+- If you spend 3 or more mutation points on this mutation, you gain a swim speed equal to your walking speed and can breathe underwater so long as your form would allow you to do so.
+- If you spend 5 or more mutation points on this mutation, you gain a bonus to charisma ability checks equal to your constitution modifier.
+- If you spend 9 or more mutation points on this mutation, a charisma check or saving throw, you can treat a d20 roll of 9 or lower as a 10.
+- If you spend 11 or more mutation points on this mutation, you gain a flying speed equal to your walking speed so long as your new form would allow you to do so.

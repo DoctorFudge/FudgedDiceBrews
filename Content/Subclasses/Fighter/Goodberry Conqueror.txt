@@ -1,0 +1,19 @@
+### Goodberry Conqueror
+[**Source:** *Praise Be The Goodberry! Compendium*](https://www.gmbinder.com/share/-LZeyRZtzKZLu2cjiglX)
+
+The power of the Goodberry is great and there are those who seek to take that power and make it their own. Perverting it and twisting it to their own ends. Often forming weaponry from goodberry wood and plant matter.
+
+#### Axe of the Great Goodberry
+When you choose this archetype at 3rd level, you can create an axe formed entirely from wood with vines wrapping the handle into your free hand as a bonus action. This axe can only be wielded by you and you cannot be disarmed of it. You can choose for the axe to be a handaxe, greataxe, or a battleaxe each time you manifest it.
+
+#### Eco-Terror
+At 7th level, your time spent spitting on the legacy of the Great Goodberry has made you more resilient and aware of the dangerous effects of nature and its guardians. You have advantage on saving throws made against effects created by creatures with the plant type and you are resistant to poison damage and are immune to the poisoned condition.
+
+#### Corrosive Edge
+At 10th level, whenever you succeed on an attack with your axe you can as a reaction spend a use of Second Wind and deal additional acid damage equal to 1d10 + your fighter level instead of regaining HP.
+
+#### Wave of Desolation
+At 15th level, whenever you use Corrosive Edge you deal an additional 1d4 acid damage on all your attacks after you use Corrosive Edge until the end of this combat.
+
+#### Enemy of Nature
+At 18th level, your crusade against the natural world and the domain of the Great Goodberry has become a core part of your being. Whenever you succeed on a weapon attack on a creature with the plant type or a nonmagical plant you deal triple damage.

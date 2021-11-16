@@ -1,0 +1,40 @@
+### Code of Torment
+A strangely enchanted Knight imbued with Ichor. Not truly alive, not truly dead. Something in between.
+
+#### Grave Weapon
+Starting when you choose this Code at 1st Level, you forge a scythe that empowers your enchanted abilities. You are proficient with scythes. The scythe has the stats of a regular scythe, as well as the *Finesse* property. By spending 8 hours you can recraft a new scythe.
+
+#### Ichor Empowered
+You may spend an amount of Ichor to add a bonus to your attack rolls or a number of d6 slashing to your damage rolls equal to the amount of Ichor spent. This must be declared before you make the attack roll.
+
+#### Poisoned Mind
+Your body has given in to the corruption and decay of your code. With this, you gain resistance to poison damage from all sources. However, in order to heal from potions or safely consume food or drink, you must spend one minute corrupting them. Restoration spells (such as *Cure Wounds*) still have a healing effect on you.
+
+#### Dash Slash
+At 3rd Level, as your action, choose a target creature within 15 feet and draw a line centered from you that extends five feet past the target. You fly past and through them to that location, making a melee attack against the target during your travel.
+
+You may expend half your movement to adjust your landing an additional five feet. This ability cannot be used for making nor provoking opportunity attacks. You may use this ability while airborne or falling.
+
+#### Undying Soul
+At 3rd Level, your enchantment's grip on your soul heightens. On death, instead of dying outright you drop your trinket. If an allied creature picks up the trinket and completes a long rest within 24 hours, you are revived. If your trinket is destroyed, you are permanently destroyed. A willing creature can don the trinket and hear your voice.
+
+If you lose the trinket, within 72 hours you will begin to decay and be permanently destroyed.
+
+#### Upheaving Swing
+At 6th Level, when taking your attack action against an opposing creature, you may spend 1 ichor to cause the target creature to make a Strength saving throw against your Ichor Save DC. If it fails, you impose the following:
+
+- The target creature is launched 5 feet into the air until the start of their turn, during which they land on their feet as normal.
+- While in the air, attacks made against them are done so with advantage and cause a creature to fall prone on a success.
+
+You may spend an additional 1 Ichor to perform an extra attack using Dash Slash.
+
+#### Expert Movement
+At 11th level, you gain the ability to climb faster than normal; climbing no longer costs you additional movement.
+
+In addition, you are now resistant to falling damage.
+
+#### Between Planes
+At 15th level, you've grown comfortable with your new existence. After taking a long rest, choose one damage type from the following list, you have resistance to it for 8 hours: *Fire*, *Lightning*, *Acid*, *Cold*.
+
+#### The Reaper
+At 17th Level, on your turn you may spend your movement to throw your scythe in a direction of your choosing within 120 feet and line of sight. As part of this action you may choose to teleport to your scythe and perform a melee attack. If you lose your scythe, you may use a bonus action to return it to your hand, so long as it is on the same plane of existence as you.

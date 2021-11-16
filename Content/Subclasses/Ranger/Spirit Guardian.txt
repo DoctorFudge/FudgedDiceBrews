@@ -1,0 +1,68 @@
+### Spirit Guardian
+[**Source:** *The Complete Martialist Handbook*](https://drive.google.com/file/d/1oGWtJWYIL63dUACooColfDVhX6MllXji/view)
+
+Some rangers turn to the primordial to protect their homes, bonding with an elemental spirit. Spirit Guardians entwine their essence with these totemic guardians, manifesting aspects of the spirits' powers, and becoming far more attuned to the denizens of the Elemental Planes.
+
+#### Spirit Guardian Magic
+Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Spirit Guardian Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
+
+##### Spirit Guardian Spells
+Ranger Level|Spells
+:-----:|:-----
+3rd|<em>unseen servant</em>
+5th|<em>magic weapon</em>
+9th|<em>protection from energy</em>
+13th|<em>guardian of nature</em>
+17th|<em>conjure elemental</em>
+
+#### Elemental Bond
+When you choose this archetype at 3rd level, your connection to the natural world brings you into contact with an elemental guardian spirit of your choice: the Boulderbear, the Firecat, the Riversnake, or the Thunderbird.
+
+Your choice affects the features you gain at 3rd, 7th, and 15th level. You learn to speak, read, and write Primordial. Additionally, whenever you make a Charisma check when interacting with elementals, your proficiency bonus is doubled if it applies to the check.
+
+#### Spirit Strike
+At 3rd level, you can have your guardian spirit harry creatures, imbuing your attacks against those creatures with elemental power. As a bonus action, choose one creature you can see within 60 feet of you. The first time you hit that creature with a weapon attack before the start of your next turn, the attack gains benefits based on your chosen guardian spirit.
+
+***Boulderbear.*** The target takes an additional 1d4 force damage, and its speed is halved until the end of its next turn as stone and dust impede is movements.
+
+***Firecat.*** The target takes an additional 1d4 fire damage, and it sheds bright light in a 10-foot radius, and dim light for an additional 10 feet, until the end of its next turn as ethereal flames alight on its body. For the duration, the creature can't become invisible or hidden.
+
+***Riversnake.*** The target takes an additional 1d4 cold damage, and it suffers disadvantage on the first attack roll or ability check it makes before the end of its next turn as frost forms on its extremities.
+
+***Thunderbird.*** The target takes an additional 1d4 thunder damage, and you push it up to 10 feet in a straight line away from you as a boom of thunder audible to 300 feet knocks it back.
+
+#### Elemental Aspect
+At 7th level, an aspect of your guardian spirit's metaphysical body appears on you, granting you a feature based on your chosen guardian spirit.
+
+***Boulderbear.*** Your hit point maximum increases by 7, and increases by 1 whenever you gain a subsequent level in this class. Additionally, you have advantage on saving throws against disease and poison.
+
+***Firecat.*** Your base walking speed increases by 10 feet, and whenever a creature within 5 feet of you hits you with an opportunity attack, it takes fire damage equal to your proficiency bonus.
+
+***Riversnake.*** You can breathe in both air and water, and you gain a swimming speed equal to your base walking speed. Additionally, you can take the Disengage action as a bonus action on your turn.
+
+***Thunderbird.*** Your high and long jump distances are tripled. Additionally, the wind rises in your defense against distant attackers. After you end your turn, the first creature that makes a ranged weapon attack against you before the start of your next turn makes the attack roll with disadvantage.
+
+#### Guardian Spirit
+Starting at 11th level, when you hit the target of your Spirit Strike with a weapon attack, your guardian spirit continues to harry the creature until the start of your next turn, warding your allies from the creature's attacks. If the target makes an attack against a target other than you, you can use your reaction to make a weapon attack against it. If your attack hits, it gains the benefits of your Spirit Strike.
+
+#### Elemental Vessel
+At 15th level, you gain the ability to merge your physical form with your guardian spirit, transforming into it. As an action, you can transform into the physical manifestation of your guardian spirit for 1 minute.
+
+***Boulderbear.*** Your transformation has the statistics of an earth elemental, though with the appearance of a large bear made entirely of pieces of earth and stone.
+
+***Firecat.*** Your transformation has the statistics of a fire elemental, though with the appearance of a jungle cat made entirely of roaring flame.
+
+***Riversnake.*** Your transformation has the statistics of a water elemental, though with the appearance of a venomous snake made entirely of rushing water.
+
+***Thunderbird.*** Your transformation has the statistics of an air elemental, though with the appearance of a giant eagle made entirely of gusting wind.
+
+While you are transformed, the following rules apply:
+- Your game statistics are replaced by the statistics of your guardian spirit (earth elemental, fire elemental, etc.) but you retain your alignment, personality, and Intelligence, Wisdom, and Charisma scores. You also retain all of your skill and saving throw proficiencies.
+- When you transform, you assume your guardian spirit's hit points. When you revert to your normal form, you return to the number of hit points you had before you transformed. However, if you revert as a result of dropping to 0 hit points, any excess damage carries over to your normal form.
+- You can't cast spells, and your ability to take any action that requires hands is limited to the capabilities of your guardian spirit form. Transforming doesn't break your concentration on a spell you've already cast.
+- You retain the benefit of any feature from your class, race, or other source and can use them if the new form is capable of doing so. However, you can't use any of your special senses, such as darkvision.
+- You choose whether your equipment falls to the ground in your space or merges into your new form. Equipment that merges with the form has no effect until you leave the form.
+
+You can revert to your normal form earlier by using a bonus action on your turn. You automatically revert if you fall unconscious, drop to 0 hit points, or die.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.

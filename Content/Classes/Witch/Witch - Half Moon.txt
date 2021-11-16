@@ -1,0 +1,50 @@
+### Coven of the Half Moon
+Notorious for playing tricks on mortal eyes, moonlight casts strange shadows, making things appear to be other than they are. When the moon is perfectly half-lit and half covered in shadow, the dim light it casts clouds the truth of all things, in equal part revealing and creating lies and deceptions. Witches of the Coven of the Half Moon are experts at crafting moonlight to their will, using it to both expose and author new treacheries. These grey witches (as they are known) trend towards being neutral, though many good and evil grey witches exist. Though many grey witches are chaotic, some few are lawful, using their deceptions and trickery to reinforce the order of society and civilization.
+
+#### Half Moon Spells
+You gain advanced tutelage into specific spells important to your coven. You learn each of the spells on the following list at the witch level associated with them. These spells count as witch spells for you and do not count against the total spells you can know.
+
+##### Half Moon Spells
+| Witch Level | Spells |
+|:-:|:--|
+| 2nd | <em>disguise self, silent image</em> |
+| 3rd | <em>mirror image, phantasmal force</em> |
+| 5th | <em>hypnotic pattern, major image</em> |
+| 7th | <em>greater invisibility, hallucinatory terrain</em> |
+| 9th | <em>mislead, seeming</em> |
+
+#### Moonlight Illusionist
+When you join this coven at 2nd level, you have advantage on any Investigation checks made to discern the true nature of an illusion or whether or not a creature is in its true form. You learn the *minor illusion* cantrip if you do not already know it, and you can cast it using a bonus action or an action.
+
+If you already have knowledge of this cantrip, you instead gain knowledge of one additional cantrip from the witch spell list.
+
+#### Disguise Familiar
+At 6th level, your familiar is under the effects of a permanent *disguise self* spell, which uses your spell save DC. You and your familiar can both dismiss, reapply, or adjust the appearance of this illusion by using an action on your respective turns. Reapplying this spell does not require expending a spell slot.
+
+Further, this spell can be used to make your familiar appear to be size Medium or smaller, and can be made to appear to give your familiar a humanoid body shape. Your familiar still retains its normal configuration of limbs, however, and cannot physically interact with any object that requires hands.
+
+If the illusion has a humanoid appearance, the illusion does not behave exactly as your familiar does. Rather, it follows the general idea of what your familiar is doing. Thus, an illusion of a halfling placed on top of a cat familiar does not walk on four legs as a cat does, but rather walks on two, as would be normal for a humanoid.
+
+#### Hidden Spellcraft
+Beginning at 10th level, when you cast a spell that has an area of effect and a duration of 1 round or greater, you can choose to use illusion magic to make the effects of that spell invisible. Creatures are still affected by the spell, as normal, and can see the spell’s effects on other creatures, but cannot see the spell itself, making its location hard for them to determine.
+
+If a creature suspects there is an invisible spell present, it can use its action to make an Intelligence (Investigation) check against your spell save DC. On a success, the creature perceives a translucent outline of the spell itself, and knows the spell’s location as if the spell was visible.
+
+Once you use this ability, you must finish a short or long rest before you can use it again.
+
+#### Figments
+Starting at 14th level, you gain the ability to craft potent illusory curses. You can touch a creature and use an action, forcing it to make a Charisma saving throw against your spell save DC. If it fails, it is subject to one of the following curses of your choice.
+
+You decide the parameters of the curse when you first inflict it, and it lasts until a remove curse spell or similar magic is cast on the target, or until you take a long rest. Once a creature fails its saving throw against this ability, you cannot use this feature again until you finish a long rest.
+
+Alternatively, when this curse would expire on a creature after you’ve finished a long rest, you can choose for it to instead persist until your next long rest (or until it is dispelled). If you choose to extend this curse, you do not regain the use of this feature after completing the long rest.
+
+The curses you can select from are as follows:
+
+***False Face.*** The target is affected by an illusion that makes them (and their clothing, armor, weapons, and other belongings on their person) look different in a method of your choosing. They can seem up to 1 foot shorter or taller, be visibly heavier or lighter, but must have the same basic arrangement of limbs.
+
+This illusion is powerful enough to hold up to physical inspection, seeming real to the touch, modifying the target’s voice and other sounds they would produce, and even emitting convincing smells. A creature can discern that the target is under an illusion, but must first use an action to inspect the target and succeed on an Intelligence (Investigation) check against your spell save DC.
+
+***Wrongsight.*** You change how one facet of the world appears to the target, substituting reality with what you wish the target to see. You could, as examples, dictate that all doors appear open to the target, or that all humans appear to be orcs. You cannot change how the entire world appears to the target; you cannot choose for the target to perceive the world to be made of lava, but you can specify that the target sees the floor of any given room as lava.
+
+If the target suspects a facet of the world is not what it seems, it can use an action to make an Intelligence (Investigation) check with disadvantage against your spell save DC. On a success it knows the target for what it really is, though their incorrect perception of the target does not change. Over time, the target may begin to assume certain things are illusions and act as such, but the target most likely will not always be correct.

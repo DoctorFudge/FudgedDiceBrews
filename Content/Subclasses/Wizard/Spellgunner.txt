@@ -1,0 +1,37 @@
+### Spellgunner
+[**Source:** *The Gunpowder Codex*](https://drive.google.com/file/d/1jjhLL1aeWVp2AsoOIwJJ-0BvO6dvPedk/view)
+
+Spellgunners are a unique breed of wizard that divide their skills between traditional magic and its fusion with firearms. They infuse their gun of choice with the arcane, both increasing its effectiveness in battle and using it as a conduit for their spells. Most spellgunners begin as wizards who wish to improve their power in battle, but other paths exist. Whatever their inspiration or background, spellgunners are a rare sight in most lands.
+
+#### Proficiency
+Starting when you choose this arcane tradition at 2nd level, you gain proficiency with firearms, allowing you to add your proficiency bonus to attacks made with firearms.
+
+#### Gunsmith
+Upon choosing this arcane tradition at 2nd level, you gain proficiency with Tinker's Tools. You may use them to craft ammunition, repair damaged firearms, or even draft and create new ones (DM's discretion). Some extremely intricate and experimental firearms are only available through crafting.
+
+#### Spellgunner's Firearm
+Wizards who choose this arcane tradition at 2nd level gain the ability to bond with one particular firearm. Over the course of one hour, you attune your firearm to your arcane powers, imbuing it with a portion of your magical essence. You can use this firearm as a spellcasting focus for your wizard spells. The weapon ceases being your spellcasting focus if you die, if you perform the 1-hour ritual on a different firearm, or if you use a one-hour ritual to break your bond to it.
+
+#### Spellgunner's Litany
+Starting at 2nd level, you can invoke a secret arcane mantra called the Spellgunner's Litany, provided you aren't wearing medium or heavy armor or using a shield. A blend of elemental magic, focusing power, and tiny telekinetic tweaks that help a firearm function smoothly, the Litany is the foundation of a Spellgunner's power. Some practitioners may recite it quietly to themselves even when not using it to channel magic.
+
+You can use a bonus action to start the Spellgunner's Litany, which lasts for one minute. It ends early if you are incapacitated, if you don medium or heavy armor or a shield, or if you make an attack with a weapon other than a firearm. You can dismiss the Litany at any time you choose (no action required).
+
+While your Spellgunner's Litany is active, you gain the following benefits:
+- You have advantage on Wisdom (Perception) checks.
+- Bullets fired from your weapon are considered magical.
+- You gain a bonus to any Constitution saving throw you make to maintain your concentration on a spell. The bonus equals your Intelligence modifier (minimum of +1).
+- The Misfire score of your Spellgunner's Firearm is reduced by 1, to a minimum of 1.
+
+You can use this feature twice, and regain all expended uses of it when you finish a short or long rest.
+
+#### Extra Attack
+Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+#### Arcane Rounds
+Beginning at 10th level, you can imbue your weapon's ammunition with elemental magic. As a bonus action, you can expend a spell slot to choose one of the following types of damage: acid, cold, fire, lightning, or thunder. The first attack made with a firearm before the end of your next turn is enhanced with this elemental energy. On a hit, the attack deals 2d4 additional damage per level of the spell slot expended.
+
+If the attack misses, or if you do not make a firearm attack before the end of your next turn, the energy dissipates and is wasted.
+
+#### Gunner's Insight
+Starting at 14th level, you add your Intelligence modifier to the damage of your firearm attacks while your Spellgunner's Litany is active (minimum of 1).

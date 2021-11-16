@@ -1,0 +1,124 @@
+### Way of the Prismatic Soul
+Monks of the Way of the Prismatic Soul learn to channel their own life force into shining bolts of soul energy. They teach that meditation can unlock the ability to unleash the indomitable, unique colors shed by the soul of every living creature.
+
+#### Soul Color
+Starting when you choose this tradition at 3rd level, you choose one color as your Soul Color. The damage type associated with each soul color is used by features you gain later levels.
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Soul Color Table</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Soul Color</td>
+    <td>Damage Type</td>
+  </tr>
+  <tr>
+    <td>Black</td>
+    <td>Necrotic</td>
+  </tr>
+  <tr>
+    <td>Blue</td>
+    <td>Cold</td>
+  </tr>
+  <tr>
+    <td>Green</td>
+    <td>Acid</td>
+  </tr>
+  <tr>
+    <td>Pink</td>
+    <td>Psychic</td>
+  </tr>
+  <tr>
+    <td>Purple</td>
+    <td>Poison</td>
+  </tr>
+  <tr>
+    <td>Red</td>
+    <td>Fire</td>
+  </tr>
+  <tr>
+    <td>White</td>
+    <td>Radiant</td>
+  </tr>
+  <tr>
+    <td>Yellow</td>
+    <td>Lightning</td>
+  </tr>
+</tbody>
+</table>
+
+#### Shining Prismatic Bolt
+Starting when you choose this tradition at 3rd level, you can hurl bolts of magical soul energy.
+
+You gain a new attack option that you can use with the Attack action. This special attack is a ranged spell attack with a range of 30 feet. You are proficient with it, and you add your Dexterity modifier to its attack and damage rolls. Its damage is the same as your soul color, and its damage die is a d4. This die changes as you gain monk levels, as shown in the Martial Arts column of the Monk table.
+
+When you take the Attack action on your turn and use this special attack as part of it, you can spend 1 ki point to make the special attack twice as a bonus action.
+
+When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the Attack action.
+
+#### Prismatic Arc Strike
+At 6th level, you gain the ability to channel your ki into searing waves of energy. Immediately after you take the Attack action on your turn, you can spend 2 ki points to cast a spell corresponding to your soul color as a bonus action.
+
+<table>
+<thead>
+  <tr>
+    <th colspan="2">Soul Spells</th>
+  </tr>
+</thead>
+<tbody>
+  <tr>
+    <td>Soul Color</td>
+    <td>Spell</td>
+  </tr>
+  <tr>
+    <td>Black</td>
+    <td>Inflict Wounds</td>
+  </tr>
+  <tr>
+    <td>Blue</td>
+    <td>Frost Fingers</td>
+  </tr>
+  <tr>
+    <td>Green</td>
+    <td>Tasha's Caustic Brew</td>
+  </tr>
+  <tr>
+    <td>Pink</td>
+    <td>Dissonant Whispers</td>
+  </tr>
+  <tr>
+    <td>Purple</td>
+    <td>Ray of Sickness</td>
+  </tr>
+  <tr>
+    <td>Red</td>
+    <td>Burning Hands</td>
+  </tr>
+  <tr>
+    <td>White</td>
+    <td>Color Spray</td>
+  </tr>
+  <tr>
+    <td>Yellow</td>
+    <td>Thunderwave</td>
+  </tr>
+</tbody>
+</table>
+
+
+You can spend additional ki points to cast your respective as a higher level spell. Each additional ki point you spend increases the spell's level by 1. The maximum number of ki points (2 plus any additional points) that you can spend on the spell equals half your monk level.
+
+#### Prismatic Burst
+At 11th level, you gain the ability to create an orb of soul energy that erupts into a devastating explosion. As an action, you magically create an orb and hurl it at a point you choose within 150 feet, where it erupts into a sphere of color for a brief but deadly instant.
+
+Each creature in that 20-foot-radius sphere must succeed on a Constitution saving throw or take 2d6 of your soul color's damage type. A creature doesn't need to make the save if the creature is behind total cover that is opaque.
+
+You can increase the sphere's damage by spending ki points. Each point you spend, up to a maximum of 3, increases the damage by 2d6.
+
+#### Prismatic Shield
+At 17th level, you become wreathed in an colorful, magical aura. You shed bright light in a 30-foot radius and dim light for an additional 30 feet. You can extinguish or restore the light as a bonus action.
+
+If a creature hits you with a melee attack while in this light, you can use your reaction to deal damage to the creature. The damage equals 5 + your Wisdom modifier and is the same type as your soul color.

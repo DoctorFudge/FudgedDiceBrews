@@ -1,0 +1,205 @@
+## Augments
+If an augment has prerequisites (such as a required level or Form Upgrade), you must meet them before gaining that augment. Whenever you take a long rest, you can replace one augment you have with another augment that you meet the prerequisites for. If you do so, any persistent effects of the augment you no longer have cease to function. You can not replace an augment if another augment you have requires it as a prerequisite.
+
+#### Acclimatized
+You suffer no penalties from extremely hot or cold environments. You also have resistance to any
+damage caused by lava, freezing water, or similar.
+
+#### Agility Actuator
+*Prerequisite: 15th level, Legs Upgrade*
+
+Specialized servos within your legs allow you to be especially nimble, dodging even the most certain dangers. You gain proficiency in Dexterity saving throws, and you never take damage on a successful Dexterity saving throw.
+
+#### Atrocity Cannon
+*Prerequisite: 15th level, Directive: Eradicate*
+
+While you are using your Overdrive feature, you can use an action to combine both your battlefists into a massive cannon, firing an immense wave of magical force that decimates all those caught within. Each creature within a line 120 feet long and 10 feet wide originating from you must make a Dexterity saving throw or take 10d10 force damage on a failed save, or half as much damage on a successful one.
+
+This beam ignites flammable objects in the area that aren't being worn or carried, and a creature reduced to 0 hit points by this beam has itself and everything it is wearing or carrying (except magic items) reduced to a fine grey dust. Creatures killed in this way can only be restored to life by means of a true resurrection or wish spell.
+
+Once you use this ability, you require a long rest before you can use it again.
+
+#### Backup Body
+*Prerequisite: 15th level*
+
+When you take this augment you gain the ability to create an inert secondary body for yourself, as a safeguard against death. This body takes 120 days and 2,000 gp in materials to create, is identical to you in every way (including memories, abilities, augments, and form upgrades), and you can only have one such body created at any one time. As the body is inert and unable to be controlled directly, it is advisable to store it in a safe location.
+
+If you die, your soul transfers to this secondary body, provided that the secondary body is still intact and that your soul is not being constrained in some way. If your original body still exists, it becomes inert, and cannot be restored to life due to your soul being elsewhere.
+
+Once you inhabit a secondary body, or if the secondary body is destroyed before you can inhabit it, you can create another backup body as long as you have this augment. The same time and gold costs apply to any subsequent backup bodies you create.
+
+#### Biometric Relay
+You can detach a bracelet-shaped protrusion from your battlefist and couple it around the wrist of a willing creature. As long as you and that creature are on the same plane, you inherently know the creature is damaged or at less than half health, any status effects the creature is subject to, and the general direction that creature is from you. Once you reach 11th level, this augment also reveals whether the creature is under a curse or geas. If the creature is on a different plane, you know the plane the creature is on, but nothing else.
+
+Additionally, you and the creature wearing the bracelet can cast the message cantrip targeting each other (even if you do not know it) regardless of distance, as long as you are both on the same plane.
+
+#### Body Electric
+*Prerequisite: 5th level, Core Upgrade*
+
+The power of your core bristles throughout your form, arcing out against those that strike you. When you are hit by a melee attack, you can use a reaction to shock the attacker with a burst of energy. The attacking creature takes 1d8 lightning damage, and can't target you with an opportunity attack until the end of your next turn. Once you use this ability, you require a short or long rest to use it again.
+
+At 11th level, you can use this ability twice before needing a short or long rest, At 17th level, you can use it three times before needing a rest.
+
+#### Datalinks
+You have within you an extensive archive of information, though accessing it properly takes time. Gain proficiency in one skill out of either Arcana or History.
+
+In addition, after taking a short or long rest, you can select one subject of interest (such as “devils” or “the politics of Cormyr”). Whenever an Arcana or History check you make would relate directly to this subject of interest, gain advantage on that check. Selecting a new subject of interest replaces the previous subject of interest in your current memory.
+
+#### Enhanced Optics
+*Prerequisite: 5th level, Head Upgrade*
+
+You gain darkvision out to 60 feet, or you increase the range of the darkvision you already possess by 60 feet.
+
+In addition, you can expend a spell slot as a bonus action and begin to concentrate as if on a spell to visually sense nearby creatures that generate body heat, as well as heated environmental elements. This ability lasts for up to one minute, until you cancel it with another bonus action, or until you lose concentration.
+
+This vision can penetrate all walls up to 20 feet of thickness, but can be blocked by a thin sheet of lead or strong sources of localized ambient heat, such as the inside of a burning building. This sight extends 30 feet in all directions if activated with a 1st level spell, and continues for an additional 30 feet for each spell level above 1st used in its activation.
+
+#### Etheric Interface
+*Prerequisite: 5th level, Directive: Infiltrate*
+
+You are able to extend your magical awareness outward, connecting with the psychic spirits of objects or simple machines. You can use this ability as a bonus action to do one of the following, within a range of 60 feet of yourself:
+
+***Modify Apertures.​*** You can open or shut any number of unlocked doors or windows you choose within range.
+
+***Modify Illumination.​*** You can alter any number of non-damaging magical light sources you can see within range, increasing or decreasing the radius of their illumination by up to 60 feet for a duration of 10 minutes. If you reduce a light source's radius to 0, the light source is considered inactive for the duration.
+
+***Modify Lock.​*** You can attempt to unlock or lock a non-magical lock you choose within range. If you are attempting to unlock, roll an Intelligence (Arcana) check against the DC of the lock, unlocking it on a success. You are able to lock a single lock within range without making a check.
+
+Once you use any option granted by this ability, you require a short or long rest to use this ability again.
+
+#### Eye Beams
+*Prerequisite: 5th level, Head Upgrade*
+
+Installing a delicate magic focus within each eye, you have modified your own gaze into a weapon. You can use an action to attack a creature you can see within 120 feet of you with your eye beams. You can also attack a creature in range with your eye beams as a bonus action on a turn where you have taken the Attack action and have not used a weapon held in two hands.
+
+Your eye beams count as a ranged weapon attack with which you have proficiency, and deal 2d4 radiant damage on a hit. At 11th level, this damage increases to 2d6, and again to 2d8 at 17th level.
+
+In addition, you can use this augmentation as an action to set an unattended flammable object you can see within 120 feet of you alight. You can also, as a bonus action, cause your eyes to glow with an inner light, shedding bright light out in a 10-foot radius, and dim light 10 feet beyond that. You can end this effect by using another bonus action.
+
+#### Fight Computer
+*Prerequisite: 5th level, Head Upgrade*
+
+You gain programming in additional methods of combat. Choose another fighting style offered by the augmented's Fighting Style feature, which must be different than the one you initially selected. You gain the benefits of this additional fighting style.
+
+#### Heightened Sensors
+*Prerequisite: 9th level, Head Upgrade*
+
+You tinker with the enhanced sensors already in place in your head, further refining them. Choose a skill out of Perception, Investigation or Insight, which can not be the skill you initially chose for your Head Upgrade. You are considered proficient in this chosen skill and add double your proficiency bonus to checks made with it, instead of your normal proficiency bonus. Additionally, when you make a check with one of the skills chosen by either this feature or your initial Head Upgrade and see the result, you can choose to reroll that check. You must use the result of this second check, regardless of what it is.
+
+#### Hidden Power
+A convincing flesh-like substance covers your battlefist, your form upgrades, and your augments, rendering you indistinguishable at a glance from an ordinary member of your race. A creature that suspects you of hiding your true nature can attempt to discern the presence and location of your enhancements by making an Intelligence (Investigation) check against your spell save DC.
+
+You reveal your true nature if you attack with your battlefist or an integrated weapon, or use an action, bonus action, or object interaction provided by any augment. Taking damage from one source greater than your augmented level also reveals your enhancements. In either case, your false flesh knits itself back together during your next short or long rest.
+
+#### Holographic Projector
+You know the *minor illusion* and *dancing lights* cantrips, which count as an augmented cantrips for you. You can also cast the *silent image* spell without expending a spell slot.
+
+Once you cast *silent image* in this way, you must complete a short or long rest before you can cast it without a spell slot again.
+
+#### Improved Etheric Interface
+*Prerequisite: 9th level, Directive: Infiltrate, Etheric Interface augment*
+
+You gain the following additional options for your Etheric Interface ability:
+
+- ***Disengage Safeguards.*** Choose one magical lock or an effect created by a spell such as guards and wards or glyph of warding within range, and make an Intelligence (Arcana) check against the spell save DC of the creature that created this effect. On a success, you disable the lock or effect for 10 minutes.
+- ***Modify Trap.*** Choose one trap you are aware of within range, and make an Intelligence (Arcana) check against the DC required to disarm it. For the next minute while you are within 120 feet of the trap, you can disarm, arm, trigger, or reset the trap as a bonus action.
+
+Additionally, you can use your etheric interface twice before requiring a rest to refresh its uses.
+
+#### Improved Machine Mind
+*Prerequisite: 9th level, Head Upgrade, Machine Mind augment*
+
+You have further refined the logical matrices that govern your thought processes. You have advantage on saving throws against abilities or spells that would impose the frightened or charmed conditions, and you have advantage on saving throws made to recover from these conditions.
+
+#### Improved Tension Cables
+*Prerequisite: 9th level, Tension Cables augment*
+
+The tension cables in your battlefists are exceedingly long. Add an additional 5 feet to the reach of your battlefists and any integrated weapons when the cables are extended.
+
+You can also take an action to launch one or both of your battlefists towards an unattended object or terrain feature within 10 feet of you, grabbing the target. You can retract your battlefists afterwards as a part of the same action, or as a bonus action on a separate turn. Objects you hold are retracted along with your fists, while retracting your fists draws you towards any terrain features you are holding.
+
+When you launch your battlefists in this way, you can also choose to expend a spell slot. If you do, increase the distance you can launch your battlefists by 10 feet for every level of the spell slot you expended.
+
+#### Kinetic Booster
+*Prerequisite: 5th level, Legs Upgrade*
+
+An arcane reservoir set into your legs stores your kinetic energy, which you can unleash in a burst of speed. On your turn, you can expend a spell slot with a bonus action. Until the end of your turn, you gain a bonus to your movement speed equal to 10 feet × the level of the spell slot, and your movement does not provoke opportunity attacks.
+
+#### Machine Mind
+*Prerequisite: 5th level, Head Upgrade*
+
+You no longer need to sleep, and you have advantage on saving throws against being put to sleep. Gaining the benefits of a long rest still requires 8 hours, but this time can be spent doing light activity, such as tinkering with your augmentations.
+
+#### Megaton Anchor
+*Prerequisite: 5th level, Legs Upgrade*
+
+While you are standing on a flat surface, you are able to channel your arcane power into the soles of your feet, adhering yourself firmly to where you stand. You can use a bonus action and begin concentrating as if on a spell to activate this ability, which lasts until you end it using another bonus action or by breaking concentration. While this ability is active, your movement speeds become 0, and you are immune to forced movement and the prone condition (unless already subject to it).
+
+#### Microthruster Array
+*Prerequisite: 9th level, Core Upgrade, Legs Upgrade*
+
+Miniscule thrusters line your back, legs, and several other key locations on your body. You can activate these thrusters using a bonus action and begin concentrating as if on a spell, which grants you a flying speed (with the hover property) equal to your movement speed for up to one minute, or until you lose concentration or disengage the thrusters with another bonus action. When you engage your thrusters, you can choose to expend a spell slot. If you do, the flying speed you gain increases by 10 feet for every level of the spell slot you used.
+
+After you use this ability, you require a short or long rest before you can use it again.
+
+#### Proxy Shield
+*Prerequisite: 9th level, Directive: Safeguard*
+
+You can duplicate the defenses given by your Shield Matrix. When you would gain a shield from Shield Matrix, you can choose a creature within 60 feet of you to receive an identical version of that shield. This second shield lasts for up to its usual duration of one minute, and can not be replenished with spell slots.
+
+#### Quadrupedal Legs
+*Prerequisite: 5th level, Legs Upgrade*
+
+As a bonus action, you can begin concentrating as if on a spell and split apart each of your legs into two separate spindly metallic legs, similar to a spider's, forming four legs total. While you are quadrupedal you gain the ability to move up, down, and across vertical surfaces and upside down along ceilings, while leaving your hands free. Additionally, your movement speed increases by 10 feet and you gain a climbing speed equal to your movement speed. You can return to your regular, bipedal form by losing concentration or by using another bonus action to do so.
+
+#### Self-Sustaining
+*Prerequisite: 5th level, Core Upgrade*
+
+Self-regulating internal processes allow you to survive off of your arcane power alone. You no longer need to eat, drink, or breathe. Additionally, you can project the arcane patterns that sustain you outward, enabling you to cast purify food and drink at will, without expending a spell slot.
+
+#### Sound Inhibitor
+*Prerequisite: 15th level, Legs Upgrade*
+
+An arcane weave in your footpads eliminates the sound of your footfalls. You are considered proficient in Stealth and add double your proficiency bonus to checks made with it, instead of your normal proficiency bonus. You can take the Hide action as a bonus action. If you have the Hidden Power augment, using Sound Inhibitor to hide does not reveal your true nature.
+
+#### Storage Core
+*Prerequisite: 5th level, Core Upgrade*
+
+You have an extradimensional storage compartment similar to a bag of holding built into your torso. Only you can open this compartment, and it is not obviously visible. You can fit up to 500 lbs of gear within this compartment, as long as each individual item can physically fit through the 6 inch diameter opening to the compartment. While within this compartment, each item has no weight.
+
+When you are reduced to 0 hit points, the door to the compartment becomes ajar. While in this state, the compartment is obvious and any creature can open it, though other creatures are only able to remove items and not place any inside. Regaining hit points returns the compartment to its prior state.
+
+Placing a *bag of holding*, *handy haversack*, *portable hole*, or similar within this compartment immediately shunts you to a random location on the astral plane and reduces your current hit points to 1, leaving behind everything that was within your compartment. After this occurs, your storage core ceases to function until you repair it over the course of a long rest.
+
+#### Strengthening Servos
+Powerful arcane micro-engines in your battlefist increase your Strength to unheard of levels. Treat your Strength score as if it was 20 for the purposes of lifting heavy objects, determining your carry weight, or making Strength (Athletics) checks to lift. You also have advantage on rolls to make or maintain a grapple with your battlefist.
+
+#### Tension Cables
+*Prerequisite: 5th level*
+
+The hand portions of any of your battlefists are connected internally to the arm by a long cable. As a bonus action, you can launch the hand portions of any battlefists you have outward, or retract them from this state. While extended, your battlefist and any integrated melee weapons gain the reach property. If your battlefist is unoccupied, you can use it to grab creatures or items within your reach as normal.
+
+#### Thrust Punch
+You have installed a rocket engine in the elbow of your battlefist, you are able to use it to unleash a devastating blow. As part of one melee attack you make on your turn, you can move up to 15 feet (but at least 10 feet) in a straight line towards a creature and end your movement adjacent to it, before attacking that creature. This movement does not provoke opportunity attacks. If the attack you make with this feature hits and you use a hammerblow Battlestrike, you can push the creature an additional 5 feet.
+
+You can use this augment a number of times equal to your Intelligence modifier before you require a short rest to refresh its uses.
+
+#### Tooled Digits
+You are especially adept at using any tools you have integrated into your battlefist. You add double your proficiency bonus to checks made with integrated tools, instead of your normal proficiency bonus.
+
+#### Vertical Acclimation
+*Prerequisite: 5th level, Legs Upgrade*
+
+You reinforce your legs, greatly increasing the stress they can withstand. You can ignore an amount of fall damage equal to 5 × your augmented level, and the potential height and length of your jump triples instead of doubles.
+
+#### Voice Modulator
+*Prerequisite: 5th level, Head Upgrade*
+
+You install a discrete module in your throat that allows you to modify the sound and volume of your voice. You are able to make your voice sound however you wish, and can flawlessly imitate any other voice you have heard. You can make your voice up to three times its normal volume, and you can flawlessly produce simple sound effects (such as a clap of thunder, a raven's caw, or the sound of dropped coins) instead of your normal voice.
+
+#### Watertight
+*Prerequisite: 5th level, Legs Upgrade*
+
+You have installed a rebreather in your throat, and modified your legs for movement beneath the waves. You can breathe water, and gain a swim speed equal to your normal movement speed + 10 feet.
+
+Additionally, attacks made with your battlefist or integrated weapons ignore any restrictions or penalties for being underwater.

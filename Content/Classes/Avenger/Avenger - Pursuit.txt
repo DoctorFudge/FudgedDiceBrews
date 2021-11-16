@@ -1,0 +1,14 @@
+### Censure of Pursuit
+Your target may run, your target may hide, but you will find him, no place is safe for your target and no armor will stay your blade, with methodical devastation you pursue any who would run. By training yourself in the censure of pursuit you master abilities that assist you in finding and executing. None shall escape your god.
+
+#### Bond of Pursuit
+Starting at 3rd level, when you take the Dash, Disengage, or Dodge action on your turn you can use a bonus action to make one weapon attack.
+
+#### Relentless Stride
+Also starting at 7th level, your base movement speed increases by 10 feet and moving through difficult terrain costs you no extra movement.
+
+#### Enmity's Reach
+At 14th level, you may target creatures up to 60 feet away with your oath of enmity. When you do, you can teleport an empty space adjacent to that creature.
+
+#### Inescapable Step
+At 18th level, you are immune to being restrained, effects that would reduce your movement speed, and you cannot be grappled.

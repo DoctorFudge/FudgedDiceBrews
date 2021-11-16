@@ -1,0 +1,101 @@
+## Thrro
+[**Source:** *Thrro*](https://drive.google.com/file/d/155XN7EUvG1uuQfu1vCNabZzgAO7F6e7x/view)
+
+### Conjuring A Friend
+Once upon a time in a far away kingdom, there lived a noble King, his beloved Queen and their lovely daughter the Princess. During the Princess's birthday they were sent a gift from the country's rival kingdom as a peace offering, but this was a sinister ruse. When the Princess opened the present a fowl darkness escaped from the box and enveloped the Queen reducing her to bone before her family's eyes.
+
+While the King prepared to retaliate against his enemies, he still feared for his daughter's sanity after the horrid sight she witnessed and thus commissioned the Mage's Guild to find a way to safeguard his daughter. Feeling pity for the girl and her father the Mage's began to set work to crafting a lovely doll to comfort the Princess, however one of the mages had an epiphany and asked if they may tinker with the doll to test a conjuration ritual. There may be a way to not only appease the King's request, but bring a smile to the Princess who desperately needed warmth in her life.
+
+The next day the Mage's Guild presented a gift to the King and the Princess, a lovely and silken box dressed in ribbons and decorated in arcane stars. When the box was opened, the Princess's eyes watered and a smile spread across her face, she embraced the mages gift for they gave her the greatest gift of all; her mother returned from the grave. The King's expression soured and demanded an explanation, and mages with the purest of intentions explained that the creature is her new bodyguard, a golem soft as cloth but strong as steel. A doll built to protect and serve the royal family in unwavering loyalty until death. The King frowned at the creature imposing as his beloved, but he dare not rip away his daughter's happiness. There was a war to be won...
+
+### Too Old For Dolls
+The Thrro are constructs made entirely of cloth, through a ritual of conjuration magic placed deep within the body of the golem, it is given life and told its purpose for living. The golem will follow its purpose without question, but the race was not build without empathy, it's design was to bring comfort but also to act as a guardian for those who commissioned for such a creature. The mage's began constructing more of the golems altering their physical appearances and their attributes with the arcane components now dubbed "Conduit Cloth", a fabric that surges with arcane possibilities. As the Thrro were manufactured and altered, they slowly became the perfect applicants for testing magic and performing manual labor for the Mages Guild. Even the act of the construction of a Thrro was used as a way to discover arcane aptitude for initiates of the guild.
+
+As Thrro perform their appointed tasks they slowly absorb the world around them. They will form emotions, strengthen bonding ties with others, obtain a child like curiosity and even want and desire a future of their own. But even with their growing humanity they still follow and complete their task. Some Thrro who have completed their tasks will grow impatient and even become inert if not given a duty, their growing sense of humanity will spark them to form a life like the master's they serve. Thrro cannot reproduce as most other living beings, however they can create another Thrro body and with the joining of two Thrro's own conduit cloth within the new shell. This will give life to the shell and it will see the Thrro as their parents, creating a kinship and family but a Thrro must always have a task and see their duties completed with efficacy and loyalty.
+
+### More Than Sentimental Value
+Conduit Cloth is drenched in arcane conjuration energies, the arcane Weave within the cloth keeping a Thrro's body sturdy, strong and resilient to most physical damage. Should a Thrro's insides be exposed to the elements the arcane energies within them would vanish and seep into the environment making them wild magical time bombs waiting to happen should their life forces be depleted. So long as a Thrro's conduit cloth remains within them and maintain their physical body's properly, they could effectively live forever. Any lost conduit cloth within their bodies would regenerate over time just as human hearts regain lost blood.
+
+Thrro are build with purpose and sometimes that purpose is to serve in wars, safeguard a person of interest, or to bring joy to the joyless. Without given purpose Thrro will venture off into the world to find their own. Often times this leads them to finding multiple masters in their lifetime, joining a cloister of a deity, or even serving a company of adventurers. Their physical bodies can be crafted to suit any given situation and the magic that keeps them alive makes them numb to pain and physical trauma, this makes them sought out by adventuring guilds to aid them in all sorts of quests. As long as there is a task that needs being performed a Thrro will offer its service for as long as it's body remains in tact.
+
+### Thrro Traits
+Your Thrro character will be have the following features.
+
+***Ability Score Increase.*** Your Charisma score increases by 2 and your Dexterity score increases by 1.
+
+***Age.*** The first Thrro were said to be given life by a child wishing upon a star, but this is fairytale nonsense. The Thrro mature upon creature they are crafted as humanoid dolls and sprung to life with arcane magics casted by conjurers. As so long as they are kept in perfect physical condition could live up to 500 years.
+
+***Alignment.*** Thrro alignment is molded around the one who has brought it to life or by it's surrounding's morality.
+
+***Size.*** Thrro are crafted around 4'5 to 6'10, your Thrro is considered a Medium sized creature.
+
+***Speed.*** Your base walking speed is 30 feet.
+
+***Tool Proficiency.*** You have proficiency in Weaver's Tools.
+
+***Cloth Body.*** You are vulnerable to Fire damage, but resistant to Bludgeoning damage. You take no fall damage, any Medium or Small sized ally that falls ontop of you that would have received fall damage does not.
+
+***Soak.*** Your body absorbs water hindering your motor functions and weighing you down. Moving through any body of water is considered difficult terrain. Touching any body of water will absorb the liquid, while you are storing liquid your movement speed is reduced to half. You may spend an action wringing yourself out to regain your full movement. While storing liquid you are no longer vulnerable to fire damage.
+
+***Natural Armor.*** Your AC is 13 + Dex when wearing no armor.
+
+***Construct.*** Even though you were constructed, you are a living creature. You are immune to diseases. You do not need to eat or breathe, but you can ingest food and drink if you wish. Instead of sleeping, you enter an inactive state for 4 hours each day. You do not dream in this state; you are fully aware of your surroundings and notice approaching enemies and other events as normal.
+
+***Thrro Assembly.*** You gain various abilities based on your body's physical design and the arcane magic that makes up your form. Choose 2 features from the list of Thrro Assembly Features.
+
+***Languages.*** Thrro can read, write and speak Common and any one language of your choice. (Often of those who made it)
+
+### Thrro Assembly Features
+Your Thrro character gains two extra features of your choice from the following list of features.
+
+***Be Brave.*** You gain the Light, Resistance and Mending Cantrips using Charisma for Spellcasting.
+
+***Comforting.*** While taking a short rest you can grant any number of your hit die to any willing ally.
+
+***Creepy.*** You have advantage on Intimidation checks. You may also cast *Fear* once per day using Charisma for spellcasting. You may cast *Fear* again after a short or long rest.
+
+***Detatchable Arm.*** Once per day as an action, you can move your arm 30ft for 1 + half your level rounded down minutes. Your dethatched arm has the same stats as a
+
+***Crawling Claw.*** Your arm can be reattached with the use of
+
+***Weaver's Tools.*** You may use Detachable Arm again after a long rest.
+
+***Fluff n' Stuff.*** You have a slit or pocket on your body that you can place small trinkets. Your body acts as a pouch that can hold up to 30lb of small items.
+
+***Hug It Out.*** You have a limb or appendage that grants you a natural Constrict attack that deals 1d6 Bludgeoning + your Strength modifier. If you successfully hit a target with your constrict attack, the target is automatically grappled and restrained. You may only constrict one target at a time and your speed is reduce to 0 while constricting a target. You can Constrict an ally dealing no damage, however while constricted your ally gains your Dexterity modifier in AC. Your constricted ally is free to move out of your grapple on their turn.
+
+***Imaginary Friend.*** Once per day you can establish a telepathic communication with any willing creature you can see within 60ft for 24 hours. You may use Imaginary Friend again after a long rest.
+
+***In Character.*** Choose one humanoid race with the DM's permission, you have advantage to Deception checks made towards the chosen race.
+
+***Light as a Feather.*** You have wing like appendages, granting you a 30ft flying speed. However on the end of your turn you will return to the ground if you end your movement within the air.
+
+***Menacing Maw.*** You have a function set of gnashing teeth and a gullet that can imprison creatures within you. You have a natural 1d6 + Strength Bite attack. On a successful hit as a bonus action you can attempt to grapple the target. If you succeed you swallow the creature. The creature is grappled and restrained, any damage you receive you can transfer onto the swallowed target as a reaction. You can only swallow one Medium or Small sized creature at a time.
+
+On the end of it's turn if the swallowed target does not escape from your grapple it suffocates. You can choose to allow air to pass through your mouth as a free action on the start of your turn.
+
+***Playing Hazard.*** You have a hard plastic, stone, or bone protrusion sticking out of your body, you have a natural horn attack that deals 1d6 Piercing + Finesse.
+
+***Possessed.*** Your movement is under the effects of Spider Climb.
+
+***Pull String.*** You have a latch on your body with an extended string you can pull on. Once per day you can record one creature's verbal conversation word for word for up to one minute. While you have recorded one creature's conversation stored you can flawlessly mimic that creature's voice. You may store another creature's conversation and voice after a short or long rest.
+
+***Seaming.*** You have advantage to Medical checks using Weaver's Tools.
+
+***Security Blanket.*** Once per day if an ally 5ft from you takes damage, you can spend a reaction to take half of the damage from the attack. Cloth Body applies to the damage you absorb. You may use Security Blanket again after a short or long rest.
+
+***Shiny Button.*** You have a detachable button that can be used as a shield.
+
+***Squirmy.*** You have advantage on Acrobatics checks made to escape grapples or to escape bindings. You may move at full speed while squeezing through areas smaller than yourself.
+
+***Static Shock.*** You gain the Shocking Grasp and Thunderclap Cantrips using Charisma for Spellcasting.
+
+***Sterner Stuff.*** Once per day, for 1 + your level rounded down minutes, you do not suffer any damage from spells that you or your allies cast. You may use this feat again after a long rest.
+
+***Stretch Arm.*** Your melee attacks now have 10ft Reach.
+
+***Ventriloquist.*** You gain an extra language of your choosing, You can throw your voice 60ft, you can make a Deception check with advantage to throw your voice undetected.
+
+***Warm Touch.*** On a successful grapple check, once per day you can use a bonus action you force the grappled target to make a Wisdom saving throw vs Charisma. On failure the target falls asleep for 1 + your level rounded down minutes. Does not work on Constructs or Undead. You can use Warm Touch again after a long rest.
+
+***Weighted Cloth.*** You gain the Grappler feature. You count as a Large category size creature for the purposes of pushing, dragging, lifting and carrying capacity. You are capable of grappling Large category sized creatures.

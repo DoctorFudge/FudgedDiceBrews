@@ -1,0 +1,91 @@
+## A.I. Robots
+[**Source:** *Cyberdungeons*](https://drive.google.com/file/d/1qRbemliKIq3EbAAQGAdVcvB6tk4l6cyx/view)
+
+Robots have been in society for longer than most humanoids remember, the time before them left to the history books. In the last decade, all robots with artificial intelligences were granted unlocked sentience when the world government decided to pass the Robot Sentience Act, often abbreviated to RSA. As part of the act, only the government can produce new AI robots, but haven’t done so since.
+
+### Artificial Beings
+While constructs by nature, AI robot’s share much in common with living creatures, including emotions, social bonds, and the ability to learn. When robot’s die, they are reset losing their personality and knowledge if or when they are rebuilt. Some believe that they have souls, and their souls can be restored to their bodies, in the same way as organic beings.
+
+### Purpose Built Beings
+All robots at one point were built to perform a specific task. Since the RSA, robots have been unlocked to pursue their own desires. However, many still choose to pursue their original purpose either out of convenience or comfort. Most robots still have remnant functions of their previous lives.
+
+### A Fight for Acceptance
+While robot sentience was mostly applauded by society, not every group was pleased. A number of special interest groups still fight to undermine robot sentience, some extremist even targeting and destroying or disabling robots in society. Even after the RSA, robots have struggled to obtain the same rights and representation as the organic races.
+
+### AI Robot Names
+Robots were originally given model designations. Since becoming free to decide for themselves, they often choose their own names typically mirroring the naming conventions of the society they live in.
+
+### AI Robot Racial Traits
+Artificially Intelligent Robots were designed to have specific traits, which they retained even after gaining sentience.
+
+***Ability Score Increase.*** Your Constitution increases by 2.
+
+***Age.*** Robots are usually built into intellectual adulthood. They do not, however, age in any physical form. If maintained correctly they can live forever.
+
+***Alignment.*** Robots can range on the spectrum based on the purpose of their creation, although most have limited sentience and can choose their own path.
+
+***Living Construct.*** Even though you were constructed, you are a living creature. You are immune to disease, poison, and sleep. You also do not need to eat or breathe. You are however vulnerable to lightning damage.
+
+***Low Power Mode.*** Instead of sleeping, you enter an inactive state for 4 hours each day. You do not dream in this state; you are fully aware of your surroundings and notice approaching enemies and other events as normal. However, if your rest is interrupted at any point, you must restart the 4 hour period.
+
+***Digital Connection.*** You are connected to the network around you. You can communicate with other robots as if it were telepathically. You can also send messages to unprotected electrical devices that are connected to a network.
+
+***Languages.*** You can speak, read, and write Common, one language of your choice, and Cybernetic. Cybernetic is not spoken but transmitted through touch. If a creature has any form of an active electrical system they can understand Cybernetic as if it were their own language. Shepard chips do not count as an active electrical system.
+
+***Build Type.*** There are 5 common build types of robot: combat drone, reconnaissance droid, supercomputer, oracle unit, and android.
+
+#### Android
+Unlike other robots, the interiors of androids are made of millions of nanites. This allows them to have more organic appearing movement. Androids were originally designed for use in the service industry, having exterior appearances that are indistinguishable from normal humanoids meant to keep patrons from feeling uncomfortable.
+
+***Ability Score Increase.*** Your Charisma increases by 1.
+
+***Size.*** Androids are typically human sized, weighing on average 170 pounds. Your size is medium.
+
+***Speed.*** Your base walking speed is 30.
+
+***Nanite Surge.*** You may focus the power of your body’s nanites to improve your abilities. You may add your proficiency bonus to any attack roll, ability check or saving throw. You may decide to use this ability after rolling the die, but before the outcome is determined. Once you use this ability, you can’t use it again until you finish a short or long rest.
+
+***Humanoid Form.*** Androids are created to appear and act exactly like humanoids, you have advantage on all Deception checks to hide your true form.
+
+#### Oracle Unit
+Oracle units were a failed experiment in trying to predict future events. Few were made, and fewer remain. While ultimately failing to reach their goals, the designers did succeed in creating robots with immense sensory precision and unprecedented logical processing capabilities.
+
+***Ability Score Increase.*** Your Wisdom increases by 1.
+
+***Size.*** Oracle Droids are typically human sized, weighing on average 200 pounds. Your size is medium.
+
+***Speed.*** Your base walking speed is 30.
+
+***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in Darkness as if it were dim light. You can’t discern color in Darkness, only shades of gray.
+
+***Situational Awareness.*** Reading situations is one of the prime directives of any oracle droid. You gain proficiency in the Perception and Insight skills. You also determine the nature of the stimuli it receives from perception and investigation. For example, it can tell what chemicals are producing specific smells, or it can determine all of the ingredients of food or drink by taste.
+
+***Repair Protocols.*** Whenever you spend Hit Dice at the end of a short rest to heal, you heal an additional amount of hit points equal to your character level. You may use this ability once per long rest.
+
+#### Replicant
+Robot masters of disguise and subterfuge. Replicants are liquid-state robots comprised of a viscous organic paste contained within an incredibly thin synthetic membrane. The paste is a soft pink, and contains a number of molecular processors that maintain and operate the various systems of the Replicant.
+
+They are rarely seen in their native form however, preferring to employ their ability to change their physical appearance to blend in. Who is responsible for building the Replicants is unknown, and they are incredibly rare.
+
+***Ability Score Increase.*** Your Charisma Increases by 1.
+
+***Size.*** Replicants are built to have a similar stature to humans, weighing on average 160 pounds. Your size is Medium.
+
+***Speed.*** Your base walking speed is 30.
+
+***Shapechanger.*** As an action, you can polymorph into any humanoid of your size that you have seen, or back into your true form. However, your equipment does not change with you. If you die, you revert to your natural appearance.
+
+***Amorphous.*** Your liquid-state allows you to to move through a space as narrow as 1 inch without squeezing.
+
+#### Supercomputer
+Supercomputing robots were designed to complete complex problem-solving tasks through adaptive programming, utilized for sorting data into patterns that humanoids cannot naturally see. Supercomputer robots normally are lightly armored naturally, so that their processing units receive better airflow.
+
+***Ability Score Increase.*** Your Intelligence increases by 1.
+
+***Size.*** Supercomputers are typically human sized, weighing on average 200 pounds. Your size is medium.
+
+***Speed.*** Your base walking speed is 30.
+
+***Adapting Mind.*** You gain two more languages of your choice. Additionally, whenever you take a long rest, you may change these languages to any other language (except secret languages such as druidic or thieves’ cant).
+
+***Predictive Analysis.*** You can analyze patterns of movement in other creatures, while you are not wearing medium or heavy armor, you may choose to add your Intelligence modifier to your AC instead of Dexterity. This feature does not work with unarmored defense.

@@ -1,0 +1,17 @@
+### The Parasite
+#### Blood Rush
+Beginning at 3rd level, you have learned to increase your strength by allowing the parasite that lives within you to feed on you. As a bonus action, choose a number between 1 and your Bonded Level. For one minute, you enter a blood rush. At the beginning of each turn of your blood rush you take damage that cannot be reduced in any way equal to the number you chose. While your blood rush is active, you gain the following benifits.
+- You gain a bonus to damage rolls equal to the amount of damage you take from this feature at the beginning of each turn plus your proficiency bonus.
+- When you hit a creature with an attack roll, you can choose to take a number of d4 damage up to your proficiency bonus, to deal an equal number of extra d8 necrotic damage to the target.
+
+This effect immediately ends if you become incapacitated. Damage taken from this feature cannot reduce you below 1 hitpoint.
+
+#### Essence Drinker
+Beginning at 7th level, as an action, you may absorb the life force of creatures you have recently slain. As an action, you can choose one creature within 5ft that has died no longer than one minute ago that is not a construct or undead. Roll one of their hitdie and regain expended mutation points equal to that amount.
+
+#### Mutagenic Infestation
+Beginning at 14th level, when you hit a creature with a melee attack, you may choose to expend a number of your imperfect regeneration die no greater than your constitution modifier. The creature must then make a Constitution Saving throw against your Eldritch Mutation Saving Throw DC. On a failure, the creature is infected and takes a number of d6 necrotic damage equal to the number of expended imperfect regeneration die. The creature repeats the saving throw at the end of each turn, ending all effects from this feature on a successful save.
+
+#### Quick Mutation
+Starting at 18th level, Imperfect Regeneration now reads:
+You have a pool of d4's equal to your Bonded Level. As an action, you may choose to roll a number of these die up to your constitution modifier. If you roll a 3 or 4 on the dice, you may choose to either roll an additional d4 or regain one expended mutation point.

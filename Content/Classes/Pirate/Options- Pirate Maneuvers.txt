@@ -1,0 +1,173 @@
+## Swashbuckling Maneuvers
+If a swashbuckling maneuver has prerequisites, you must meet them in order to learn it. You can learn the maneuver at the same time that you meet its prerequisites upon levelling up. You cannot spend swagger points to trigger multiple maneuvers on the same attack action. Maneuvers are split into two separate categories, "Gunnery Maneuvers" and "Savvy Maneuvers".
+
+### Gunnery Maneuvers
+Gunnery maneuvers are types of attack actions that improve firearm based attacks. These maneuvers require you to spend swagger points in order to use and often require the enemy to make a saving throw against your swashbuckler save DC, as detailed on each maneuver.
+
+#### Dazing Shot
+___
+- **Prerequisite:** 2nd level <br>
+When you make a firearm attack against a creature, you can expend one swagger point to attempt to daze your opponent. On a hit, the creature suffers normal damage and must make a Constitution saving throw versus your swashbuckler save DC or suffer disadvantage on all attacks until the end of their next turn.
+
+#### Deadeye Shot
+___
+- **Prerequisite:** 3rd level <br>
+When you make a firearm attack against a creature, you can expend one swagger point to gain advantage on the attack roll. If you have disadvantage on an attack roll against a creature, this can negate the disadvantage to turn the roll into a normal dice roll. You cannot spend multiple swagger points in order to make a shot that should be disadvantage have advantage.
+
+#### Disarming Shot
+___
+- **Prerequisite:** 10th level <br>
+When you make a firearm attack against a creature, you can expend one swagger point to attempt to shoot an object from their hands. On a hit, the creature suffers normal damage and must succeed on a Strength saving throw versus your swashbuckling save DC or drop 1 held object of your choice and have that object be pushed 10 feet away.
+
+#### Forceful Shot
+___
+- **Prerequisite:** 5th level <br>
+When you make a firearm attack against a creature, you can expend one swagger point to attempt to force them back. On a hit, the creature suffers normal damage and must succeed on a Strength saving throw versus your swashbuckling save DC or be pushed 15 feet away from you. If the creature collides with anything along the path backwards, the creature takes 1d6 damage for every 5 feet travelled before colliding with the obstacle.
+
+#### Piercing Shot
+___
+- **Prerequisite:** 15th level <br>
+When you make a firearm attack against a creature, you can expend one swagger point to attempt to fire through multiple opponents. The initial attack gains a +1 to the firearm"s misfire score. On a hit, the creature suffers normal damage and you make an attack roll with disadvantage against every creature in a line directly behind the target within your first range increment. Only the initial attack can misfire.
+
+#### Ricochet Shot
+___
+- **Prerequisite:** 5th level <br>
+When you make a firearm attack against a creature when another creature, obstacle or piece of cover is within your direct line of fire, you can spend one swagger point to attempt to ricochet the shot off of an adjacent hard surface if one is available (DM's discretion). By doing so you ignore the bonus to Armour Class the opponent would have gained from the creature, obstacle or piece of cover when making your shot.
+
+#### Extra-Powder Shot
+___
+- **Prerequisite:** 7th level <br>
+When you make a firearm attack against a creature, you can expend one or more swagger points to enhance the volatility of the attack. For each swagger point expended, the attack gains a +2 to the firearm"s misfire score. If the attack hits, you can roll one additional weapon damage die per swagger point spent when determining the damage.
+
+#### Warning Shot
+___
+- **Prerequisite:** 2nd level <br>
+When you miss with an attack using a firearm, you can use the powerful blast and thundering sound of your firearm to shake the resolve of the creature you initially aimed towards. You can expend one swagger point and force the creature to make a Wisdom saving throw versus your swashbuckler save DC. On a failure, the creature's movement is reduced to 0 for their next turn in combat and the next attack against it has advantage. On a success, the creature is unaffected by the warning shot.
+
+#### Winging Shot
+___
+- **Prerequisite:** 5th level <br>
+When you make a firearm attack against a creature, you can expend one swagger point to attempt to topple a moving target. On a hit, the creature suffers normal damage and must make a Strength saving throw versus your swashbuckling save DC or be knocked prone.
+
+### Savvy Maneuvers
+Savvy Maneuvers are types of clever actions, bonus actions and reactions that improve your overall combat versatility. These maneuvers require you to spend swagger points in order to use and often require the enemy to make a saving throw against your swashbuckler save DC, as detailed on each maneuver.
+
+#### Ask Questions Later
+___
+- **Prerequisite:** Shoot First trick, 10th level <br>
+If the creature who is hit by your shoot first trick is medium or smaller, you may spend an additional swagger point and force the creature to make a Constitution save vs your swashbuckling save DC or be stunned until the beginning of your next turn.
+
+#### Beastial Bombardier
+___
+- **Prerequisite:*- **The Powder Keg**, 15th level <br>
+You may spend a swagger point to order your powder monkey familiar to throw a bomb in your place as part of its turn. If required, use the familiars' stats and modifiers for this ranged attack, but you may add your proficiency bonus.
+
+#### Damned Recovery
+___
+- **Prerequisite:*- **Seafallen Pirate**, 7th level <br>
+As a seafallen pirate, you can beseech your patron to grant you a brief stint of recovery by spending a spell slot of any level <br> and up to 5 swagger points, gaining 1d8 hit points back per swagger point spent.
+
+#### Death From Above
+___
+- **Prerequisite:** 5th level <br>
+You are deadly when you get the drop on your enemies, literally. When you attack from at least 10 feet above your intended target you can spend a swagger point as part of your attack action and add +2 damage to the total damage roll (4 on a critical strike) to the first hit. You must declare this before you know the results of the attack.
+
+#### Death Threats
+___
+- **Prerequisite:*- **The Dread Pirate**, 7th level <br>
+As a bonus action, you can spend a swagger point to threaten your foe. The creature must understand at least one language in common with your character. The creature must then make a Wisdom saving throw versus your swashbuckling save DC. On a failure, the creature takes 1d6 psychic damage. On a success, the creature takes half damage. You can spend up to 5 swagger points to add an additional 1d6 per swagger point spent.
+
+#### Disarming Strike
+___
+- **Prerequisite:** 3rd level <br>
+You can spend a swagger point and use a melee attack to try and disarm your foe. On a hit, the creature suffers normal damage and must succeed on a Strength saving throw versus your swashbuckling save DC or drop 1 held object of your choice and have that object be pushed 10 feet away.
+
+#### Drink It Off
+___
+- **Prerequisite:** 10th level <br>
+As a bonus action, you can spend a swagger point to down a draft of rum and expend a hit dice to regain some health. You can expend a number of swagger points in this way (no greater than the maximum number of hit dice you have remaining), to regain additional hit dice. After expending hit dice in this way, you do not regain these hit dice back until completing a long rest.
+
+#### Dumb Luck
+___
+- **Prerequisite:*- **The Fool**, 5th level <br>
+You can spend a swagger point to force a creature to re-roll an attack roll on you with advantage this time, or with +5 on the attack roll if they already have advantage. Alternatively, you can spend an additional swagger point to have them roll normally against you.
+
+#### En Garde
+___
+- **Prerequisite:*- **The Dread Pirate**, 5th level <br>
+You may spend a swagger point to declare your intent to duel a creature within 30 feet of yourself. The creature must then make a Charisma saving throw versus your swashbuckling save DC or be compelled into a duel with you for a number of rounds equalling your Charisma modifier (minimum of 1). Whilst compelled into this duel, the creature has disadvantage whilst attacking any creature but yourself.
+
+#### Fake It Till You Make It
+___
+- **Prerequisite:** 15th level <br>
+As a pirate, you have had plenty of experience bluffing your way out of a tight spot. If you need to make a deception, persuasion or intimidation skill check, you can spend a swagger point to gain advantage on this skill check.
+
+#### Familiar's Vengeance
+___
+- **Prerequisite:*- **The Powder Keg**, 5th level <br>
+When you or your powder monkey familiar are hit with a melee attack within 5ft of you, you can use your reaction to immediately have your familiar make a melee attack against the target.
+
+#### Fencing Adept
+___
+- **Prerequisite:** 3rd level <br>
+When you"re the target of a melee attack whilst wielding a light or finesse melee weapon, you may spend one swagger point to use your reaction to add +2 to your AC for the round. Additionally, you may spend up to 3 additional swagger points and add another +1 to your AC for every point spent.
+
+#### Iron Lungs
+___
+- **Prerequisite:** 2nd level <br>
+You can spend a swagger point to hold your breath for twice the usual amount of time (1 minute + twice your constitution modifier) whilst swimming.
+
+#### Look Lively Lads!
+___
+- **Prerequisite:** 5th level <br>
+You can spend a swagger point at the start of combat, using your reaction in the first round of combat, to allow yourself or an ally to roll their initiative with advantage.
+
+#### Parry
+___
+- **Prerequisite:** 5th level <br>
+When you take damage, you may spend a swagger point and use your reaction to reduce the damage by your weapon's damage die. Additionally, you can spend another swagger point to double the number rolled. You must declare whether or not you are spending the additional swagger point before rolling to see how much damage you avoid and before the enemy has rolled its damage against you.
+
+#### Pocket Sand
+___
+- **Prerequisite:** 2nd level <br>
+As long as you have one free hand available, you can spend a swagger point and use a bonus action to attempt to blind an enemy within 5 feet of you. You pull a handful of sand, grit or gravel from a side pouch that you have collected and throw the contents into the enemy's face. The creature must then make a Constitution saving throw versus your swashbuckling save DC or be Blinded until the start of your next turn.
+
+#### Quick Reload
+___
+- **Prerequisite:** 15th level <br>
+You can spend one swagger point to reload a single firearm (sidearm or longarm) as a bonus action.
+
+#### Re-direct
+___
+- **Prerequisite:** 10th level <br>
+When surrounded or flanked by two or more creatures within 5ft melee range, and whilst one is making an attack action against you, you may spend a swagger point to use your reaction to re-direct the attack towards one of the other creatures around you. The attack is then shifted to that creature instead with disadvantage. You can spend an additional swagger point to discard the disadvantage and have the enemy creature roll normally.
+
+#### Sea Shanties
+___
+- **Prerequisite:** 7th level <br>
+As a bonus action on your turn, you can begin singing a nautical song. A single ally that can see and hear you gains a 1d4 boon on their next ability check.
+
+#### Shoot First
+___
+- **Prerequisite:** 7th level <br>
+When you roll initiative, you may spend one swagger point and use your reaction to immediately draw and fire a loaded firearm in your possession as long as you are not surprised or incapacitated in any way. You can only attack a creature that has a lower initiative score than yourself in this manner.
+
+#### Sweep The... Peg-leg?
+___
+- **Prerequisite:** 1st level <br>
+When you successfully hit with a melee attack against a creature within 5 feet you can spend a swagger point to sweep at the creature's leg as a bonus action. The creature must then make a Strength saving throw versus your swashbuckling save DC or be knocked Prone.
+
+#### Unflinching
+___
+- **Prerequisite:*- **The Dread Pirate**, 10th level <br>
+If you are under the effects of the Fear or Charm condition, you can spend a swagger point as a bonus action to immediately make a saving throw with advantage against the saving throw DC of the spell or creature effect.
+
+#### We Must Fight! To Run Away!
+___
+- **Prerequisite:** 2nd level <br>
+You can spend a swagger point to Dash, Hide or Disengage as a bonus action.
+
+#### What's that over there?
+___
+- **Prerequisite:** 7th level <br>
+When being targeted by a single creature's attack, you may spend one swagger point to attempt to distract your opponent in order to slip away. The creature must succeed an Intelligence saving throw versus your Swashbuckling save DC or become distracted, allowing you to move up to half your movement speed away from the target. The target still gets an attack of opportunity, however, they make this attack with disadvantage.

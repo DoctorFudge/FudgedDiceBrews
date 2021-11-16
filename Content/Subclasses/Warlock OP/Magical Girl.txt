@@ -1,0 +1,125 @@
+### The Magical Girl
+[**Source:** *Magical Girl Revised*](https://www.gmbinder.com/share/-MRoFoR-GRTCr0Vl4x7M)
+
+Your patron is one drawn straight out of your favourite TV shows. A creature with remarkable powers who chooses one, or very few, people to represent them to fight against a great threat and bring light and happiness to the world. This being's motivations may not always be pure, but they always have the best for you and the world in their hearts.
+
+Your patron may be like Zordon from the Power Rangers, transforming you into a super sentai or kamen raider. Or they may be like Kero from Cardcaptor Sakura or Kyubey from Madoka Magica, transforming you into a traditional frilly dressed magical girl. Your patron may even be something more alien that grants you the transformation of a Super Saiyan from Dragon Ball, or turns you into a Superhero akin to your favourite Marvel and DC comic heroes.
+
+Whomever your patron may be, being chosen as a magical girl is an event rarely occurring for no reason, and always leads to the pursuit of an epic destiny.
+
+#### Expanded Spell List
+The Magical Girl lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+##### Magical Girl Expanded Spells
+| Spell Level | Spells |
+| :-: | :-- |
+| 1st | *bless, cure wounds* |
+| 2nd | *calm emotions, spiritual weapon* |
+| 3rd | *daylight, sending* |
+| 4th | *locate creature, aura of purity* |
+| 5th | *commune, hallow* |
+
+#### Fairy Companion
+When you become a magical girl at 1st level you gain the all important fairy companion who will assist you in your quest. This companion takes the form of a tiny, very cute version of your patron. When you converse with your fairy companion, you can speak telepathically no matter how far away you might be. Your fairy companion always knows exactly what is going on from your perspective.
+
+Your fairy companion has none of the power of your patron.
+
+In addition, you may also communicate as much as you want with them during a round.
+
+#### Magical Girl Evolution
+When you become a magical girl at 1st level you gain the ability to transform into a magical girl for 1 minute. You can transform twice, after which you cannot do so again until you complete a long rest.
+
+There are two parts to a transformation, the transformation itself, and the magical girl form.
+
+##### Transformation Sequence
+As an action you can begin to transform into a magical girl until the start of your next turn. To do this, you must have a trinket granted to you by your patron on your person. This may come in the form of a shining pendant, or a powerful wand. Your transformation is always a spectacular event. Rays of rainbow light may shoot in all directions, a cheery tune might play for all nearby to hear, or you may perform a choreographed dance wherein your costume appears onto you. No matter how you transform, you must shout for all to hear your clear intent to transform.
+
+While transforming you have resistance to all damage, you cannot be forced to move, and you cannot take any reactions.
+
+Creatures that make a melee attack against you during this time must succeed on a Dexterity saving throw or take 1d6 x 1/2 your warlock level (rounded down) radiant damage. On a successful save they take half damage. You can't just interrupt a transformation sequence after all.
+
+At the start of your next turn, you emerge from your transformation sequence in your magical girl form.
+
+##### Magical Girl Form
+In your magical girl form you gain the following benefits:
+- You immediately gain temporary hit points equal to your Warlock level.
+- You gain a Flight speed equal to 60 feet, but you must land at the end of your turn or fall.
+- You gain a +1 bonus to your spell attack modifier. This increases to +2 at 14th level.
+- You add your Charisma modifier to all damage you deal.
+- If you take damage that would reduce you to 0 hit points, you can choose to fall to 1 hit point instead. You can only do this once per transformation, after which your transformation immediately ends.
+
+#### Climactic Showdown
+Starting at 6th level, you can compel creatures to fight you, one on one. At the start of your turn (no action required by you) you can verbally single out one creature that is hostile to you and can hear you. If this creature has allies that are also currently hostile to you, then the creature targeted must be equal to, or be in a position of leadership or superiority over those allies. If it is alone, or an equal to these other creatures nearby, then the following effects will transfer to this creature's superior if one becomes hostile to you.
+
+Until either you or this creature are reduced to 0 hp, neither of you can take any action that does not target or affect the other. All attacks must be directed at either you or this creature, and neither you or the creature may use your movements to move farther than 60 feet from one another.
+
+This effect ends early if you haven't attacked the creature, cast a spell that affects that creature or dealt damage to that creature since your last turn. Additionally, if you end your turn farther than 60 feet away from the creature, the effect ends.
+
+If you defeat a creature affected by this feature, any creatures friendly to it must succeed on a Wisdom saving throw against your Spell save DC. On a failed save, they all become frightened of you until the end of their next turn.
+
+You can use this feature twice, and you regain all expended uses when you finish a long rest.
+
+#### The Power of Friendship
+At 10th level you learn that the greatest power a magical girl has at their command is the power of friendship. When a creature within 10 feet is hit by an attack, you may use your reaction to take the attack in their place. After taking this attack, you have advantage on your next attack roll against the attacking creature before the end of your next turn.
+
+If this attack would reduce you to 0 hit points, you can use your reaction to cast any spell with a casting time of no more than 1 Action, or use your ultimate attack. Afterwards you fall unconscious like normal.
+
+#### Ultimate Power
+When you reach 14th level you have obtained the ultimate power of your magical girl form. This power is unique to each Magical Girl.
+
+Using your ultimate power is always a spectacular event, you should have a name for your power that you shout out when you use it, or a dramatic line that lets others know you are using it. You might blast waves of stars and galaxies out of your wand, or your weapon might grow to 10x its size as you pulverize your enemy.
+
+Your ultimate power always requires an action to use, but otherwise functions as a Warlock spell that you can only use once per transformation.
+
+After using your ultimate power, you exit your magical girl form at the start of your next turn.
+
+##### Constructing Your Ultimate Power
+When you first gain your ultimate power you choose the size, shape, damage type, and effects of the attack. This decision is permanent.
+
+Construct your ultimate power by choosing from each of the following steps.
+
+##### Spell Shape
+Choose one of the following to determine the shape of your spell. Each shape originates from you.
+- Line (60ft)
+- Cone (30ft)
+- Sphere (15ft)
+
+Your ultimate power deals 12d6 damage to creatures of your choice within the area. This increases to 12d8 damage at 17th level, and 12d10 damage at 20th level.
+
+##### Choose how you hit
+You can either make an attack roll, or force the targets to make a saving throw.
+- You roll an attack roll for each target using your spell attack bonus
+- Targets must make a saving throw of your choice, either Constitution, Dexterity, or Wisdom.
+
+##### Damage Type
+Choose what damage your Ultimate Power does, one of the following options:
+- Bludgeoning, Piercing, or Slashing based on your weapon
+- Acid, Cold, Fire, Lightning, Necrotic, Poison, Psychic, Radiant, or Thunder
+
+Or, instead of dealing damage, you can choose to heal using your Ultimate Power.
+- Healing
+
+##### Choose Two
+If you chose to heal, move to the next step instead.
+
+- Targets cannot restore hit points until they complete a long rest
+- Targets have disadvantage on checks and saves using one ability Score of your choice
+- Targets are stunned, restrained, or blinded and deafened
+- Targets are paralyzed, poisoned, charmed, or frightened of you
+- Targets have their speed reduced to half
+- Allies have advantage on attack rolls against target creatures
+- Targets have disadvantage on attack rolls
+
+Each chosen effect lasts for 1 minute. The target can succeed on your choice of a Dexterity, Constitution, or a Wisdom saving throw at the end of each of their turns to end all effects.
+
+##### Choose One if you chose to heal
+
+- Targets have advantage on attack rolls
+- Attacks against the targets have disadvantage
+- Targets have advantage on saving throws
+
+Each effect lasts for 1 minute.
+
+##### Done!
+
+Once you have built your ultimate power, your choices are permanent. Write it down as a new ability!

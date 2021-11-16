@@ -1,0 +1,32 @@
+### Combat Medic
+[**Source:** *The Complete Martialist Handbook*](https://drive.google.com/file/d/1oGWtJWYIL63dUACooColfDVhX6MllXji/view)
+
+A Combat Medic knows how to create carnage as well as any other fighter, but also learns to deal with the aftermath. These fighters know how to quickly assess a situation to determine where they are most needed, and how to use materials on hand for feats of medical skill that save lives.
+
+#### Medical Training
+When you choose this archetype at 3rd level, you gain proficiency in the Medicine skill if you don't already have it. Your proficiency bonus is doubled for any ability check you make using the skill.
+
+#### Battlefield Medicine
+At 3rd level, you learn to treat wounds and ailments quickly and efficiently. Your medical expertise is represented by a pool of d6s. The number of dice in this pool equals your fighter level.
+
+As an action, you can heal a willing creature within your reach, spending dice from the pool. The maximum number of dice you can spend at once equals half your fighter level. Roll the dice you spend, add them together, and restore a number of hit points equal to the total + your Wisdom modifier (minimum 1).
+
+Alternatively, you can use an action and expend two dice from the pool to end one effect imposing the paralyzed, poisoned, or stunned condition on the target.
+
+This dice pool regains one expended die whenever you finish a short rest, and all expended dice when you finish a long rest.
+
+#### Doctor of War
+Starting at 7th level, when you expend dice from your Battlefield Medicine pool as part of your action, you can make one weapon attack as a bonus action.
+
+#### Triage Expert
+At 10th level, you become an expert at quickly analyzing battlefield scenarios and maneuvering yourself to the places you're most needed. You have advantage on initiative rolls and can take the Dash action as a bonus action on your turn.
+
+#### Battlefield Surgery
+Starting at 15th level, whenever you finish a short rest, your Battlefield Medicine dice pool now regains a number of expended dice equal to your 1 + Wisdom modifier (minimum 2 dice).
+
+Additionally, you can use your action and expend three of the dice from the pool to return a creature within 5 feet of you to life with 1 hit point, provided the target has died within the last minute. A creature returned to life this way suffers one level of exhaustion.
+
+#### Angel of Mercy
+Beginning at 18th level, when you roll to restore hit points with your Battlefield Medicine, you can add your Wisdom modifier (minimum 1) to each die rolled, rather than the total.
+
+Additionally, your example of mercy diminishes your enemies' desire to harm you. When you end your turn without having made an attack roll or dealt damage to another creature this turn, attacks made against you have disadvantage until the start of your next turn.

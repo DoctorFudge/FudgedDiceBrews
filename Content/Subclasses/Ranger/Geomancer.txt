@@ -1,0 +1,124 @@
+### Geomancer
+[**Source:** *The Complete Martialist Handbook*](https://drive.google.com/file/d/1oGWtJWYIL63dUACooColfDVhX6MllXji/view)
+
+You have learned to tap into the mystical properties of the land, giving you greater and more flexible magic than other rangers. Geomancers have a deep connection to certain types of terrain but can access the magic inherent to any land they are in. Geomancers take great pride in their reputation as some of the greatest spellcasters among rangers.
+
+#### Geomantic Resonance
+Starting at 3rd level, you learn a ritual that takes 1 hour to complete and counts as light activity for you. When you complete this ritual, choose a terrain type you have selected with your Natural Explorer feature (see Ranger in the Player's Handbook) or the terrain you're currently in (arctic, coast, desert, forest, grassland, mountain, settlement, swamp, or the Underdark). If you are not in a location that matches any of the terrain types, or you are in a location that could match multiple terrain types, your DM will decide which terrain your location counts as. Until you perform this ritual again, you are geomantically resonant with that terrain type.
+
+#### Geomancer Magic
+At 3rd level, you know additional spells depending on the terrain you are currently geomantically resonant with and your ranger level, as shown in the Geomancer Spells by Terrain tables. These spells count as ranger spells for you but don't count against the number of ranger spells you know.
+
+#### Geomancer Spells by Terrain
+
+##### Arctic
+| Ranger Level | Spells |
+| :-: | :-- |
+| 3rd | <em>ice knife</em> |
+| 5th | <em>hold person</em> |
+| 9th | <em>sleet storm</em> |
+| 13th | <em>ice storm</em> |
+| 17th | <em>cone of cold</em> |
+
+##### Coast
+| Ranger Level | Spells |
+| :-: | :-- |
+| 3rd | <em>purify food and drink</em> |
+| 5th | <em>misty step</em> |
+| 9th | <em>water breathing</em> |
+| 13th | <em>freedom of movement</em> |
+| 17th | <em>scrying</em> |
+
+##### Desert
+| Ranger Level | Spells |
+| :-: | :-- |
+| 3rd | <em>create or destroy water</em> |
+| 5th | <em>dust devil</em> |
+| 9th | <em>wall of sand</em> |
+| 13th | <em>hallucinatory terrain</em> |
+| 17th | <em>insect plague</em> |
+
+##### Forest
+| Ranger Level | Spells |
+| :-: | :-- |
+| 3rd | <em>goodberry</em> |
+| 5th | <em>bark skin</em> |
+| 9th | <em>plant growth</em> |
+| 13th | <em>guardian of nature</em> |
+| 17th | <em>tree stride</em> |
+
+##### Grassland
+| Ranger Level | Spells |
+| :-: | :-- |
+| 3rd | <em>beast bond</em> |
+| 5th | <em>earthbind</em> |
+| 9th | <em>speak with plants</em> |
+| 13th | <em>conjure minor elementals</em> |
+| 17th | <em>awaken</em> |
+
+##### Mountain
+| Ranger Level | Spells |
+| :-: | :-- |
+| 3rd | <em>thunderwave</em> |
+| 5th | <em>spider climb</em> |
+| 9th | <em>meld into stone</em> |
+| 13th | <em>stoneskin</em> |
+| 17th | <em>wall of stone</em> |
+
+##### Settlement
+| Ranger Level | Spells |
+| :-: | :-- |
+| 3rd | <em>charm person</em> |
+| 5th | <em>knock</em> |
+| 9th | <em>leomund's tiny hut</em> |
+| 13th | <em>locate creature</em> |
+| 17th | <em>animate objects</em> |
+
+##### Swamp
+| Ranger Level | Spells |
+| :-: | :-- |
+| 3rd | <em>entangle</em> |
+| 5th | <em>pass without trace</em> |
+| 9th | <em>stinking cloud</em> |
+| 13th | <em>blight</em> |
+| 17th | <em>contagion</em> |
+
+##### Underdark
+| Ranger Level | Spells |
+| :-: | :-- |
+| 3rd | <em>snare</em> |
+| 5th | <em>web</em> |
+| 9th | <em>enemies abound</em> |
+| 13th | <em>greater invisibility</em> |
+| 17th | <em>cloudkill</em> |
+
+#### Invoke the Elements
+At 3rd level, your attacks are enhanced with the mystical elements of the land. The first time you deal damage with a weapon attack each turn you deal 1d6 additional damage. The damage type of this additional damage depends on the terrain you are geomantically resonant with.
+
+##### Invoke the Elements
+Terrain Type|Damage Type
+:-----:|:-----
+Arctic|Cold
+Coast|Acid
+Desert|Fire
+Forest|Force
+Grassland|Radiant
+Mountain|Thunder
+Settlement|Psychic
+Swamp|Poison
+Underdark|Necrotic
+
+#### Geomantic Recovery
+At 7th level, you can regain some of your magical energy by communing with the mystical elements of your environment. During a short rest, you choose expended spell slots to recover. The spell slots can have a combined level that is equal to or less than a third of your ranger level, and none of the slots can be 6th level or higher.
+
+Once you use this feature, you can't use it again until you finish a long rest.
+
+For example, as a 7th-level ranger, you can recover up to two levels worth of spell slots. You can recover either a 2nd-level spell slot or two 1st-level spell slots.
+
+#### Strength of the Earth
+At 11th level, when you finish a long rest, you gain temporary hit points equal to twice your ranger level. Whenever you finish a short rest, you gain temporary hit points equal to your ranger level.
+
+While you have temporary hit points granted by this feature, the additional damage from your Invoke the Elements feature increases to 2d6.
+
+#### Geomantic Shield
+At 15th level, when you take damage associated with the terrain type you are geomantically resonant with or one of the terrain types you have selected with your Natural Explorer feature, you can use your reaction to gain resistance to that damage type until the start of your next turn. The damage type associated with each terrain type is identified on the chart above.

@@ -1,0 +1,24 @@
+### College of Drifting
+[**Source:** *Bardic College of Drifting*](https://homebrewery.naturalcrit.com/share/WjsC9lHfxsFw)
+
+The tide of battle can change at a moments notice. Being able to move efficiently and precisely is the mark of a seasoned adventurer, but none capture the essence of speed more thanb ards of the College of Drifting. Those who choose this path dedicate their lives to speed in all its forms, honing their reactions and being able to think and act under pressure.
+
+#### Do You Like My Cart
+When you choose this sublcass at 3rd level, you gain proficiency with all vehicles. Additionally, mounts you control gain an extra 10 movement speed, while vehicles you control gain extra movement speed equal to half their base speed, rounded down. You may also add your proficiency bonus to Animal Handling checks made to mount a creature.
+
+In addition, you learn the spell *Longstrider.* This does not count against the number of spells you know.
+
+#### Supersonic Fire
+Also at 3rd level, your burning passion for speed makes itself known through your allies. Any creature to whom you have given a Bardic Inspiration point to may use their bonus action to consume the Bardic Inspiration and ignite the fires of their soul, gaining a 10 foot bonus to movement speed and leaving a burst of fire that lasts for 30 seconds.
+
+Hostile creatures passing through this trail must make a Dexterity saving throw against your spellcasting DC, taking  fire damage equal to a roll of your Bardic Inspiration die on a failed save. At 14th level this movement speed increases by 10. The effects of the movement speed increase last for a number of turns equal to half your Bard level rounded up.
+
+#### Burning up for You
+Starting at 6th level you may now use your own Bardic Inspiration to activate Supersonic Fire. When you do so, ranged attacks to do so gain -5 to hit.
+
+In addition you learn the spells *Haste* and *Misty Step*. These do not count against the number of spells you know.
+
+#### Speed Lover
+At 14th level your movemet speed automatically increases by 10. You can use an action to inspire those around you and extend the same benefit to any number of creatures you choose within 60 feet of you who are able to hear you. This effect lasts until the end of your next turn.
+
+Additionally, as your passion for speed has reached its apex, you have become immune to having your movement speed magically reduced.

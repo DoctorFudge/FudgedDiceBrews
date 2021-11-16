@@ -1,0 +1,123 @@
+### Clockwork Engineer
+[**Source:** *Expanded Artificer: Additional Specialist and Infusion Options*](https://drive.google.com/file/d/1_vQkVogd65ZhGopNk-ddEK_7lvbzfWXV/view)
+
+Good help can be hard to come by, and a Clockwork Engineer prefers to spend their time building all the help they need from spare parts. Experts with fine-tuning and upgrading clockwork of all kinds, these artificers often modify and enhance the crossbows they use, striking from afar while their minions harry their foes.
+
+#### Tool Proficiency
+When you adopt this specialization at 3rd level, you gain proficiency with smith's tools. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
+
+#### Clockwork Engineer Spells
+Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Clockwork Engineer Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
+
+##### Clockwork Engineer Spells
+Artificer Level|Spells
+:-----:|:-----
+3rd|<em>guiding bolt, Tenser's floating disk</em>
+5th|<em>conjure traps\*, find traps</em>
+9th|<em>conjure barrage, lightning arrow</em>
+13th|<em>deconstruct*, locate creature</em>
+17th|<em>animate construct\*, fantastic machine\*</em>
+
+<em>\* these spells are located later in this supplement</em>
+
+#### Clockwork Minions
+Also at 3rd level, you are able to create mechanical minions to serve your every whim. As a 10 minute ritual which can be part of a short or long rest, you can create up to three clockwork minions, the statistics for which are included here. You can have no more than three of these minions active at any one time. If you attempt to create minions when you already have three, you must first choose one or more of your previous minions to deactivate, or randomly-determined minions will deacti vate automatically until only three remain.
+
+A minion from this feature regains 2d6 hit points when affected by the mending cantrip, and regains all its hit points whenever it finishes a short or long rest with you, while you have tinker's tools on your person. You can deactivate any or all of your minions by using an action to do so, and minions disappear when reduced to 0 hit points.
+
+On each of your turns, you can use a bonus action to verbally command your minions from this feature that are within 60 feet of you, commanding a single minion or all of your minions at the same time. You decide what action each commanded minion will take and where it will move during its next turn, or you can issue a general command, such as to guard a particular chamber or corridor. If you issue no commands, the minion only defends itself against hostile creatures. Once given an order, the minion continues to follow it until its task is complete.
+
+When you first create a minion, choose one of the following additional attributes for it to have. At 5th level, each minion can instead have two of these attributes. At 9th level, each minion can instead have three of these attributes.
+
+***Combat-Ready.*** The minion has a melee attack with a reach of 5 feet, which can deal bludgeoning, piercing, or slashing damage (your choice). The minion will not use its attack on its turn unless you specifically instruct it (or all minions with this attribute, at once) to do so using a bonus action on your turn, each time you wish for it to attack.
+
+This attack adds your Intelligence modifier + your proficiency bonus on the roll to hit (in place of your minion's statistics). On a hit, the attack deals damage equal to 1d4 + your Intelligence modifier. This minion cannot make opportunity attacks, unless you expend your reaction to allow one minion to do so.
+
+The damage of this attack increases by 1d4 when you reach 9th level (2d4 + your Intelligence modifier) and 15th level (3d4 + your Intelligence modifier).
+
+***Flying.*** The minion gains a flying speed of 40 feet with the hover property.
+
+***Fortified.*** The minion increases its AC to 18. Whenever the minion takes bludgeoning, piercing, or slashing damage from a nonmagical source, reduce that damage by an amount equal to your Intelligence modifier.
+
+***Lamp.*** The minion has a lamp, which it can activate, deactivate, or reconfigure using an action on its turn. This lamp can be configured to shine bright light out in a radius of 60 feet (with dim light 60 feet beyond that), or to direct the lamp into a 90-foot cone of bright light (with dim light 90 feet beyond that).
+
+***Optics.*** The minion is considered proficient in the Investigation and Perception skills, and makes checks with these skills using your Intelligence modifier and proficiency bonus in place of its own statistics.
+
+***Tooled.*** The minion has one onboard set of thieves' tools, smith's tools, tinker's tools, or other artisan's tools with which you have proficiency. The minion can make checks with these tools using your statistics and profi- ciencies, but does not itself count as having proficiency with these tools.
+
+Once each day, you can use a bonus action to instruct a minion with this attribute to repair itself or another construct or object within 5 feet of it. The minion uses its action to do so, and restores hit points equal to 2d8 + your Intelligence modifier to its target.
+
+***Shielded.*** After every short or long rest, the minion gains temporary hit points equal to your artificer level + your Intelligence modifier. These temporary hit points last until they are lost.
+
+___
+> ## Clockwork Minion
+> *Tiny construct, neutral*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** equal the minion's Constitution modifier + your Intelligence modifier + three times your level in this class
+> - **Speed** 30 ft., climb 30 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|10 (+0)|14 (+2)|12 (+1)|4 (–3)|10 (+0)|6 (–2)|
+>___
+> - **Saving Throws** Dex +4, Con +3
+> - **Damage Immunities** poison, psychic
+> - **Condition Immunities** charmed, exhaustion, poisoned
+> - **Senses** passive Perception 10
+> - **Languages** understands the languages you speak
+> ___
+> ***Constructed Nature.*** The minion does not require air, food, drink, or sleep.
+>
+> ***Iterative Process.*** When your proficiency bonus increases by 1, the minion's saving throws also increase by 1.
+>
+> ***Nimble Climber.*** The minion can move up, down, and across vertical surfaces and upside down along ceilings, while leaving its graspers or other appendages free.
+
+#### Crossbow Mechanist
+When you reach 3rd level, you have learned the complexities of using and maintaining crossbows of all kinds. You gain the following benefits:
+- You gain proficiency with hand crossbows and heavy crossbows.
+- When using a crossbow, you ignore the loading property.
+- When you attack with a crossbow, you can use your Intelligence modifier, instead of your Dexterity modifier, for the attack and damage rolls.
+
+#### Extra Attack
+Starting at 5th level, you can attack twice with a ranged weapon, rather than once, whenever you take the Attack action on your turn.
+
+Additionally, when you take the Attack action you can choose to forgo making one of the attacks it grants. If you do, one of your minions you can see with the Combat Ready attribute can make an attack in its place.
+
+#### Mechanical Mount
+At 9th level, you can undertake a 1 hour long ritual to create a clockwork mount, which is a Medium creature designed to carry you. This mount can have two to eight limbs, and can appear however you would like. The statistics for this mount are included here.
+
+Your mount follows any verbal directions you give it, but cannot attack. Your mount disappears when it drops to 0 hit points, or when you use an action at any time to dismiss it. You can't have more than one mount created by this ability at a time, and creating a new mount causes the previous mount to vanish.
+
+While riding your clockwork mount, you can use your bonus action to have your mount fire a concentrated beam of magical force at one target of your choice that you can see within 120 feet. Make a spell attack against that creature, adding your Intelligence modifier and proficiency bonus to the roll to hit. On a hit, the target takes 2d8 force damage. You can have your mount make this attack a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a long rest.
+
+___
+> ## Clockwork Mount
+> *Medium construct, neutral*
+> ___
+> - **Armor Class** 15 (natural armor)
+> - **Hit Points** equal the mount's Constitution modifier + your Intelligence modifier + five times your level in this class
+> - **Speed** 60 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|18 (+4)|12 (+1)|16 (+3)|4 (–3)|10 (+0)|8 (–1)|
+>___
+> - **Saving Throws** Dex +3, Con +5
+> - **Damage Immunities** poison, psychic
+> - **Condition Immunities** charmed, exhaustion, poisoned
+> - **Senses** passive Perception 10
+> - **Languages** understands the languages you speak
+> ___
+> ***Constructed Nature.*** The mount does not require air, food, drink, or sleep.
+>
+> ***Heavy Lifting.*** Though the mount is Medium, it has the carry capacity of a Large creature. Additionally, creatures of Medium size or smaller are able to ride it as a mount.
+>
+> ***Incredible Leap.*** The mount can jump three times as far and five times as high as normal.
+>
+>***Iterative Process.*** When your proficiency bonus increases by 1, the mount's saving throws also increase by 1.
+
+#### Master of Cogs
+Once you reach 15th level, you can have four minions from your Clockwork Minions feature, instead of three.
+
+In addition, the mount from your Mechanical Mount feature now has a flying speed of 90 feet. The mount's beam attack now deals 3d12 force damage on a hit.

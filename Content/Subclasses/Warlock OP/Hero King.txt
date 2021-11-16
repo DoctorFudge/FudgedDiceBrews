@@ -1,0 +1,40 @@
+### The Hero King
+[**Source:** *The Hero King Patron*](https://docs.google.com/document/d/1wGz1xhsJ5AIE8akj3CiLcfUSdPsFhXlN-ZdvM5vd0ys/edit)
+
+You have made a pact with one of many great kings of legend, known across the ages for their heroic endeavors as a “Hero King”. Seeing in you the seeds of greatness, they grant you the power to overcome impossible odds and inspire others to victory as the next Hero King.
+
+Though your patron is a heroic spirit, your relationship with them is not necessarily cordial. They may be either harsh or inviting, depending on their personality in life. They may make demands that are impossible to meet. They may even express disappointment towards your current state of combative abilities.
+
+However, in forging a bond with a patron such as this, you have also earned a staunch ally who will push you towards adventure and glory—whether you wanted it or not.
+
+#### Expanded Spell List
+The Hero King lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+##### Hero King Extended Spells
+| Spell Level | Spells |
+| :-: | :-- |
+| 1st | <em>Heroism, Shield</em> |
+| 2nd | <em>Find Steed, Flame Blade</em> |
+| 3rd | <em>Crusader's Mantle, Motivational Speech</em> |
+| 4th | <em>Dominate Beast, Fire Shield</em> |
+| 5th | <em>Geas, Holy Weapon</em> |
+
+#### Path of the Hero
+Starting at 1st level, you can use a bonus action to imbue a melee weapon you are holding with a Hero's might. For the next minute, you can use your Charisma modifier instead of your Strength or Dexterity modifier for the attack and damage rolls of melee attacks made using that weapon. When you reduce a creature to 0 HP with this weapon or with Eldritch Blast, you can gain temporary hit points equal to half your warlock level (rounded down) + your Charisma modifier (minimum of 1). While this feature is active you appear to be wearing glowing, spectral armor that resembles your patron's.
+
+Additionally, you acquire the training necessary to effectively arm yourself for battle. You gain proficiency with shields, and shortswords.
+
+#### Heart of the People
+Starting at 6th level, you can reach out to your patron to gain insight into the needs of those you meet. You ask a single question concerning a specific goal, event, or activity concerning the needs of a people. The GM offers a truthful reply. The reply might be a short phrase, a cryptic rhyme, or an omen.
+
+You must finish a short or long rest before you can use this feature again.
+
+#### King's Might
+Beginning at 10th level, your patron teaches you how to focus your mind on the battle ahead. You gain immunity to the charmed and frightened effects. In addition, friendly creatures within 10 feet of you have advantage on saving throws against being charmed and frightened.
+
+You also gain proficiency with martial weapons.
+
+#### Hero King's Court
+Starting at 14th level, you can magically draw forth a manifestation of your might. As an action, you release a fraction of the power you've gained as a wave of force. Each creature within 60 feet of you must make a Wisdom saving throw. The DC for this saving throw equals your spell save DC - the creature's challenge rating. On a failed save, the creature drops its weapons and bends the knee. It is considered prone, and is frightened of you for 1 minute during which an ethereal crown and cape appear on your person. At the end of each of its turns, the target can make another Wisdom saving throw. On a success, the effect ends on the target.
+
+You must finish a short or long rest before you can use this feature again.

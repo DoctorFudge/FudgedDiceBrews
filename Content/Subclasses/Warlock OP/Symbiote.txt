@@ -1,0 +1,47 @@
+### The Symbiote
+[**Source:** *The Symbiote*](https://drive.google.com/file/d/1pM516QRjD9oH1Sc8iUX9MdZZv7b8i9zP/view)
+
+Your patron is less so a mysterious being of immense power, a devil prince, or a mischievous lord or lady of the fey, but something else entirely. This patron is a parasitic being of unknown origin which has bonded entirely with your consciousness and body, enhancing you in many ways as you come to understand, and accept one another's effects. The circumstances of this relationship could be from arcane curiosity, a search for power, or maybe something much more involuntary. Beings of this sort could be fungal spores, life like slime, or a manifestation of magic or spirit.
+
+#### Expanded Spell List
+The Symbiote lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+##### Symbiote Expanded Spells
+| Spell Level | Spells |
+| :-: | :-- |
+| 1st | <em>jump, shield</em> |
+| 2nd | <em>enhance ability, enlarge/reduce</em> |
+| 3rd | <em>haste, nondetection</em> |
+| 4th | <em>freedom of movement, stoneskin</em> |
+| 5th | <em>creation, steel wind strike</em> |
+
+#### Unarmored Defense
+Beginning at 1st level, while you are wearing no armor and not wielding a shield, your AC equals 10 + your Dexterity modifier + your Charisma modifier.
+
+#### Unnatural Weapons
+Starting at 1st level, your patron bestows upon you the ability to morph your hands to razor sharp claws, your mouth to a dagger filled maw, or your legs into crushing tentacles, your relationship with your patron and willingness to allow such grotesque transformations effects how efficient you are in unison.
+
+You gain the following benefits while you are unarmed and you aren't wearing armor or wielding a shield:
+- You can use Charisma instead of Strength for the attack and damage rolls of your unarmed strikes.
+- You can roll a d4 in place of the normal damage of your unarmed strike. This die becomes a d6 at 5th level, a d8 at 11th level, and a d10 at 17th level.
+- You may choose for your unarmed strikes to deal bludgeoning, slashing, or piercing damage.
+
+#### Enhanced Unnatural Weapons
+Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+#### Hungering Jaws
+At 6th level, as a bonus action you may attempt a bite attack using the same die as your Unnatural weapons with the following benefits:
+- The bite does necrotic damage instead of bludgeoning, slashing, or piercing.
+- You heal equal to the amount of necrotic damage done with Hungering Jaws.
+
+#### Mutual Benefit
+Beginning at 10th level, your patron has enhanced its methods of protecting its host to assure its existence. When a creature attacks you, you can use your reaction to impose disadvantage on the attack roll.
+
+Additionally, when damage reduces you to 0 hit points, you may choose to lose all benefits of Unarmored Defense, Unnatural Weapons, Enhanced Unnatural Weapons, Hungering Jaws, Mutual Benefit, and Perfect Symbiosis for 24 hours to instead gain a number of temporary hit points equal to your Warlock level + your Constitution modifier.
+
+#### Perfect Symbiosis
+Starting at 14th level, you have reached a perfect state of resonance with your patron. You gain the following benefits:
+- You gain a swim and climb speed of 30 feet.
+- You gain the ability to breathe both air and water.
+- You gain resistance to acid, cold, and fire damage.
+- You have advantage against being charmed or frightened.

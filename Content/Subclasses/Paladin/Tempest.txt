@@ -1,0 +1,50 @@
+### Oath of the Tempest
+[**Source:** *The Tome of Forgotten Heroes*](https://drive.google.com/file/d/15i1n7JlEh5c7WEvVoljGD1hEblKc0pQy/view)
+
+The storm is chaotic, but within its eye there is calm. Paladins of the Tempest Oath are warriors of the elements. They serve to protect the realm from creatures from other realms, wielding the lightning of the gods as the tool with which to strike down such threats; elementals and other beings of chaos are their prime targets, as their affinity with the chaos of the storm equips them perfectly to handle them.
+
+#### Tenets of the Tempest
+***Protect the Realm.*** The realm is constantly at threat from other planes; fiends, fey and elementals constantly threaten life in the material. It is your job to banish these creatures before they cause harm.
+
+***Be the Eye of the Storm.*** Only by being calm and collected will the storm gather around you; you must be able to control its winds, rather than being swept away by them.
+
+***Plane before Kingdom.*** You are a force that protects the plane from its invaders; not a force for wars between kings. You are unlikely to become involved in such trivial conflicts, unless you are suspicious that more nefarious enemies are behind them.
+
+#### Oath Spells
+You gain oath spells at the paladin levels listed.
+
+| Paladin Level | Spells |
+| :-: | :-- |
+| 3rd | <em>thunderwave, thunderous smite</em> |
+| 5th | <em>gust of wind, warding wind</em> |
+| 9th | <em>fly, lightning bolt</em> |
+| 13th | <em>elemental bane, storm sphere</em> |
+| 17th | <em>maelstrom, steel wind strike</em> |
+
+#### Channel Divinity
+When you take this oath at 3rd level, you gain the following Channel Divinity option.
+
+***Primordial Seal.*** As an action you present your holy symbol and chant a prayer of sealing, using your Channel Divinity. Choose one elemental, fey or fiend within 5 feet of you that you can see. That creature must make a Charisma saving throw. Elementals have disadvantage on this saving throw, and a willing creature can choose to automatically fail this save. On a failed save, the creature becomes sealed for 1 minute, which puts it under the incapacitated condition. While sealed in this way, the creature is immune to all damage until the effect ends, as it occupies a space on a slightly different plane to your own. A sealed creature can repeat the save at the end of each of its turns, ending the effect on itself on a success.
+
+***Sense the Elements.*** As an action, you can present your holy symbol to the air, and allow it to guide you. For the next hour, you know the location of any elementals within 120 feet of you and can sense the location of portals to the elemental planes within 1 mile of you.
+
+#### Lightning Strikes
+Also, at 3rd level, the way you channel your god's wrath changes from radiance into the form of holy lightning. When you use your Divine Smite feature, it deals lightning damage instead of radiant damage, and when you do so, the smite does not deal extra damage to undead creatures, instead gaining the extra 1d8 damage dice when used against an elemental, fey or fiend.
+
+Lightning damage dealt to elementals using this feature ignore resistance to lightning damage and treat immunity to lightning damage as if it were resistance.
+
+#### Aura of the Tempest
+Beginning at 7th level, your connection to the tempest weathers the force of storms for you and those around you. You and friendly creatures within 10 feet of you gain resistance to lightning and thunder damage. At 18th level, the range of this aura increases to 30 feet.
+
+#### Commander of Lightning
+At 15th level, you wield lightning bolts as if they are mere javelins, weaving them into your normal fighting style. Whenever you cast lightning bolt as an action, you can make a melee weapon attack as a bonus action.
+
+#### Warrior of the Storm
+At 20th level, you can invite the spirit of the tempest into your body, becoming an unstoppable warrior clad in lightning armour, surrounded by a condensed hurricane.
+
+Using your action, you undergo the transformation. For 1 minute, you gain the following benefits:
+- You become immune to lightning and thunder damage.
+- You can teleport up to 60 feet using your movement. When you teleport within 5 feet of a creature, it must make a Constitution saving throw or take 2d8 thunder damage.
+- All attack rolls have disadvantage against you, buffeted by the intense winds that emanate off your body.
+
+Once you use this feature, you can't use it again until you finish a long rest.

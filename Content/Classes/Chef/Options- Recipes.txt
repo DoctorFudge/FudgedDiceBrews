@@ -1,0 +1,375 @@
+## Recipes List
+
+#### Black Pepper Jerky
+- **Eating Time:** 1 bonus action
+- **Duration:** 1 hour
+
+This lean, dry strip of meat is complimented by a light seasoning of pungent peppercorn. Once consumed, you gain the ability to transpose for the duration. As an action, you choose a creature within 15 feet and transpose with them. If the creature is willing, you both teleport, swapping places. The creature you choose must be the chef or another creature under the effects of a Black Pepper Jerky recipe created by the chef.
+
+***5th Level:*** The range you can transpose increases to 30 feet.
+
+***11th Level:*** The range you can transpose increases to 45 feet.
+
+***17th Level:*** The range you can transpose increases to 60 feet.
+
+#### Blazing Braised Gizzard
+- **Eating Time:** 1 bonus action
+- **Duration:** 1 minute
+
+This tender poultry is braised in stock, oyster sauce and a few pinches of chilli powder. Once consumed, you perspire at a rapid rate for the duration. Whenever you move, the space you previously occupied is covered in a pool of sweat. The pool has the same size as you, and persists for the duration of the recipe. Any creature that enters a pool of sweat must make a dexterity saving throw. On a failed save, the creature falls prone. On a success, they can freely move through any of your sweat pools until the start of their next turn. The recipe ends early if you drink at least 1 pint of water or milk. If the recipe persists for it's full duration, you gain one level of exhaustion as a result of dehydration.
+
+***5th Level:*** Pools of sweat created by this recipe count as difficult terrain.
+
+***11th Level:*** You no longer become exhausted as a result of the recipe lasting it's full duration.
+
+***17th Level:*** For the duration, you cannot be grappled or restrained by non-magical means, and your movement is unaffected by difficult terrain.
+
+#### Broiled Scorpion-on-a-Stick
+- **Eating Time:** 1 bonus action
+- **Duration:** 1 hour
+
+This crusty arachnid is skewered and sprinkled with sweet and nutty flavours to intesify the bug's fatty inside. Once consumed, you gain a bonus to all dexterity checks you make for the duration. The bonus is equal to the chef's wisdom modifier.
+
+***5th Level:*** You gain a climb speed equal to your walking speed for the duration.
+
+***11th Level:*** Until the recipe ends, you do not take damage from falling unless you fall further than 10 x the chef's wisdom modifier in feet.
+
+***17th Level:*** You add the chef's wisdom modifier to any dexterity saving throws you make for the duration.
+
+#### Bull's Eye Soup
+- **Eating Time:** 1 bonus action
+- **Duration:** 1 round
+
+This savoury bowl includes a bull's eye ball chopped, battered and placed in a salty broth. Once consumed, you can add the chef's wisdom modifier to the next attack roll you make before the end of your next turn.
+
+***5th Level:*** The attack bonus increases to 1 + the chef's wisdom modifier.
+
+***11th Level:*** The attack bonus increases to 2 + the chef's wisdom modifier.
+
+***17th Level:*** The attack bonus increases to 3 + the chef's wisdom modifier.
+
+#### Creamy Milk Risotto
+- **Eating Time:** 1 bonus action
+- **Duration:** 1 minute
+
+This deliciously smooth recipe is full of fresh herbs and served in a leaf of lettuce. Once consumed, for the duration, you gain a bonus to all constitution saving throws you make to maintain concentration. The bonus equals the chef's wisdom modifier.
+
+***5th Level:*** the duration of the recipe increases to 10 minutes.
+
+***11th Level:*** the duration of the recipe increases to 1 hour.
+
+***17th Level:*** the duration of the recipe increases to 8 hours.
+
+#### Croque Madame
+- **Eating Time:** 1 bonus action
+- **Duration:** 8 hours
+
+This sandwich is the perfect breakfast treat, combining several morning flavors in one dish. Once consumed, you gain a bonus to AC equal to the chef's wisdom modifier for the duration. This bonus cannot increase your AC above 16.
+
+***5th Level:*** The maximum AC obtainable from the bonus increases to 17.
+
+***11th Level:*** The maximum AC obtainable from the bonus increases to 18.
+
+***17th Level:*** The maximum AC obtainable from the bonus increases to 19.
+
+#### Devilled Sausage
+- **Eating Time:** 1 bonus action
+- **Duration:** Instantaneous
+
+This recipe consists of a delicately fried sausage chopped up and drizzled in garlic, onion and sliced apple. Upon consuming this recipe, you can immediately attempt to absorb its magic and regain an expended spell slot. To do so, you must succeed on Constitution Check (DC = 10 + the level of the spell slot). The spell slot you wish to regain can be no higher than first level, unless it is a spell slot gained through the Pact Magic Feature.
+
+***5th Level:*** The spell slot you attempt to regain can be up to second level.
+
+***11th Level:*** The spell slot you attempt to regain can be up to third level.
+
+***17th Level:*** The spell slot you attempt to regain can be up to fourth level.
+
+#### Fireball Truffle
+- **Eating Time:** 1 bonus action
+- **Duration:** 1 minute
+
+This spicy ball of chocolate contains cayenne pepper and a sprinkle of popping candy. Once consumed, your body begins to radiate intense heat in a 5-foot radius around you. For the duration, any creature that ends its turn within the area must make a constitution saving throw, taking 1d4 + the chef's wisdom modifier fire damage on a failed save, or half as much on a successful one.
+
+***5th Level:*** the damage increase to 2d4 + the chef's wisdom modifier.
+
+***11th Level:*** the damage increase to 3d4 + the chef's wisdom modifier.
+
+***17th Level:*** the damage increase to 4d4 + the chef's wisdom modifier.
+
+#### Garden Curry
+- **Eating Time:** 1 bonus action
+- **Duration:** 8 hours
+
+This fresh and mild curry contains a variety of healthy fruits and vegetables. Once consumed, you gain a telepathic link with the chef and any other creature under the effects of a garden curry recipe created by the chef. For the duration, you can communicate telepathically with any of these creatures, provided they are within 30 feet of you.
+
+***5th Level:*** The link's range extends to 60 feet.
+
+***11th Level:*** The link's range extends to 90 feet.
+
+***17th Level:*** The link's range extends to 120 feet.
+
+#### Herb-Grilled Slider
+- **Eating Time:** 1 bonus action
+- **Duration:** 1 hour
+
+This snack-sized burger is filled with beef mince grilled in parsley, sage, rosemary and thyme. Once consumed, you gain a bonus to all constitution checks you make for the duration. The bonus is equal to the chef's wisdom modifier.
+
+***5th Level:*** Your hit point maximum cannot be reduced for the duration. Any pre-existing reduction is suppressed until the recipe ends.
+
+***11th Level:*** You are immune to exhaustion for the duration. If your exhaustion level is greater than 0 when you consume this recipe, it is reduced to 0 until the recipe ends.
+
+***17th Level:*** You add the chef's wisdom modifier to any constitution saving throws you make for the duration.
+
+#### Ipecake
+- **Eating Time:** 1 bonus action
+- **Duration:** 1 round
+
+This recipe appears as a regular mud cake, but it is subtly laced with syrup of ipecac. Once consumed, the contents of your stomach begin to boil and rise. Until the end of your next turn, you can use your action to launch projectile vomit towards a creature within 30 feet of you and end the recipe. Make a ranged recipe attack against the target. On a hit, the target takes 1d6 bludgeoning damage. Hit or miss, the vomit then splatters in a 5-foot radius around the target. The target and each creature within this radius must succeed on a Dexterity saving throw or take 1d6 + the chef's wisdom modifier acid damage. If you fail to perform this action before the duration of the recipe ends, you must take this action on your next turn, targetting yourself. If this occurs, you automatically hit with the attack roll and automatically fail the saving throw.
+
+***5th Level:*** The acid damage increases to 2d6 + the chef's wisdom modifier.
+
+***11th Level:*** The acid damage increases to 3d6 + the chef's wisdom modifier.
+
+***17th Level:*** The acid damage increases to 4d6 + the chef's wisdom modifier.
+
+#### Lasagne al Forno
+- **Eating Time:** 1 bonus action
+- **Duration:** 1 hour
+
+This small slice of lasagne is filled with ricotta, chopped onion and ground beef. Once consumed, you gain a bonus to all wisdom checks you make for the duration. The bonus is equal to the chef's wisdom modifier. If the chef's wisdom modifier already applies to the check, double it instead.
+
+***5th Level:*** You gain darkvision out to a range of 60 feet for the duration.
+
+***11th Level:*** Until the recipe ends, you can take the search action as a bonus action on each of your turns.
+
+***17th Level:*** You add the chef's wisdom modifier to any wisdom saving throws you make for the duration. If the chef's wisdom modifier already applies to the saving throw, double it instead.
+
+#### Memory Lane Pastry
+- **Eating Time:** 1 bonus action
+- **Duration:** 1 hour
+
+This pastry is made with lemon pie crust, whipped cream and forest berries. Once consumed, you gain a bonus to all intelligence checks you make for the duration. The bonus is equal to the chef's wisdom modifier.
+
+***5th Level:*** For the duration, you can use your action to discern the weakness of a creature you can see. Choose one condition or damage type. If the target has resistance, immunity or vulnerability to the chosen condition or damage type, the DM shares this information with you.
+
+***11th Level:*** You gain proficiency in one skill or tool of your choice for the duration. alternatively, you can learn to speak, read and write one langauge of your choice until the recipe ends.
+
+***17th Level:*** You add the chef's wisdom modifier to any intelligence saving throws you make for the duration.
+
+#### Oak-Smoked Schnitzel
+- **Eating Time:** 1 bonus action
+- **Duration:** Instantaneous
+
+This delicate cut of veal is crumbed and smoked inside an oaken log. Once consumed, you can immediately expend hit dice to regain hit points, as if you had just finished a short rest.
+
+***5th Level:*** You can add the chef's wisdom modifier to the total amount of hit points regained using this recipe.
+
+***11th Level:*** If the chef is willing, you can use their hit dice to regain hit points as well as your own.
+
+***17th Level:*** Instead of adding it to the total, you can substitute the chef's wisdom modifier in place of your constitution modifier when expending hit dice with this recipe.
+
+#### Orange Cake
+- **Eating Time:** 1 bonus action
+- **Duration:** Instantaneous
+
+This cake is mixed with orange zest and coated in orange juice icing. Once consumed, you regain a number of hit points equal to 1d6 + the chef's wisdom modifier.
+
+***5th Level:*** the healing increases to 2d6 + the chef's wisdom modifier.
+
+***11th Level:*** the healing increases to 3d6 + the chef's wisdom modifier.
+
+***17th Level:*** the healing increases to 4d6 + the chef's wisdom modifier.
+
+#### Pan-Fried Skewer
+- **Eating Time:** 1 bonus action
+- **Duration:** 1 minute
+
+This skewer is layered with a variety of meats and vegetables then fried until soft and crunchy. Once consumed, you become invigorated by a momentary boost of power. whenever you make a damage roll during the recipe's duration, you can choose to deal bonus damage equal to the chef's wisdom modifier and end the recipe. the bonus damage is the same type as the damage roll.
+
+***5th Level:*** the bonus damage increases to 1d4 + the chef's wisdom modifier.
+
+***11th Level:*** the bonus damage increases to 2d4 + the chef's wisdom modifier.
+
+***17th Level:*** the bonus damage increases to 3d4 + the chef's wisdom modifier.
+
+#### Red Velvet Cupcake
+- **Eating Time:** 1 bonus action
+- **Duration:** Instantaneous
+
+This sweet and sticky treat is made with copious amounts of sugar and natural cocoa. Once consumed, you may immediately re-roll the saving throw against one effect that is causing you to be charmed of frightened, adding the chef's wisdom modifier to the total.
+
+***5th Level:*** the range of conditions this recipe can counteract now includes poisoned.
+
+***11th Level:*** the range of conditions this recipe can counteract now includes stunned.
+
+***17th Level:*** the range of conditions this recipe can counteract now includes blinded and deafened.
+
+#### Salmon Teriyaki
+- **Eating Time:** 1 bonus action
+- **Duration:** 1 minute
+
+This tasty fish is deboned and marinated in a sauce made from garlic, ginger, soy, maple and mirin. Once consumed, your speed increases by 10 feet for the duration.
+
+***5th Level:*** your speed increases by an additional 5 feet (15).
+
+***11th Level:*** your speed increases by an additional 5 feet (20).
+
+***17th Level:*** your speed increases by an additional 5 feet (25).
+
+#### Seasoned Sea Crab
+- **Eating Time:** 1 bonus action
+- **Duration:** 1 hour
+
+This crunchy crustacean is seasoned with ginger, coriander and crushed garlic. Once consumed, you gain a bonus to all charisma checks you make for the duration. The bonus is equal to the chef's wisdom modifier.
+
+***5th Level:*** you come under the effects of a *disguise self* spell for the duration.
+
+***11th Level:*** you come under the effects of a *tongues* spell for the duration.
+
+***17th Level:*** You add the chef's wisdom modifier to any charisma saving throws you make for the duration.
+
+#### Sodium Rock Lobster
+- **Eating Time:** 1 bonus action
+- **Duration:** 1 round
+
+This recipe consists of a lobster tail stuffed with several sodium rocks. Once consumed, you stomach begins to fill with gas. Until the end of your next turn, you can use your action to propel a violent belch in 15-foot cone originating from you and end the recipe. Each creature inside the cone must succeed on a constitution saving throw or take 1d8 + the chef's wisdom modifier poison damage. If you fail to perform this action before the duration of the recipe ends, you must take this action on your next turn, expelling the belch in a random direction determined by the DM.
+
+***5th Level:*** The poison damage increases to 2d8 + the chef's wisdom modifier.
+
+***11th Level:*** The poison damage increases to 3d8 + the chef's wisdom modifier.
+
+***17th Level:*** The poison damage increases to 4d8 + the chef's wisdom modifier.
+
+#### Thick 'n' Juicy Steak
+- **Eating Time:** 1 bonus action
+- **Duration:** 1 hour
+
+This small slice of steak is grilled in rosemary and red peppercorn. Once consumed, you gain a bonus to all strength checks you make for the duration. The bonus is equal to the chef's wisdom modifier.
+
+***5th Level:*** until the recipe ends, You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+***11th Level:*** your jump distance is doubled for the duration. In addition, every 2 feet you jump only costs you 1 foot of movement.
+
+***17th Level:*** You add the chef's wisdom modifier to any strength saving throws you make for the duration.
+
+#### Veggie Medley Stew
+- **Eating Time:** 1 bonus action
+- **Duration:** 1 minute
+
+This savoury stew appears as a striking rainbow of assorted vegetables. Once consumed, you gain resistance to one damage type of your choice for the duration.
+
+***5th Level:*** you gain resistance to two damage types of your choice for the duration.
+
+***11th Level:*** you gain resistance to three damage types of your choice for the duration.
+
+***17th Level:*** You can choose to gain immunity to one damage type, instead of gaining any resistances.
+
+## Special Recipes List
+
+#### Antipasto Mix
+- **Eating Time:** Initiative
+- **Duration:** Instantaneous
+
+This simple entree is made up of olives, artichokes and sun-dried tomatoes. Once consumed, you teleport up to 15 feet to an unoccupied space that you can see.
+
+***11th Level:*** The distance you can teleport increases to 30 feet.
+
+***17th Level:*** you do not need to see the location you teleport to, but you must be able to visualizze or describe the location by stating direction and distance.
+
+#### Chicken Breast
+- **Eating Time:** 1 action
+- **Duration:** 1 minute
+
+This large, juicy main course is the staple of poultry-based cuisine. Once consumed, you may take the Dash action as a bonus action on each of your turns for the duration.
+
+***5th Level:*** you gain a flying speed equal to your walking speed for the duration.
+
+***11th Level:*** Until the recipe ends, You are able to hover while flying as a result of this recipe.
+
+***17th Level:*** Until the recipe ends, you do not provoke opportunity attacks when you fly out of an enemy's reach.
+
+#### Creme Brulee
+- **Eating Time:** 1 reaction
+- **Duration:** Instantaneous
+
+This decadent dessert is made with cream and vanilla beans. You consume this recipe as a reaction when you are about to make a damage roll. Any dice that roll their minimum number are instead treated as though they rolled their maximum number.
+
+#### Juicy Dumpling
+- **Eating Time:** Initiative
+- **Duration:** Instantaneous
+
+This traditional entree is made using flour, stock and the chef's choice of meat. Once consumed, you gain momentary insight into a enemy's plans. Choose a hostile creature that you can see. The DM shares information with you regarding the creature's tactical motivations, and what the creature plans to do on its next turn.
+
+***17th Level:*** You can choose up to two hostile creatures that you can see when you consume this recipe.
+
+#### Lemon Tart
+- **Eating Time:** 1 reaction
+- **Duration:** 1 minute
+
+This sweet and tangy dessert is dusted with sugar and served with zested lemon rind. You consume this recipe as a reaction to a creature dealing damage to you. The next time you hit the triggering creature with a weapon attack before the recipe ends, you score a critical hit.
+
+***11th Level:*** you can roll an additional weapon die when you score a critical hit as a result of this recipe.
+
+***17th Level:*** you can roll two additional weapon dice when you score a critical hit as a result of this recipe.
+
+#### Passionfruit Cheesecake
+- **Eating Time:** 1 reaction
+- **Duration:** 1 minute
+
+This mouth-watering dessert contains passionfruit pulp, biscuit crumbs and lightly whipped cream. You consume this recipe as a reaction to dropping to 0 hit points or less. Choose a creature within 60 feet of you. For the duration of the recipe, each time you fail a death saving throw, the chosen creature must make a wisdom saving throw. The creature takes 4d8 + the chef's wisdom modifier psychic damage on a failed save, or half as much on a successful one. The creature has disadvantage on the saving throw if it was the creature that caused you to drop to 0 hit points or less.
+
+***17th Level:*** the psychic damage increases to 6d8 + the chef's wisdom modifier.
+
+#### Prusciutto Bruschetta
+- **Eating Time:** Initiative
+- **Duration:** Instantaneous
+
+This entree includes prusciutto and melted mozeralla on diagonially cut sour dough bread. When you consume this recipe, roll a d20 and add the chef's wisdom modifier as a bonus to the roll. You may replace the initiative roll of any creature you can see with this roll.
+
+***5th Level:*** You may subtract the chef's wisdom modifier from the roll instead of adding it.
+
+***11th Level:*** You may roll two d20s and take the highest.
+
+***17th Level:*** You may roll two d20s and take the lowest.
+
+#### Roast Pork
+- **Eating Time:** 1 action
+- **Duration:** 1 hour
+
+This succulent main course is coated in oil and salt to create a crackling exterior. When you consume this recipe, you may choose to convert a number of hit points in to temporary hit points, which last for the duration. The number of hit points you convert must be no higher than one quarter of your hit point maximum (rounded down). Once consumed, your skin is overlayed with tough pork crackling. If a creature hits you with a melee attack while you have the temporary hit points granted by this recipe, the crackling explodes into deadly shards, dealing slashing damage to the creature equal to the amount of temporary hit points you have remaining after the attack's damage is resolved.
+
+***17th Level:*** The number of hit points you can convert can be up to half your hit point maximum (rounded down).
+
+#### Rump Steak
+- **Eating Time:** 1 action
+- **Duration:** 1 minute
+
+This nutritional main course provides a healthy fount of protein and fat. Once consumed, your strength score becomes 22 for the duration.
+
+***11th Level:*** your strength score becomes 24 for the duration.
+
+***17th Level:*** your strength score becomes 26 for the duration.
+
+#### Salmon Fillet
+- **Eating Time:** 1 action
+- **Duration:** 8 hours
+
+This tender main course has endless health benefits, and can be served in a variety of spices and marinades. Once consumed, for the duration, you gain a swim speed equal to your walking speed and can breathe underwater. In addition, a scaley, spectral third arm extends out of your body, which persists for the duration of the recipe. The arm is ethereal in nature and can move to and extend itself from any part of your body.The third arm takes the same basic shape as your other arms, and can grasp, wield and otherwise interact with physical objects as a normal arm would. If the spectral arm is carrying a one-handed melee weapon, you can make one weapon attack with it as a bonus action.
+
+#### Spicy Bocconcini
+- **Eating Time:** Initiative
+- **Duration:** Instantaneous
+
+This appatising entree is created by rolling bocconcini balls in oil, cayenne pepper, cumin and bread crumbs. When you consume this recipe, you may immediately perform one bonus action.
+
+#### Strawberry Vanilla Cupcake
+- **Eating Time:** 1 reaction
+- **Duration:** Instantaneous
+
+This sugary dessert is shaped to resemble an edible pink rose. You consume this recipe as a reaction to being subjected to an effect that allows you to make a dexterity saving throw to take only half damage. You instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+***5th Level:*** The recipe also applies to effects that allow you to make a constitution saving throw to take only half damage.
+
+***11th Level:*** The recipe also applies to effects that allow you to make a wisdom saving throw to take only half damage.
+
+***17th Level:*** The recipe applies to any effect that allows you to make a saving throw to take only half damage.

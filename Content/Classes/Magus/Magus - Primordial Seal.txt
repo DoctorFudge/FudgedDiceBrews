@@ -1,0 +1,140 @@
+### The Primordial Seal
+The Primordial Seal claims to be an ancient order responsible for the ongoing safety of the material realms. According to their own lore, the material realms were–in ancient times–constantly besieged by the elemental realms until a seal was placed, forever separating them from one another. Today the magi of the Primordial Seal travel the land to ensure the old magics hold up and to gather power for the dreaded day the seal fails.
+
+#### Primordial Seal Initiate
+When you choose this eldritch society at 1st level, you augment your martial prowess with the ability to cast cantrips.
+
+***Cantrips.*** You learn two cantrips of your choice from the Primordial Seal's spell list. You learn an additional Primordial Seal cantrip of your choice at 4th level and again at 10th. These cantrips count as magus spells for you.
+
+***Spellcasting Ability.*** Charisma is your spellcasting ability for your Primordial Seal spells, since you learn your spells through a raw connection to the natural elements. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a magus spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
+
+**Spell attack modifier** = your proficiency bonus + your Charisma modifier
+
+</center>
+
+#### Bonus Proficiency & Language
+At 1st level, you gain proficiency in the Survival skill. Additionally, you can speak, read, and write Primordial.
+
+#### Tourmaline Mark
+Starting at 3rd level, the effects of your mystic marks are enhanced by the Primordial Seal's elemental power. When you place your mystic mark on an object or creature, an intense aura of vacillating colors surrounds it.
+
+***Primordial Enspell.*** When you enspell your weapon it roars with primordial strength and you may choose one of the following damage types: acid, cold, fire, lightning, or thunder. While your weapon remains enspelled it deals that damage type instead of its normal damage type.
+
+When you hit with an attack with this weapon you can choose to remove the enspell from the weapon, unleashing a surge of elemental energy. When you do, the target must succeed on a Constitution saving throw against your spell save DC or it loses any resistance or immunity it had to the damage type you had chosen. This effect persists until the end of your next turn.
+
+***Primordial Aegis.*** When a creature protected by your aegis takes damage you can use your reaction to remove the aegis, fortifying the creature's body with primeval power. When you do, choose acid, cold, fire, lightning, or thunder. That ally has resistance to that damage type for the next minute.
+
+#### Elemental Alignment
+At 7th level, your intimate knowledge of elemental magic has imbued you with abilities related to your element of choice. You gain your choice of one of the following features:
+
+***Air.*** Your base movement speed increases by 10 ft. and you have advantage on initiative rolls.
+
+***Earth.*** You gain 2 additional hit points per magus level. Each time you gain a level in this class you gain an additional 2 hit points.
+
+***Fire.*** You gain darkvision out to a distance of 120 feet and proficiency in Dexterity saving throws.
+
+***Water.*** You gain the ability to breathe underwater and have a swim speed equivalent to your walking speed. Additionally, you have advantage on saving throws against being restrained or grappled and ability checks made to resist or escape a grapple.
+
+#### Elemental Attunement
+At 14th level, you learn to harmonize with the element you chose when you took the Elemental Alignment feature. You can cast a spell associated with your chosen element, listed below, without expending a spell slot. You cannot lose concentration on the spell by taking damage. You must complete a long rest before you can use this feature again.
+
+___
+- ***Air.** Investiture of Wind*
+- ***Earth.** Investiture of Stone*
+- ***Fire.** Investiture of Flame*
+- ***Water.** Investiture of Ice*
+
+### The Primordial Seal Spell List
+##### Cantrips (0 Level)
+- Acid Splash
+- Arcing Arrow
+- Booming Blade
+- Create Bonfire
+- Control Flames
+- Green-Flame Blade
+- Gust
+- Mold Earth
+- Rime Strike
+- Shape Water
+
+##### 1st Level
+- Absorb Elements
+- Alarm
+- Burning Hands
+- Catapult
+- Chromatic Orb
+- Detect Magic
+- Earth Tremor
+- Feather Fall
+- Ice Knife
+- Storm Step
+- Thunderwave
+- Witchbolt
+
+##### 2nd Level
+- Aganazzar's Scorcher
+- Arcane Lock
+- Dust Devil
+- Earthbind
+- Flaming Sphere
+- Gust of Wind
+- Knock
+- Maximilian's Earthen Grasp
+- Melf's Acid Arrow
+- Pyrotechnics
+- Scorching Ray
+- Shatter
+- Snilloc's Snowball Swarm
+- Warding Wind
+
+##### 3rd Level
+- Call Lightning
+- Erupting Earth
+- Fireball
+- Flame Arrows
+- Gaseous Form
+- Lightning Bolt
+- Meld into Stone
+- Sleet Storm
+- Tidal Wave
+- Wall of Sand
+- Wall of Water
+- Water Walk
+- Wind Wall
+
+##### 4th Level
+- Conjure Minor
+- Elementals
+- Control Water
+- Elemental Bane
+- Fire Shield
+- Ice Storm
+- Stone Shape
+- Storm Sphere
+- Watery Sphere
+- Wall of Fire
+
+##### 5th Level
+- Cone of Cold
+- Conjure Elemental
+- Control Winds
+- Immolation
+- Transmute Rock
+- Wall of Stone
+
+##### 6th Level
+- Chain Lightning
+- Flesh to Stone
+- Investiture of Flame
+- Investiture of Ice
+- Investiture of Stone
+- Investiture of Wind
+- Move Earth
+- Otiluke's Freezing Sphere
+- Primordial Ward
+- Wall of Ice
+- Wind Walk

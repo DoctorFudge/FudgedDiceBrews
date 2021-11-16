@@ -1,0 +1,51 @@
+### Oath of the Goodberry
+[**Source:** *Praise Be The Goodberry! Compendium*](https://www.gmbinder.com/share/-LZeyRZtzKZLu2cjiglX)
+
+The Oath of the Goodberry is often taken by those who seek to help nurture the land and protect it from those who would seek to destroy it. They utilize the power of the Great Goodberry itself in the act of defense. Paladins that take this oath are known as Goodberry Sentinels, Bush Knights, or Grove Guardians.
+
+#### Tenets of the Goodberry
+The Great Goodberry requires that those who wish to utilize its divine spark towards the path of paladinhood must follow a set of tenets.
+
+***Praise Be The Goodberry.*** Those who take this oath must praise the Great Goodberry and spread its influence to others.
+
+***Nurture and Grow.*** You must help others on their path in life so that they may better themselves.
+
+***Defender.*** You must defend your allies with all that you have and protect those who cannot protect themselves.
+
+#### Oath Spells
+You gain oath spells at the levels listed.
+
+| Paladin Level | Spells |
+| :-: | :-- |
+| 3rd | <em>Absorb Elements, Goodberry (Improved)</em> |
+| 5th | <em>Earthbind, Melf's Acid Arrow</em> |
+| 9th | <em>Kevin's Goodberry Fireball, Speak With Plants</em> |
+| 13th | <em>Grasping Vine, Guardian of Nature</em> |
+| 17th | <em>Kevin's Goodberry Feast, Tree Stride</em> |
+
+#### Channel Divinity
+When you take this Oath at 3rd level, you gain the following two Channel Divinity options.
+
+***Reach of the Goodberry.*** As an action, you summon forth vines directly from the Great Goodberry itself. All creatures within 30 feet of you that can see you must succeed a Strength saving throw against your paladin spellcasting DC. On a failure, they become Restrained by the vines for 1 minute. Restrained creatures can repeat this saving throw to break free at the end of each of their turn
+
+***Ancient Goodberry Tree.*** As an action, you conjure forth a number of trees up to equal to your Charisma modifier to any point of your choosing within 30 feet. Each tree occupies a 5 foot square, lasts for 1 minute, cannot be summoned in a creatures space, and have the following effects:
+
+- You and allies within 5 feet of a tree gain a +1 to AC while near a tree.
+- Enemies within 5 feet of a tree take magical bludgeoning damage equal to your Charisma modifier at the start of each of their turns while they are within 5 feet of a tree.
+- Each tree can provide you and allies with half cover.
+
+#### Aura of the Goodberry
+At 7th level, the power the Great Goodberry allows you to channel becomes so potent that it affects the terrain around you. Terrain in a 10 foot radius around you is considered to be magical rough terrain. Yourself and allies of your choice are immune to the effects of this aura.
+
+At 18th level, this aura increases to 30 feet.
+
+#### Protection of the Goodberry
+Starting at 15th level, the Great Goodberry sustains you. You no longer need to eat or drink but you can still do so if you want.
+
+#### Goodberry Apostle
+At 20th level, as an action, you transform into a great champion of the Great Goodberry. Your skin becomes tough bark and you randomly sprout goodberries that nourish you. You gain the following benefits for 1 minute:
+- You can use your Ancient Goodberry Tree channel divinity at will for the duration.
+- You gain a +5 to your AC.
+- You can as a bonus action regain a number of hit points equal to your level + your Charisma modifier.
+
+Once you use this feature, you can't use it again until you finish a long rest

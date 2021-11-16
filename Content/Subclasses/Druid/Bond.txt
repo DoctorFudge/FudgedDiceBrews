@@ -1,0 +1,52 @@
+###  Circle of the Bond
+[**Source:** *The Complete Devout Handbook*](https://drive.google.com/file/d/1TEY7P4FVWD_-Ky5YrrK92__yYOwTY3w-/view)
+
+Druids of the Circle of the Bond feel a greater connection to beasts than they do other sapient life. Many wish to eschew the complexities and complications of living within a society and interacting with humanoids for the quiet simplicity offered by beasts, while others have experienced tragedy or betrayal at the hands of their peers, and seek comfort in an animal companion. Regardless of the reasons you joined this circle, you have formed a magical partnership with a beast, a deep bond that interlocks your minds and souls.
+
+#### Animal Companion
+At 2nd level, you learn to use your magic to create a powerful bond with a creature of the natural world.
+
+With 8 hours of work and the expenditure of 50 gp worth of rare herbs and fine food, you call forth an animal from the wilderness to serve as your faithful companion. You normally select your companion from among the following animals: an ape, a black bear, a boar, a giant badger, a giant weasel, a mule, a panther, or a wolf. However, your DM might pick one of these animals for you, based on the surrounding terrain and on what types of creatures would logically be present in the area. At the end of the 8 hours, your animal companion appears and gains all the benefits of your Companion's Bond (described below). You can have only one animal companion at a time.
+
+If your animal companion is ever slain, the magical bond you share allows you to return it to life. With 8 hours of work and the expenditure of 25 gp worth of rare herbs and fine food, you call forth your companion's spirit and use your magic to create a new body for it. You can return an animal companion to life in this manner even if you do not possess any part of its body.
+
+If you use this ability to return a former animal companion to life while you have a current animal companion, your current animal companion leaves you and is replaced by the restored companion.
+
+#### Companion's Bond
+Starting at 2nd level, your animal companion changes in the following ways while it is linked to you.
+
+The companion loses its Multiattack action, if it has one.
+
+The companion obeys your commands as best it can. You determine your animal companion's actions, decisions, attitudes, and so on. It takes its turn on your initiative, though it doesn't act unless you command it to. On your turn, you can telepathically command the beast where to move (no action required by you). You can use your action to telepathically command it to take the Attack or Help action, or your bonus action to telepathically command it to take the Dash, Disengage, or Dodge action. If you are incapacitated or absent, your companion acts on its own, prioritizing defending itself and you from hostile creatures. Additionally, your animal companion has its own reaction independent from yours, which it can use in the normal ways. If your animal companion has an effect that causes a target to make a saving throw, the effect uses your spell save DC, unless the beast's DC was already higher.
+
+If your animal companion is large enough, you can use it as an independent mount, though you still determine its actions (the Mounted Combat rules appear in Chapter 9 of the Player's Handbook).
+
+Your animal companion has abilities and game statistics determined in part by your level. Your companion uses your proficiency bonus rather than its own. In addition to the areas where it normally uses its proficiency bonus, an animal companion also adds its proficiency bonus to its AC and to its damage rolls.
+
+Your animal companion gains proficiency in two skills of your choice. It also becomes proficient in your choice of Dexterity, Constitution, or Wisdom saving throws, and your choice of Strength, Intelligence, or Charisma saving throws.
+
+For each level after 2nd, your animal companion gains an additional hit die and increases its hit points accordingly.
+
+Whenever you gain the Ability Score Improvement class feature, your companion's abilities also improve. Your companion can increase one ability score of your choice by 2, or two ability scores of your choice by 1. As normal, your companion can't increase an ability score above 20 using this feature unless its description says otherwise.
+
+> ##### Keeping Track of Proficiency
+> When you gain your animal companion at 2nd level, its proficiency bonus matches yours at +2. As you gain levels and increase your proficiency bonus, remember that your companion's proficiency bonus improves as well, and is applied to the following areas: Armor Class and damage rolls, as well as to any skills, saving throws, and attacks it's proficient with.
+
+#### Primal Connection
+Starting at 6th level, magic flows freely through the bond you share with your animal companion. Your animal companion's attacks count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+Additionally, you gain the ability to use the magic of your Wild Shape to affect your animal companion. As a bonus action, you can expend a use of your Wild Shape for one of the following effects. You can end the effect on your turn as a bonus action.
+
+***Enlarge.*** Your animal companion's size increases by one category for a number of hours up to half your druid level, rounded down. For example, if it was Medium, it becomes Large. It has advantage on Strength ability checks and saving throws for the duration.
+
+***Heal.*** Your animal companion can immediately expend any number of its hit dice. For each Hit Die expended this way, you roll the die and add your animal companion's Constitution modifier to it. It regains hit points equal to the total.
+
+***Morph.*** You transform your animal companion into an ape, a black bear, a boar, a giant badger, a giant weasel, a mule, a panther, or a wolf for a number of hours up to half your druid level, rounded down. When you do, it retains its ability scores, hit points, hit dice, and personality, and is still subject to all of the rules and benefits of Companion's Bond.
+
+#### Coordinated Assault
+Beginning at 10th level, when you use your action to cast a cantrip, take an action as part of a spell you already cast, or take the Attack action, you can use your bonus action to telepathically command your animal companion to take the Attack or Help action this turn.
+
+#### Wild Evolution
+Starting at 14th level, when you use your Primal Connection, you can instead expend two uses of your Wild Shape for the following effect. You can end the effect on your turn as a bonus action.
+
+***Evolve.*** You transform your animal companion into a beast you've seen before with a challenge rating as high as your druid level divided by 3 for a number of hours up to half your druid level, rounded down. When you do, the transformation follows the rules of your Wild Shape (you ignore the Max. CR column of the Beast Shapes table), though your animal companion is still subject to the rules and benefits of Companion's Bond.

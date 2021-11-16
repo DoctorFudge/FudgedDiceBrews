@@ -1,0 +1,108 @@
+## Noble
+[**Source:** *The Masterclass Codex*](https://drive.google.com/file/d/1i3vKVcYp8x5hRmxOzKXMHWchw0m00GQu/view)
+
+Concern flashes across the halfling duchess’ face as her paladin ally shoulders into his shield to withstand another rain of blows from the hulking orc warlord. She calls out to the party’s rogue and then shouts a perplexing phrase at their brutish foe, confusing it long enough for their half-elf companion to slip in and land a devastating strike! Suddenly the greenskin is stumbling backwards and the tide of the battle begins to turn!
+
+The dwarven prince looks across the battlefield, grimacing at the death of so many of the kingdom’s bravest citizens, and tears begin to stream down his face as the need for vengeance takes hold. He strides forward and calls out at one of the huge invaders, bravely and madly hefting his family’s beloved axe. His enormous enemy bellows back and the two begin dashing toward one another until, only a few feet away, the royal warrior leaps up into the air and slams his weapon into the giant’s skull. There’s a resounding crack as his foe snaps backwards, stunned, and then its cacophonous death throes as he hacks away into his defenseless target.
+
+Despite the urgent cries of her allies the elven baroness takes care of what is most important to her first—producing a pristine handkerchief from a pocket in her stately travel dress, she gracefully wipes it across her garment and perfectly cleans it of the filth that spread all over it from stumbling down into these caves. An anxious yell from ahead snaps her back to the moment and she carefully treads further into the goblin lair, imparting a touch of her family’s magic to protect herself in case any of the monsters have slipped past her allies valiantly fighting ahead.
+
+Some adventurers work their whole lives to become great rulers, but to others, nobility is just the beginning of the adventure. Of course this makes them no less aristocratic— most nobles prefer to achieve victory by empowering and strengthening comrades rather than doing any of the dirty work themselves.
+
+### Royal Bearing
+They say it’s good to be king but that doesn’t mean it’s easy. Far more is expected of a noble adventurer than the average warrior or spellsword because they have reputations to live up to, their very names as valuable as the contents of the family vault. Failure to uphold the public image of their honored lineage (whether that be for weal or woe) can have terrible consequences both abroad and back home so a noble only takes up a quest when the cause is truly worthy or the reward too great to pass up.
+
+### Everyone’s Ally
+While most nobles prefer to avoid the fore of battle this isn’t a matter of cowardice and in times of war they’re never far from the most dangerous fronts. More than anything else their tactics are efficient and practical—others are more talented with a sword or wand, and it is the place of the noble to make the most out of what these allies can contribute. With the right mindset, good timing, and a bit of luck, an experienced noble can make any group of adventurers into a well-oiled machine.
+
+##### The Noble
+| Level | Proficiency Bonus | Features |
+|:---:|:---:|:--|
+| 1st | +2 | Noble Path, Rallying Word |
+| 2nd | +2 | Path Feature, Direct Ally |
+| 3rd | +2 | Spur Ally, Rallying Word (2 allies) |
+| 4th | +2 | Ability Score Improvement |
+| 5th | +3 | Coordinated Attack |
+| 6th | +3 | Path Feature |
+| 7th | +3 | Rallying Word (short rest) |
+| 8th | +3 | Ability Score Improvement |
+| 9th | +4 | Direct Ally (extra action) |
+| 10th | +4 | Noble Renown |
+| 11th | +4 | Path Feature |
+| 12th | +4 | Ability Score Improvement |
+| 13th | +5 | Spur Ally (short rest) |
+| 14th | +5 | Path Feature |
+| 15th | +5 | Expertise |
+| 16th | +5 | Ability Score Improvement |
+| 17th | +6 | Direct Ally (bonus action) |
+| 18th | +6 | Path Feature |
+| 19th | +6 | Ability Score Improvement |
+| 20th | +6 | Devoted Commander |
+
+### Creating a Noble
+The first thing to decide when making a noble is the bent of the kingdom from which they hail. Are you part of a hated and feared aristocracy, a bumbling bureaucratic monarchy, or a respected and beloved sovereignty? What grandiose achievements of your ancestors do you have to live up to and be inspired by? Are you on good terms with your fellow nobility or at odds?
+
+With these things in mind, why are you taking up the mantle of adventuring? What motivates you to leave the comfortable confines of your estate? Are you out to refill the family coffers or attain glory all your own? Do you have something to prove to someone or only yourself?
+
+#### Quick Build
+It’s simple to quickly build a noble using these suggestions: first, your highest ability score should be Charisma. Your next highest ability scores should be Dexterity and Constitution. Choose the Path of the Brave as your noble path (gaining proficiency with martial weapons, heavy armor, and shields, as well as 2 additional hit points). When selecting your equipment, choose a diplomat’s pack. For skills, pick Insight and Persuasion.
+
+## Class Features
+As a noble, you gain the following class features.
+#### Hit Points
+___
+- Hit Dice: 1d6 per noble level
+- Hit Points at 1st Level: 6 + your Constitution modifier
+- Hit Points at Higher Levels: 1d6 (or 4) + your Constitution modifier per noble level after 1st
+
+#### Proficiencies
+___
+- Weapons: Simple weapons
+- Armor: Light armor, medium armor
+- Tools: None
+___
+- Saving Throws: Wisdom, Charisma
+- Skills: Choose two from: Deception, Insight, Medicine, Performance, and Persuasion
+
+#### Equipment
+Nobles start with the following equipment in addition to the equipment granted by their background. Alternatively, use 5d4×10 gp to buy equipment.
+- a set of fine clothes
+- (a) a diplomat’s pack, (b) a priest’s pack, or (c) a scholar’s pack
+- a simple martial weapon and a light crossbow with 20 bolts
+- scale armor
+- two sets of artisan’s tools
+
+### Noble Path
+Your noble path defines what kind of noble you are. You can choose Path of the Brave, Path of the Heart, Path of the Mystic Royal, or Path of the Tactician. Your noble path gives you access to unique features and characteristics at 1st level, and more at 2nd, 6th, 11th, 14th, and 17th level.
+
+### Rallying Word
+At 1st level, you can use a bonus action to make an ally within 30 feet of you to regain hit points. The amount healed is equal to 1d8 + your noble level. Once you use this feature, you must finish a long rest before you can use it again.
+
+Starting at 3rd level, you can simultaneously target 2 allies with this feature.
+
+Starting at 7th level, you can use this feature again after you complete a short rest.
+
+### Direct Ally
+You are better at guiding allies than engaging the enemy personally. Starting at 2nd level, you can use your action to allow an ally that can hear or see you to make a single weapon attack, cast a cantrip, or move up to half their movement on your turn as a reaction. Once you use this feature, you must finish a short or long rest before you can use it again.
+
+At 9th level, your ally may instead choose to take the Attack action or cast a spell with a casting time of 1 action as a reaction.
+
+Starting at 17th level, you may use this feature as a bonus action.
+
+### Spur Ally
+Beginning at 3rd level, you can use your reaction to allow an ally to re-roll a failed saving throw or ability check. Once you use this feature, you must finish a long rest before you can use it again. Starting at 13th level, you can use this feature again after you complete a short rest.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+
+### Coordinated Attack
+Starting at 5th level, your leadership allows you and your allies to strike in unison. Once per turn when you take the Attack action, one ally within 30 feet of you can use their reaction to make a single weapon attack against a creature or object you choose within reach of your ally.
+
+### Noble Renown
+By 10th level, tales of your fame (or infamy) have taken root in the hearts of the people. Your reputation precedes you in any civilized settlement. By revealing your identity, you gain advantage on all Charisma (Persuasion or Intimidation) checks in that settlement for the next hour. Once you use this feature, you must finish a long rest before you can use it again.
+
+### Expertise
+At 15th level, you may double your proficiency bonus to three of your skills or tool proficiencies.
+
+### Devoted Commander
+When you reach 20th level, your connection to your party runs so deep that you can find and exploit the precise moment for a final attack. Once per long rest, Direct Ally targets up to 5 allies simultaneously.

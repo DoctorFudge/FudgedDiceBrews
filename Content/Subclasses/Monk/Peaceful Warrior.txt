@@ -1,0 +1,25 @@
+### Way of the Peaceful Warrior
+[**Source:** *The Complete Devout Handbook*](https://drive.google.com/file/d/1TEY7P4FVWD_-Ky5YrrK92__yYOwTY3w-/view)
+
+Monks of the Way of the Peaceful Warrior understand that violence is sometimes necessary to accomplish objectives, but far prefer to disarm their opponents than maim or kill them. They believe in mercy and redemption, and will always try to guide those they meet to a better path, to a higher road. These monks excel at diffusing tense situations and resolving conflicts with the fewest possible injuries and casualties.
+
+#### Give Peace a Chance
+Starting when you choose this tradition at 3rd level, you can use your ki points for a variety of effects:
+- You can spend 2 ki points to cast *calm emotions*. Wisdom is your spellcasting ability for the spell.
+- When you hit a creature with a melee attack using a monk weapon or an unarmed strike, you can spend 1 ki point to attempt to disarm the target. The target must succeed on a Strength saving throw or drop an object of your choice that it's holding.
+- When you end your turn in combat without having made an attack roll or dealt damage, you can spend 1 ki point to gain temporary hit points equal to your monk level. Additionally, when you hit a creature with a monk weapon or unarmed strike, you can choose to have the attack deal no damage.
+
+#### Fist of Mercy
+Beginning at 6th level, when you would reduce a hostile creature to 0 hit points with a monk weapon or unarmed strike, you can choose to reduce it to 1 hit point instead. If you do, the creature becomes charmed by you for 10 minutes. While it is charmed this way, it can't make attacks or cast harmful spells, and you have advantage on Wisdom (Insight) checks you make involving the creature.
+
+This effect ends early if it is harmed by you or your companions in any way. When the charmed condition ends, the creature chooses whether to remain friendly to you based on how you and your companions treated it while it was charmed. Once you use this feature, you must finish a short or long rest before you can use it again.
+
+#### Pacifist's Rebuke
+Starting at 11th level, you can use your reaction to deflect or parry the blow when you are hit by a melee attack. The damage you take from the attack is reduced by 1d10 + your Dexterity modifier + your monk level.
+
+If you reduce the damage to 0, and the attacker is within your reach, you can spend 2 ki points to quickly strike the attacker's pressure points as part of the same reaction. If you do, the attacker must succeed on a Constitution saving throw or have disadvantage on attack rolls for 1 minute. As an action, the creature can repeat the saving throw, ending the effect on a successful save.
+
+#### Aura of Tranquility
+Beginning at 17th level, you learn to manifest your will for peace as an aura around yourself. As an action, you can spend 3 ki points to create this 30-foot radius aura centered on you. The aura stays centered on you as you move. You and each other creature inside the aura has disadvantage on attack rolls and resistance to all damage.
+
+The aura lasts for 1 minute. It ends early if you cause a creature to take damage or if you choose to end it on your turn as a bonus action.

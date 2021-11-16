@@ -1,0 +1,36 @@
+## Holstaur
+[**Source:** *Holstaur*](https://docs.google.com/document/d/1YZeOmcv1qCEN7sEnNpqz2y6X3VIFL19k_swMlyu0bsg/edit)
+
+While they've been subject to a wide-range of nicknames, some less flattering than others, the formal name of the species of sapient, humanoid creatures resembling bovine quadrupeds is Holstaurus. This is, however, merely the name kept in official records in most cities and settlements under the question of race. Truthfully, the Holstauri themselves believe that there are actually two different races: The Kerani, or "True Blood" and the Kaori, or "Distant Blood".
+
+***Ability Score Increase.*** Your Constitution score increases by 2 
+
+***Age.*** Holstaurs enter adulthood at around the age of 17 and can live up to 150 years
+
+***Alignment.*** Holstaur are typically Neutral Good, but can be found in any spectrum of the Good and Neutral alignments, often representing a variety of circumstances in their upbringing.
+
+***Size.*** Holstaur are generally 5 to well over 7 feet tall, Kaori leaning to the shorter end while Kerani stand on the taller end. Your size is Medium.
+
+***Speed.*** Your base walking speed is 30 feet.
+
+***One with the Land.*** You gain proficiency in either the Nature or Survival skill. 
+
+***Pack Mule.*** Holstaurs have large builds and heavy constitutions, enabled by carrying large resources around nigh constantly. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+***Languages.*** Common and one other language of your choice.
+
+***Subrace.*** As a youth you are from either a Kerani or Kaori tribe, you cannot change your subrace once you have chosen it.
+
+### Kerani 
+***Ability Score Increase.*** Your Strength or Dexterity score increases by 1. 
+
+***Natural Strength.*** You count as one size larger while grappling. You also have advantage on saves against being grappled by creatures Medium or smaller. 
+
+***Horns.*** You are never unarmed. You are proficient with your horns, which are a melee weapon that deals 1d6 + Strength modifier piercing damage. Your horns are not just for defense but a mark of status among others. 
+
+### Kaori
+***Ability Score Increase.*** Your Dexterity or Wisdom score increases by 1. 
+
+***Nature's Friend.*** Through sound and gestures, you may communicate simple ideas with Small or smaller beasts
+
+***Semi-foreign.*** You learn one language of your choice, and you are proficient with one skill or tool of your choice. Kaori are much more social than Kerani, allowing for more cooperation and mutual understanding between themselves and the other races.

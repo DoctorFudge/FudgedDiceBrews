@@ -1,0 +1,20 @@
+### The Fool
+Never underestimate a pirate, especially one who acts like a fool, because as soon as you are caught up in the fools facade, they win, and when you turn your back... you lose. Every single pirate you meet knows how to wield a blade and pull a trigger, but few fair better in combat than the dancing and prancing fool, whose hijinx and shenanigans are used to stab, slice and shoot at your vitals with greater ease.
+
+#### Expect the unexpected
+When you choose this reputation at 3rd level, your style of fighting becomes far less refined and more chaotic, you proceed to attack and maneuver in unexpected ways, unsettling your opponents and leaving their guard open. You gain the following abilities:
+- Being within 5 feet of a hostile creature doesn"t impose disadvantage on your ranged attack rolls with sidearms.
+- When you use the Attack action and attack with a one- handed, light or finesse melee or ranged weapon, you can use a bonus action to attack with a sidearm or to reload your sidearm as a bonus action.
+- Your hands are fast as lightning in a shootout. You can stow one weapon and/or draw another by sacrificing half of your movement before needing to take the Use Object or Attack action.
+
+#### Riposte
+Beginning at 7th level, when an enemy misses you with a melee attack, you can spend a swagger point to use your reaction to immediately make an attack against the creature. If you successfully hit, you may then immediately move up to your movement speed away from it without provoking opportunity attacks from that creature.
+
+#### Light Steps
+Beginning at 10th level, you gain proficiency in the stealth skill. If you already have proficiency in stealth you double your proficiency bonus for that skill. Additionally, you have advantage on Dexterity (Stealth) checks while on ships.
+
+#### Bomb Voyage
+Beginning at 15th level, your ability to riposte has improved. Whenever you successfully riposte an enemy and hit with your riposte reaction, you can spend another swagger point to immediately drop a bomb (if you have one available) at the feet of the enemy creature; then retreat up to half your movement speed away from it without provoking an attack of opportunity. When this explosive detonates, the enemy creature must make a Dexterity saving throw versus your swashbuckling save DC. On a failure, the creature takes 3d6 damage, on a success they take half damage.
+
+#### One Step Ahead
+When you reach 18th level in this class, you can spend a swagger point to roll your initiative with advantage and move up to half your movement speed before combat begins. You cannot use this feature if you are surprised in combat. When you trigger this feature you have advantage on any attack against creatures who have not taken a turn in combat yet.

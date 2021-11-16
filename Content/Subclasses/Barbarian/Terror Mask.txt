@@ -1,0 +1,26 @@
+### Path of the Terror Mask
+[**Source:** *Path of the Terror Mask*](https://homebrewery.naturalcrit.com/share/k4LdX-QaP)
+
+Unlike most barbarians, your overwhelming might stems from a living artifact that has bound itself to you: the Terror Mask. Those who don this mask are forced to undergo a painful transformation into a brutal, hulking berserker by the masks power.
+
+Once bound, the mask incites its wearer to commit greater and greater deeds of violence, regardless of target. Many past bearers have been noble heroes and just as many have been bloody warlords. The Terror Mask has a will of its own, and cannot be removed by any means if it does not wish to be.
+
+#### Paint the Walls Red
+When you select this path at 3rd level, your muscles are flooded with the power of the Mask, swelling to the ripping point, crushing bones and tearing skin. But the Mask restores you, for you are its champion. As a result of this transformation, when you make unarmed strikes while not carrying a shield you can roll 1d8 Bludgeoning damage + your Strength modifier instead of your normal damage.
+
+Also at 3rd level, when you rage the Terror Mask offers you more of its power, further pushing your body past its limitations. While raging you grow a Bone Knife on each arm. These Bone Knives prevent you from wielding a shield. They are natural weapons for you, and you can use them to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d12 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike. These Bone Knives automatically return inside your body when your rage ends.
+
+#### Morbid Dismemberment
+Starting at 6th level, whenever you kill a creature while raging, you sever one of its limbs with your Bone Knives. As a bonus action you may also tear the limb from a corpse within 5 feet of you.
+
+Additionally, you gain a unique proficiency for wielding severed limbs. You are proficient with improvised weapons made from Dismembered body parts of sufficient size. You can roll a d8 in place of the normal damage of your improvised weapon attacks with severed body parts. If the creature it was severed from was an aberration, celestial, fey, fiend, or undead, this damage is considered magical. At the end of combat, any body part you were using as a weapon is surely mangled beyond use by your eldritch strength and must be discarded.
+
+Once per turn, when you hit a creature with a Dismembered body part, it must make a Wisdom saving throw with a DC equal to 8 + your proficiency bonus + your Constitution modifier. On a failed save the target becomes frightened of you until the end of your next turn.
+
+#### It's All About the Blood
+Starting at 10th level, the Terror Mask shares its vitality and bloodlust with you. Whenever a creature within 15 feet of you falls to 0 hit points, you automatically draw its blood into you, causing you to gain Temporary Hit Points equal to the damage dealt by the hit that reduced it to 0. These temporary hit points last for 1 minute or until you gain new ones from this feature.
+
+Additionally when you use this feature, you gain 1 Blood Point, of which you can have a maximum of 5. As a bonus action you can expend 1 Blood Point and roll an additional 1d8 on your next unarmed strike. Blood Points lose their potency during a Long Rest, consumed by the Mask.
+
+#### Pour It On
+Starting at 14th level, the Terror Mask demands its greatest sacrifice, while granting you its greatest boon: the Blood Siphon. As an action you can expend 5 Blood Points and let the Masks power surge through you, causing your veins to burst through your flesh, lashing out around you. Each creature within 30 feet of you takes 3d8 necrotic damage, and you gain hit points equal to the sum of the necrotic damage dealt to the creatures. Creatures killed by this feature do not generate Blood Points.

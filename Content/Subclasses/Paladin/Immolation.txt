@@ -1,0 +1,63 @@
+### Oath of Immolation
+[**Source:** *Paladin: Oath of Immolation*](https://docs.google.com/document/d/198sW3jdRrThTKYuX6svxSNaa0nEgZN51fG-8go25ZJc/edit)
+
+*There comes a time when there is no more need for words - no reason left to have.  When all you know is a feeling, a single emotion that consumes your thoughts. A paladin of the Oath of Immolation looks for, accepts, and is unleashed in these moments, understanding the power that comes from setting your heart ablaze with emotions. Any incapable of committing themselves fully, throwing all their might into victory, will be left behind.*
+
+*On the battlefield Oath of Immolation Paladins seek out purposes to be the focus of their emotions - be it grief of a loved loss, hatred for one's past weakness, or pride for a promise well-kept. In a blaze of unbridled rage, in the ashes of pure sadness, in the flames of justice, Oaths of Immolation are sworn and understand a set of tenants at their basest level, even if never taught to them.*
+
+#### Tenets of Immolation
+Though the exact words and strictures of the Oath of Immolation vary, paladins of this oath share these tenets:
+
+***Stoke the Flame.*** Whenever the flame brews up within you, it is your responsibility to keep it burning. If passion, hatred, anger, love, or any other fiery emotion brews within you, you must follow it to its end.
+
+***Respect the Flame.*** Fire is an unpredictable power. If you do not respect it, you will get burned. When using flame, always pay respects to it and be aware of its innate danger. Punish maniacal pyromancers who use the flame recklessly.
+
+***Kindle New Flames.*** Fire can be kindled in anyone full of passion and determination. Cultivate those flames, facilitate their wishes and wants. Those with zeal will surely become great allies in time. Many flames make a wildfire.
+
+***Embrace Fate.*** You are a being drawn by destiny. Brought along, like a raging forest fire. You surge along a path and should avoid retreating or faltering. Doing so will lead you to your destiny.
+
+#### Oath Spells
+You gain oath spells at the Paladin levels listed.
+
+##### Oath of Immolation Spells
+| Paladin Level | Spells |
+| 3rd | <em>burning Hands, bellish Rebuke</em> |
+| 5th | <em>continual flame, pyrotechnics</em> |
+| 9th | <em>daylight, fear</em> |
+| 13th | <em>fire shield, wall of fire</em> |
+| 17th | <em>dawn, immolation</em> |
+
+#### Channel Divinity
+When you take this Oath at 3rd level, you gain the following two Channel Divinity options:
+
+***Ignite Emotions.*** As an action, you stoke the heart of a creature, using your Channel Divinity to drive it into a frenzy. A creature of your choice within 30 feet of you must make a wisdom saving throw. On a failed save, it goes into a fury, as it's mind runs rampant, and must use its action after moving on each of its turns to make a melee attack against a random creature within its reach. At the end of each of its turns, it can repeat the save, ending the effect on a success.
+
+***Blazing Heart.*** As a bonus action you may intensify your own emotions, picking one creature as the focus of these feelings as you gain the following benefits:
+- You may use your bonus action to make a melee attack against that creature, this attack can not benefit from your Divine Smite feature.
+- You may treat your movement as being doubled as long as you are moving towards your focus - you can't willingly move away from your focus unless otherwise being harmful to yourself.
+- While this effect is active, a harmless flame appears on your forehead. Also, you are considered deafened until this effect ends. This effect lasts for 1 minute or until your focus is dead.
+
+#### Inferno Smite
+Also at 3rd level, the way you channel your own wrath changes from radiance into the form of holy flames. When you use your Divine Smite feature, it deals fire damage instead of radiant damage, and when you do so, the smite does not deal extra damage to undead creatures, instead gaining the extra 1d8 damage dice when used against a dragon or fiend.
+
+Fire damage dealt to dragons or fiends using this feature ignore resistance to fire damage and treat immunity to fire damage as if it were resistance.
+
+#### Aura of Flames
+Starting at 7th level, you emanate an aura of comforting warmth that relieves your allies. Creatures you choose within 15 feet of you have resistance to fire damage. These creatures, along with everything they are wearing and carrying are unharmed by temperatures as high as 200 degrees Fahrenheit.
+
+At 18th level, the range of this aura increases to 30 feet.
+
+#### Inferno Kaiser
+At 15th level, you become able to empower your blade with explosive flame. When you hit a creature and use your Inferno Smite feature, you create a plume of flame that explodes from your blade. Every creature in a 15-foot cone behind the target must make a Dexterity saving throw. On a failure, the creature takes 2d4 fire damage and on a success, the creature takes half as much damage.
+
+The damage of this feature increases by 1d4 for each spell slot level expended above 1st level for the initial Inferno Smite.
+
+#### Avatar of a Burning Spirit
+At 20th level you can take on the form of a mighty champion fueled by your purest emotions turned to flames, taking on an appearance that you choose. For example, your skin may turn the darkest black, with lines of magma running beneath, or you may spread phoenix wings from your back and glow with the fire of a thousand suns. Your body becomes swift and resilient and burns those who strike you with volcanic fury.
+
+Using your action, you undergo a transformation. For 1 minute, you gain the following benefits:
+- You become immune to fire damage, and resistant to cold, bludgeoning, piercing and slashing damage.
+- You gain an extra action on your turn, which you can only use to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use Object actions.
+- Whenever a creature hits you with a melee weapon attack, they take 2d8 fire damage.
+
+Once you use this feature, you can't use it again until you finish a long rest.

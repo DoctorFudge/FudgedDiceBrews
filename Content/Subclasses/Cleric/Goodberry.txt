@@ -1,0 +1,37 @@
+### Goodberry Domain
+[**Source:** *Praise Be The Goodberry! Compendium*](https://www.gmbinder.com/share/-LZeyRZtzKZLu2cjiglX)
+
+The Goodberry domain focuses on a variety of things, such as life, death, rebirth, nature, and just overall jubilation. Of course there is one thing this domain focuses on above all else. The Great Goodberry.
+
+##### Goodberry Spells
+| Cleric Level | Spells |
+|:-:|:--|
+| 1st | *Absorb Elements, Goodberry (Improved)* |
+| 3rd | *Enhance Ability, Kevin's Goodberry Ale* |
+| 5th | *Mass Healing Word, Kevin's Goodberry Fireball* |
+| 7th | *Control Water, Guardian of Nature* |
+| 9th | *Feast of The Goodberry, Raise Dead* |
+
+#### Bonus Cantrip
+When you choose this domain at 1st level, you gain the *Lesser Goodberry* cantrip. This cantrip does not count against the total number of cantrips you can know.
+
+#### Bonus Proficiency
+Also starting at 1st level, you gain proficiency with the nature skill.
+
+#### Channel Divinity: Praise the Goodberry
+Starting at 2nd level, you can use your Channel Divinity to summon the warding light of the Goodberry.
+
+As an action, you present your holy symbol and conjure forth the divine presence of the Great Goodberry. Vines from the Great Goodberry itself burst forth from the earth, and strike at your enemies.
+
+Each enemy within 30 feet of you must make a Dexterity saving throw. On a failed save they take 5d6 magical bludgeoning damage and are restrained until the end of their next turn and half as much and they are not restrained on a successful save.
+
+#### Banner of the Goodberry
+Upon reaching 6th level, as an action you can invoke the Great Goodberry and summon a banner bearing the symbol of the Great Goodberry to a location within 5 feet of you. Allies within 30 feet of this banner have resistance to acid damage and immunity to the poisoned condition. This banner lasts for 10 minutes and as a bonus action whenever you are within 5 feet of it and have a free hand, you can pull the banner out of the ground and move it somewhere else. While doing so your movement speed is reduced by 5 feet and it takes a bonus action to replant the banner.
+
+You must finish a short or long rest, before summoning the banner again.
+
+#### Goodberry Strike
+Starting at 8th level, you gain the ability to infuse your weapon strikes with divine radiance of the Goodberry—a gift from your deity. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 acid damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+
+#### Protector of the Goodberry
+Finally upon reaching 17th level, you embody the ultimate guardian of nature, as an action you can cast the Shapechange spell once per long rest without expending a spell slot or its material components.

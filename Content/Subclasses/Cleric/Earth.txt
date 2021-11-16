@@ -1,0 +1,40 @@
+### Earth Domain
+[**Source:** *Cleric Domains: Air, Earth, Fire, and Water*](https://drive.google.com/file/d/1gBbxLAqjcbGRuPqAgrR0nslECetDJZYD/view)
+
+The gods and primordials that embody the power of elemental earth tend to be steady and stoic, with a defensive bent. The concept of stability is a trait common to most earth deities. Like the earth itself, the thoughts of deities and primordials of earth tend to be reliable and consistent. Their clerics are often chosen for similar traits, protecting and preserving others, maintaining the settlements they're a part of, and overall attempting to endure through any hardship, providing stability to everyone around them.
+
+Clerics of earth deities tend to wear the heaviest of armor and shield and wade into melee. Followers of these beings of earth cherish stability above all else, and, more than any other followers of the elements, are resistant to change.
+
+##### Earth Domain Spells
+| Spell Level | Spells |
+| :-: | :-- |
+| 1st | <em>earth tremor, Tenser's floating disk</em> |
+| 2nd | <em>magic weapon, Maximilian's earthen grasp</em> |
+| 3rd | <em>erupting earth, slow</em> |
+| 4th | <em>conjure minor elementals, stoneskin</em> |
+| 5th | <em>conjure elemental, wall of stone</em> |
+
+Your *conjure minor elementals* and *conjure elemental* domain spells can summon only earth elemental creatures (or partially earth, such as dust, magma, and mud mephits), and your *Tenser's floating disk* domain spell creates a disk of floating stone rather than of magical force.
+
+#### Elemental Cantrips
+When you choose this domain at 1st level, you learn the *mold earth* cantrip. It counts as a cleric cantrip for you, but doesn't count against your number of cleric cantrips known. Additionally, the following cantrips count as cleric cantrips for you, and are added to the cleric spell list for you: *blade ward*, *scouring sands*, and *shattered earth*.
+
+#### Bonus Proficiency
+Also at 1st level, you gain proficiency with heavy armor.
+
+#### Walk the Earth
+At 1st level, you can move across difficult terrain made of earth, sand, mud, and stone without expending extra movement.
+
+#### Channel Divinity: Fortifying Earth
+Starting at 2nd level, you can use your Channel Divinity to fortify a creature in need with the strength of earth and stone. When a creature within 30 feet of you that you can see takes damage, you can use your reaction, presenting your holy symbol and invoking the name of your deity to give that creature resistance to all damage, including the damage that triggered use of this feature, until the start of its next turn.
+
+#### Bond of Earth
+At 6th level, you gain *find familiar* as a cleric spell, and it is always prepared without counting against the number of cleric spells you have prepared. You can only summon a lesser earth elemental with your *find familiar* cleric spell (that still counts as an elemental, not a celestial, fey, or infernal), and it can be cast with no material components.
+
+Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your lesser earth elemental familiar to make one Multiattack of its own.
+
+#### Divine Strike
+Upon reaching 8th level, you gain the ability to infuse your weapon strikes with the strength of stone and metal. Once on each of your turns when you hit a creature with a bludgeoning, piercing, or slashing weapon attack, you can cause the attack to deal an extra 1d8 damage of the same type the weapon deals to the target. When you reach 14th level, the extra damage increases to 2d8.
+
+#### One with the Earth
+At 17th level, you gain a burrow speed equal to your walking speed, and you have tremorsense 30 feet. You can only burrow or sense vibrations with your tremorsense through earth, mud, sand, and stone with this feature, and while burrowing in this manner you don't disturb the material you move through.

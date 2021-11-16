@@ -1,0 +1,35 @@
+## Gun Modifications
+Gun modifications improve your favored and back up firearms. As you improve your ability to craft firearms improves, you are able to add more modifications to each of your weapons.
+
+#### Light Frame
+You modify the stock of your weapon, removing as much weight as possible. You can add the light trait to your firearm. Weapons with the bulky trait cannot be altered in this way.
+
+#### Scoped
+Scoped weapons can fire more accurately at distance. You can increase the normal range of your weapon by half of its current normal range. Your firearm's maximum range is not affected.
+
+#### Extended Magazine
+You alter your weapon to allow for more ammunition to be loaded at once. You can double the number of shots your firearm can make before you need to reload.
+
+#### Perfect Calibration
+You fine-tune your gun, reducing your chances of misfiring. You can half the misfire value of your firearm, always rounded up.
+
+#### Concealable
+You can add the incognito trait to your weapon, allowing you to more easily secret it on your person. You cannot add this trait to two-handed weapons
+
+#### Silenced
+You attach mechanisms to reduce the noise generated when you fire your gun. When you take the attack action, creatures more than 30 feet from you cannot hear your shot. Creatures less than 30 feet can make Wisdom (Perception) check against your Trick Shot DC to determine whether they hear your weapon fire. If a creature does not hear your shot, taking the attack action does not reveal your location.
+
+#### Bayoneted
+You attach a bayonet to your firearm's stock. Bayonetted guns allow you to perform melee attacks with your firearm in the place of ranged attacks. Melee attacks with your firearm use your Dexterity modifier for attack roils and deal 1d8 slashing damage plus your Dexterity modifier. You are proficient in melee attacks with your firearms.
+
+#### Snub Nosed
+You remove much of the barrel of your gun, creating snub-nosed or sawn-off weapon. Your firearm suffers a -1 penalty to all attack rolls, but gains +3 bonus to damage rolls.
+
+#### Compensated
+You add a muzzle break to your firearm, reducing its recoil at the cost of its stopping power. Your gun gains a +1 bonus to attack rolls, but suffers a -3 penalty to its damage rolls (minimum 1).
+
+#### Non-Lethal Chamber
+Your firearm is equipped to fire wax bullets, and can deal non-lethal damage. You must use a bonus action to switch the weapon between its regular and non-lethal chambers.
+
+#### Grenade Launcher
+You equip your firearm to fire grenades and similar projectiles and can launch grenades up to 120 feet. In addition, you can target specific creatures with your grenades. Make an attack roll against your target, on a hit you deal 2d6 + your Dexterity modifier bludgeoning damage. On a hit or miss, the target and all other creatures in range make a saving throw as normal.

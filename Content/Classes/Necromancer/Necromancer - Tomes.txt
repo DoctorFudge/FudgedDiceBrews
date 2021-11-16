@@ -1,0 +1,113 @@
+### The Creed of Tomes
+Though necromancy is an innate skill and not a learned one, the techniques with which the skill is applied can be improved through the learning of theoretical substance. This is the tenet that those of the Creed of Tomes take to heart. Rather than perfecting their practical ability to manipulate life essence, they would study the art of spellcasting and use those techniques to reinforce their natural abilities. As such, these types of necromancers tend to be the most learned ones, having the widest array of spells available to them and uncovering secret ancient techniques that few are aware of.
+
+#### Initiate of the Tome
+At 2nd level, you become an initiate in the Creed of Tomes and obtain a necromantic tome. As long as this tome is on your person, you gain the following benefits:
+- You may cast the *Prestidigitation* cantrip as if you have it known, without it counting towards your cantrips known.
+- You may cast the *Mage Armor* spell as if you have it known, without it counting towards your spells known.
+- Whenever you cast a necromancer spell of at most 5th level, you may use your bonus action to make it a refined spell. Whenever you do so, add your intelligence modifier to any attack rolls made as part of the spell, and to the DC of any saving throw prompted by it. Once you use this feature, you can't use it again until you finish a long rest.
+- You may use the tome as a spellcasting focus for your necromancer spells
+
+Should your necromantic tome be lost or destroyed, you are able to create a new one. This process costs 20 gp and 2 hours of time for each necromancer level you possess.
+
+#### Arcane Shift
+Also starting at 2nd level, when using the Vitality Shift feature on a target who has the Spellcasting feature, you may choose to exchange one used spell slot of 5th level or lower for an unspent one of equal level instead of transferring hit points between you and your target. Similarly to hit points, this exchange can go in either direction, and neither you nor your target can obtain more spell slots than listed in your respective class tables.
+
+#### Augur's Acumen
+At 3rd level, you unlock the Augur's Acumen perks detailed at the end of the class description, and gain one of these immediately. When you gain certain necromancer levels, you gain additional Acumens of your choice, as shown in the 'Acumens Known' column of the necromancer table. Once obtained, you permanently gain the benefits of an Acumen.
+
+#### Evercasting
+At 20th level, you have learned how to morph life essence into magical energy when dealing a killing blow through magic. Whenever you use a spell to kill any number of creatures with a combined CR of 10 or higher, you regain one spell slot of any level up to 5.
+
+### Augur's Acumen Perks
+If an Augur's Acumen has prerequisites, you must meet them to acquire it. You can learn the Acumen at the same time that you meet its prerequisites.
+
+#### Black Ice
+You learn the *Armor of Agathys* spell, without it counting against your spells known.
+
+Additionally, whenever a creature takes damage from your *Armor of Agathys* spell, add your wisdom modifier to the damage the creature takes. A creature damaged this way cannot take any reactions until the start of its next turn.
+
+#### Channeler
+You learn how to be constantly aware of traces of life energy surrounding you. While you are conscious, you are always aware of any non-construct close to you, out to a radius of 10 feet. This includes creatures on the ethereal plane.
+
+#### Dark Aegis
+*Prerequisite: 14th level*
+
+You can cast *Dispel Evil and Good* at will, without expending a spell slot. Once you use this feature, you can't use it again until you finish a long rest.
+
+#### Fervor of the Lost
+*Prerequisite: 6th level*
+
+Your studies have taught you about some simple rituals to brace your own life force. Whenever you would roll a hit die, you may choose to forego the roll entirely and instead proceed as if you had rolled the maximum amount.
+
+#### Galerider
+*Prerequisite: 14th level*
+
+Through long hours of study, you have managed to master the ancient art of passive magical floating. Rather than walking, you gain the ability to glide one foot above the ground, allowing you to pass over difficult terrain that does not rise above that height without taking a movement penalty, and allowing you to move over liquid surfaces as if they were solid ground.
+
+Additionally, while floating, you do not trigger any non-magical traps activated by floor-based mechanisms such as pressure plates. Otherwise, you move normally, as if you were walking. You can choose to activate or deactivate this ability at will, though it will disable immediately if no solid ground is within 1 foot beneath you. You cannot prevent fall damage through floating.
+
+#### Intuitive Anatomy
+As an action, you can examine a creature that isn't a construct or elemental, or the corpse of any such creature. Whenever you do so, you learn the type of the creature you examined (aberration, fey, celestial, beast, etc.). Additionally, you make a Wisdom (Medicine) check, for which the DC is equal to 8 + the creature's CR (rounded up). On a success, you also learn the creature's current and maximum hit points.
+
+#### Mark of Death
+*Prerequisite: 14th level*
+
+As an action, you can select a creature you can see and attempt to mark them for the grim reaper himself to collect. The target has to make a Constitution saving throw against your spell save DC. If it fails, for the next minute, it has disadvantage on all saving throws. On a success, the target is unaffected. You have to concentrate on maintaining this mark as if it were a spell, and once you use this feature, you can't use it again until you finish a long rest.
+
+#### Numbing Caress
+*Prerequisite: Chill Touch cantrip*
+
+Whenever you cast the *Chill Touch* cantrip, you may now use d10 for your damage dice, rather than d8.
+
+For example, casting this spell as a 5th level necromancer will cause 2d10 damage on a hit, rather than 2d8.
+
+#### Religious Familiarity
+*Prerequisite: 10th level*
+
+Your studies of death have made you a learned man when it comes to religion and religious views on the afterlife. You learn the basic tenets of all but the most obscure sects, as well as the symbolism and rites they use and adhere to, and their general spheres of influence. As such, you have advantage on Charisma (Deception) checks made trying to pass yourself off as an acolyte of any religion, and you have advantage on any Wisdom (Insight) or Intelligence (Investigation) checks made trying to uncover with which religion a creature or location is aligned.
+
+#### Seance
+*Prerequisite: 6th level*
+
+You learn how to contact the spirits around you. During a short or long rest you can perform a brief ritual. When doing so, you become aware of all intelligent beings that have died within the last 100 years within a 1 mile radius around your position, and you learn the general causes of their death ('a fight', 'famine', 'a fire', 'natural', etc). This causes you to gain advantage on Intelligence (History) checks regarding events that happened within this area in the past 100 years for as long as you remain within the 1 mile radius.
+
+Once you use this feature, you can't use it again until you finish a long rest, and you can't hold a Seance within the same area again for 7 days.
+
+#### Shadowstep
+*Prerequisite: 10th level*
+
+You learn the *Misty Step* spell, without it counting against your spells known.
+
+#### Soulscrying
+*Prerequisite: 10th level*
+
+As an action, you can open your mind to all souls within a 1 mile radius around you. Whenever you do so, you instantly become aware of all living creatures within this range, allowing you to gauge exactly how many creatures are near you, and where they are at the moment of the sensing. You can tell the difference between creatures of different sizes, but are unable to differentiate between the souls you sense in any other way.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+#### Spectral Manipulation
+*Prerequisite: Sword Burst cantrip*
+
+When you cast Sword Burst, its range is 20 feet, and friendly targets automatically succeed on the saving throw.
+
+#### Spirit Sight
+*Prerequisite: 6th level*
+
+You can instantly cast *Clairvoyance* at will, without expending a spell slot or requiring casting time. Once you use this feature, you can't use it again until you finish a long rest.
+
+#### Twinned Fate
+*Prerequisite: 10th level*
+
+You can use an action to attempt to bind your fate to that of any creature you can see within 60 feet. The target has to succeed on a Constitution saving throw against your spell save DC or become bound to you for 1 minute - willing targets can choose to fail on purpose.
+
+While you are bound, whenever either you or your target is affected by a phenomenon that prompts a saving throw, the other is also subjected to the its effects, as if they were targeted as well. They make the same saving throw, using their own saving throw bonuses. If your bound target attains a different result than you do, you can choose to either change your own result to theirs, or change their result to your own. For example: if your bound target makes their saving throw and you would fail, you can choose to copy their success instead.
+
+A creature being immune to a certain effect counts as it automatically succeeding on the saving throw, and this ability cannot cause a creature to become frightened by itself. Once you use this feature, you can't use it again until you finish a long rest.
+
+#### Vice of the Lifeless
+*Prerequisite: 6th level*
+
+Using ancient books as your guide, you have perfected the art of communicating with the deceased. You learn the *Speak with Dead* spell without without it counting against your known spells.
+
+Additionally, you are able to cast the spell on targets that no longer have a mouth, causing you to hear their voice in your head instead. Whenever you use the spell, the target is forced to answer each of your questions and they cannot lie when doing so, though they can still be brief, repetitive or cryptic.

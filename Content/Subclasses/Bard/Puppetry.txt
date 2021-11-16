@@ -1,0 +1,57 @@
+### College of Puppetry
+[**Source:** *The Complete Arcanist Handbook*](https://drive.google.com/file/d/1ucl27lI0dMWi0BDsolHBB-ZgW4CSPhdP/view)
+
+Bards of the College of Puppetry specialize in entertaining with puppets and marionettes. Not content to master exclusively mundane skills on their subject of interest, these bards, called puppet masters, learn to create their own animated marionette companion. Every companion is painted and decorated unique to its puppet master—most are whimsical, some are intimidating, and others are unsettling.
+
+#### Puppetcraft
+When you join the College of Puppetry at 3rd level, you gain proficiency with painter’s supplies, weaver’s tools, and woodcarver’s tools.
+
+In addition, you can use a puppet or the control rod of a marionette as a spellcasting focus for your bard spells.
+
+#### Animated Marionette
+At 3rd level, you have learned to create a puppet companion. It is friendly to you and your companions, and it obeys your commands. See this creature’s game statistics in the animated marionette stat block. You determine the creature’s appearance, which has no effect on its game statistics.
+
+In combat, the animated marionette shares your initiative count but it takes its turn immediately after yours. It can move and use its reaction on its own, but the only action it takes on its turn is the Dodge action unless you use a bonus action on your turn to command it to take one of the actions in its stat block or the Dash, Disengage, Help, Hide, or Search action. You must be holding the marionette’s control rod to use a bonus action to command it.
+
+If the *mending* cantrip is cast on it and it has at least 1 hit point, it regains 2d6 hit points. If it has died within the last hour, you can use your woodcarver’s tools as an action to revive it, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. The animated marionette returns to life after 1 minute with a number of hit points restored equal to 2 x the level of spell slot expended.
+
+While the animated marionette has one of your Bardic Inspiration dice, you can use your reaction to roll and expend the die when a creature within 30 feet of the marionette makes an ability check, attack roll, or saving throw. When you do, add the result of the Bardic Inspiration die to the roll. You can choose to use this ability after the d20 is rolled but must use it before the DM declares whether the roll was a success or a failure.
+
+When you expend a 6th level spell slot or higher to cast a bard spell and your animated marionette has less than three uses of its tangled thread action, it regains a use of its tangled thread action.
+
+At the end of a long rest, you can create a new animated marionette if you have your woodcarver’s tools with you. If you already have an animated marionette from this feature, the first one immediately perishes.
+
+#### Master of Puppets
+Starting at 6th level, while a creature who is not immune to being charmed has its movement speed reduced to 0 by your animated marionette’s Tangled Thread, you can use a bonus action on your turn to command the creature to take one of the actions in its stat block or the Dash or Help action. When you do, the reduced movement speed condition ends and the creature immediately uses its reaction to take the commanded action targeting a creature or creatures of your choice if applicable.
+
+#### Storm of Strings
+Starting at 14th level, when you command your animated marionette to use its Tangled Thread action, you can choose to target all creatures of your choice within 30 feet of the animated marionette, instead of one creature within 60 feet. Once you do, you can’t use this feature again until you finish a long rest.
+
+___
+> ## Animated Marionette
+> *Tiny construct, unaligned*
+> ___
+> - **Armor Class** 14 (natural armor)
+> - **Hit Points** equal to the animated marionette’s Constitution modifier + your Charisma modifier + four times your bard level
+> - **Speed** 25 ft.
+> ___
+>| STR | DEX | CON | INT | WIS | CHA |
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>| 6 (-2) | 16 (+3) | 12 (+1) | 8 (-1) | 8 (-1) | 13 (+1) |
+> ___
+> - **Saving Throws** Dex +5, Cha +3
+> - **Skills** Acrobatics +5, Performance +3
+> - **Damage Immunities** poison
+> - **Condition** Immunities charmed, exhaustion, poisoned Senses passive Perception 9
+> - **Languages** understands the languages you speak
+> ___
+> ***False Appearance.*** While the animated marionette remains motionless, it is indistinguishable from an ordinary puppet.
+>
+> ***Magic Weapons.*** The marionette's weapon attacks are magical.
+>
+> ***Might of the Master.*** The following numbers increase by 1 when your proficiency bonus increases by 1: the animated marionette’s AC, its skill and saving throw bonuses (above), the bonuses to hit and damage of its pummel attack, and the saving throw DC of its tangled thread action (below).
+>
+> ### Actions (Requires your Bonus Action)
+> ***Pummel.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1d4 + 3 bludgeoning damage.
+> 
+> ***Tangled Thread (3/Day).*** One creature the animated marionette can see within 60 feet must succeed on a Strength saving throw (DC 13) or its movement speeds are reduced to 0 for 1 minute. The target can make this saving throw again at the end of each of its turns, ending the effect on itself on a success.

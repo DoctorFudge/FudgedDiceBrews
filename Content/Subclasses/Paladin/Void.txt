@@ -1,0 +1,57 @@
+### Sacred Oath: Oath of the Void
+[**Source:** *Paladin: Oath of Void*](https://homebrewery.naturalcrit.com/share/140P71V_opCQEbpPJwyRV5fAEYGjy9v6eDI1LWgefiNzz)
+
+Paladins under the **Oath of the Void** are a peculiar bunch, beings who are devoid of the stable magic that usually suffuses every living creature. Their condition, however, opens a door to a plethora of abilities. From disruption of magic to the manipulation of senses.
+
+Some paladins of the void take it upon themselves to hunt rogue mages, bringing an end to the trouble they've caused.
+
+Others put on the mantle of mercenaries simply looking for some extra coin, or bandits, who use their abilities to take what they want with knowledge that it's harder to take them down through magical means.
+
+Paladins who follow this "oath" are as diverse as people get, and no two are the same.
+
+##### Oath Spells
+| Class Level | Feature |
+|:----:|:-------------|
+| 3rd  | *arms of hadar, unseen servant* |
+| 5th  | *misty step, pass without trace* |
+| 9th  | *counterspell, gaseous form* |
+| 13th | *dimension door, greater invisibility* |
+| 16th | *far step, hallow* |
+
+#### Tenets of the Void
+Paladins who work under the Oath of the Void are not bound to a specific moral code or list of tenets, being free to use their powers as the paladin themselves deems fit.
+
+#### Channel Divinity
+You gain the following two Channel Divinity options. See the Sacred Oath class feature for how Channel Divinity works.
+
+***Out of Sight.*** As a bonus action, you use your Channel Divinity to take creatures out of the sight of others. When you us this channel divinity, choose any number of creatures that you can see within 30 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). You and the chosen creatures turn invisible for a number of rounds equal to your Charisma modifier (minimum of one round). 
+
+The invisibility ends for a target when they attack or cast a spell on another creature.
+
+***Out of Mind.*** As an action, you use your Channel Divinity to clear the minds of others. When you use this channel divinity, choose any number of creatures you can see within 30 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). For 1 minute, you and the chosen creatures have advantage on Intelligence, Wisdom, and Charisma saving throws.
+
+In addition, creatures can't read the thoughts of those affected by this Channel Divinity.
+
+#### Aura of Emptiness
+Starting at 7th level, you emanate an aura disruptive to magic around you while you're not incapacitated. The aura extends 10 feet from you in every direction, but not through total cover. When a creature other than you starts their turn within your aura and is concentrating on a spell, they must succeed a Constitution saving throw or lose concentration on the spell. The DC of this aura equals your Paladin spell save DC. If a creature is concentrating on more than one spell at a time, they make separate saving throws for each spell.
+
+Creatures capable of casting spells feel a strange sense of dread while within your aura.
+
+At 18th level, the range of this aura increases to 30 feet.
+
+#### Disruption
+Starting at 15th level, you become more in tune with your nature as a being of magical disruption. As an action, you can make a special melee attack against a creature within reach. On a hit, it does your weapons normal damage, and you choose one of the following effects:
+- ***Somatic:*** The target can not use the Somatic Components of their spells.
+- ***Verbal:*** The target can not use the Verbal Components of their spells.
+- ***Material:*** The target can not use the Material Components of their Spells.
+
+You can *not* use your Divine Smite feature on this attack. And the effect lasts for a number of rounds equal to half your charisma modifier rounded up (minimum of 1 round).
+
+#### Emissary of the Abyss
+At 20th level, you can embrace the magical abyss suffusing your body, becoming a void in the natural flow of the weave around you, and disrupting the function of magic beyond reason within 30 feet of you. For 1 minute, you gain the following benefits:
+- Whenever a hostile creature starts it's turn within 30 feet of you, the creature takes 10 force damage as the lack of any stable magic tears at their body.
+- Spell Attack rolls against creatures of your choice within 30 feet of you are made with disadvantage.
+- Creatures of your choice that cast a spell within 30 feet of you must succeed on a saving throw against your spell save DC using their Spellcasting Ability Score or their spell fails.
+- You and creatures of your choice within 30 feet of you have advantage on saves against spells and other magical effects.
+
+This effect ends early if you are incapacitated or die. Once you use this feature, you can't use it again until you finish a long rest.

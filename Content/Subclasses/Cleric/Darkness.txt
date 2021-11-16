@@ -1,0 +1,45 @@
+### Darkness Domain
+[**Source:** *The Complete Devout Handbook*](https://drive.google.com/file/d/1TEY7P4FVWD_-Ky5YrrK92__yYOwTY3w-/view)
+
+Gods of darkness and shadow - such as Set, Shar, and the Raven Queen - are not often depicted in the best light, being associated with terror, desolation, and unending night. Dwelling in their gloomy, often lightless realms, these deities don't tend to attract many followers. So when a cleric chooses to devote their life to the service of one of these gods, they are imbued with great power over the shadows, becoming able to cause fear in the hearts of mortals. These gods teach their followers to think like the forces of evil in order to slay and conquer them, countering dark powers with their own black gifts.
+
+While some clerics of the Darkness Domain are evil fearmongers, most instead make it their mission to rehabilitate the image of their deity through acts of heroism using their shadowy powers, becoming dark champions that bring comfort to innocents in the darkest of nights.
+
+##### Darkness Domain Spells
+| Cleric Level | Spells |
+| :-: | :-- |
+| 1st | <em>arms of Hadar, cause fear<sup>XGE</sup></em> |
+| 3rd | <em>darkness, shadow blade<sup>XGE</sup></em> |
+| 5th | <em>fear, hunger of Hadar</em> |
+| 7th | <em>Evard's black tentacles, shadow of Moil<sup>XGE</sup></em> |
+| 9th | <em>creation, enervation<sup>XGE</sup></em> |
+
+#### Umbral Vision
+When you choose this domain at 1st level, you gain darkvision out to a range of 60 feet. If you already have darkvision, the range of your darkvision instead increases by 30 feet.
+
+Once you reach 6th level in this class, magical darkness no longer impedes your darkvision.
+
+#### Tendril of Darkness
+Also at 1st level, you gain the ability to use your shadow as a weapon, channeling fear and despair into those you strike with it. This shadow whip counts as a simple melee weapon, though only you can use it. It has the finesse and light properties, as well as 15 feet of reach. It deals 1d8 psychic damage on a hit, including your Strength or Dexterity modifier as normal. You must have a free hand to make attacks using your shadow whip.
+
+When you hit a Large or smaller creature with an attack using your shadow whip, you can attempt to drag the target toward you. The creature must succeed on a Strength saving throw against your spell save DC or be pulled to the nearest unoccupied space to you.
+
+You can attempt to pull a creature this way a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+
+#### Channel Divinity: Grasping Shadows
+Starting at 2nd level, you can summon shadow energies that constrict a creature, using your Channel Divinity. As an action, choose a creature you can see within 60 feet. That creature must succeed on a Strength saving throw or become restrained for 1 minute. The target makes the initial saving throw with disadvantage if it's within an area of dim light or darkness. As an action during each of its turns, an affected creature can repeat the saving throw, freeing itself on a successful save.
+
+#### Channel Divinity: Torrent of Gloom
+Starting at 6th level, you can use your Channel Divinity to dim the world around you.
+
+As a bonus action, you present your holy symbol, coating a 30-foot radius sphere centered on you with shadow for 1 minute. The sphere stays centered on you as you move. Within the sphere, areas of normally bright light become dim light, areas of normally dim light become darkness, and areas of normally darkness become magical darkness.
+
+You can dismiss the sphere early by using a bonus action on your turn.
+
+#### Divine Strike
+At 8th level, you gain the ability to infuse your weapon strikes with the trauma of the void: the existential dread of being alone and lost in the dark. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 psychic damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+
+#### Champion of the Void
+At 17th level, maddening darkness<sup>XGE</sup> is added to the cleric spell list for you, and surrounding shadows twist and quiver around you, creating a terrifying visage for your enemies to behold. When a creature other than one of your allies starts its turn within 5 feet of you, it must succeed on a Wisdom saving throw against your spell save DC or become frightened of you until the end of its turn. A creature has disadvantage on this saving throw if you're within an area of dim light or darkness.
+
+A creature that succeeds on this saving throw is immune to this feature for 24 hours.

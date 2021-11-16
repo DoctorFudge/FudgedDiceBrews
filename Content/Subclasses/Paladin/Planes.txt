@@ -1,0 +1,52 @@
+### Oath of the Planes
+[**Source:** *The Complete Devout Handbook*](https://drive.google.com/file/d/1TEY7P4FVWD_-Ky5YrrK92__yYOwTY3w-/view)
+
+The Oath of the Planes binds a paladin to the fragile balance of good and evil in the multiverse. Unlike many Sacred Oaths, which commit paladins to narrow, unflinching ideals, this Oath implores them to view the greater tapestry. These paladins see that, just like the concept that light cannot exist without darkness, neither can the forces of good exist without the forces of evil; without the proper balance, the entirety of existence would unravel. To ensure this never occurs, these paladins — often called planeswalkers, gray knights, or portal knights — travel the planes of the multiverse, immersing themselves in dimensional magics and the boundaries of reality to maintain balance.
+
+#### Tenets of the Planes
+The tenets of the Oath of the Planes are often difficult for individuals to uphold. Despite the necessity, many paladins find it difficult to remain impartial, and even more difficult to leave the ones they love when they feel themselves shirking their duties. It can also be tragic for these paladins to actively support certain evils, and actively destroy certain good, in order to keep the universe in balance; it is far easier for them when evil threatens to overwhelm good. Due to the harshness of the tenets, most paladins who take this oath are lawful neutral in alignment.
+
+***No Good without Evil.*** Without evil, good cannot exist. Some forces of evil must be allowed, while some forces of good must be struck down if they threaten to overwhelm evil.
+
+***Travel the Planes.*** To understand the greater scope of the multiverse's balance, I travel the worlds within it. Remaining in one location causes me to lose perspective.
+
+***Objectivity.*** I remain impartial, placing the balance of the multiverse, and thereby everyone in it, over any individual attachment or life.
+
+#### Oath Spells
+You gain oath spells at the paladin levels listed.
+
+##### Oath of the Planes Spells
+| Paladin Level | Spells |
+| :-: | :-- |
+| 3rd | <em>alarm, detect evil and good</em> |
+| 5th | <em>misty step, rope trick</em> |
+| 9th | <em>blink, sending</em> |
+| 13th | <em>banishment, dimension door</em> |
+| 17th | <em>dispel evil and good, teleportation circle</em> |
+
+#### Channel Divinity
+When you take this oath at 3rd level, you gain the following two Channel Divinity Options.
+
+***Extradimensional Detention.*** You can use your Channel Divinity to temporarily trap a foe in an extradimensional space. As an action, you open a portal behind a hostile creature within 5 feet of you that is Large or smaller and attempt to push the creature into it. The target must succeed on a Strength saving throw or be trapped in the extradimensional space for 1 minute, or until you lose concentration (as though concentrating on a spell). During that time, it still takes its turns as normal, but it is unaffected by and can't affect events in the plane from which it was banished. At the end of each of the creature's turns, it can make a Charisma saving throw, escaping the extradimensional space on a success. When the creature escapes or the duration ends, the portal reopens on the space the creature previously occupied and the creature is expelled into the nearest unoccupied space.
+
+***Portal Strike.*** As an action, you can imbue one melee weapon you're holding with the ability to rip through dimensional boundaries, using your Channel Divinity. For 1 minute, your reach with the weapon increases to 30 feet, creating portals through which to strike the target as you attack. The portals close immediately following the attack. As long as you can see the target, attacks you make using the weapon ignore half and three-quarters cover.
+
+#### Aura of Dimensionality
+Starting at 7th level, you can exert a modicum of influence on the dimensional barriers within 10 feet of you. As a bonus action on your turn, you can use this influence for one of the following abilities:
+
+***Passageway.*** You open linked teleportation portals that remain open until the start of your next turn. Choose two unoccupied spaces on the ground that you can see within the aura. A circular portal, 5 feet in diameter, opens in each space. The portals are two-dimensional, glowing rings that float a few inches in the air and are perpendicular to the ground. A ring is visible from only one side (your choice), which is the side that functions as a portal. Any Medium or smaller creature or object entering the portal exits from the other portal as if the two spaces were adjacent to each other; passing through a portal from the nonportal side has no effect, and Large and larger creatures can't fit through the portal. Ranged attacks can also pass through the portals.
+
+***Redirection.*** You prepare yourself to quickly open and then close smaller portals. When a creature you can see within your aura becomes the target of an attack, you can use your reaction to open two portals for the attack to pass through, potentially guiding the attack off target. Make a spell attack roll contested by the result of the triggering attack's roll. If you succeed, you choose a new target for the attack, which must also be within your aura, redirecting the attack through linked portals; you can cause a creature to attack itself this way if it within your aura. Alternatively if you succeed, you can cause the attack to miss, redirecting it into empty space.
+
+At 18th level, the range of this aura increases to 30 feet.
+
+#### Gate Guardian
+Beginning at 15th level, when an attack, creature, or object you can see would pass through a portal created by the Passageway ability of your Aura of Dimensionality, you can use your reaction to close the portals, preventing the attack, creature, or object from passing through. An attack you prevent from passing through this way automatically misses.
+
+#### Phase Shift
+At 20th level, as an action, you can put yourself out of phase with reality, allowing you to open extradimensional portals with ease. For 1 minute, you gain the following benefits:
+- Instead of moving normally on your turn, you can teleport to an unoccupied space you can see within 60 feet of you. If there is a willing creature within 5 feet of you that is your size or smaller, you can bring the creature with you when you teleport this way.
+- A creature native to a different plane of existence than the one it currently occupies has disadvantage on attack rolls it makes against you.
+- Once per turn when you hit a creature with a melee weapon attack, that creature must succeed on a Charisma saving throw against your spell save DC or be banished, as if under the effect of the *banishment* spell, until the start of your next turn.
+
+Once you use this feature, you can't use it again until you finish a long rest.

@@ -1,0 +1,54 @@
+### Circle of Spirit
+[**Source:** *The Complete Devout Handbook*](https://drive.google.com/file/d/1TEY7P4FVWD_-Ky5YrrK92__yYOwTY3w-/view)
+
+Druids of the Circle of Spirit are the shamans and spirit-talkers of the Old Faith. While other druids turn their focus to the emulation of the natural world or beasts, shamans learn to commune with the spirits and ethereal beings that remain hidden from mortal senses. Not satisfied by merely peering into the invisible realm, shamans learn to call spirits from it, channeling their power and using it as their own.
+
+#### Shamanic Vision
+Starting at 2nd level, you gain proficiency with the Perception skill if you don't already have it. In addition, you can use an action to attune yourself to the invisible world. When you do so, you see invisible creatures and objects as if they were visible, and you can see into the Ethereal Plane. This shamanic sight remains for 1 minute. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain any expended uses when you finish a long rest.
+
+#### Spirit Door
+Starting at 2nd level, you can use a bonus action and expend a use of your Wild Shape to channel a spirit of your choice for a number of hours equal to half your druid level (rounded down). While you channel the spirit, you gain its corresponding benefits and its spells count as druid spells for you based on your level.
+
+***Chieftain.*** You can add half your proficiency bonus, rounded down, to any Persuasion, Insight, and History ability checks you make that don't already include your proficiency bonus.
+
+***Warrior.*** You can add half your proficiency bonus, rounded down, to any Athletics, Acrobatics, and Intimidation ability checks you make that don't already include your proficiency bonus.
+
+***Trickster.*** You can add half your proficiency bonus, rounded down, to any Deception, Sleight of Hand, and Stealth ability checks you make that don't already include your proficiency bonus.
+
+##### Chieftain Spirit's Spells
+| Druid Level | Spells |
+| :-: | :-- |
+| 2nd | <em>command, heroism</em> |
+| 3rd | <em>calm emotions, zone of truth</em> |
+| 5th | <em>spirit guardians, tongues</em> |
+| 7th | <em>aura of life, aura of purity</em> |
+| 9th | <em>dominate person, dream</em> |
+
+##### Warrior Spirit's Spells
+| Druid Level | Spells |
+| :-: | :-- |
+| 2nd | <em>ensnaring strike, wrathful smite</em> |
+| 3rd | <em>magic weapon, warding bond</em> |
+| 5th | <em>fear, elemental weapon</em> |
+| 7th | <em>death ward, staggering smite</em> |
+| 9th | <em>hold monster, steel wind strike<sup>XGE</sup></em> |
+
+##### Trickster Spirit's Spells
+| Druid Level | Spells |
+| :-: | :-- |
+| 2nd | <em>disguise self, tasha's hideous laughter</em> |
+| 3rd | <em>invisibility, suggestion</em> |
+| 5th | <em>major image, nondetection</em> |
+| 7th | <em>confusion, greater invisibility</em> |
+| 9th | <em>mislead, modify memory</em> |
+
+#### Spirit Walks With You
+Starting at 6th level, you can use a bonus action to use your Spirit Door feature without expending a use of your Wild Shape. When you do, you regain your highest level expended spell slot of 5th level or lower. Once you use this feature, you can't use it again until you finish long rest.
+
+#### Invisible World Attunement
+Starting at 10th level, when you attack a creature you can't see, your inability to see it doesn't impose disadvantage on your attack rolls against it.
+
+Additionally, when a creature attacks you, your inability to see it doesn't grant it advantage on the attack roll.
+
+#### Ethereal Body
+Starting at 14th level, you can use your action to cast the **etherealness** spell without expending a spell slot. Once you use this feature, you can't use it again until you finish a long rest.

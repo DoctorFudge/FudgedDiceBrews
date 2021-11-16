@@ -1,0 +1,50 @@
+### The Thing That Should Not Be
+The Thing That Should Not Be is exactly how it sounds. An entity, which by all means shouldn't feasibly exist in the realms.
+
+But some feel the influence of The Thing That Should Not Be, whether it be visions in a dream or hallucinations of objects and people partially phasing through walls as they turn a corner on the street. Some feel the influence more strongly than others and become warlocks wielding this strange and unusual power.
+
+##### Expanded Spell List
+| Spell Level | Spells |
+|:----:|:-------------|
+| 1st  | *Catapult*, *Feather Fall* |
+| 2nd  | *Phantasmal Force*, *Tasha's Mind Whip* |
+| 3rd  | *Blink*, *Slow* |
+| 4th  | *Confusion*, *Phantasmal Killer* |
+| 5th  | *Modify Memory*, *Temporal Shunt* |
+
+#### Backwards Long-jump
+Starting at 1st level you learn a bizarre maneuver to launch yourself backwards at incredible distances through means of a constant cycle of kicking off from the ground after a single, strong backwards jump. Something that doesn't seem like it could work in the first place, but manages to anyway. It gets amusing when you start going up stairs with it.
+
+When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this ability, you can't use it again until you move 0 feet on one of your turns.
+
+#### Negative Acceleration
+Starting at 1st level, you gain the ability to abuse the power of negative acceleration to launch yourself up to 60 feet in a straight line after a series of crouch jumps, no matter the force of the jump you never manage to gain any air. If anything it's the opposite, your body looking as if it's getting repeatedly shoved towards the ground, even *into* the ground before the launch off.
+
+If you launch yourself at a creature, they must succeed on a dexterity saving throw against your Warlock spell save DC. On a failed save, both you and the target take 3d4 bludgeoning damage as you immediately stop in an unoccupied space within 5 feet of them.
+
+You can use this feature a number of times equal to your proficiency bonus. You regain all expended uses of this ability when you finish a long rest.
+
+#### Rubberbanding
+Starting at 6th level, your patron bestows upon you the ability to rewind the movements of others. When a creature ends it's turn within 30 feet of you, you can use your reaction to cause the creature to teleport up to 15 feet to an unoccupied space you can see. The creature *must* have occupied that space at some point during their turn.
+
+The creature affected by this ability looks as if they were pulled in a straight line back to the point you teleport them to. Clipping through whatever obstacles are in their way, like people, boxes, low walls, etc. At the GM's choice, the chosen creature might experience minor annoyance after being affected by this ability.
+
+The distance increases as you gain certain levels in this class. At 10th level, the distance increases to 20 feet. At 14th level, the distance increases to 25 feet.
+
+You can use this reaction a number of times equal to your charisma modifier. You regain all uses of this ability when you finish a short or long rest.
+
+#### Out of Bounds
+Starting at 10th level, your patron bestows upon you the knowledge of how to step out of the bounds of normal reality. You and what you're wearing turning to a constantly flickering and shifting, the world around you taking on a more grid or mesh-like appearance from your perspective. Your ability to see different colors is unchanged.
+
+At the start of your turn, if you aren't incapacitated, you can move through creatures and objects as if they were difficult terrain.
+
+If you are inside an object when this feature ends, you are immediately shunted to the nearest unoccupied space that you can occupy and take force damage equal to the number of feet you moved. This feature lasts for a number of rounds equal to your Charisma modifier (minimum of 1 round).
+
+You can use this feature once before needing to finish a short or long rest to use it again. Starting at 14th level, you can use this ability twice between rests.
+
+#### Spaghettification
+Starting at 14th level, you unlock one of the deepest powers of The Thing That Should Not Be. As an action, you choose a creature within 30 feet of you and force them to make a charisma saving throw against your spell save DC. On a failed save, the target's body undergoes a momentary, yet horrific disfiguration, their limbs and torso stretching to horrific lengths, flying in constantly changing directions and changing velocity as they phase through their surroundings.
+
+The creature who fails the save takes 10d10 force damage, has their speed reduced to 0, and is incapacitated until the end of their next turn as they get over the horrific experience.
+
+Once you use this feature, you can't use it again until you finish a long rest.

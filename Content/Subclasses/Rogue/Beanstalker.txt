@@ -1,0 +1,46 @@
+### Beanstalker
+[**Source:** *A Treasurey of Tales and Legends*](https://drive.google.com/file/d/1ghK_gGGfGMXSQImUGZc8dlxXd-YwC1D0/view)
+
+You have found yourself in the possession of a handful of magical beans, each one capable of unknowable wonders. You may have been entrusted them by a mysterious merchant, or came across them in your dreams, or maybe they have just manifested from the deep love for beans that you have in your heart.
+
+#### Bonus Proficiencies
+When you choose this archetype at 3rd level, you gain proficiency with the harp and in the Nature skill.
+
+#### Magic Beans
+Starting at third level, you have with you at all times a collection of magical beans. As an action, you can plant one of your beans, either in a space within reach or by throwing the bean up to a distance of 30 feet. You can then command the bean to grow into a beanstalk, either as part of the same action or later using a bonus action. Only you can plant your magic beans.
+
+Some features may require creatures to make a saving throw. In that case, use this Bean Save DC.
+
+<center>
+
+**Bean Save DC** = 8 + your Proficiency Bonus + your Charisma modifier
+
+</center>
+
+When a planted bean grows into a beanstalk, it sprouts from the ground into a five-foot diameter beanstalk and immediately reaches a height up to five feet per level you have in this class, stopping shorter if you so choose. When this happens, you can choose one of the following effects:
+- ***Cradling Bean.*** This bean of hope carries you and your allies to greater heights. If the bean sprouts under you or willing friendly creature that is size large or smaller, it can carry that creature up to the heighest point of the beanstalk, or a lower point if they so choose. Additionally, you and friendly creatures of your choice can climb the beanstalk at a speed equal to their walking speed.
+- ***Bursting Bean.*** This bean spells the undoing of your enemies. If the bean sprouts under a large or smaller creature, they must succeed on a Dexterity saving throw against your Bean Save DC or be violently lifted up by the beanstalk, taking 1d6 bludgeoning damage per ten feet of the beanstalk's height + half your rogue level, with the creature ending up at the beanstalk's top. If the creature succeeds on the saving throw, they take half as much bludgeoning damage and can step out of the way of the beanstalk. The beanstalk is considered difficult terrain and a slippery surface when climbed.
+
+Starting at 13th level, your beanstalks strengthen in their structure, and can effect huge or smaller creatures, as opposed to large or smaller.
+
+You have an amount of magic beans equal to your Charisma modifier, and gain lost beans back at the end of a long rest. When you gain beans back this way, your currently standing beanstalks wither away and disappear.
+
+#### Beanspeaker
+Starting at 3rd level, you can cast *speak with plants* at will without expending a spell slot. When you cast *speak with plants* using this feature, you can only talk to beans and beanstalks created by your Magic Beans feature.
+
+#### Grasp of the Bean
+At 9th level, you become able to manifest beans as an aspect of yourself. You learn the thorn whip cantrip if you do not know it already. Charisma is your spellcasting modifier for this spell.
+
+When you make a melee spell attack with thorn whip, it counts as a ranged weapon for the purposes of your Sneak attack ability. Additionally, you can use thorn whip as a rope that attaches from your hand to solid objects or surfaces, which withers away one minute after casting.
+
+#### Saving Stalk
+Starting at 13th level, your beans become a lifeline for you and your allies. When a creature makes a melee attack against your or an ally within 30 feet of you, you can use your reaction to immediately throw and plant a bean under the attacked creature that immediately grows with the Cradling Bean effect.
+
+#### Legumes of Legend
+Starting at 17th level, you have bonded with your beans in a way too beautiful and intimate for mortal comprehension.
+
+When you grow a beanstalk, you can choose for it to have a ten foot diameter instead of a five foot one. These larger beanstalks can effect gargantuan sized creatures if the entirety of the beanstalk under them.
+
+Additionally, when you grow a beanstalk with the Bursting Bean effect, you can choose to have the top of it twist into itself, forcing affected creatures to make a Strength saving throw against your Bean Save DC or be thrown off the top of the beanstalk.
+
+Finally, the range of your thorn whip spell doubles.

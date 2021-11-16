@@ -1,0 +1,53 @@
+### Coven of the Dark Moon
+All witches possess a supernatural tie to the magic of shadows and the night, but those that band together under the Coven of the Dark Moon are the most innately acquainted with this midnight arcana. Known as dark witches, they are sworn under the darkness of a new moon to sow curses and discord, disrupting the structures of society, for better or for worse. As such, witches of this coven tend to be chaotic in nature, but may be good, neutral, or evil depending on their individual morals.
+
+#### Dark Moon Spells
+You gain advanced tutelage into specific spells important to your coven. You learn each of the spells on the following list at the witch level associated with them. These spells count as witch spells for you and do not count against the total spells you can know.
+
+##### Dark Moon Spells
+| Witch Level | Spells |
+|:-:|:--|
+| 2nd | <em>bane, Tasha’s hideous laughter</em> |
+| 3rd | <em>blindness/deafness, darkness</em> |
+| 5th | <em>animate dead, bestow curse</em> |
+| 7th | <em>blight, Evard’s black tentacles</em> |
+| 9th | <em>contagion, insect plague</em> |
+
+#### Midnight’s Own
+When you join this coven at 2nd level, you gain darkvision out to 30 feet, or increase the range of your existing darkvision by 30 feet. Your darkvision can see through magical darkness.
+
+Additionally, by using a bonus action on your turn you can reduce the light level in a 10 foot radius centered on your choice of either yourself or your familiar, lowering it from bright light to dim light, or from dim light to darkness. This lasts for up to 1 minute, until you use this ability again, or until the creature the darkness is centered on moves or takes damage.
+
+#### Minions of the Dark Moon
+At 6th level, you have an almost reflexive grasp on the dark energies at your command, and can use them to create minions at a moment’s notice. If a Medium or Small humanoid dies while within 10 feet of you or your familiar, you can use a reaction to instantly animate its corpse as your choice of either a skeleton or a zombie (Player’s Handbook, p. 310-311) with a hit point maximum of 1.
+
+This creature lasts for up to one hour or until it is destroyed, after which it disintegrates into dust. You can use this ability a number of times equal to your Intelligence modifier (minimum once), after which you require a long rest to refresh its uses.
+
+Additionally, any skeleton or zombie you create with a witch spell (but not this feature) has its hit point maximum increased by half your witch level. Further, any skeleton or zombie you create, regardless of source, adds half your proficiency bonus to its rolls to hit with attacks.
+
+#### Orb of Night
+Beginning at 10th level, you can use an action to conjure an orb of night, which is a 5-foot diameter sphere of magical darkness centered on a point you can see within 60 feet of you. A creature that starts its turn within or adjacent to the orb of night takes 3d10 necrotic damage and must succeed on a Wisdom saving throw against your spell save DC or become blinded until the start of its next turn.
+
+While the orb exists, you can use a bonus action on each of your turns to cause it to move up to 15 feet in a direction of your choosing. The damage dealt by the orb of night increases to 5d10 at 14th level.
+
+This orb lasts for up to one minute or until you dismiss it with no additional action. Once you use this ability, you must finish a short or long rest before you can use it again.
+
+#### Create Scarecrow
+Starting at 14th level, you discover the terrifying secret to creating scarecrow servators, golems of thatch, weaving, and wood that each contain a humanoid soul. Creating a scarecrow requires an hour long ritual involving a humanoid either killed within the past hour, or restrained for the duration of the ritual, during which you construct the scarecrow’s body from available materials and imbue it with the humanoid’s soul. If the humanoid is alive during this ritual, they die upon the ritual’s completion.
+
+A scarecrow lasts until it is destroyed, and you can have no more than 4 scarecrows active at any time. Creating a new scarecrow while you have 4 active scarecrows causes a randomly-chosen active scarecrow to burst into flames and be reduced to ash. The statistics for a scarecrow can be found on page 268 of the *Monster Manual*.
+
+Scarecrows have none of the memories of their mortal souls, but occasionally retain quirks and mannerisms. Your DM may decide to roll or choose one of the options on the following table, if they wish to add character to your scarecrows. It is recommended that no more than two of your scarecrows develop a quirk, however, to avoid disruption to the flow of gameplay.
+
+| d10 | Scarecrow Quirk |
+|:---:|:--|
+| 1 | Bows respectfully to anyone it considers of importance. |
+| 2 | Often becomes lost staring at itself in a mirror or reflective surface. |
+| 3 | When left idle, makes stitched dolls that resemble its mortal form. |
+| 4 | Dances silently by itself when it thinks no one is looking. |
+| 5 | Tries on spare articles of clothing it finds, unless told specifically not to. |
+| 6 | Attempts to secretly collect one specific type of item, such as forks or bells. |
+| 7 | Favors one type of gaming set, and will attempt to join any games of that type it sees. |
+| 8 | Sometimes attempts to eat objects, despite not having a functional mouth. |
+| 9 | Writes letters and even books, though the writing appears to be gibberish. |
+| 10 | Gathers flowers and tries to give them to children it sees. |

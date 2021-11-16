@@ -1,0 +1,44 @@
+### Cursed Existence
+[**Source:** *The Complete Arcanist Handbook*](https://drive.google.com/file/d/1ucl27lI0dMWi0BDsolHBB-ZgW4CSPhdP/view)
+
+You or an ancestor were afflicted with a hereditary malediction, a horrible curse designed to cause misery. It may have been a punishment by a god for hubris, the work of a vengeful hag coven, or perhaps the result of a magical accident you happened to be caught in the middle of. No matter how the curse came to afflict you or your family line, you have discovered a method of accessing its powers, using it as a font of magical power.
+
+Some who become sorcerers through harnessing the power of their curse have discovered how to entirely suppress their curse’s magicks until such time as they want to afflict others with its properties, while others always suffer a modicum of its effects. The most common types of curses are transfigurements, the loss of physical health, and the sapping of fortune.
+
+Most people dread the cursed, fearing that, through association, the curse will pass to them. As a cursed sorcerer, it is your choice whether those fears are confirmed.
+
+#### Curse Magic
+You learn additional spells when you reach certain levels in this class, as shown on the Curse Spells table. Each spell counts as a sorcerer spell for you, but it doesn’t count against the number of sorcerer spells you know. These spells can’t be replaced when you gain a level in this class.
+
+##### Curse Spells
+| Sorcerer Level | Spells |
+|:-:|:--|
+| 1st | <em>evil eye</em> |
+| 3rd | <em>blindness/deafness</em> |
+| 5th | <em>bestow curse</em> |
+| 7th | <em>polymorph</em> |
+| 9th | <em>bestow malediction</em> |
+
+#### Vile Affliction
+At 1st level, you are afflicted with a grievous curse, but you have learned to suffer the curse’s effects only when you want to make use of its power. Choose the nature of your curse from the following options.
+
+***Mutation.*** You were once horrifically imbued with monstrous characteristics, which may have been a complete transformation or could have only manifested under certain conditions, such as being exposed to the light of a full moon. As an action, you increase your Strength and Dexterity scores by 2, to a maximum of 20. When you do, your Wisdom and Charisma scores decrease by an equivalent amount and you become vulnerable to damage from silvered weapons. The effects last 1 minute, or until you choose to end it as an action on your turn. Once you use this feature, you must finish a long rest before you use this feature again. If you have no remaining uses of this feature, you can instead expend a spell slot of 3rd level or higher to use it again.
+
+***Sickly.*** Your body was robbed of strength and vitality, causing you to almost constantly be sick and weak. Once during each of your turns when a spell you cast damages a creature that isn’t an undead or construct, you can cause the creature’s hit point maximum to be reduced by an amount equal to half the damage it took from the spell until it finishes a long rest. When you do, you have disadvantage on Constitution saving throws and can’t regain hit points until the end of your next turn.
+
+***Unlucky.*** You once suffered misfortune in all aspects of life, in which anything that could go wrong seemed to always do so. When a creature you can see within 60 feet of you makes an ability check or attack roll, you can use your reaction to roll a d6 and subtract it from the creature’s result. When you do, you subtract the same amount from your first ability check or saving throw imposed by a hostile creature, or from the next attack roll you make, within the next minute.
+
+#### Curse Infusion
+When you cast a spell that requires at least one target to make a saving throw, you can spend a number of sorcery points equal to the spell’s level (1 sorcery point if the spell is a cantrip), to infuse the spell with the debilitating power of your curse. When you do, choose one ability. Each creature that fails its saving throw against the spell this turn also has disadvantage on the first ability check or attack roll it makes using the chosen ability before the start of your next turn.
+
+#### Blessing in Disguise
+At 14th level, you gain an additional benefit based on the curse you chose as your Vile Affliction.
+
+***Mutation.*** You learn the *alter self* spell. It doesn’t count against the number of sorcerer spells you know, and you can cast it at will without expending a spell slot. When you cast the spell with this feature, you can choose only its Natural Weapons option. Additionally, when you use your Vile Affliction to increase your Strength and Dexterity scores, you can increase them by an amount up to your proficiency bonus.
+
+***Sickly.*** You learn the *ray of enfeeblement* spell. It doesn’t count against the number of sorcerer spells you know, and you can cast it at will without expending a spell slot. Additionally, when you use your Vile Affliction, you can choose for the creature’s hit point maximum to be reduced by an amount equal to the damage it took from the spell, instead of by half the damage.
+
+***Unlucky.*** You learn the *bane* spell. It doesn’t count against your number of sorcerer spells you know, and you can cast it at will without expending a spell slot. Additionally, when you use the reaction granted by your Vile Affliction, you can choose to roll a d10, instead of a d6.
+
+#### Curse Bombardment
+Beginning at 18th level, you can flood your enemies with the necrotic energies of your curse. As a bonus action, you can spend 5 sorcery points to cause a creature you can see within 30 feet of you to have disadvantage on all saving throws until the end of the turn.

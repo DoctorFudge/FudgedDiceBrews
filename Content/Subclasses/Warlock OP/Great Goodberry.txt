@@ -1,0 +1,30 @@
+### The Great Goodberry
+[**Source:** *Praise Be The Goodberry! Compendium*](https://www.gmbinder.com/share/-LZeyRZtzKZLu2cjiglX)
+
+The Great Goodberry is a benevolent entity that seeks to spread its influence throughout the multiverse. It's reasons for doing so are unknown. The Great Goodberry fosters kindness within its disciples and is open to guiding those who embrace nature and all its creatures.
+
+#### Expanded Spell List
+The Great Goodberry lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you
+
+##### The Great Goodberry Expanded Spell List
+| Warlock Level | Spells |
+| :-: | :-- |
+| 1st | <em>Absorb Elements, Goodberry (Improved)</em> |
+| 2nd | <em>Acid Arrow, Barkskin</em> |
+| 3rd | <em>Mass Cure Wounds, Goodberry Fireball</em> |
+| 4th | <em>Control Water, Contagion</em> |
+| 5th | <em>Feast of The Goodberry, Tree Stride</em> |
+
+#### Disciple of the Goodberry
+When you choose this patron at 1st level, your pact with the Great Goodberry has afforded you access to a great wealth of knowledge. You have advantage on all History checks. Additionally, whenever you cast a spell vines erupt from the ground beneath your feet dealing magical bludgeoning damage equal to the level of the spell cast to all enemy creatures within 5 feet.
+
+#### Jubilant Sprout
+At 6th level, the universal joy of the Great Goodberry burns bright within you, shielding you. Whenever you take damage, you can as a reaction gain temporary hit points equal to your level.
+
+#### Interweaving Roots
+At 10th level, the Great Goodberry embraces you within its grasp as one of its own. You can cast both *Speak with Plants* and *Kevin's Goodberry Ale* once per short or long rest without expending a spell slot.
+
+Additionally, for every 10 years that passes you only age 1 year and cannot be aged magically.
+
+#### Goodberry Lord
+Finally when you reach 14th level, you assume the title of Goodberry Lord and can channel more of its immense power. As an action on your turn, you can cause a mass of writhing vines to form within a 30 foot radius centered on you for 1 minute. All creatures who enter this radius or start within this radius must make a Dexterity saving throw taking 6d6 magical bludgeoning damage on a failed save and half as much on a successful save. For the duration, your speed is reduced to 0 and all attacks made against you have disadvantage. Once you use this feature you cannot do so again until you take a long rest.

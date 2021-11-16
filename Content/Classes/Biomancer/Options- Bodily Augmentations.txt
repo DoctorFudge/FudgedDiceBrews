@@ -1,0 +1,28 @@
+### Bodily Augmentations
+___
+- **Aqua Lung** *(Prerequisite: 5th level)* You can breathe underwater, and you gain a swimming speed equal to your walking speed.
+- **Auxilary Heart** *(Prerequisite: 5th Level)* You either install or grow a second heart that stays dormant within your chest. When you are reduced to 0 Hit Points but not killed outright, you can drop to 1 hit point instead as your auxilary heart begins to beat. You can't use this feature again until you finish a Long Rest.
+- **Bile Spill** *(Prerequesite: Practitioner of the Four Humors)* The humors must be balanced, and excess must often be discarded. You learn the spell *Grease*, and can cast it once per day without using a spell slot or components.
+- **Boiling Throat** *(Prerequisite: 5th level)* As an action, you can spray a stream of acid from glands in your mouth, targeting one creature or object you can see within 30 feet of you. The target takes 2d10 acid damage unless it succeeds on a Dexterity saving throw against a DC equal to 8 + your Constitution modifier + your proficiency bonus. This damage increases by 1d10 when you reach 11th level (3d10) and 17th level (4d10).
+- **Calcified Shiv.** You encourage the growth of a sharpened retractable bone, which is considred a natural weapon.  If you successfully attack with it, you deal slashing damage equal to 1d6 + your Intelligence modifier.
+- **Capacious Orifice.** *(Prerequisite: 5th Level)* The vent for your Miasmatic Organ deepens, allowing for superior flow. The range of your Miasma increasees by 5 feet.
+- **Catalepsy** *(Prerequisite: 5th Level, Practitioner of the Nerves)* You can cast *Slow* once using a biomancer spell slot. You can't do so again until you finish a long rest.
+- **Extra Hand.** *(Prerequisite: 5th Level)* You attach an additional forearm complete with hand at the elbow, which tucks away easily into your sleeve. With it, you can Attack twice, instead of once, whenever you take the Attack action on Your Turn.
+- **Flesh Lash.** *(Prerequisite: Practitioner of the Flesh)* When you make a melee attack on your turn, your reach for it is 5 feet greater than normal.
+- **Fortified Liver.** You gain advantage on Saving Throws against poison, and you have Resistance against poison damage.
+- **Genius Cutis.** You can add your Intelligence modifier to your AC if you are not wearing armor.
+- **Hallucinate** *(Prerequisite: Practitioner of the Nerves)* You can cast *Silent Image* at will, without expending a spell slot or material components.
+- **Hemispheric Rest.** Each half of your brain can now rest seperately. You gain the *Trance* trait when you take a long rest, finishing in half the time as normal. If you already possess this trait, you no longer need to sleep.
+- **Impulse Surge.** *(Prerequisite: Practitioner of the Nerves)* Your mental signals pass through the very air as easily as your nerves. Gain the *Lightning Lure* cantrip. It does not count against the number of spells you know.
+- **Neural Suppresant.** *(Prerequisite: Practitioner of the Nerves)* Your mind is forcibly placid and calm by your own chemical machinations. You gain advantage on Saving Throws against being Frightened.
+- **Optical Enrichment** You modify your eyes, enhancing your ability to see in the dark. You can see in dim light within 120 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+- **Parental Emission.** *(Prerequisite: Practitioner of the Four Humors)* You've encouraged the development of an organ that oozes a healing liquid. This may be bottled and consumed to restore 1d4 hit points as an action. This liquid loses potency after 24 hours, and you may produce a number of vials equal to your proficiency bonus.
+- **Prescience.** *(Prerequisite: Practitioner of the Nerves)* You have advantage on Dexterity Saving Throws against Effects that you can see, such as traps and Spells. To gain this benefit, you can't be Blinded, Deafened, or Incapacitated.
+- **Removable Face** You can remove and replace your face with another at your leisure. You cast *Disguise Self* at will, without expending a spell slot.
+- **Restraining Entrails.** *(Prerequisite: 5th Level,  Practitioner of the Flesh)* Your very viscera has become a weapon that lashes at foes. Whenever you hit a creature with an opportunity attack, its speed drops to 0 for the rest of the turn. This stops any movement they may have been taking.
+- **Skin Graft.** By growing new flesh, you gain resistance to one damage type of your choosing.
+- **Skin Excision.** *(Prerequisite: 5th Level,  Practition of the Flesh)* When you score a critical hit while making a melee weapon attack, you can reduce the targets AC by -1.
+- **Soothing Miasma.** *(Prerequisite: 5th Level, Practitioner of the Four Humors)*. You've learned how to concentrate your balancing miasma. You can expend one use of your miasma to concentrate its effects, focusing on one creature. This creature, while within 15 feet of you, gains 1d6 hit points at the beginning of each of its turns for one mintue.
+- **Unprinted Fingers** Ability checks made to track you have disadvantage, as you leave fewer marks as you pass through an environment.
+- **Vitrolic Miasma** *(Prerequisite: 5th Level)* You experiment with a new chemical balance in your Miasmatic Organ. Its effect die becomes a d6
+- **Well of Blights** *(Prerequisite: 5th Level)* You encourage further growth in your miasmatic organ, increasing the duration for your Effluviant Miasma to 5 minutes.

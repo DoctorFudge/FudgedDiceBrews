@@ -1,0 +1,23 @@
+### Honey Mage
+[**Source:** *A Thousand Classes and A Thousand More*](https://drive.google.com/file/d/11ZbvclSxDg9KrQX6pyRE5dRg1eudAPLc/view)
+
+The school of the Honey Mage uses exclusively a series of hedge wizard-esque spells that require bees. Bumblebees, honey bees, potentially even wasps and other insects. These wizards often come from humble origins in honey farms, or were actually once hedge wizards themselves that found a focus with insects. Despite the apparently silly nature of this school of magic, its effectiveness in combat and adventuring life is undeniable.
+
+The spells from the buzz school of magic are detailed in the spells section of this document.
+
+#### Bee Team
+When you choose the Honey Mage arcane tradition at 2nd level, you learn to pass on your magic through the bees you summon.
+
+As long as you have at least one spell from the buzz school of magic that is of 1st level or higher active, you can cast any other spell from the buzz school with a casting time no longer than 1 action as a bonus action, as the bees are already available to be ordered.
+
+#### B Team
+Also at 2nd level, non-hostile insects are always charmed by you.
+
+#### Team of Bees
+At 6th level the control of bees comes easily to you. As long as you maintain concentration on one buzz school spell, you can maintain concentration on any number of buzz school spells. If you lose concentration, all active buzz spells end.
+
+#### T(B)eamwork
+When you reach 10th level, you have advantage on concentration saving throws as long as you have at least 1 spell from the buzz school of magic active.
+
+#### The Best Bees a Friend Could Ask For
+At 14th level you are a master of controlling bees and can maintain them well beyond their normal usage. Whenever a spell from the buzz school of magic that you have cast expires, you are refunded the spell slot as long as the bees were not destroyed (such as by a fireball spell). You cannot restore a spell slot of a level higher than 5th.

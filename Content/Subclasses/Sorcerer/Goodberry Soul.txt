@@ -1,0 +1,19 @@
+### Goodberry Soul
+[**Source:** *Praise Be The Goodberry! Compendium*](https://www.gmbinder.com/share/-LZeyRZtzKZLu2cjiglX)
+
+Through various means whether that be a soul gaining the favor of the Great Goodberry itself or mixing their blood with the divine juices of the Goodberry they gain great magical abilities. This magic often manifests in a way that physically bolsters and changes the sorcerer.
+
+#### Tree Hide
+At 1st level, the power of the Great Goodberry courses through your veins granting you great power. Your skin becomes tough like bark granting you an unarmored armor class of 10 + your Charisma modifier + your Constitution modifier. You cannot gain this benefit while wielding a shield.
+
+#### Blood of Nature
+Additionally at 1st level, you learn the Kevin's Vine Lash cantrip. This cantrip doesn't count against your cantrips known.
+
+#### Call of the Wild
+At 6th level, you can give into the wild call of nature for 1 minute as a bonus action. For the duration you have advantage on all attack rolls, but you have disadvantage on all Charisma and Wisdom checks. Once you use this feature you cannot do so again until you finish your next long rest.
+
+#### Overgrowth
+At 14th level, the vines of the Goodberry follow you wherever you go creating a path for you. You ignore all difficult terrain, and can as a bonus action if there is not ground in front of you cause vines to extend forward in a 5 foot wide line that is up to 120 feet long till they reach ground. These vines disperse as soon as you reach the other side of the gap or chasm.
+
+#### Goodberry Herald
+At 17th level, the power that flows through through you allows you to bring a fraction of the domain of the Great Goodberry to where you currently are. You may as an action spend 6 sorcery points and 1 minute to cause a 1 mile radius centered on you to become Goodberry terrain. This terrain persists for 24 hours. This terrain only affects what would be considered hostile creatures. If you use this feature in the same place every day for a year it becomes permanent.

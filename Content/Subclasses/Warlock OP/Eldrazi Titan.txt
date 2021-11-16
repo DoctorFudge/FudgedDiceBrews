@@ -1,0 +1,38 @@
+### The Eldrazi Titan
+[**Source:** *The Eldrazi Titan*](https://homebrewery.naturalcrit.com/share/KOMPn8wTf)
+
+The word Eldrazi describes an ancient race native to the Blind Eternities that have neither physical form nor mana alignment. Their nature is ceaseless hunger, so they travel between planes devouring the mana and life energy until the plane's utter and complete destruction. Their very conciousness and form is so beyond comprehension, one simply does not exist to an Eldrazi.
+
+There are three such titans known to exist in the Blind Eternities. Each is known to warp a different aspect of existence. For example, there is Emrakul, warper of biology. There is Ulamog, warper of physical properties. And there is Kozilek, that which warps reality. Conscription to an Eldrazi's power is signing one's very nature and being away. The power of an Eldrazi is so overwhelming, it warps one's body and mind over time, to become a form very much alien.
+
+#### Expanded Spell List
+The Eldrazi lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+##### Eldrazi Spells
+| Spell Level	| Spells |
+| :-: | :-- |
+| 1st	| <em>Entangle, Ray of Sickness</em> |
+| 2nd	| <em>Alter Self, Dust Devil</em> |
+| 3rd	| <em>Fly, Stinking Cloud</em> |
+| 4th	| <em>Evard's Black Tentacles, Vitriolic Sphere</em> |
+| 5th	| <em>Cloudkill, Creation</em> |
+
+#### Profane Consumption
+Starting at 1st level, you have already begun on your path of consumption. By destroying and consuming, you absorb vitality. When you cast a warlock spell that deals damage to one or more creatures, you can gain temporary hit points equal to the damage dealt to one affected creature (your choice).
+
+You can use this feature a number of times equal to your Charisma modifier (minimum of one). When you finish a long rest, you regain all expended uses.
+
+#### Unnatural Decay
+At 6th level, you have gained greater insight into the unnatural decay that the Eldrazi bring upon to all they touch.
+
+Whenever you use your Profane Consumption feature, you can force the creature chosen with Profane Consumption to make a Constitution saving throw against your spellcasting DC. On a failed save, the creature begins to Rot as you consume it's Mana until the end of your next turn. Rotting creatures' speed is reduced to 15 ft if it is not already lower, and any attack made against the affected creature has advantage if the attacker can see it.
+
+#### Devoid
+By 10th level, your body has shown some of the unnatural aspects of your patron. In particular, you are now devoid of life energy and Mana, the stuff of magic. You have resistance to Necrotic and Radiant damage.
+
+In addition, as a reaction, you may choose to gain advantage on any one saving throw against a spell that targets only you. You may use this feature once per long rest.
+
+#### Ceaseless Hunger
+By 14th level, your desire and abilty to consume and to dominate is nearly unparalleled. Like the Eldrazi themselves, you can break reality around you by consuming too much of your surroundings.
+
+If all of your Profane Consumption uses are expended, you may cast the *Reality Break* spell once without expending a spell slot. After using this feature, you cannot use it again until you finish a long rest.

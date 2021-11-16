@@ -1,0 +1,211 @@
+## Nightbreaker
+[**Source:** *5e Nightbreaker*](https://drive.google.com/file/d/1wHIsJLnk_e6pA5zro2wTGvmhtIsYm7dd/view)
+
+Darkness spans and stretches across immeasurable distances, far beyond the sight of man. It envelops all that lives and dies; it is secret, subtle, and silent. It seeks to destroy and bury that which pierces through it: Light.
+
+Creatures and Monsters of every shape and size inhabit the darkness; they hunt the weak, stalk the brave, and overpower the foolhardy. The gnashing of bones, the tearing of flesh, and the screams of people can be heard deep into the night; the witnesses are helpless against the power of darkness.
+
+Then there are the warriors who throw themselves into this darkness. They hunt the hunter. They stalk the vicious. They overpower the darkness itself and bend it to their will.
+
+These are the Nightbreakers
+
+### Light Within Darkness
+Nightbreakers track, hunt, and destroy creatures who dwell in darkness. They take a piece of light and bring it to their quarry, using it as a weapon. Using a mixture of magic and combat prowess, they hunt the denizens of the night, seeking to use the very darkness they live in against them. Some hone their powers, strengthening themselves to bring swift destruction to their foes. Others lead allies to fend off the darkness, bolstering their abilities through magic.
+
+Regardless of the approach that they have chosen, nightbreakers excel at hunting and tracking their chosen quarry. They possess supernatural powers to detect the dangers around them, and eventually learn how to use their quarry's own territory against them.
+
+### Ensorcelled Power
+The Nightbreakers are a secret order of monster hunters who pass on their mysterious powers to promising individuals. While the nightbreakers' strange practices are met with fear and superstition, all recognize a nightbreaker by the enchanted lanterns they hold. After being inducted into the Order of Nightbreakers, individuals participate in a ritual that binds them to a magical lantern. Through this bond, the lanterns grant their wielders powerful spells to employ against their prey.
+
+### Creating a Nightbreaker
+All nightbreakers are members of the Order of Nightbreakers: a group of hunters dedicated to destroying creatures of darkness. Therefore, there are two questions that you should think about: How did you join the Nightbeakers, and why does your character hunt creatures of the dark? Perhaps you were found by a recruiter? Maybe you feel called to rid the world of evil, but religion isn't appealing to your character? Perhaps you've heard tales and legends of the hunters as a child and wanted to grow up to be one? Perhaps your want your revenge against a monster?
+
+#### Lantern Spirits
+While nightbreakers are given a lantern at the point of their induction into the Nightbreaker Order, they must first become accustomed to the use of the device before they are properly bonded to the lantern. This typically requires a completing a mission from the order to hunt a specific creature, acquire a trophy from the creature, and using it as part of a mysterious ritual to bond the lantern to the wielder.
+
+Through this ritual, the lantern adopts powers and spells based upon the nightbreaker's purpose as a hunter. In most cases, they acquire the Spirit of the Hunt. Some lanterns will take on the Spirit of Death or Spirit of Divinity, depending on the strength of the wielder's hatred or altruism, respectively.
+
+Ultimately, the nature and details of this final test are up to the DM and the player.
+
+#### The Rite of Bonding
+This secret rite of the nightbreakers is integral to the growth of a nightbreaker's power. When a new nightbreaker is ready, they take the trophy they were sent to acquire, and burn it in their lantern, followed by an ounce of the nightbreaker's blood. The orange fire inside the lantern flares and changes colour depending on the nightbreaker's spirit: Green for the Hunter, Purple for Death, and White for Divinity
+
+#### Questions of Morality
+Although nightbreakers hunt creatures normally seen as evil, this by no means dictates that all nightbeakers are paragons of justice and light. While an idealistic warrior of light may wish to join the nightbreakers to rid the world of evil creatures, it is just as likely that a particularly vengeful or angry individual may want power to destroy such creatures, or even cause them to suffer before finally granting them death.
+
+#### The Nightbreakers and Vengeance
+The Order has a pragmatic view when it comes to people who come to them seeking revenge. They find these individuals to generally be quick learners and headstrong, fueled by their need for revenge. However, the order has, on several occasions, hunted ex-nightbreakers who succumbed to their anger and became akin to the very creatures they vowed to destroy.
+
+#### Quick Build
+You can make a nightbreaker quickly by following these suggestions: First make Strength your highest ability score (some nightbreakers who focus on finesse or ranged weapons might want to take Dexterity), followed by Wisdom. Second, choose the outlander background.
+
+##### The Nightbreaker
+| Level | Proficiency Bonus | Features | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
+|:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1st | +2 | Favored Quarry, Ensorcelled Lantern | — | — | — | — | — | — |
+| 2nd | +2 | Spellcasting, Lantern Spirit | 2 | 2 | — | — | — | — |
+| 3rd | +2 | Fighting Style, Stalker's Ambush | 3 | 3 | — | — | — | — |
+| 4th | +2 | Ability Score Improvement | 3 | 3 | — | — | — | — |
+| 5th | +3 | Extra Attack | 4 | 4 | 2 | — | — | — |
+| 6th | +3 | Favored Quarry | 4 | 4 | 2 | — | — | — |
+| 7th | +3 | Hunting Ground | 5 | 4 | 3 | — | — | — |
+| 8th | +3 | Ability Score Improvement | 5 | 4 | 3 | — | — | — |
+| 9th | +4 | — | 6 | 4 | 3 | 2 | — | — |
+| 10th | +4 | Ability Score Improvement | 6 | 4 | 3 | 2 | — | — |
+| 11th | +4 | Lantern Adept, Favored Quarry | 7 | 4 | 3 | 3 | — | — |
+| 12th | +4 | Ability Score Improvement | 7 | 4 | 3 | 3 | - | — |
+| 13th | +5 | — | 8 | 4 | 3 | 3 | 1 | — |
+| 14th | +5 | Improved Hunting Ground, Adopting Darkness | 8 | 4 | 3 | 3 | 1 | — |
+| 15th | +5 | Night's Bane | 9 | 4 | 3 | 3 | 2 | — |
+| 16th | +5 | Ability Score Improvement | 9 | 4 | 3 | 3 | 2 | — |
+| 17th | +6 | — | 10 | 4 | 3 | 3 | 3 | 1 |
+| 18th | +6 | Shadow Cloak | 10 | 4 | 3 | 3 | 3 | 1 |
+| 19th | +6 | Ability Score Improvement | 11 | 4 | 3 | 3 | 3 | 2 |
+| 20th | +6 | Burning Spirit | 11 | 4 | 3 | 3 | 3 | 2 |
+
+## Class Features
+As a nightbreaker, you have the following Class Features
+
+#### Hit Points
+___
+- **Hit Dice:** 1d10 per nightbreaker level
+- **Hit Points at 1st Level:** 10 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per nightbreaker level after your 1st.
+
+#### Proficiencies
+___
+- **Armor:** Light Armor, Medium Armor
+- **Weapons:** Simple weapons, Martial weapons
+- **Tools:** None
+___
+- **Saving Throws:** Strength, Wisdom
+- **Skills:** Choose three from Arcana, Athletics, History, Insight, Nature, Perception, Stealth, and Survival.
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background.
+- *(a)* scale mail or *(b)* leather armor
+- *(a)* a one-handed martial melee weapon or *(b)* two simple melee weapons
+- *(a)* a longbow and 20 arrows or *(b)* two javelins
+- *(a)* a dungeoneer’s pack or *(b)* an explorer’s pack
+
+Alternatively, you can ignore the equipment from your class and background, and start with 5d4 x 10 gp.
+
+### Ensorcelled Lantern
+A nightbreaker’s lantern is the main source of their power. Every nightbreaker receives a number of spells through their lantern that assist them in this endeavour. In order to cast these spells, a nightbreaker must be holding the lantern in one hand. It acts as a spellcasting focus.
+
+At first level, all Ensorcelled Lanterns cast bright light in a 30-foot radius, and dim light for an additional 30 ft. The Ensorcelled Lantern does not need oxygen or fuel to maintain its light. The magical flame lighting the lantern can be easily snuffed out by the wielder. You can snuff out or light your lantern as an action.
+
+As part of carrying an Ensorcelled Lantern, the nightbreaker receives *Hunter’s Mark*, *Detect Poison*, *Detect Magic*, and *Detect Evil and Good*. You can cast each of these spells once per day, and one additional time per day every 8 levels (9th, 17th). These do not count against your daily spell slots.
+
+> #### Replacing an Ensorcelled Lantern
+> Losing a lantern is a traumatic experience for a nightbreaker and should be avoided at all costs. Should a nightbreaker lose their lantern, they can no longer cast spells, including their basic Detect and Hunter’s Mark spells. However, there is a way to replace the lantern and regain its powers.
+>
+> ##### Crafting
+> To replace a lantern, the nightbreaker must craft or commission a new lantern from a blacksmith. The lantern is simple in build, but requires a series of complex and specific runes and symbols to be carved into frame of the lantern. This will cost at least 25gp in labor and materials. All nightbreakers are taught these runes as part of their induction into the Order of Nightbreakers.
+>
+> ##### Enchanting
+> After the physical lantern is created, a ritual must be conducted to imbue the lantern with magic again.
+>
+> In a darkened area, the nightbreaker must light a small fire within the lantern, and burn a scrap from a predatory animal. This must be something that the predator uses to hunt: for example, a tooth of a wolf, a talon of an eagle, or a claw of a tiger. The runes will activate and begin to glow. At this point, an ounce of blood from common prey, such as a deer, fish, or rodent, should be placed into the fire. The flames will grow in size and heat. While the fire is still burning, the lantern should promptly and suddenly be exposed to daylight. The fire will briefly go out before a permanent magical flame manifests inside the lantern. This ritual will take roughly thirty minutes to conduct.
+>
+> ##### Rite of Bonding
+> After the basic lantern has been restored, the nightbreaker can conduct the Right of Bonding again to regain their Spirit. They can use any trophy from a monster they have hunted to conduct the Rite of Bonding.
+
+### Favored Quarry
+Beginning at 1st level, you have significant experience studying, tracking, and hunting a certain type of enemy commonly encountered in the wilds.
+
+Choose a type of favored quarry: aberrations, beasts, celestials, dragons, fey, fiends, monstrosities, oozes, plants, or undead. Your proficiency bonus is doubled when you roll a Wisdom (Survival) check to track your quarry. You have advantage on Intelligence checks made to know information about your Favoured Quarry. Additionally, the Nightbreaker receives an extra 1d6 to damage rolls against their Favoured Quarry.
+
+You can pick another Favored Quarry at 6th level and 11th level.
+
+### Fighting Style
+##### Defense
+While you are wearing armor, you gain a +1 bonus to AC.
+
+##### Dueling
+When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon. Your Ensorcelled Lantern does not count as a weapon for the purposes of this Fighting Style.
+
+##### Protection
+When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield. If you choose this fighting style, your Ensorcelled Lantern counts as a shield for this fighting style, although it does not give the shield’s AC bonus.
+
+##### Distance
+You gain a +2 bonus to attack rolls made with ranged weapon attack rolls
+
+### Lantern Spirit
+Starting at level 2, you pick a Lantern Spirit for your Ensorcelled Lantern. You will receive a power based upon the Spirit you choose.
+
+In addition, the Lantern Spirit you choose will grant you access to a list of spells based upon the spirit. There are three Lantern Spirits: Spirit of the Hunt, Spirit of Death, and Spirit of Divinity. See below for the list of spells and powers each Lantern Spirit has access to.
+
+Lastly, when you choose a Lantern Spirit, the bond with your lantern deepens. It cannot be disarmed from you unless you are incapacitated, and if you and the lantern are on the same plane of existence, you can summon it to your hand as a bonus action.
+
+### Spellcasting
+By the time you reach 2nd level, you have learned to cast spells.
+
+#### Spell Slots
+The Nightbreaker table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+#### Spells Known of 1st Level and Higher
+You know two 1st-level spells of your choice from the list granted by your chosen Lantern Spirit.
+
+The Spells Known column of the Nightbreaker table shows when you learn more Nightbreaker spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.
+
+Additionally, when you gain a level in this class, you can choose one of the Nightbreaker spells you know and replace it with another spell from your Lantern Spirit spell list, which also must be of a level for which you have spell slots.
+
+#### Spellcasting Ability
+Wisdom is your spellcasting ability for your Nightbreaker spells. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a ranger spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+
+**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+
+</center>
+
+### Stalker's Ambush
+At 3rd level, you learn the art of ambushing your quarry.
+
+At the start of your first turn in combat, if you use the attack action, you can make one additional attack as part of that action.
+
+In addition, you roll an additional damage die for each of your weapon attacks when you use the attack action on your first turn in combat.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 10th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+
+### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+### Hunting Ground
+When you reach 7th level, your experience as a monster hunter has evolved to not only account for the monster itself, but also the environment in which it lives.
+
+By spending one round studying a 60ft radius area, you and your party gain the following benefits within the Hunting Ground.
+- +2 to Initiative checks in the area.
+- Advantage on Survival, Perception, and Investigation checks conducted within the area.
+- Advantage on Saving Throws against Lair Actions
+
+These bonuses last as long as the Nightbreaker who designated the Hunting Ground stays within the Hunting Ground.
+
+At 14th level, you only need to spend an action to study an area in order to gain the above bonuses.
+
+At 20th level, the Nightbreaker also receives a +2 bonus to AC when inside the Hunting Ground.
+
+### Lantern Adept
+At 11th level, you have grown accustomed to using your Ensorcelled Lantern. You can use a bonus action to light your lantern. It still takes an action to snuff out the lantern.
+
+In addition, *Detect Poison*, *Detect Magic*, and *Detect Good and Evil* can now be cast as a bonus action.
+
+### Adopting Darkness
+Starting at 14th level, you learn to use the darkness against your quarry. You can use the Hide action as a bonus action on your turn. You can use this without anything to hide behind and while being observed, as long as you are in a place of darkness. Also, you can’t be tracked by non-magical means, unless you choose to leave a trail.
+
+### Night's Bane
+At 15th level, the light of your lantern shines as bright as the sun. The light from the lantern expands to shed bright light for 60 feet, and dim light for an additional 60 feet beyond that. The light from your lantern is considered sunlight.
+
+### Shadow Cloak
+At 18th level, your control over darkness deepens. If you are hidden, you can use your move action to teleport up to 60ft to an unoccupied space you can see that is in darkness. You are still considered hidden after you use this ability.
+
+### Burning Spirit
+At 20th level, your lantern gains access to two spells based on your chosen Lantern Spirit. These spells can each be cast once per day. These spells use your Spellcasting Ability Modifier and Spell Save DC.
+___
+- **Hunter’s Lantern:** Druid Grove, True Seeing
+- **Death Lantern:** Harm, Create Undead
+- **Divine Lantern:** Sunbeam, Primordial Ward

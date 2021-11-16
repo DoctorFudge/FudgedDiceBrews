@@ -1,0 +1,150 @@
+## Gunsmith
+[**Source:** *The Gunsmith*](https://drive.google.com/file/d/1CeHNeP6DFGCmCu0qlBYx0n7X0ZXd0MP0/view)
+
+A halfling peeks over a low stone wall, both hands gripping her rifle. She slowly inhales as the gnolls tear chunks from her companion's corpse. Her stomach churns, but she pushes it down. She squeezes the trigger as she lets out a steady breath. The first creature's chest explodes with a sickening crunch. The second whips its head around, looking for her position. It dies before it can find her.
+
+A sleek elven man ambles down the dusty street, playing with his holster as he goes. She's late, but she'll be here. Gawkers are the first to arrive, a crowd for the show. Only once a large number have gathered does the sheriff deign him with her presence. There'll be no quarter, she declares. He's barely listening, but chuckles as she aims her rifle. The gun roars. The elf rolls to his left with unnatural agility. As the sheriff's bullet whizzes overhead, he draws and fires. The last thing she sees is his smug grin. There's a new sheriff in town.
+
+Gunsmiths are an odd mix of intellectuals and warriors and their unnatural weapons often result in them serving as both the hunters and hunted at various times. Gunsmiths are the keepers of firearms, and must split their time between the study of their craft, and their use of their deadly creations
+
+### Keepers of Knowledge
+Gunsmiths exist across the Multiverse, however in some worlds they may be scarce or may not exist at all. Where they do exist, gunsmiths are famous for their pursuit of knowledge. Smiths have been known to travel across worlds, and even beyond them, in pursuit of new technology. They are rarely satiated; there are always more lost tomes and schematics to acquire, more modifications to experiment on or another master smith to trade ideas with.
+
+Master smiths are those that have grasped the most esoteric knowledge and devoted their lives to its protection. Many master smiths are famous alchemists in their own right, and do not only confine their studies to firearms. Every master is responsible for safeguarding their techniques and instructing apprentices in the explosive arts. Masters are careful in their selection of apprentices and only instruct those they trust implicitly. Thus, it is not uncommon for a master to only instruct one or two apprentices in their lifetime. Masters and their apprentices study for many years together before the masters even begin to share their secrets. Indeed, the only things that gunsmiths hoard more closely than their knowledge are their weapons themselves.
+
+### Deadly Force
+While no two gunsmiths are alike; all smiths share an unrivaled ability to mete out death and devastation. Smiths can flourish in both close combat and over great distances, allowing them a versatility few can match. Most gunsmiths rely on their intellect and unerring accuracy to decimate their enemies. Various smiths have been seen to pull off feats that few could replicate. Gunsmiths have been rumored to be able to shoot targets blindfolded after a night of heavy drinking, or to dispatch entire lines of infantry with a single bullet. Whatever the truth, only a fool would doubt a smith's murderous potential.
+
+| Level | Proficiency Bonus | Features |
+|:-:|:-:|-|
+| 1st | +2 | Dangerous Knowledge, Eureka, Fighting Style |
+| 2nd | +2 | Trick Shot, Fast Fingers |
+| 3rd | +2 | Gunsmith Order |
+| 4th | +2 | Ability Score Improvement |
+| 5th | +3 | Extra Attack |
+| 6th | +3 | Improved Crafting |
+| 7th | +3 | Gunsmith Order feature |
+| 8th | +3 | Ability Score Improvement |
+| 9th | +4 | Always Ready |
+| 10th | +4 | Gunsmith Order feature |
+| 11th | +4 | Extended Arsenal |
+| 12th | +4 | Ability Score Improvement |
+| 13th | +5 | Gunsmith Order feature |
+| 14th | +5 | Not Without a Fight |
+| 15th | +5 | Honed Talent |
+| 16th | +5 | Ability Score Improvement |
+| 17th | +6 | Master Craftsman |
+| 18th | +6 | Gunsmith Order feature |
+| 19th | +6 | Ability Score Improvement |
+| 20th | +6 | Shoot 'Em Up |
+
+### Creating a Gunsmith
+When building a gunsmith, it is important to answer three questions; who was your master, why do you seek knowledge, and why did your master choose you? Were you particularly driven, or was it familial connection? Is your gunsmith an academic, or are they only interested in accruing power? Did you have a master, or did you instead stumble upon, or even steal your weapon's schematics? There are many paths to beginning your training as a gunsmith, after which point your master will demand much of you time until your apprenticeship ends.
+
+During the first years of gunsmith's training they often receive classical education, learning rudimentary mathematics and biology. Gunsmiths only begin to learn their true craft after they have demonstrated their loyalty and intellect. As they learn to craft firearms, many smiths also receive martial training, tutoring in infiltration, or schooling in history and natural science. As a smith completes their training, their master gives them a final gift their first weapon. Often penniless, newly minted smiths set out into the world with little else.
+
+#### Quick Build
+You can make a gunsmith quickly by following these suggestions. First, make Dexterity your highest ability score, followed by Intelligence. Second, choose the Outlander background.
+
+## Class Features
+As a gunsmith, you gain the following class features
+#### Hit Points
+___
+- **Hit Dice:** 1d8 per Gunsmith level
+- **Hit Points at 1st Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per gunsmith level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Light armor, medium armor
+- **Weapons:** Simple weapons, firearms
+- **Tools:** Tinker's Tools
+
+___
+- **Saving Throws:** Dexterity, Intelligence
+- **Skills:** Choose two from Acrobatics, Stealth, Sleight of Hand, Investigation, Nature, and History
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* leather armor or *(b)* chain shirt
+- *(a)* a simple weapon or *(b)* a shield
+- *(a)* a pocket pistol, *(b)* a flintlock pistol or *(c)* a musket
+- 20 rounds of ammunition
+- *(a)* a dungeoneer's pack or *(b)* an explorer's pack
+
+### Eureka
+You found your inspiration and have taken your first steps towards becoming a master gunsmith. You are able to craft firearms and ammunition, and may do so in half the time it takes others.
+
+You may choose one weapon as a favored weapon and add one modification (see "Gun Modifications" below) to it. You may change your favored weapon whenever you gain a level.
+
+### Dangerous Knowledge
+You possess esoteric knowledge that others would kill for. Consequently, the first gunsmiths drafted set of symbols to disguise their schematics. You know Smith Notation and can read most firearm schematics with ease. Some smiths take pains to disguise their works from their rivals, and do not use the common symbols. In cases such as these, you may make an Intelligence (Investigation) check, the DC of which is determined by the DM.
+
+### Fighting Style
+You may adopt a particular style of warfare as your specialty. Choose one of the following options.
+
+##### Protected Fire
+You gain proficiency with shields and may wield any one-handed firearm with a shield and still reload your weapon.
+
+##### Duelist
+When you are wielding a one-handed firearm in one hand and no other weapons, you gain a +2 to attack and damage rolls with that weapon.
+
+##### Smooth Operator
+After a misfire, you may attempt to clear your firearm's chamber as a bonus action, rather than an action.
+
+##### Pistols Akimbo
+When you take the attack action while wielding two one- handed light weapons you may use your bonus action to fire the pistol in your offhand. You can load or reload your guns despite not having a free hand. You cannot add your ability modifier to damage rolls with your off-hand.
+
+##### Heavy Gunner
+When you roll 1 or 2 on a damage die for an attack you make with two-handed firearm, you can re-roll the die and must use the new roll, even if the new roll is a 1 or 2. The gun must have the two-handed property for you to gain this benefit.
+
+##### Sentry
+If you have not used movement on the previous turn, or minute prior to combat, you can reduce your speed to until the start of your next turn and gain +2 bonus to attack rolls with firearms until the start of your next turn.
+
+### Trick Shot
+Starting at 2nd level, you can pull of impossible feats with your firearm. When you gain this feature, you can learn one Trick Shot of your choice (see "Trick Shots" below). You must declare Trick Shot prior to rolling your attack roll, and may only use one Trick Shot per attack. You can use Trick Shots a number of times equal to your Intelligence modifier (minimum of once). You regain all expended shots after finishing a short or long rest.
+
+**Saving Throws.** Some of your Trick Shots require your target to make a saving throw to resist the shot's effect. The saving throw DC is calculated as follows:
+
+<center>
+
+**Trick Shot save DC** = your proficiency bonus + your Intelligence modifier
+
+</center>
+
+You can learn an additional Trick Shot at 5th, 8th, 11th, 15th and 18th level. Each time you learn new Trick Shots you can also replace one maneuver you know with different one.
+
+### Fast Fingers
+Starting at 2nd level, you can use firearms with fluidity. You can now load and reload guns as part of the attack action. This feature does not affect firearms with the bulky trait.
+
+### Gunsmith Order
+At 3rd level, you choose a gunsmith order that you wish to embody in your craft and combat. Choose Mystic Marksman, Grenadier, Crack Shot or Desperado, all detailed below. The order you choose grants you features at 3rd, 7th, 10th, 13th, and 18th level.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Extra Attack
+Starting at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+### Improved Crafting
+Beginning at 6th level, you can add two modifications to your favored weapon, rather than one.
+
+### Always Ready
+When you reach 9th level, you can recognize the telltale signs of an ambush. So long as you are conscious you can't be surprised. Additionally, you may add your proficiency bonus to initiative rolls.
+
+### Extended Arsenal
+Starting at 11th level, your endless tinkering extends to a range of firearms, rather than only your favored weapon. You may choose second firearm as your back up weapon and add one modification to it.
+
+### Not Without a Fight
+Beginning at 14th level, when a hostile creature that you can see reduces you to hit points you can make an attack against that creature. You make this attack prior to falling unconscious or dying and on a hit you deal additional damage equal to your gunsmith level.
+
+Taking any damage causes death saving throw failures as normal, and three failures can still kill you. Once you use this feature, you can't use it again until you finish a long rest.
+
+### Honed Talent
+Starting at 15th level, you are always table to rely on your skill in a tight spot. If you roll initiative and have no uses of Trick Shot remaining, you regain one use of it.
+
+### Master Craftsman
+By 17th level, you have become true master of your craft, a smith that your contemporaries aspire to emulate. You have improved your ability to add modifications to your weapons without rendering them unusable. You may now add three modifications to your favored weapon and two to your back up weapon.
+
+### Shoot'Em Up
+At 20th level, your firearm has become an extension of you. When you take the attack action, you can make an attack roll against all hostile creatures within range of your weapon. If you have disadvantage against a creature, you may not target them with this ability. Once you use this feature, you can't use it again until you finish a long rest.

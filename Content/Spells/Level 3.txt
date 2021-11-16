@@ -1,0 +1,102 @@
+## Level 3
+
+#### Divine Scorch
+*Evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (a sprinkling of salt)
+- **Duration:** Instantaneous
+- **Classes:** Cleric, Paladin, Sorcerer, Wizard
+___
+A sudden burst of light explodes from a point you can see within range, engulfing everything in pure luminescene [sic]. Each creature in a 20-foot-radius sphere centered on that point must make a Constitution saving throw. A target takes 4d6 radiant damage on a failed save, or half as much damage on a successful one. Creatures that fail the save are also considered Blinded. At the end of each of its turns, the creature can make a Constitution saving throw. On a success, the effect ends.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+
+#### Fortify Familiar
+*Conjuration*
+___
+- **Casting Time:** Casting Time
+- **Range:** 10 feet
+- **Components:** V, S, M (20 gp worth of charcoal, incense,
+and herbs that must be consumed by fire in a brass
+brazier)
+- **Duration:**  24 hours
+- **Classes:** Warlock, Wizard, Witch
+___
+You empower a familiar in your service, keeping its current form, or altering it to new one, choosing from the options in the find familiar spell, or another form the DM has approved (List of new forms can be found on page 116). The fortified familiar gains these benefits:
+
+- Your familiar uses your proficiency bonus rather than its own.
+- Your familiar becomes proficient with all saving throws.
+- For each level you have gained after 3rd, your familiar gains an additional hit die and increases its hit points accordingly.
+- Your familiar’s AC and damage rolls receive a bonus equal to your proficiency bonus minus 2.
+- If you have gained the Ability Score Improvement class feature, your familiar's abilities also improve. For each of these features you have attained, your familiar can increase one ability score of your choice by 2, or it can increase two ability scores of your choice by 1. Your familiar can't increase an ability score above 20. Using the optional feats rule, you can forgo this feature to take a feat of your choice from the Familiar Feats list instead (Feats list is found on page 115).
+- In combat, your empowered familiar shares your initiative count, and takes its turn immediately after yours. The only action it takes on its turn is the Dodge action, unless you command it otherwise (no action required). Additionally, when you take the Attack action, you can forgo one of your own attacks to command your familiar to use its reaction to make one attack of its own.
+- Your familiar remains empowered for the duration, after which it reverts to its usual state as described by the find familiar spell.
+
+#### Frigid Smite
+*Evocation*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Self
+- **Components:** V
+- **Duration:**  Concentration, up to 1 minute
+- **Classes:** Paladin
+___
+The next time you hit a creature with a melee weapon attack before this spell ends, the weapon is enshrouded in freezing energy, and the attack deals an extra 3d8 cold damage to the target. Additionally, the target is restrained by ice for 1 minute. A creature restrained by the ice can use its action to make a Strength check against your spell save DC. On a success, it frees itself.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d8 for each slot level above 3rd.
+
+#### Kevin's Goodberry Fireball
+*Evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 150 feet
+- **Components:** V, S, M (one goodberry)
+- **Duration:**  Instantaneous
+- **Classes:** Druid, Cleric, Witch
+___
+A glowing goodberry is conjured into your hand and can be thrown to a point you choose within range and then blossoms with a low roar into an explosion of solar energy. Each creature in a 20-foot-radius sphere centered on that point must make a Dexterity saving throw. A target takes 6d6 radiant damage on a failed save, or half as much damage on a successful one. The light spreads around corners.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the damage increases by 1d6 for each slot level above 3rd.
+
+#### Lightning Spear
+*Conjuration*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Self
+- **Components:** V, S, M (a spear)
+- **Duration:**  Concentration, up to 1 minute
+- **Classes:** Paladin, Ranger, Artificer
+___
+A spear of storm appears in your hands, it has all the properties of a normal spear but deals 2d8 lightning damage on a hit, and comes back to your hand after every throw. In addition if you hit a target twice with this spear in a tum, it becomes polarised While polarised in this way the next 2 attack rolls made with metallic weapons, or dealing lightning damage, against the target have advantage, thanks to the attraction of the electricity.
+
+**At higher levels.** When you cast this spell using a 3rd- or 4th-level spell slot, the damage increases to 3d8 When you cast it using a 5th- or 6th-level spell slot, the damage increases to 4d8 When you cast it using a spell slot of 7th level or higher, the damage increases to 5d8. 
+
+#### Plundering Smite
+*Evocation*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Self
+- **Components:** V
+- **Duration:**  Concentration, up to 1 minute
+- **Classes:** Paladin
+___
+The next time you hit a creature with a weapon attack, the attack deals an extra 3d8 necrotic damage, and you heal for half the necrotic damage dealt.
+
+#### Spirit Shroud
+*Necromancy*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute
+- **Classes:** Cleric, Paladin, Warlock, Wizard
+___
+You call forth spirits of the dead, which flit around you for the spell's duration. The spirits are intangible and invulnerable, and they are good or evil (your choice).
+
+Until the spell ends, any attack you make deals 1d8 extra damage when you hit a creature within 10 feet of you. This damage is radiant if the spirits are good and necrotic if they are evil. Any creature that takes this damage can't regain hit points until the start of your next turn.
+
+In addition, any creature of your choice that you can see that starts its turn within 10 feet of you has its speed reduced by 10 feet until the start of your next turn.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 4th level or higher, the extra damage increases by 1d8 for each slot level above 3rd.

@@ -1,0 +1,33 @@
+### Way of Internal Alchemy
+[**Source:** *The Complete Devout Handbook*](https://drive.google.com/file/d/1TEY7P4FVWD_-Ky5YrrK92__yYOwTY3w-/view)
+
+Monks following the Way of Internal Alchemy use a mystical practice to transmute their ki that mirrors traditional alchemy. Along with practicing traditional and internal alchemy, these monks subscribe to a life philosophy that emphasizes harmony and spontaneity. Some practitioners ingest alchemical reagents designed to extend their lives or enhance their mystical powers.
+
+#### Alchemical Cauldron-Body
+Starting when you choose this tradition at 3rd level, you learn a special meditative practice that allows you to refine your ki. When you regain your expended ki at the end of a short or long rest, divide your ki points into two pools: yang ki and yin ki. Unless a feature or ability specifies it requires a yin ki or a yang ki, you can spend either to activate the ability.
+
+Additionally, some of your ki features gain additional benefits depending on the type of ki used to activate them.
+
+***Flurry of Blows.*** When you use yang ki to activate this feature and you miss with at least one of the attacks, you can make one additional unarmed strike as part of the same bonus action. When you use yin ki to activate this feature and you hit with both attacks, the creature cannot take reactions until the start of its next turn.
+
+***Patient Defense.*** When you use yin ki to activate this feature, you also roll your martial arts damage die and gain that many temporary hit points. You lose any remaining temporary hit points granted by this feature after one minute.
+
+***Step of the Wind.*** When you use yang ki to activate this feature, you can use a bonus action to take the Disengage and Dash action instead of having to choose just one.
+
+#### Bonus Proficiency
+At 3rd level, you gain proficiency with alchemist's supplies.
+
+#### Imbalance Enemy
+At 6th level, when you deal damage to a creature with an unarmed strike or monk weapon you can spend 1 ki point to afflict the creature with an energy imbalance for 1 minute.
+
+If you spent yin ki, while the creature is imbalanced and uses any of its movement speed on its turn it has disadvantage on all ability checks and attack rolls it makes until the end of its turn.
+
+If you spent yang ki, while the creature is imbalanced it has disadvantage on all ability checks and attack rolls it makes on its turn until it has used all of its movement speed.
+
+The creature can use an action on its turn to end the energy imbalance early, taking 1d6 + half your monk level damage when it does so. This damage is necrotic if you spent yin ki or radiant if you spent yang ki.
+
+#### Breath Mastery
+At 11th level, your spiritual essence has been refined to the degree that you need only suspire the pure energy of the multiverse. While you have 1 or more ki points, you have a flying speed equal to your walking speed and you do not need to breathe.
+
+#### Perfect Balance
+At 17th level, you have learned to temporarily enter a state of total alchemical balance. As a bonus action on your turn you can enter this state for one minute. While in a state of alchemical balance, the first time you spend ki each turn, you gain a ki. If you spend a yang ki, you gain a yin ki. If you spend a yin ki, you gain a yang ki. After you use this feature, you cannot use it again until you complete a long rest.

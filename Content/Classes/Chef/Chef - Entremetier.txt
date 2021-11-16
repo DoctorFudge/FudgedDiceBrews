@@ -1,0 +1,24 @@
+### Entremetier
+Chefs who specialises in Entrees are name Entremetiers. These chefs see beauty in the beginning of things. Much like their signature dishes, they take the initiative and prepare for whatever comes next.
+
+#### Special Recipes: Entrees
+Entree Recipes are not consumed using a bonus action. Instead, any creature holding an entree in their hand when Initiative is rolled can consume it to gain its benefits. If they do so, they cannot take a bonus action during the first Initiative round.
+
+| Chef Level | Recipes |
+|:----:|:-------------|
+| 3rd  | Prosciutto Bruschetta |
+| 7th  | Antipasto Mix |
+| 13th  | Juicy Dumpling |
+| 18th | Spicy Bocconcini |
+
+#### First in Line
+When you choose this specialty at 3rd level, you gain an instinctual talent for taking the lead. Whenever you would make an initiative check, you can substitute half your dexterity score (rounded down) in place of the total.
+
+#### Salt in the Wound
+At 7th level, you've learned how to lace your chef's knives with a healthy serving of stinging salts. Your chef's knives deal an extra 1d4 acid damage on a hit, and if they hit a creature that is concentrating, the creature has disadvantage on the saving throw it makes to maintain concentration.
+
+#### Set The Table
+At 13th level, you've mastered the art of preparation. If you take the Ready or Help action on your turn, you can use a bonus action to Dodge, Dash, Disengage, Search or Use an Object.
+
+#### Before All
+At 18th level, you can substitute your full dexterity score in place of the total when you use your First in Line feature.

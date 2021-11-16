@@ -1,0 +1,29 @@
+### Crack Shot
+Crack Shots are unparalleled with their firearms over a distance and often use stealth to reach an advantageous position to strike from. It is not uncommon for a Crack Shot to shoot from their cover, and remain there until their enemies are dead.
+
+#### Shooter's Nest
+At 3rd level, you learn to make better use of cover. Half cover now provides you a +4 bonus to your AC, instead of +2, while three quarters cover provides you a +7 bonus.
+
+#### Sniper's Mark
+Starting at 3rd level, you can spot and mark targets for the kill. As a bonus action, choose one creature you can see within 120 feet of you. The target is marked for minute. The mark ends if the target dies, you die, or you are incapacitated. Until the mark ends, you gain the following benefits:
+- You gain a bonus to damage rolls against the marked target. The bonus equals your proficiency bonus.
+- Any attack roll you make against the marked target is a critical hit on roll of 19 or 20 on the d20.
+- You can use your bonus action to give an ally that you can see advantage on their next attack against your marked target. This lasts until the start of your next turn.
+
+Once you use this feature, you must complete a short or long rest before using it again.
+
+#### Overwatch
+Beginning at 7th level, you can fire a potshot to distract enemies attacking your allies. When a creature you can see attacks a creature other than you, you can use your reaction to impose disadvantage on the attack roll.
+
+You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a short or long rest.
+
+#### Ghillie Suit
+At 10th level, you gain the ability to craft a ghillie suit. Creating the suit takes 10 minutes, and you must have access to mud, sand, flora and other naturally occurring terrain. Additionally, you gain proficiency in the Stealth skill if you don't already have it and your proficiency bonus is doubled for any Dexterity (Stealth) checks you make.
+
+Once you have created your suit, you can use a bonus action to take the hide action. While you remain unmoving, you gain a +10 to Dexterity (Stealth) checks that you make. If you move, you must make a new check to hide again. Finally, your ghillie suit lasts until you enter terrain that does not blend with the terrain it was created from, or until you take long rest.
+
+#### Improved Mark
+Starting at 13th level, your Sniper's Mark allows you to score a critical hit on an attack roll of 18-20 against a marked target. Additionally, you can mark two targets before you need to complete short or long rest.
+
+#### Devastating Overwatch
+At 18th level, your ability to control battlefield is unmatched. You can use your reaction to make an attack roll against any creature that moves while in range of your weapon. Additionally, when you use the Overwatch feature you can also make an attack roll against the target.

@@ -1,0 +1,36 @@
+### Way of the Sokushinbutsu
+[**Source:** *Way of the Sokushinbutsu*](https://homebrewery.naturalcrit.com/share/Cw2CcGzVanRu)
+
+Monks who practice the way of Sokushinbutsu seek to elevate themselves to divinity through the practice of meditation and ritual fasting, and as a result often resemble mummies. This is also the ultimate goal of the Way of the Sokushinbutsu: Those who attain their ultimate enlightenment along this path do not decay after death, proof of their saintly qualities.
+
+#### Earthly Saint
+When you reach 3rd level, you augment your martial prowess with the ability to cast spells. See chapter 10 for the general rules of spellcasting and chapter 11 for the cleric spell list.
+
+You learn two cantrips of your choice from the cleric spell list. You learn an additional cleric cantrip of your choice at 10th level. Whenever you finish a long rest, you can replace one of the cleric cantrips you know with another cantrip of your choice from the cleric spell list. Wisdom is your spellcasting ability for these cantrips.
+
+When you cast a cantrip that has a casting time of 1 action, you can spend 2 ki points to change the casting time to 1 bonus action for this casting.
+
+#### Soma Drops
+Starting at 6th level you have taken further steps toward divinity, allowing you to soothe the wounds of others and assist them on their journey. Each day when you finish a long rest you may bless a number of prayer beads equal to your proficiency bonus. A creature can use its action to release the blessing and restore a number of hit points equal to a roll of your Martial Arts die + your Wisdom modifier.
+
+If not used in this way the blessing held within each bead fades when you take a long rest.
+
+#### Sealing Talisman
+By 11th level your word has become a divine mandate. You may expend 3 ki points and touch a creature, forcing it to make a wisdom saving throw. On a failed save, a paper talisman appears on the creatures body and you may declare one of the following actions: Attack, Move, Speak.
+
+- **Attack.** The creature cannot take the attack action or make attacks of opportunity.
+- **Move.** The creature cannot willingly move.
+- **Speak.** The creature cannot cast spells with Verbal components.
+
+While the talisman is attached to the creature, if it attempts to perform that action or remove the talisman, it immediately takes 5d10 radiant damage and the action fails. This effect lasts for a number of turns equal to your wisdom modifier at which point the talisman harmlessly disintigrates.
+
+Once you use this feature you must finish a short or long rest before you can do so again.
+
+#### Samsara
+At 17th level your practice has allowed you transcend beyond the cycle of death and rebirth. As an action you can spend 7 ki points and gain the following benefits for the next minute:
+
+- Your creature type becomes 'Undead' instead of 'Humanoid'
+- You gain Temporary Hit Points equal to your Monk level + your Wisdom modifier.
+- You gain a hover speed equal to your walking speed.
+- Your melee attacks deal extra radiant and necrotic damage, both equal to your Wisdom modifier.
+- If a creature hits you with a melee attack while in this state, you can use your reaction to deal radiant damage equal to 5 + your wisdom modifier.

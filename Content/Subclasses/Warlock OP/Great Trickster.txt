@@ -1,0 +1,28 @@
+### The Great Trickster
+[**Source:** *The Complete Arcanist Handbook*](https://drive.google.com/file/d/1ucl27lI0dMWi0BDsolHBB-ZgW4CSPhdP/view)
+
+You have pledged your allegiance to a spirit of mischief who delights in misdirection and misappropriation. Despite an irredeemable reputation, such patrons are not necessarily evil or even selfish. Some tricksters use pranks to teach others important moral lessons or commit lesser wrongs to serve the greater good. Most, however, are motivated primarily by their own entertainment and self-satisfaction. And selfishness. Beings of this sort include Anansi, Eshu, Huehuecoyotl, Loki, Pan, and Sun Wukong.
+
+#### Spellswipe
+Starting at 1st level, as a reaction when you see a creature within 60 feet of you cast a spell, you can expend a spell slot to try to steal the spell. If the spell slot you expended was equal to or higher than the spell slot the creature used to cast the spell, its spell fails and instead produces a momentary harmless sensory effect of your choosing.
+
+In addition, you can add the spell to your spell vault. You can have a number of spells in your spell vault equal to your Charisma modifier (minimum 1). If adding a new spell to your spell vault would cause you to exceed this maximum, choose one spell from your spell vault to lose. All spells in your spell vault count as warlock spells you know, and don’t count against your warlock spells known.
+
+As a final benefit of this feature, you can cast a spell from your spell vault without expending a spell slot. When you do, you lose the spell from your spell vault immediately after you cast it. Once you cast a spell this way, you must finish a long rest before you can do so again.
+
+#### Thieves Cant
+At 1st level, your connection to an entity of mischief personified allows you to understand thieves cant, a secret mix of dialect, jargon, and code that allows you to hide messages in seemingly normal conversation. Only another creature that knows thieves’ cant understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
+
+In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an area is dangerous or the territory of a thieves’ guild, whether loot is nearby, or whether the people in an area are easy marks or will provide a safe house for thieves on the run.
+
+#### Trick is Trade
+Also at 1st level, you can use a bonus action on your turn to magically conjure a disguise kit, forgery kit, or thieves’ tools. You add your proficiency bonus to ability checks that use the conjured tool kit if you aren’t already proficient with it. This tool kit remains until you use this feature again to conjure another tool kit.
+
+#### Steal Fortune
+At 6th level, when a creature you can see within 30 feet makes an ability check, attack roll, or saving throw, you can use your reaction to give that roll disadvantage. When you do, one ability check, attack roll, or saving throw of your choice that you make within the next minute gains advantage. Once you use this trait, you can’t use it again until you finish a short or long rest.
+
+#### Skeleton Key
+At 10th level, you have advantage on saving throws against being restrained and ability checks made to escape a grapple. Additionally, you can cast the knock spell at will, without expending a spell slot.
+
+#### Two Steps Ahead
+Starting at 14th level, you cannot be surprised. When you roll for initiative, you can use your reaction to position yourself for an ambush. When you do, add +20 to your initiative roll, you have truesight out to a range of 120 feet and turn invisible until the end of your next turn, and can immediately teleport to any unoccupied space within 120 feet. Once you use this feature, you must finish a long rest before you can use it again.

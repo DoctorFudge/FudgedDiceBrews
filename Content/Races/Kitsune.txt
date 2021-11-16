@@ -1,0 +1,44 @@
+## Kitsune
+Kitsune, or fox spirits, have the ability to shapeshift back and forth between fox and more desirable humanoid forms. Despite an irrepressible penchant for deception, Kitsunes prize loyalty and make true companions. Most Kitsune are fascinated with the adventurers they meet, often joining them in their travels to try and satisfy their inquisitive nature. Because of this spirit of curiosity, they are wonderfully suited to the adventuring life. 
+
+***Ability Score Increase.*** Your Charisma score increases by 2.
+
+***Age.*** Kitsune rarely live to be a millennium, gaining a new tail as they grow older. Kitsune who live long enough to have nine tails cease to age, effectively becoming immortal.
+
+***Alignment.*** Due to their nature of being a bit mischievous, kitsune are often chaotic. Even the most skilled monks find it difficult to ignore the desire to be a bit mischievous at times, but they tend to approach the trick in a much more planned out and guided manner. Kitsune are known to be both good and evil.
+
+***Size.*** Kitsune are generally on the smaller side of most humanoids ranging from 4'7 to the tallest being just under 6'. Weight wise kitsune are as light and agile as they look. Your size is Medium.
+
+***Speed.*** Your base walking speed is 30 feet. While not carrying anything in your hands you can drop to all fours and increase your movement speed to 35 feet.
+
+***Darkvision.*** As creatures of fey magic and trickery, kitsune can see in darkness as well as in light. You can see in dim light within 60 feet of you as if it were bright, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+***Firefox.*** You learn the Produce Flame cantrip. Charisma is your spellcasting modifier. 
+
+***Fox Spirit.*** Your creature type is both humanoid and fey. 
+
+***Keen Senses.*** You have proficiency in the Perception skill. 
+
+***Kitsune Transformation.*** You can shift from your humanoid form to your original fox form. When in fox form, you cannot cast spells aside from your racial spells. You retain your HP, mental statistics, skill and saving throw proficiencies, but take on the rest of the statistics of a fox. You also retain your tail count.
+
+When you shift to your fox form, your equipment merges with your new form and is considered unequipped until you become humanoid again.
+
+***Nine Tailed Fox.*** As a kitsune, you have several tails and grow more as you become stronger. You start with one tail at level 1 after which every two levels you gain another tail. A kitsune's tails are a symbol of growth and realization for themselves and reflect how powerful they are. 
+
+***Languages.*** Common, Sylvan, and one other language of your choice.
+
+***Subrace.*** You must choose a subrace, selecting from a Yako or a Zenko kitsune.
+
+#### Yako Kitsune
+***Ability Score Increase.*** Your Intelligence score increases by 1.
+
+***Kitsune Trickery.*** Illusions are your lifeblood. You have played with them since you were a child. You have advantage on Wisdom (Insight) and Wisdom (Perception) checks when attempting to see through illusions.
+
+***Curse of Nine Tails.*** When you deal damage to a creature with a spell or weapon attack, you can choose to deal additional damage of the same type equal to the number of tails you have. Once you use this feature, you cannot use it again until you finish a short or long rest.
+
+#### Zenko Kitsune
+***Ability Score Increase.*** Your Dexterity score increases by 1.
+
+***Canine Ally.*** Through sound and gestures, you may communicate simple ideas with foxes, jackals and wolves.
+
+***Gift of Nine Tails.*** As an action, you bestow a minor blessing in a creature you can touch. For the next ability check the creature makes in the following minute that creature can add a bonus to the roll equal to the number of tails you have. Once you use this feature, you cannot use it again until you finish a short or long rest.

@@ -1,0 +1,42 @@
+### Gilded Speaker
+[**Source:** *A Treasury of Tales and Legends*](https://drive.google.com/file/d/1ghK_gGGfGMXSQImUGZc8dlxXd-YwC1D0/view)
+
+While the typical ranger may slay their bounty through a mastery of hunting skills or knowledge of their targets' weaknesses, those who follow the Gilded Speaker Conclave discover the true names of their enemies and exploit those names to their advantage.
+
+##### Gilded Speaker Spells
+| Ranger Level Cookie | Type |
+| :-: | :-- |
+| 3rd | <em>Comprehend Languages</em> |
+| 5th | <em>Zone of Truth</em> |
+| 9th | <em>Tongues</em> |
+| 13th | <em>Banishment</em> |
+| 17th | <em>Legend Lore</em> |
+
+#### Name Extortion
+Starting at 3rd level, you command others to reveal their truest identities. As a bonus action, you target one creature you can see within 60 feet of you. The target must make a Wisdom saving throw against your spell save DC. On a successful save, you discern that this magic failed, and you can't use this feature on the target again. On a failed save, the target is frightened by you until the end of your next turn, and you mentally learn the frightened target's name or the fact that the target lacks a name.
+
+Additionally, you have advantage on attacks against creatures who are frightened by you this way.
+
+You can use this feature a number of times equal to your Wisdom modifier (minimum of once) and you regain all expended uses of it when you finish a long rest.
+
+#### Know by Name
+At 3rd level, you gain an uncanny knack for knowing names, and putting those names to faces. You understand any name you hear or read even if you do not know the language that the name is in, and you have a perfect recall of any name you have ever seen or heard.
+
+Additionally, when you see a creature or object that you know the name of, you immediately know who or what that creature or object is, even if you have never seen the creature or object before.
+
+Lastly, you can draw from the skills and talents of those whose names you know. You can a tool proficiency of your choice that a creature whose name you know has. You can change this proficiency to another at the end of a long rest.
+
+#### Potent Extortion
+At 7th level, no creature can hide their identity from you. You can choose to use your Name Extortion ability as an action instead of a bonus action. When you do, the target has disadvantage on their saving throw. You can use this ability on creatures who have previously succeeded the Name Extortion saving throw.
+
+#### Fateful Recital
+At 11th level, those whose names you know can not escape you. As a bonus action, you can utter the true name of a creature that you know. If the creature you name is within 100 feet, you can see it perfectly, including through walls and other obstructions, up until the end of your next turn. This applies to creatures that hidden or otherwise invisible, but not to creatures located on other planes. When you attack a creature you can see this way, you have advantage and ignore half and three-quarters cover.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+Additionally, you can not, under any circumstances other than the *wish* spell, forget any name that you know.
+
+#### Immutable Identity
+At 15th level, you learn to invoke your own name as a means of claiming greater purchase on the world around you. As a reaction to having to make a saving throw, you can utter your own true name and automatically succeed on that saving throw.
+
+Once you use this feature, you can't use it again until you finish along rest.

@@ -1,0 +1,32 @@
+### Circle of Thunder
+[**Source:** *The Gunpowder Codex*](https://drive.google.com/file/d/1jjhLL1aeWVp2AsoOIwJJ-0BvO6dvPedk/view)
+
+The Circle of Thunder is a relatively recent cabal of druids, founded a mere century ago, but is steadily increasing in numbers. As technology progresses and firearms become more common, some druids have felt keenly left behind. Some, fearing obsolescence, have turned to the Circle of Thunder to remain relevant on the battlefield. Others, less concerned with their place in the outside world, nonetheless acknowledge that integrating some aspects of firearm technology into their natural magic can aid them in defending the places most important to them.
+
+#### Bonus Cantrip
+When you choose this circle at 2nd level, you learn the forest thunder cantrip.
+
+#### Woodland Stride
+Your affinity for the wooded places of the world makes you particularly adept at moving through wooded terrain. Starting at 2nd level, if you are in wooded terrain, you may take a bonus action on each of your turns in combat to use either the Dash or Hide actions.
+
+#### Circle Spells
+Your magical connection with the forest and careful study of firearms gives you the ability to cast certain spells. At 3rd, 5th, 7th, and 9th level you gain access to circle spells related to the discipline of Thunder.
+
+Once you gain access to a circle spell, you always have it prepared, and it doesn't count against the number of spells you can prepare each day. If you gain access to a spell that doesn't appear on the druid spell list, it is nonetheless a druid spell for you.
+
+##### Circle Spells
+**Druid Level**|**Spells**
+:-----:|:-----
+3rd|<em>arboreal blast, dust devil</em>
+5th|<em>sequoia six-shooter, plant growth</em>
+7th|<em>carven rifle, grasping vine</em>
+9th|<em>branching shot, commune with nature</em>
+
+#### Forest Affinity
+Upon reaching 6th level, your growing attunement to the ways of the forest allows you to cast speak with plants twice, even if it is not among your prepared spells for the day. You regain expended uses of this ability when you finish a long rest.
+
+#### Arboreal Aegis
+When you reach 10th level, you gain resistance to thunder and non-magical piercing damage.
+
+#### Nature's Shield
+At 14th level, when you use a spell or cantrip to create a wooden firearm, a latticed cage of bracken briefly grows from the ground and surrounds you protectively. You gain half cover in all directions until the beginning of your next turn, and the cage does not interfere with attacks or spellcasting. You can easily break out of the cage if you choose, but you lose its protective bonus if you do so or leave the space where it formed. You must be within five feet of solid ground for this cage to form (normally, this means standing on the ground, but at the DM's discretion it could activate if you were flying within 5 feet of a cliff face, or swimming in very shallow water).

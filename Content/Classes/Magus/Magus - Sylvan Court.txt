@@ -1,0 +1,131 @@
+### The Sylvan Circle
+Magi of the Sylvan Circle are drawn together by their reverence for the natural world. Members of this eldritch society become magi to protect sacred lands and creatures. Although this society is more informal than others, magi of the Sylvan Circle meet with one another regularly in small groups they call covens to discuss matters of local or regional concern and share information.
+
+#### Sylvan Circle Initiate
+When you choose this eldritch society at 1st level, you augment your martial prowess with the ability to cast cantrips.
+
+***Cantrips.*** You learn two cantrips of your choice from the Sylvan Circle's spell list. You learn an additional Sylvan Circle cantrip of your choice at 4th level and again at 10th. These cantrips count as magus spells for you.
+
+***Spellcasting Focus.*** You can use a druidic focus (found in chapter 5 of the Player's Handbook) as a spellcasting focus for your magus spells.
+
+***Spellcasting Ability.*** Wisdom is your spellcasting ability for your Sylvan Circle spells, since you learn your spells through an intuitive connection with the natural world. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a magus spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+
+**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+
+</center>
+
+#### Bonus Proficiencies
+At 1st level, you gain proficiency with the Nature skill and your choice of either herbalism kits or poisoner's kits.
+
+#### Emerald Mark
+Starting at 3rd level, the effects of your mystic marks are enhanced by the Sylvan Circle's esoteric practices. When you place your mystic mark on an object or creature, a verdant green aura surrounds it.
+
+***Sylvan Enspell.*** When you deal damage with your enspelled weapon you can choose to deal poison damage instead of its normal damage type.
+
+When you deal damage to a creature using a weapon you've enspelled you can choose to remove your enspell from that weapon, causing the earth to join your assault. When you do, roots spring from the ground and attempt to tether the target to the earth. The target must succeed on a Strength saving throw against your spell save DC or it is restrained until the end of its next turn.
+
+***Sylvan Aegis.*** When a creature protected by your aegis fails a saving throw you can use your reaction to remove your aegis from that creature. When you do the aegis transmutes into vital energy and washes over the target. The target may reroll its saving throw with advantage.
+
+#### Nature's Mask
+At 7th level, you can cast the spell polymorph on yourself without expending a spell slot. You must complete a long rest before you can use this feature again.
+
+#### Font of Life
+Starting at 14th level, you can use a bonus action to expend a spell slot and create a font of life. When you do, you regain your magus level + 1d12 hit points per level of the expended spell slot and creatures of your choice within 30 feet of you regain half that amount. Once you use this feature, you must finish a short or long rest before you can use it again.
+
+### The Sylvan Circle Spell List
+##### Cantrips (0 Level)
+- Booming Blade
+- Druidcraft
+- Fungal Bloom
+- Give Life
+- Light
+- Magic Stone
+- Resistance
+- Rime Strike
+- Spare the Dying
+- Thornwhip
+- Warden's Rebuke
+
+##### 1st Level
+- Animal Friendship
+- Beast Bond
+- Create or Destroy Water
+- Cure Wounds
+- Detect Poison and
+- Disease
+- Ensnaring Strike
+- Entangle
+- Fog Cloud
+- Goodberry
+- Hail of Thorns
+- Jump
+- Longstrider
+- Purify Food and Drink
+- Speak with Animals
+- Spore Cloud
+
+##### 2nd Level
+- Alter Self
+- Animal Messenger
+- Barkskin
+- Beast Sense
+- Darkvision
+- Enhance Ability
+- Gust of Wind
+- Lesser Restoration
+- Locate Animals or Plants
+- Moonbeam
+- Pass without Trace
+- Protection from Poison
+- Skywrite
+- Spike Growth
+- Warding Wind
+
+##### 3rd Level
+- Conjure Animals
+- Daylight
+- Dispel Magic
+- Meld into Stone
+- Plant Growth
+- Protection from Energy
+- Revivify
+- Speak with Plants
+- Stinking Cloud
+- Water Breathing
+- Water Walk
+
+##### 4th Level
+- Blight
+- Conjure Woodland
+- Beings
+- Death Ward
+- Dominate Beast
+- Giant Insect
+- Grasping Vine
+- Guardian of Nature
+- Locate Creature
+- Polymorph
+- Stone Shape
+
+##### 5th Level
+- Awaken
+- Commune with Nature
+- Contagion
+- Greater Restoration
+- Insect Plague
+- Reincarnate
+- Tree Stride
+- Wrath of Nature
+
+##### 6th Level
+- Druid Grove
+- Find the Path
+- Heal
+- Heroes' Feast
+- Sunbeam
+- Transport via Plants
+- Wall of Thorns

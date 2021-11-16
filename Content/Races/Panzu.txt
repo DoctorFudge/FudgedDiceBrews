@@ -1,0 +1,23 @@
+## Panzu
+[**Source:** *Old Gus' Errata: Beastfolk*](https://drive.google.com/file/d/12PE02rLX8fM072__CFZJhVvMeKOcsvIo/view)
+
+### Panzu Racial Traits
+Panzu resemble chimpanzees or mandrills, and despite their small stature, are stronger than humans. Their keen minds lead them to all kinds of professions.
+
+***Ability Scores.*** Your Strength, Dexterity and Intelligence scores increase by 1.
+
+***Age.*** Panzu mature at 10 years and live up to 70 years.
+
+***Size.*** Panzu stand between 3½ and 4½ feet tall, and weigh 80-130 pounds. Your size is Small.
+
+***Speed.*** You have a base walking speed of 25 feet, and a climbing speed of 15 feet.
+
+***Languages.*** You can speak, read and write Common and Apelong.
+
+***Panzu Might.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift, or when grappling a creature.
+
+***Ape Weaponry.*** You can use your teeth or hands to make unarmed strikes. If you hit with them, you deal bludgeoning (fists) or piercing (bite) damage equal to 1d4 + your Strength modifier.
+
+***Bodily Harmony.*** You are proficient in the Athletics or Acrobatics skill.
+
+***Tool Adept.*** You are proficient in one artisan’s tool of your choice.

@@ -1,0 +1,22 @@
+### College of Fortune
+[**Source:** *The Complete Arcanist Handbook*](https://drive.google.com/file/d/1ucl27lI0dMWi0BDsolHBB-ZgW4CSPhdP/view)
+
+Bards of the College of Fortune prefer games with high stakes to soaring songs. These bards, sometimes called card sharks or high rollers, entertain with their rarely surpassed talent for games of skill and chance. Inside the casino or out, these bards push their luck to the breaking point and then a bit further.
+
+Bards in this college have a reputation as instigators that isn’t entirely justified. High rollers don’t go looking for trouble, they just have a habit of provoking fellow party members into taking long shots that don’t always pan out. Despite that, no bard has a better chance of helping their companions clutch victory from the jaws of the defeat than a card shark. The smart bet is always on the bard of the College of Fortune.
+
+#### Gambler’s Conceit
+When you join the College of Fortune at 3rd level, you gain proficiency with all gaming sets and your choice of one of the following skills: Deception, Insight, Perception, or Sleight of Hand.
+
+In addition, you can use a gaming set (see “Equipment” in chapter 5 of the Player’s Handbook) as a spellcasting focus for your bard spells.
+
+#### Push Your Luck
+Starting at 3rd level, you impart your affinity for risky wagers to your compatriots when you inspire them. After a creature you inspired rolls a Bardic Inspiration die, they can choose to roll an additional die of the same type (a d6 if your Bardic Inspiration die is a d6, for example). If the additional die result is lower than the Bardic Inspiration die, the roll loses the benefit of the Bardic Inspiration die. If the additional die result is equal to or higher than the Bardic Inspiration die, add the result of both dice to the roll and the creature gains temporary hit points equal to the total of both dice. In either case, the Bardic Inspiration die is lost.
+
+#### Pocket Ace
+At 6th level, when you complete a long rest, roll a die of the same type as your Bardic Inspiration die (a d8 if your Bardic Inspiration die is a d8, for example) and record the result as your pocket ace. After a creature you inspired rolls a Bardic Inspiration die, but before they choose to use your Push Your Luck feature, you can exchange the results of their Bardic Inspiration die with your pocket ace. When you do, the Bardic Inspiration die result becomes your new pocket ace. You must choose to replace the result before the DM announces if the roll succeeds or fails.
+
+In addition, you can expend your pocket ace at any time to add its result to one of your own attack rolls, ability checks, or saving throws.
+
+#### High Roller
+At 14th level, when a creature with one of your Bardic Inspiration dice makes an ability check, attack roll, or saving throw and rolls a 20 on the d20, you regain one expended use of your Bardic Inspiration feature. When a creature with one of your Bardic Inspiration dice makes an ability check, attack roll, or saving throw, and rolls a 1 on the d20, that creature can expend the Bardic Inspiration die to roll the d20 again and must use the new result.

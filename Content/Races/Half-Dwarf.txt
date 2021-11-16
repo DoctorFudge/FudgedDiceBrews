@@ -1,0 +1,42 @@
+## Half-Dwarf
+[**Source:** *Book of Uncommon Ancestry*](https://drive.google.com/file/d/1LKItpZ_y7ZqtGyK5h1UKwSV1e_by_VHV/view)
+
+*We spent all day and all night trying to dig those villagers out of the collapsed mine. When the rest of us passed out from exhaustion she just kept at it. By the time I woke up, they were all free and she hadn’t broken a sweat.*
+
+<div style="text-align: right">
+— Chando, half-orc retired adventurer
+</div>
+
+Half-dwarves, known as muls on some worlds, are the rare offspring between human and dwarven parents. Dwarven culture is conservative and implicitly forbids relationships between dwarves and other races, so most half-dwarves are born in times of social upheaval or as the result of a secret romance. Half-dwarves raised among dwarves are social pariahs, seen by their community as a living embodiment of the consequences of breaking with tradition. Raised among humans, half-dwarves experience prejudice and stereotypes related to their dwarven heritage.
+
+### Born Outsiders
+To humans, half-dwarves look like dwarves. To dwarves, half-dwarves look like humans. Half-dwarves stand between 4 and a half to 5 and a half feet tall and weigh around 200 pounds. They aren’t as stocky as dwarves but have a broader stature and more muscular physique than humans. Half-dwarves exhibit a range of skin tones and hair colors, but have notably thick and full hair.
+
+Half-dwarves have experimental senses of fashion, taking dwarven and human traditions and blending them. Novel hairstyles and colors, or ways of wearing facial hair and jewelry are things that half-dwarves do to create their own identity. These styles are rarely subdued and cause half-dwarves to stand out in a crowd.
+
+### Iconoclasts and Innovators
+Routinely reminded by humans and dwarves alike that they have no unique culture of their own, half-dwarves are often rebels and revolutionaries. This manifests in a variety of ways, from forsaking the local religious customs to experimenting in new forms of art to advocating for vast and dramatic political changes. If proponents of the status quo suggest they shouldn’t even exist, half-dwarves have no reason to embrace the cultural institutions that stand against them. This tendency to align against tradition means half-dwarves often participate in countercultural movements and befriend other social misfits.
+
+### Half-Dwarf Names
+Half-dwarves tend to use either human or dwarf names. Those raised in human communities are usually given dwarven names and those raised in dwarven communities usually given human names.
+
+### Half-Dwarf Traits
+Your half-dwarf has some of the natural fortitude and traits dwarves possess but also shares qualities with other half-dwarves that set them apart from their stockier kin.
+
+***Ability Score Increase.*** Your Constitution score increases by 2, and one ability score of your choice increases by 1.
+
+***Age.*** Half-dwarves mature at the same rate as humans reaching adulthood around their second decade of life. They tend to live to around 200 years old.
+
+***Alignment.*** Half-dwarves can be of any alignment. Half-dwarves raised in dwarven communities tend to be chaotic as they are perceived as outsiders and identify closely with defying social customs and expectations.
+
+***Size.*** Half-dwarves are slightly smaller than humans, ranging from four and a half to five and a half feet tall. Your size is Medium.
+
+***Speed.*** Your base walking speed is 30 feet.
+
+***Darkvision.*** Thanks to your dwarf heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+***Tireless.*** When you finish a short rest you may remove a level of exhaustion and regain half your maximum hit points. You can’t use this feature again until you finish a long rest.
+
+***Tool Proficiency.*** You gain proficiency with a tool set of your choice. Half-dwarves have all the raw talent of their dwarven kin without being bound by tradition to apply it to only a handful of endeavors.
+
+***Languages.*** You can speak, read, and write Common and Dwarvish. Half-dwarves speak common and other languages without the harsh accent of the dwarves.

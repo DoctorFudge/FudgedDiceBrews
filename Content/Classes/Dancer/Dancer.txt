@@ -1,0 +1,273 @@
+## Dancer
+[**Source:** *Final Fantasy XIV Class Compendium*](https://www.gmbinder.com/share/-LsDqsNbupzeLhkTIcPv)
+
+The light of the room dims, and the spotlights focus on the lightly dressed woman who makes her way across the stage. With a large smile, she moves effortless along with the music, filling everyone's hearts with joy and pushing them to stay determined in whatever challenges they have.
+
+Amid the chaos of the battlefield a maiden expertly slides in and out of combat, soothing her allies' wounds and empowering their wills to continue fighting.
+
+Dressed in fine clothing with their trusty blade at their side, the seemingly sweet woman dances through a group of would-be assailants behind her establishment, cutting them down with ease wielding her signature scimitar.
+
+Dancers have harnessed magics and arts, combining them into a spectacle which turns the battlefield into a show, and it is by their graceful movements which which their allies are guided to a happy conclusion.
+
+### Of Silk and Steel
+Dancers draw from many different sources and backgrounds, combining them into a single package which covers a wide variety of situations. Using small weapons to pick away at their unwitting foes as their dances debilitate their marks while filling their allies with power. Though a rarity on the battle field few forget the sight of a skilled dancer at work.
+
+### Ornaments of Power
+Dancers perform their magical feats not through a stave or rod, but rather specially made jewelry worn on the wrists and ankles. As they dance around the battle field they move their bodies in specific patterns to manipulate the magical power within their bodies and to gather residual magic in the environment. Once they've gathered the required magic they must keep moving to keep their spell active, channeling the magic further.
+
+### Creating a Dancer
+Dancers are passionate people dedicated to their craft. Spending years practicing has gifted them with the ability to weave spells and their passions together into a gorgeous display of skill. When creating a Dancer, you must consider where they have honed their craft. Did they pick up the profession naturally, teaching themselves over long hours, or did they study beneath some kind of mentor? One must consider their motivations, does your Dancer seek fame and fortune, or do they want to bring the gifts of joy to the masses. Perhaps they are going on their journey in an attempt to hone their craft even further.
+
+### Quick Build
+You can make a Dancer quickly by following these suggestions. First make Dexterity your highest ability score, following with Charisma. Second take the Entertainer background.
+
+## Class Features
+As a Dancer, you gain the following class features
+#### Hit Points
+___
+- **Hit Dice:** 1d8 per Dancer level
+- **Hit Points at 1st Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constituion modifier per Dancer level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Light Armor
+- **Weapons:** Chakrams, Rapiers, Scimitars, Short Swords, Simple Weaons, Whips.
+- **Tools:** None
+___
+- **Saving Throws:** Dexterity, Charisma
+- **Skills:** Choose two from Acrobatics, Deception, Insight, Perception, Performance, and Persuasion.
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* two daggers or *(b)* two chakrams
+- a *(a)* whip or *(b)* scimitar
+- a set of bracelets and anklets for spell casting
+- a set of clothes
+- a  *(a)* costume or *(b)* light armour
+- *(a)* an explorer's pack or *(b)* a entertainer's pack
+
+> ##### Chakrams
+> For Chakrams I suggest using the Handaxe statblock. Set the cost to 15 gp and add the Finesse quality to the weapon.
+
+### Dazzling Dance
+At 1st level, as you fight you build towards empowering your movements further. When you use the Attack action against a hostile creature, you gain a charge of Dazzling Dance. You may hold a number of Dazzling Dance charges equal to your Charisma modifier. Your charges dissipate one minute after combat ends.
+
+Additionally, you may spend 1 Dazzling Dance charge to take the Dash or Disengage action as a bonus action.
+
+### Flourish
+Also beginning at 1st level, once per turn, you can deal an extra 1d6 damage to one creature you hit with a ranged weapon attack if you have advantage on the Attack roll. The Attack must use a finesse weapon.
+
+You don't need advantage on the Attack roll if another enemy of the target is within 5 feet of it, that enemy isn't Incapacitated, and you don't have disadvantage on the Attack roll.
+
+The amount of the extra damage increases as you gain levels in this class, as shown in the Flourish Damage column of the Dancer table.
+
+##### The Dancer
+| Level | Proficiency Bonus | Features | Flourish Damage | 1st | 2nd | 3rd | 4th | 5th ||
+|:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1st | +2 | Dazzling Dance, Flourish  	   | 1d6  | — | — | — | — | — |
+| 2nd | +2 | Spell Casting, Whirling Steel | 1d6  | 2 | — | — | — | — |
+| 3rd | +2 | Dancer Archetype          	   | 2d6  | 3 | — | — | — | — |
+| 4th | +2 | Ability Score Improvement 	   | 2d6  | 3 | — | — | — | — |
+| 5th | +3 | Uncanny Dodge             	   | 3d6  | 4 | 2 | — | — | — |
+| 6th | +3 | Dancer Archetype Feature  	   | 3d6  | 4 | 2 | — | — | — |
+| 7th | +3 | Evasion				   	   | 4d6  | 4 | 3 | — | — | — |
+| 8th | +3 | Ability Score Improvement 	   | 4d6  | 4 | 3 | — | — | — |
+| 9th | +4 | ─                         	   | 5d6  | 4 | 3 | 2 | — | — |
+| 10th | +4 | Motivating Mambo         	   | 5d6  | 4 | 3 | 2 | — | — |
+| 11th | +4 | Dancer Archetype Feature 	   | 6d6  | 4 | 3 | 3 | — | — |
+| 12th | +4 | Ability Score Improvement	   | 6d6  | 4 | 3 | 3 | — | — |
+| 13th | +5 | Bewildering Grace	   		   | 7d6  | 4 | 3 | 3 | 1 | — |
+| 14th | +5 | Spell Dancer     		   	   | 7d6  | 4 | 3 | 3 | 1 | — |
+| 15th | +5 | Dancer Archetype Feature 	   | 8d6  | 4 | 3 | 3 | 2 | — |
+| 16th | +5 | Ability Score Improvement	   | 8d6  | 4 | 3 | 3 | 2 | — |
+| 17th | +6 | —                        	   | 9d6  | 4 | 3 | 3 | 3 | 1 |
+| 18th | +6 | Stage Presence           	   | 9d6  | 4 | 3 | 3 | 3 | 1 |
+| 19th | +6 | Ability Score Improvement	   | 10d6 | 4 | 3 | 3 | 3 | 2 |
+| 20th | +6 | Rhythmic Heart           	   | 10d6 | 4 | 3 | 3 | 3 | 2 |
+
+### Unarmoured Defense
+While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Charisma
+modifier. You can use a shield and still gain this benefit.
+
+### Spellcasting
+By 2nd level, you have learned to draw on in latent magical energies around you into your bangles and use it to cast spells. See Spells Rules for the general rules of spellcasting and the Spells Listing for the Dancer spell list.
+Preparing and Casting Spells.
+
+#### Preparing and Casting Spells
+The Dancer table shows how many spell slots you have to cast your Dancer spells. To cast one of your Dancer spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+You prepare the list of Dancer spells that are available for you to cast, choosing from the Dancer spell list. When you do so, choose a number of Dancer spells equal to your Charisma modifier + half your Dancer level, rounded down (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+For example, if you are a 5th-level Dancer, you have four 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell cure wounds, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of Dancer spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+Spellcasting Ability.
+
+#### Dance Magic
+As a Dancer, when you cast a Dancer spell you do not have to fulfill the verbal component of the spell. You must spend 10ft. of movement alongside your spell slot to cast a spell or to maintain a spell. See chapter 10 of the PHB for the general rules of spellcasting and the end of this document for the Dancer spell list.
+
+##### What about Silence?
+Most spellcasters shudder at the thought of being silenced as their spells require a verbal component nearly every time. As a Dancer you are able to for go the Verbal component, but that does not mean you're free from having your spells blocked. Instead, any effects which would drop your movement speed to 0ft. will instead cause your spells to be blocked.
+
+#### Spellcasting Ability
+Charisma is your spellcasting ability for your Dancer spells, since their power derives from the strength of your convictions. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a Dancer spell you cast and when making an attack roll with one.
+
+**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
+
+**Spell attack modifier** = your proficiency bonus + your Charisma modifier
+
+#### Spellcasting Focus
+You can use a bangles, anklets or other jewelry inlaid with gem stones (see the Adventuring Gear section) as a spellcasting focus for your Dancer spells.
+
+### Whirling Steel
+Also at 2nd level, you can spend 1 hour attuning your recently discovered magics with up to two finesse throwing weapons. When you throw a weapon you are attuned with, it returns to your hand after the attack is resolved.
+
+### Dancer Archetype
+At 3rd level, you choose a style which dictates your growth as a dancer. The Paragon focuses on mastering and pushing the limits of dance as an art. The Exoctic Wonder mixes blade work into their dance moves, mixing martial prowess with grace. The Peace Bringer seeks to bring succor and support to their allies in the heat of battle.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Uncanny Dodge
+Starting at the 5th level, when an attacker that you can see hits you with an attack, you can use your reaction to
+halve the attack's damage against you.
+
+### Evasion
+Beginning at the 7th level, you can nimbly dodge out of the way of certain area effects, such as a red dragon's fiery breath or an ice storm spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+### Motivating Mambo
+Beginning at the 10th level, you've learned how to empower your allies in the heat of battle via your dances. When you use the Help action you can expend one Dazzling Dance charge to add your Charisma modifier to their roll.
+
+Additionally, you may spend 1 Dazzling Dance charge to use the help action as a bonus action.
+
+### Bewildering Grace
+Beginning at the 13th level, as an action you perform a mysterious dance whose effects you cannot predict. Roll a d20 die and resolve the effect. Spells cast with Bewildering Grace do not consume spell slots. Non-spell effects from Bewildering Grace last one hour. You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.
+
+##### Bewildering Grace Effects
+| d20 | Effect |
+|:----:|:-------------|
+| 1  | You cast the Banishment spell on yourself. You cannot end the spell early, but return to where you were at the end of the spell duration. |
+| 2  | You become petrified for one round of combat. |
+| 3  | Lights and small magical explosions surround you in a visual effect. Nothing Happens. |
+| 4  | All creatures within a 20ft. radius centered on you make a Dexterity saving throw against your spell save DC or are knocked prone. You are excluded from this effect. |
+| 5  | All creatures within a 20ft. radius centered on you make a Wisdom saving throw against your spell save DC or become blinded. The creature may repeat the save at the end of each of their turns. You are excluded from this effect. |
+| 6  | All creatures within a 20ft. radius centered on you make a Constitution saving throw against your spell save DC or become poisoned. The creature may repeat the save at the end of each of their turns. You are excluded from this effect. |
+| 7  | You cast the Faerie Fire spell centered on you. You are excluded from this effect. |
+| 8  | You cast the *Cause Fear* spell on an ally within range. |
+| 9  | You cast the Invisibility spell. |
+| 10 | You cast the Hold Person spell. |
+| 11 | You cast the Magic Weapon spell. |
+| 12 | You cast the Mass Healing Word spell. |
+| 13 | You select a creature within 30ft. That creature must make a Constitution saving throw against your spell casting DC. On a failure they gain a level of exhaustion. |
+| 14 | You now have the maximum number of Dazzling Dance charges possible. |
+| 15 | You cast the Insect Plague spell. |
+| 16 | You cast the Mass Cure Wounds spell. |
+| 17 | You cast the Otto's Irresistable Dance spell. |
+| 18 | You care the Heal spell.|
+| 19 | You cast the Mordenkainen's Sword spell. |
+| 20 | You cast the Reverse Gravity spell. |
+
+### Spell Dancer
+Beginning at the 14th level, when you cast a spell you gain a number of Dazzling Dance charges equal to half the level (rounded down) of the expended spell slot. You do not gain Dazzling Dance charges from Bewildering Grace.
+
+### Stage Presence
+Beginning at the 18th level, you've become so accustomed to performing both for crowds and amongst the chaos of the battlefield, you are rarely caught unaware of your surroundings and can protect yourself from the tricks of assailants. Attackers cannot attack you with advantage unless you are under the conditions: grappled, incapacitated, paralyzed or petrified. Additionally when knocked prone, it only costs 5ft. of movement to get back up.
+
+### Rythmic Heart
+Beginning at the 20th level, when you roll initiative you gain 2 Dazzling Dance charges.
+
+## Dancer Spells
+##### 1st Level
+- Bane
+- Bless
+- Cause Fear
+- Compelled Duel
+- Cure Wounds
+- Detect Evil and Good
+- Expeditious Retreat
+- Faerie Fire
+- Fog Cloud
+- Healing Word
+- Heroism
+- Hex
+- Mage Armor
+- Protection from Evil and Good
+- Shield of Faith
+- Silent Image
+- Tasha's Caustic Brew
+- Witch Bolt
+
+##### 2nd Level
+- Barkskin
+- Blur
+- Calm Emotions
+- Charm Person
+- Crown of Madness
+- Dust Devil
+- Earthbind
+- Enhance Ability
+- Enlarge/Reduce
+- Gust of Wind
+- Hold Person
+- Invisibility
+- Lesser Restoration
+- Levitate
+- Magic Weapon
+- Maximilian's Earthen Grasp
+- Skywrite 
+- Spike Growth
+- Warding Wind
+- Web 
+
+##### 3rd Level 
+- Bestow Curse
+- Blink
+- Clairvoyance
+- Dispel Magic
+- Elemental Weapon
+- Fear
+- Fly
+- Gaesous Form
+- Haste
+- Hypnotic Pattern
+- Intellect Fortress
+- Major Image
+- Mass Healing Word
+- Melf's Minute Meteors
+- Mass Healing Word
+- Remove Curse
+- Revivify
+- Slow
+- Spirit Shroud
+- Wall of Sand
+- Wind Wall 
+
+##### 4th Level
+- Arcane Eye
+- Banishment
+- Compulsion
+- Confusion
+- Dominate Beast
+- Greater Invisibility
+- Otiluke's Resilient Sphere
+- Polymorph
+- Stone Shape
+- Stoneskin
+- Storm Sphere
+
+##### 5th Level
+- Animate Objects
+- Circle of Power
+- Control Winds
+- Dawn
+- Dispel Evil and Good
+- Dominate Person
+- Far Step
+- Greater Restoration
+- Hold Monster
+- Mislead
+- Skill Empowerment
+- Telekinesis
+- Tree Stride
+- Wall of Stone

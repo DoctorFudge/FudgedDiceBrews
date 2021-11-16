@@ -1,0 +1,41 @@
+### Path of the Tactician
+Nobles who follow the Path of the Tactician are often seen as entitled, lazy warlords, reaping the benefits of their allies’ labor. This couldn’t be farther from the truth. Tacticians lead from the sidelines, analyzing the battle and guiding others with erudition and strategy while keeping their distance from danger.
+
+#### Tactical Adaptability
+When you roll for initiative, you can switch your initiative roll with that of any ally you can see.
+
+#### Bonus Proficiencies
+You gain proficiency with martial weapons, with heavy armor, and with shields.
+
+#### Maneuvering Command
+Starting at 2nd level, you gain knowledge of tactical maneuvers that you can direct your allies to use in combat.
+
+**Maneuvers.** You know two maneuvers. You learn one additional maneuver at 6th, 11th, 14th and 17th level. You cannot use these maneuvers yourself. If the maneuver requires a saving throw, the DC is equal to 8 + your proficiency bonus + your Intelligence modifier.
+
+**Maneuver Dice.** You have four maneuver dice, which are d6s. As a bonus action, you can expend a maneuver die to cause an ally to use a maneuver that you know. If the ally has maneuver dice or a similar resource, increase the size of your maneuver die to match your ally’s die (from d6 to d8 for example). If the maneuver is not used in a number of rounds equal to your Intelligence modifier, the maneuver is lost.
+
+You regain all spent maneuver dice when you finish a long rest. You gain another maneuver die at 6th level and again at 14th level.
+- ***Disarm.*** A creature your ally has hit with a melee attack takes 1d6 extra damage and makes a Strength saving throw or drops one held item of your ally’s choice
+- ***Distract.*** On a successful hit with a melee weapon, your ally deals 1d6 extra damage. The next attack roll made by another creature against the same target before the start of your ally’s next turn has advantage.
+- ***Evade.*** When your ally starts moving they add +1d6 to their AC until they stop.
+- ***Feint.*** Your ally can use their bonus action to feint against one creature within 5 feet. Your ally has advantage on their next attack roll against that creature as long as it before the end of their turn. On a hit they deal 1d6 extra damage.
+- ***Goad.*** On a successful hit with a melee weapon, your ally deals 1d6 extra damage and the target makes a Wisdom saving throw or has disadvantage on targets other than your ally until the end your ally’s next turn.
+- ***Home In.*** Your ally adds 1d6 to a weapon attack roll.
+- ***Lunge.*** Your ally increases their reach by 5 feet for one attack, dealing 1d6 extra damage on a hit.
+- ***Maneuver.*** On a successful hit with a weapon attack, your ally deals 1d6 extra damage and chooses a friendly creature that can see and hear them. That creature can move half its speed by using its reaction. This movement does not provoke opportunity attacks from the target of your ally’s attack.
+- ***Menace.*** On a successful hit with a melee weapon, your ally deals 1d6 extra damage and the target makes a Wisdom saving throw or is frightened of them until the end of your ally’s next turn.
+- ***Push.*** On a successful hit with a melee weapon, your ally deals 1d6 extra damage and a target of Large size or smaller makes a Strength saving throw or is pushed 15 feet away.
+- ***Sweep.*** Your ally chooses a creature adjacent to their target and within their reach and on a hit, the adjacent creature takes 1d6 extra damage (of the same type as the weapon attack).
+- ***Trip.*** Your ally deals 1d6 extra damage and if the target is a creature of Large size or smaller, it makes a Strength saving throw or is knocked prone.
+
+#### Rules of Engagement
+Starting at 6th level, you and all of your allies within 30 feet of you add your Intelligence modifier to their initiative.
+
+#### Focused Fire
+Starting at 11th level, you can spend one maneuver die as a bonus action to select an enemy. Until the end of your next turn, creatures of your choice within 30 feet may deal extra damage equal to your maneuver die when they damage the chosen target.
+
+#### Renewed Superiority
+Starting at 14th level, you regain a number of maneuver dice equal to your Intelligence modifier (minimum 1) each time you take a short rest. You cannot exceed your normal maximum this way.
+
+#### Tactical Mastery
+At 17th level, you can effortlessly identify your enemies’ weaknesses. As a bonus action, you can spend any number of maneuver dice to expose a single creature’s fatal weakness. Until the end of your next turn, all weapon and spell attacks against that creature have advantage and deal 4 extra damage per maneuver die you spent.

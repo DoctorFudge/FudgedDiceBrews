@@ -1,0 +1,189 @@
+## Pugilist
+[**Source:** *The Sterling Vermin Anthology*](https://drive.google.com/file/d/1Ny8dWiwZ57q6lGtbyQUp_xOwmlx4Ty_m/view)
+
+Arrows rain down around her as she runs towards the hobgoblins. Desperate to close the distance, the half-orc fights through the sting of a dozen cuts to reach her foes. The pain only makes her stronger. As she descends on the snarling pack she swings wildly, knocking several hobgoblins off their feet and sending the rest scattering before her.
+
+The human braces himself for the impact as the orc rushes him. Then the monster makes a mistake, telegraphing its next move, and that's all the opening the human needs. He ducks beneath the orc's wide swing then raises both hands high above his head and brings them down on the orc's back, forcing the brute to the ground.
+
+The dwarf smiles broadly and chuckles as the petty noble raises his hand to strike him for the impudent remark. Quick as a flash, the dwarf shatters the bottle in his hand against the bar and brandishes it before the noble. The young dandy flinches, stumbles backward, and runs away as the dwarf turns back to the bar to order another round.
+
+Wherever they come from, pugilists live a rough and tumble life that leaves them full of determination and reckless, either from overconfidence or desperation. In a fight they can channel this strength of character to dig deep and fight off foes with greater strength of numbers, arms, or armor than anyone else would think possible.
+
+### Swagger for Days
+Pugilists unconsciously tap into their own inner strength in the form of moxie. This is not an esoteric or mystical energy that flows through the multiverse, but the result of determination forged over a lifetime of hardship with a never-say-die attitude. You can teach someone how to fight but you could never teach someone how to be a pugilist. The secret of mastering moxie doesn't come from disciplined study or rigorous training, it comes from years of wanting and needing.
+
+### Life on the Street
+Every city in the worlds of D&D has its back alleys, its underground fighting rackets, its ghettos. The pugilists who live in these places don't have time to consider the lofty ideals of philosophy or ponder the mysteries of the universe. The pugilists, growing up on the wrong side of the tracks, spend all their time chasing down their next meal or, if they're fortunate enough to have that, their next drink, bedfellow, or flophouse.
+
+For pugilists, becoming an adventurer might be the only way out of whatever miserable situation they've been stuck in since infancy. For others, getting lost out in the world is an escape from the tangled web of debt or enemies they've piled up. Other pugilists fight because it's the only thing they know how to do. Whatever the reason for their adventuring, pugilists are as excited by the prospect of throwing punches as they are spending every last gold coin they earn.
+
+### Hardship
+No one becomes as tough as a pugilist without enduring terrible hardship and persevering. For a pugilist, suffering is a catalyst that reveals their unbreakable spirit and strength. These hardships also influence a pugilist in other ways. If you were raised on the street, you might have a special interest in looking after the poor and destitute. If you were jailed for a crime you didn't commit, your relationship with the town guard might be more antagonistic than the average adventurer. Like so many other pugilists, your will was forged in the fires of adversity. What did you learn about yourself when you came out the other side? How does that experience continue to influence you today?
+
+##### Hardships
+| d6 | Hardship |
+|:---:|---|
+| 1 | A plague took your family when you were a child leaving you to spend the rest of your youth in an orphanage. |
+| 2 | You were harrassed by the town guard then framed for a crime you did not commit. |
+| 3 | You lost everything when a trusted friend betrayed you. |
+| 4 | Your parents sold you to the thieves guild for less than a gold piece. |
+| 5 | You drank your life away until you hit rock bottom and sobered up. |
+| 6 | You refused to throw a match at a gang boss’s insistence and your family ended up paying the price. |
+
+### Favorite Dive
+Every hard-fighting hero needs a refuge where they can relax and rejuvenate. For pugilists, these sanctuaries tend to be disreputable. You might head to your favorite dive to indulge in your vice of choice or fraternize with the common folk. Some pugilists find the only way they can truly unwind is by getting bloodied in a fight. Others have a quiet side that few outside their closest companions ever see.
+
+How long has your favorite dive been your go-to spot? Do you have any friends or rivals that frequent the same place?
+
+##### Dives
+| d6 | Favorite Dive |
+|:---:|---|
+| 1 | A seedy tavern where brawls break out on a nightly basis. |
+| 2 | An underground fight venue where people come to bet coin on the outcome. |
+| 3 | A barbershop where they're always eager to hear tales of your latest exploits. |
+| 4 | A high stakes gambling den with games of skill and chance. |
+| 5 | The orphanage you grew up in that was closed and abandoned some years ago. |
+| 6 | A quiet library. |
+
+#### Rumor
+Pugilists are frequent subjects of rumors and speculation. The combination of their resilience, might, and panache make them popular topics over a pint at the local tavern. Add to this most pugilists come from humble beginnings and it's easy to see why the public comes up with such colorful stories about them. Whether or not it's true, you have a particular rumor that follows you wherever you go. How do you feel about your reputation? Do you indulge rumormongers, or does the speculation about your background annoy you?
+
+##### Rumors
+| d6 | Rumor |
+|:---:|:---|
+| 1 | You got your prodigious strength from suckling milk at the teet of a giantess. |
+| 2 | You won a drinking competition against a dwarf...and then three more before the night was through. |
+| 3 | The town guards hate you as much as their spouses love you. |
+| 4 | You are an enforcer for one of the most powerful figures in the criminal underworld. |
+| 5 | You wrestled an owlbear to the ground with such ease you fell asleep during the tussle. |
+| 6 | Your daddy was an earth elemental which is why your bones are made of iron. |
+
+### Creating a Pugilist
+As you build your pugilist, consider how you came to be a bare knuckle brawler. Did you learn to fight to defend yourself? Was scraping the natural result of your nose for trouble? Or did you learn to fight as a way of intimidating and controlling others? Were you fighting for the entertainment, or did you fight because you had to? Did you try to become a more traditional martial artist but just couldn't hack it? Pugilists are a rowdy bunch that like to brag about how they learned to fight, so you better have a good story to tell.
+
+What events in your life gave you the sheer determination and will that pugilists call on? Did you spend every day hustling on the street to make ends meet? Were you forgotten and ignored by your family? Were you an outsider in your community who had to constantly struggle against the ignorant stereotypes the people there had of you? The most important element of the pugilist is that they are driven. Once you have decided what events made you into the pugilist you are today, decide how that may shape the actions you take in the future.
+
+#### Quick Build
+You can make a pugilist quickly by following these suggestions. First, make Strength your highest ability score, followed by Constitution. Second, choose the criminal or urchin background.
+
+##### The Pugilist
+| Level | Proficiency <br> Bonus | Fisticuffs | Moxie <br> Points | Features |
+|:---:|:---:|:---:|:---:|:---|
+| 1st | +2 | 1d6 | — | Fisticuffs, Iron Chin |
+| 2nd | +2 | 1d6 | 2 | Moxie, Street Smart |
+| 3rd | +2 | 1d6 | 2 | Bloodied but Unbowed, Fight Club |
+| 4th | +2 | 1d6 | 3 | Ability Score Improvement, Dig Deep |
+| 5th | +3 | 1d8 | 3 | Extra Attack, Haymaker |
+| 6th | +3 | 1d8 | 4 | Fight Club feature, Moxie-Fueled Fists |
+| 7th | +3 | 1d8 | 4 | Fancy Footwork, Shake It Off |
+| 8th | +3 | 1d8 | 5 | Ability Score Improvement |
+| 9th | +4 | 1d8 | 5 | Down but Not Out |
+| 10th | +4 | 1d8 | 6 | School of Hard Knocks |
+| 11th | +4 | 1d10 | 6 | Fight Club feature |
+| 12th | +4 | 1d10 | 7 | Ability Score Improvement |
+| 13th | +5 | 1d10 | 7 | Rabble Rouser |
+| 14th | +5 | 1d10 | 8 | Unbreakable |
+| 15th | +5 | 1d10 | 8 | Herculean |
+| 16th | +5 | 1d10 | 9 | Ability Score Improvement |
+| 17th | +6 | 1d12 | 9 | Fight Club feature |
+| 18th | +6 | 1d12 | 10 | Fighting Spirit |
+| 19th | +6 | 1d12 | 10 | Ability Score Improvement |
+| 20th | +6 | 1d12 | 12 | Peak Physical Condition |
+
+## Class Features
+As a pugilist, you gain the following class features.
+
+#### Hit Points
+- **Hit Dice:** 1d8 per pugilist level
+- **Hit Points at 1st Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per pugilist level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Light armor
+- **Weapons:** Simple weapons, improvised weapons, whip, hand crossbow
+- **Tools:** Your choice of one artisan's tools, gaming set, or thieves' tools
+___
+- **Saving Throws:** Strength, Constitution
+- **Skills:** Choose two skills from Acrobatics, Athletics, Deception, Intimidation, Perception, Sleight of Hand, and Stealth.
+-
+#### Equipment
+You start with the following equipment in addition to the equipment gained by your background:
+- (a) leather armor or (b) any simple weapon
+- (a) a dungeoneer's pack or (b) an explorer's pack
+- (a) a set of artisan's tools (b) a gaming set or (c) thieves' tools
+
+### Fisticuffs
+At 1st level, your years of fighting in back alleys and taverns have given you mastery over combat styles that use unarmed strikes and pugilist weapons, which are simple melee weapons without the two-handed property, whips, and improvised weapons. You may not use the finesse property of a weapon while using it as a pugilist weapon.
+
+You gain the following benefits while you are unarmed or using only pugilist weapons and you are wearing light or no armor and not using a shield:
+- You can roll a d6 in place of the normal damage of your unarmed strike or pugilist weapon. This die changes as you gain pugilist levels, as shown in the Fisticuffs column on the Pugilist table.
+- When you use the Attack action with an unarmed strike or a pugilist weapon on your turn, you can make one unarmed strike or grapple as a bonus action.
+
+### Iron Chin
+Beginning at 1st level, while you are wearing light or no armor and not wielding a shield, your AC equals 12 + your Constitution modifier.
+
+### Moxie
+Starting at 2nd level, your experience laying the beatdown on others has given you a moxie you can channel in the midst of battle. This swagger is represented by a number of moxie points. Your pugilist level determines the maximum number of points you have, as shown in the Moxie Points column of the Pugilist table.
+
+You can spend these points to fuel various moxie features. You start knowing three such features: Brace Up, The Old One-Two, and Stick and Move. You learn more moxie features as you gain levels in this class. You regain all expended moxie points when you complete a short or long rest.
+
+#### Brace Up
+You can use a bonus action and spend 1 moxie point to brace for attacks. Roll your fisticuffs die + your pugilist level + your Constitution modifier and gain that many temporary hit points.
+
+#### The Old One-Two
+Immediately after you take the Attack action on your turn, you can spend 1 moxie point to make two unarmed strikes as a bonus action.
+
+#### Stick and Move
+You can use a bonus action and expend 1 moxie point to make a shove attack or take the Dash action.
+
+### Street Smart
+Beginning at 2nd level, carousing, shadowboxing, and sparring all count as light activity for the purposes of resting for you. Additionally, once you have caroused in a settlement for 8 hours or more, you know all public locations in the city as if you were born and raised there and you cannot be lost by non-magical means while within the city.
+
+### Bloodied But Unbowed
+Starting at 3rd level, when you take damage that reduces you to half your maximum hit points or less, you can use your reaction to gain temporary hit points equal to your pugilist level + your Constitution modifier and you regain all expended moxie points. You cannot use this feature again until you finish a short or long rest.
+
+### Fight Club
+Starting at 3rd level, you choose a fight club that best exemplifies your style: Arena Royale, Bloodhound Bruisers, Dog & Hound, Hand of Dread, Piss & Vinegar, the Squared Circle, or the Sweet Science, all detailed at the end of the class description. Your fight club grants you features at 3rd level and again at 6th, 11th, and 17th level.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Dig Deep
+Starting at 4th level, you discover a strength inside you that can't be broken. As a bonus action, you gain resistance to bludgeoning, piercing, and slashing damage for one minute. At the end of that minute you gain a level of exhaustion.
+
+### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+### Haymaker
+Starting at 5th level, before you make an attack that does not already have disadvantage, you can declare you are swinging wild haymakers. You make all weapon attack rolls until the end of this turn with disadvantage and when you deal damage with a pugilist weapon or an unarmed strike you do not roll for the weapon's damage die, but use the maximum die result instead.
+
+### Moxie-Fueled Fists
+Starting at 6th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to non-magical attacks and damage.
+
+### Fancy Footwork
+At 7th level, you gain proficiency in Dexterity saving throws.
+
+### Shake It Off
+Starting at 7th level, you can use your action to end one effect on yourself that is causing you to be charmed or frightened.
+
+### Down But Not Out
+At 9th level, when you use your Bloodied But Unbowed feature you can choose to also use this feature. If you do, you add your proficiency bonus to your damage with unarmed attacks and pugilist weapons for the next minute. You can use this feature again after you complete a long rest.
+
+### School of Hard Knocks
+By 10th level, you've graduated top of the class at the school of hard knocks and you took most of them on the head. You have resistance to psychic damage and gain advantage on saving throws against effects that would make you stunned or unconscious.
+
+### Rabble Rouser
+Starting at 13th level, word of your exploits travels quickly in cities and other settlements. Once you have taken a long rest by carousing in a settlement, you gain advantage on all Charisma (Persuasion) and Charisma (Intimidation) rolls made against the people who live there.
+
+### Unbreakable
+Starting at 14th level, you gain advantage on Strength, Dexterity, and Constitution saving throws. Additionally, whenever you make a saving throw and fail, you can spend 1 moxie point to reroll it and take the second result.
+
+### Herculean
+At 15th level, your carrying capacity is doubled, and when you deal damage with a melee weapon or unarmed strike to an inanimate object that damage is doubled. Your standing jump distance is the same as your running start jump distance.
+
+### Fighting Spirit
+Starting at 18th level, when you have 4 levels of exhaustion or fewer and are reduced to 0 hit points, you regain half of your maximum hit points, half of your maximum moxie points, and gain a level of exhaustion. You cannot use this feature again until you finish a long rest.
+
+### Peak Physical Condition
+At 20th level, your Strength and Constitution ability scores increase by 2 to a maximum of 22. Additionally, when you take a long rest you recover 2 levels of exhaustion instead of 1 and you regain all your expended hit dice instead of half your expended hit dice.

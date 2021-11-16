@@ -1,0 +1,118 @@
+## Skinwalker
+[**Source:** *Skinwalker*](https://homebrewery.naturalcrit.com/share/M56U750sk)
+
+Most people believe skinwalkers are half-breeds of lycanthropes, or that they share some slight version of the curse of those creatures. Skinwalker shamans say they are chosen by nature or the gods to be a bridge between the world of humanity and the animal world. The truth may lie somewhere between these two ideas. For indeed, skinwalkers are those with a lycanthrope crouching somewhere in the branches of their family tree. These distant progeny of monstrous werewolves and other creatures of the night have special talents unlike those of most civilized peoples, and they arise randomly among remote humanoid populations as well as within their own secretive sects. A pair of humans may give birth to a skinwalker—the dormant lycanthropic ancestry making itself known in a child neither beast nor human—or a pair of skinwalker parents may produce a skinwalker child, though these couplings can sometimes produce human children as well.
+
+Skinwalkers resemble humans much of the time, but they possess the uncanny ability to transform into bestial humanoids who combine the most fearsome aspects of flesh and fur.
+
+#### Skinwalker Racial Traits
+***Size.*** Medium.
+
+***Type.*** Humanoid (human, shapechanger).
+
+***Speed.*** 30 feet.
+
+***Age.*** Skinwalkers are considered adults in their early teens and live a few decades short of a century
+
+***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can’t discern color in darkness, only shades of gray.
+
+***Silver Aversion.*** Skinwalkers are allergic to silver. They grow uncomfortable using it or wearing it. For every hour the skinwalker makes physical contact with a silver, it gains one level of exhaustion.
+
+***Skin Walking.*** A skinwalker can change shape into a bestial form as a bonus action. A skinwalker may also enter this state as a reaction if they take damage that leaves you with less than half your maximum hit points. This bestial state is similar in function to the Alter Self spell: You grow claws, fangs, spines, horns, or a different natural weapon as specified. Your unarmed strikes deal 1d6 bludgeoning, piercing, or slashing damage, as appropriate to the natural weapon you chose, and you are proficient with your unarmed strikes. While transformed, you cannot cast spells.
+
+At 5th level the natural weapon is magic and you have a +1 bonus to the attack and damage rolls you make using it. While in bestial form, a skinwalker has disadvantage on any charisma based checks other than intimidation while interacting with humanoids that lack the shapechanger subtype. This power ends after one minute. Once you have used this power you may not use it again until you take a long rest. It reverts to its true form if it dies.
+
+***Languages.*** You can speak, read, and write Common. You know an additional language which depends on you background.
+
+***Subrace.*** Choose a subrace.
+
+#### Bloodmarked (Werebat-kin)
+***Ability Score Increase.*** Your Dexterity score increases by 1 and your Intelligence score increases by 1.
+
+***Winged.*** You posses a pair of subtle wings between your arms that allow you to glide at a speed of 20 feet per round. You must end the round of the ground otherwise you will fall at the end of the round. The wings are leathery, like a bat.
+
+##### Skin Walking.
+While skin walking:
+- ***Fanged.*** You grow fangs that deal 1d6 piercing damage.
+- ***Winged.*** Your wings grow stronger and instead grant you a fly speed equal to half your base speed.
+- ***Keen Hearing.*** You have advantage on Wisdom (Perception) checks that rely on hearing.
+
+#### Coldborn (Werebear-kin)
+***Ability Score Increase.*** Your Constitution score increases by 1 and your Strength increases by 1..
+
+***Thick Hide.*** After every short rest you gain temporary hp equal to your proficiency bonus.
+
+##### Skin Walking.
+While skin walking:
+- ***Maw.*** You grow a maw that deals 1d6 piercing damage.
+- ***Clawed.*** You grow claws that deal 1d6 slashing damage.
+- ***Thickened hide.*** If your hp is reduced to below half while you are skin walking you can choose gain temporary hp equal to twice your proficiency bonus. If you do, once your transformation has ended, you gain one level of exhaustion.
+- ***Keen Smell.*** You have advantage on Wisdom (Perception) checks that rely on smell.
+
+#### Fanglord (Weretiger-kin)
+
+***Ability Score Increase.*** Your Dexterity score increases by 1 and your Charisma score increases by 1.
+
+***Fleet of Foot.*** Your base walking speed increases to 35 feet.
+
+##### Skin Walking.
+While skin walking:
+- ***Maw.*** You grow a bite attack that deals 1d6 piercing damage.
+- ***Clawed.*** You grow claws that deal 1d6 slashing damage.
+- ***Pouncer.*** If you move at least 20 feet straight toward a creature and then hit with a claw attack on the same turn, that target must succeed on a Strength saving throw or be knocked prone. The DC is equal to your passive Strength (Athletics) check.
+
+#### Gorebrute (Wereboar-kin)
+***Ability Score Increase.*** Your Constitution score increases by 1 and your Strength score increases by 1.
+
+***Charger.*** If you move at least 20 feet straight toward a target and then hit it with a melee attack on the same turn, you may also shove that creature 5 ft from you as a bonus action.
+
+##### Skin Walking.
+While skin walking:
+- ***Tusked.*** You grow a tusks that deals 1d6 slashing damage.
+- ***Relentless.*** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
+- ***Keen Smell.*** You have advantage on Wisdom (Perception) checks that rely on smell.
+
+#### Nightskulk (Wererat-kin)
+***Ability Score Increase.*** Your Dexterity score increases by 1 and your Intelligence score increases by 1.
+
+##### Skin Walking.
+While skin walking:
+- ***Maw.*** You grow a bite attack that deals 1d6 piercing damage.
+- ***Keen Smell.*** You have advantage on Wisdom (Perception) checks that rely on smell.
+
+#### Scaleheart (Werecrocodile-kin)
+***Ability Score Increase.*** Your Strength score increases by 1 and your Intelligence score increases by 1.
+
+***Of the Lagoon.*** You can hold your breath for twice as long as normal.
+
+***Menacing.*** You gain proficiency in the Intimidation skill.
+
+##### Skin Walking.
+While skin walking:
+- ***Maw.*** You grow a bite attack that deals 1d6 piercing damage.
+- ***Relentless.*** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
+- ***Swimmer.*** You gain a Swim speed equal to your base speed.
+- ***Death Roll.*** If you hit a creature with your bite it must succeed on a Strength saving throw or be grappled. The DC is equal to your passive Strength (Athletics) check.
+
+#### Seascarred (Wereshark-kin)
+***Ability Score Increase.*** Your Strength score increases by 1 and your Constitution score increases by 1.
+
+***Of the Sea.*** You can hold your breath for twice as long as normal.
+
+##### Skin Walking.
+While skin walking:
+- ***Maw.*** You grow a bite attack that deals 1d6 piercing damage.
+- ***Relentless.*** When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can’t use this feature again until you finish a long rest.
+- ***Swimmer.*** You gain a Swim speed equal to your base speed.
+- ***Gilled.*** You sprout gills and gain the ability to breath underwater.
+- ***Blood Frenzy.*** You gain a bonus to melee damage rolls against creatures below half hit points equal to half your proficiency bonus rounded down.
+
+#### Witchwolf (Werewolf-kin)
+***Ability Score Increase***. Your Strength score increases by 1 and your Wisdom score increases by 1.
+
+##### Skin Walking.
+While skin walking:
+- ***Maw.*** You grow a bite attack that deals 1d6 piercing damage.
+- ***Clawed.*** You grow claws that deal 1d6 slashing damage.
+- ***Tripper.*** If you hit with your bite attack you can take a bonus action to shove that creature to knock it prone. (Contest your Strength (Athletics) check vs their Strength (Athletics) or Dexterity (Acrobatics) check).
+- ***Keen Hearing and Smell.*** You have advantage on Wisdom (Perception) checks that rely on hearing or smell.

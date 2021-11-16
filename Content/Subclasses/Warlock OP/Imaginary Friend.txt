@@ -1,0 +1,32 @@
+### The Imaginary Friend
+[**Source:** *Otherworldly Patron: Imaginary Friend*](https://www.gmbinder.com/share/-L7qUjk1tt6j-rTwDf2I)
+
+If you ask any cleric, they will tell you that belief is a powerful thing. Most imaginary friends appear when their warlocks are children and become powerful beings of magical energy when the child believes in them for a long enough time. Unlike most patrons, imaginary friends do not want something in return for their power. They just want to protect their creator for as long as they can, and they are not easy to get rid of. They are extremely protective of their charge. The stronger the bond, the more dangerous the patron becomes.
+
+#### Expanded Spell List
+The Imaginary Friend lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+| Spell Level | Spell |
+| :-: | :-- |
+| 1st | <em>dissonant whispers, false life</em> |
+| 2nd | <em>see invisibility, warding bond</em> |
+| 3rd | <em>phantom steed, spirit guardians</em> |
+| 4th | <em>greater invisibility, Mordenkainen's faithful hound</em> |
+| 5th | <em>Bigby's hand, Rary's telepathic bond</em> |
+
+#### Patron's Companionship
+Differing from other patrons, imaginary friends are always nearby and reaching out to their warlocks. Your patron is always within 30 feet of you, or 5 feet when you're in combat. They can only be observed and interacted with by you and other warlocks with this feature, unless they choose not to be. They can speak and read all languages you understand. Your patron can also interact with the environment around them in minor ways when no other creature can see you and is within 100 feet of you.
+
+#### Friendly Assistance
+Starting at 1st level, your patron can help you with difficult tasks. Choose 2 skills that you are not proficient with that are not Charisma skills. When you make a skill check with either of these skills, you can add your Charisma modifier (minimum of 1) to the roll. You can do this a number of times equal to your Charisma modifier. You regain expended uses after you finish a short or long rest.
+
+#### Guardian Patron
+At 6th level, your patron can protect you from damage. When an enemy makes an attack roll against you, you can raise your AC by your Charisma modifier as a reaction. This lasts until the start of your next turn. Once you use this feature, you cannot use it again until you finish a short or long rest.
+
+Additionally, enemies no longer gain advantage on their attack rolls against you through pack tactics or similar flanking abilities.
+
+#### Scornful Presence
+When you reach 10th level, the presence of your patron makes you feel safer and more comfortable with your surroundings, granting you immunity to the frightened condition. When another creature attempts to frighten you, you can use your reaction to make the frightening creature briefly see your patron, forcing it to make a Wisdom saving throw against your warlock spell save DC or become frightened by you for 1 minute or until it takes damage.
+
+#### Protector's Vengeance
+Beginning at 14th level, your patron can now retaliate against any foe that harms you. When you attack any target that has made an attack roll against you within the last minute, the target is also attacked by your patron, taking 10d8 force damage and it must succeed on a Strength saving throw against your Warlock spell save DC or be thrown back 20 feet and knocked prone. You cannot use this feature again until you finish a long rest.

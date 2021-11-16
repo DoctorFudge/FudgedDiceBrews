@@ -1,0 +1,136 @@
+### Vermilion Troubadour
+[**Source:** *Roguish Archetype: Vermilion Troubadour*](https://homebrewery.naturalcrit.com/share/1hFh81vQIr6wnwKyGjBqvWhUIGau58kUFpRjpyf7nbbyF)
+On the eastern edge of Abalathia's Spine lies the mountainous region of Gyr Abania.
+
+It is in these elevated lands that people took shelter, when a burning star guided them away from the Sixth Umbral Calamity's treacherous floodwaters. The survivors gathered from near and far, and amongst them were refugees of the sorcerous cities of Mhach and Amdapor.
+
+These sworn enemies buried their history for the sake of the future, and cast aside their vestments of black and white. Upon the remnants of their arts a new discipline was built, and the first red mages stepped forward with rapiers in hand to fight back against the rising tides of destruction.
+
+Some rogues enhance their fine-honed skills of stealth and agility with this magic, combining the power of both Black and White magic. These rogues include performers and healers, but also mischief-makers and a significant number of adventurers.
+
+##### Vermilion Troubadour Spellcasting
+| Class  | Cantrips | Spells  |--- Spells Slots per Spell Level ---||||
+| Level ^| Known   ^| Known  ^|   1st   |   2nd   |   3rd   |   4th   |
+|:------:|:--------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+|  1st   |    —     |    —    |    —    |    —    |    —    |    —    |
+|  2nd   |    —     |    —    |    —    |    —    |    —    |    —    |
+|  3rd   |    3     |    3    |    2    |    —    |    —    |    —    |
+|  4th   |    3     |    4    |    3    |    —    |    —    |    —    |
+|  5th   |    3     |    4    |    3    |    —    |    —    |    —    |
+|  6th   |    3     |    4    |    3    |    —    |    —    |    —    |
+|  7th   |    3     |    5    |    4    |    2    |    —    |    —    |
+|  8th   |    3     |    6    |    4    |    2    |    —    |    —    |
+|  9th   |    3     |    6    |    4    |    2    |    —    |    —    |
+|  10th  |    4     |    7    |    4    |    3    |    —    |    —    |
+|  11th  |    4     |    8    |    4    |    3    |    —    |    —    |
+|  12th  |    4     |    8    |    4    |    3    |    —    |    —    |
+|  13th  |    4     |    9    |    4    |    3    |    2    |    —    |
+|  14th  |    4     |    10   |    4    |    3    |    2    |    —    |
+|  15th  |    4     |    10   |    4    |    3    |    2    |    —    |
+|  16th  |    4     |    11   |    4    |    3    |    3    |    —    |
+|  17th  |    4     |    11   |    4    |    3    |    3    |    —    |
+|  18th  |    4     |    11   |    4    |    3    |    3    |    —    |
+|  19th  |    4     |    12   |    4    |    3    |    3    |    1    |
+|  20th  |    4     |    13   |    4    |    3    |    3    |    1    |
+
+#### Spellcasting
+When you reach 3rd level, you gain the ability to cast spells. See chapter 10 for the general rules of spellcasting and the bottom of this brew for your spell list.
+:
+***Cantrips.*** You learn three cantrips of your choice from the Vermilion Troubadour spell list. You learn another cantrip of your choice at 10th level.
+
+***Spell Slots.*** The Vermilion Troubadour Spellcasting table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+For example, if you know the 1st-level spell cure wounds and have a 1st-level and a 2nd-level spell slot available, you can cast cure wounds using either slot.
+
+***Spells Known of 1st-Level and Higher.*** You know three 1st-level Vermilion Troubadour spells of your choice. Whenever you gain a level in this class, you can replace one the Vermilion Troubadour spells you know with another spell of your choice from the Vermilion Troubadour spell list.
+
+***Spellcasting Ability.*** Charisma is your spellcasting ability modifier for your Vermilion Troubadour spells, since the power of your magic relies on your ability to project your will and sense of flair unto the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a Vermilion Troubadour spell you cast and when making an attack roll with one.
+
+**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
+
+**Spell attack modifier** = your proficiency bonus + your Charisma modifier
+
+***Spellcasting Focus.***
+You can use an arcane focus as a spellcasting focus for your Vermilion Troubadour spells.
+
+#### Corps-a-Corps
+Starting at 3rd level, you gain proficiency in the **Performance** skill. In addition, you also gain an extra way to use your sneak attack, as seen below:
+
+At any point during your turn, you designate a creature within 30 feet of you (no action required) and move towards them. If you move at least 30 feet straight toward the designated creature and then hit it with a melee attack on the same turn, you don't need advantage on the attack roll to use your Sneak Attack against the creature if you are within 5 feet of it and don't have disadvantage in the attack roll. All other rules for Sneak Attack still apply to you. You can use Corps-a-Corps once per turn.
+
+While moving in this way, you do not provoke attacks of opportunity.
+
+#### Dual-Cast
+Beginning at 9th level, you learn how to increase the speed at which you can cast spells exponentially. As a bonus action, you can activate this ability: This turn, you can take one additional action. This action can only be used to cast Vermilion Troubadour spells. 
+
+You can use Dual-Cast a number of times equal to your Charisma modifier, and regain all expended uses when you finish a long rest.
+
+#### Displacement
+Starting at 13th level, you learn a technique to launch yourself away from an opponent. When you use your **Corps-a-Corps** feature, you can use your reaction after making an attack to jump backwards up to 30 feet. As part of this reaction, you can also cast one cantrip available to you before or after jumping. The cantrips normal cast time must be a bonus action or action to be used with **Displacement**.
+
+This movement does not provoke attacks of opportunity.
+
+#### Zwerchhau
+Starting at 17th level, you learn to overwhelm opponents with a barrage of attacks. When you make an attack as part of your action, you can use your bonus action to make two additional attacks. You can use this bonus action only if you haven’t moved during this turn. After you use **Zwerchhau**, your speed is 0 until the end of the current turn. 
+
+You can use **Zwerchhau** six times, and regain all expended uses when you finish a short or long rest.
+
+### Vermilion Troubadour Spell List
+
+##### Cantrips (0 Level) 
+- Acid Splash
+- Blade Ward
+- Booming Blade
+- Fire Bolt
+- Frostbite
+- Guidance
+- Light
+- Mage Hand
+- Mending
+- Resistance
+- Sacred Flame
+- Vicious Mockery
+
+##### 1st Level 
+- Absorb Elements
+- Bane
+- Burning Hands
+- Chromatic Orb
+- Command
+- Cure Wounds
+- Detect Magic
+- Faerie Fire
+- Healing Word
+- Identify
+- Magic Missile
+- Sleep
+
+##### 2nd Level 
+- Aganazzar's Scorcher
+- Aid
+- Blindness/Deafness
+- Cloud of Daggers
+- Enhance Ability
+- Gentle Repose
+- Gust of Wind
+- Invisibility
+- Melf's Acid Arrow
+- Scorching Ray
+
+##### 3rd Level 
+- Ashardalon's Stride
+- Aura of Vitality
+- Dispel Magic
+- Erupting Earth
+- *[Fleche](https://homebrewery.naturalcrit.com/share/1PDUgdPYoli0vOsU9LPSloDIwBhZSEK735QgIu9Te1_2t)*
+- Haste
+- Lightning Bolt
+- Mass Healing Word
+- Revivify
+
+##### 4th Level
+- Confusion
+- Raulothim's Psychic Lance
+- Stoneskin
+- Stone Shape
+- Storm Sphere
+- Watery Sphere

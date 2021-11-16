@@ -1,0 +1,16 @@
+### Peace Bringer
+You've learned to effectively wield restorative spells while dancing across the battle field. Offering relief and joy in even the worst situations.
+
+#### Succor Swing
+Beginning at 3rd level, your magical dances are capable of healing wounds. You have a pool of healing power that replenishes when you take a long rest. With that pool, you can restore a total number of hit points equal to your Dancer level × 5.
+
+As an action, you can perform for a creature within 5ft. of you and draw power from the pool to restore a number of hit points to that creature, up to the maximum amount remaining in your pool.
+
+#### Refreshing Round
+Beginning at the 6th level, you've further developed your healing abilities. When you use your Succor Swing feature, you may target any number of creatures within 10ft. of you.
+
+#### Safe Haven Hop
+Beginning at the 11th level, you may select Aura of Life, Aura of Purity or Aura of Vitality and cast it without spending a spell slot. You can use this feature a number of times equal to half your Charisma modifier, rounded down (a minimum of once). You regain any expended uses when you finish a long rest.
+
+#### The Solace Swing
+Beginning at the 15th level, you may spend Dazzling Dance charges to restore your pool of healing power. For each point spent you recover points to your pool equal to your Charisma modifier.

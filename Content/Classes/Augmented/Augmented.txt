@@ -1,0 +1,301 @@
+## Augmented
+[**Source:** *The Augmented*](https://drive.google.com/drive/folders/1dO74PLQ4fp-69nifVd--MCwZwTRLU3E7)
+
+Lightning crackling, held in her mechanical fist, a female dwarf stands with head held high against a cohort of orcish war scouts tearing down a mountainside. Her tabard flutters as she nimbly dodges the blade swung by the first, pulling her momentum around and hammering her metal arm into the second with a bone-splintering crunch. As the orc deflates under the blow, the fist sparks and unleashes the fury of its arcane engine, delivering a megavolt of energy straight to the orc's skeleton. The orc writhes, then crumples to the ground, twitching wildly before the gaze of his worried companions.
+
+A halfling wearing a leather vest inspects her metallic forearm, squinting a single crystalline eye as she tightens a bolt using a wrench held in her other hand. She presses the open panel on her arm shut with a satisfying click, then stands up, extending the arm forward towards an empty bottle resting on a windowsill. In a single fluid motion a crossbow pops out of the arm and fires a lethal bolt. The bottle and the window behind it explode in a tinkling shower of glass, and the halfling frowns. Popping open the panel again, she begins once again to recalibrate the crossbow's tension.
+
+Clad in an immaculate blue military uniform, a male human grits his teeth as energy arcs along his back and arm, the light silhouetting him against the shape of an immense stone golem towering over him. He bellows out a roar that rings in his ears, charging forward to strike at the construct. The golem wheels around and swings a mighty arm, thick as a wagon, which slams into the human with gut-wrenching force. Yet as the golem presses the blow downwards, the human holds his ground, the gigantic stone fist grinding against a flickering energy barrier.
+
+Augmented are those who have broken down the barriers between man and machine, building magical technology into themselves to achieve what mere flesh can not. Inventors, visionaries, devotees, and mad scientists, augmented utilize arcane science to power their abilities, drawing from etheric reactors they install within the upgrades that make up their new form. The arcane technology utilized by an augmented can be used to shield allies from harm behind translucent barriers, scythe through enemy ranks with merciless optic lasers, and steal secrets directly from the minds of those they touch.
+
+### Ancients, Acolytes, & Artisans
+To many of the mortal races, technology has been a reliable and effective method to improving their quality of life. It is not, however, immune to the ravages of time.
+
+Countless ancient civilizations have uncovered technological truths that have been lost to time's relentless march, the secrets of artificial self-improvement among them. Owing to this loss, there arose those who believe that science, being one of the mortal races' chief gambits against mortality, can not be allowed to die. Codified in cults and religions such as the worship of Gond, Vulcan, and Onatar, these individuals protect the scientific secrets of old, and develop new and exciting methods of technological improvement. Independent of this are mechanics, technologists, and artisans, whose only loyalties lie with scientific truth and pushing the bleeding edge of the frontiers of knowledge.
+
+From any of these sources, an augmented may arise. An adventurer may find a relic of arcane technology and choose to tinker and integrate with it. A worshipper of a technological god may decide to physically bond themselves with their research as an ultimate sacrament. An engineer may cast off society's norms and choose to rebuild themselves better than they were born. In all these cases and more, the individual has become an augmented, a creature neither purely mortal nor machine.
+
+### Machine, Muscle, & Mind
+An augmented works tirelessly to understand the limits of their body, to push themselves as much as they can, and then use what they have learned to improve upon their body's base design. Augmented adapt themselves based on their experiences, growing to fit the situations they have come to expect. Not just a scholar or a warrior, an augmented is an intersection of applied arcane knowledge, a middle ground between technician, soldier, and mage.
+
+Most augmented are naturally gifted, driven, and notably eccentric. Only a very particular kind of individual chooses to become an augmented, someone with a strong need that outstrips the abilities of their body, and the means and know-how to do something about it. In the face of such a need, all else is secondary to the augmented, and trivial concerns (such as jeopardizing one's own mortality) are often quickly forgotten.
+
+> ##### Warforged and Augmented
+> Perhaps the single most common type of augmented are the warforged that choose this path. Rather than replace flesh with technology, a warforged merely upgrades the technology that is already present, improving the framework and harnessing the arcane power of their own lifeforce.
+>
+> While most of the language in this class speaks to flesh-and-blood mortal races upgrading their beings, there is nothing stopping any of this from applying to a warforged. A warforged is considered to start with one battlefist, but requires additional form upgrades to harness their internal arcane energy directly in the separate locations of their body.
+
+### Creating an Augmented
+When you create your augmented character, consider your reasons for choosing to augment yourself. Most augmented became such to achieve some grander objective, some goal their original flesh was too weak to achieve. To what end have you chosen to improve upon your original design? Do you consider this an improvement, or a sacrifice? How do you deal with the apprehension and sidelong glances you encounter from the majority of those you encounter?
+
+Also worth considering is where you learned the craft required to make yourself augmented in the first place. Did you have formal training or were you a mechanical prodigy? If your training came from a school or organization, what was its nature, and who did you study under? Is your augmentation considered by your peers to be a rational act of self perfection, a dangerous act of rebellion, or an eccentric experiment? And finally, what chain of events has brought you to your present life, that of a wandering adventurer, seeking whatever goals you may have in the wider world?
+
+#### Quick Build
+You can make an augmented quickly by following these suggestions. First, Strength or Dexterity should be your highest ability score, followed by Intelligence and then Constitution. Second, select the guild artisan background. Third, choose voltaic strike as your Battlestrike, and Strengthening Servos as your first Augmentation.
+
+##### The Augmented
+| Level | Proficiency Bonus | Features | Augments | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
+|:-:|:-:|:-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1st | +2 | Amalgamated Being, Augmentation | 1 | — | — | — | — | — | — |
+| 2nd | +2 | Battlestrike, Fighting Style, Spellcasting | 1 | 2 | 2 | — | — | — | — |
+| 3rd | +2 | Integration, Prime Directive | 2 | 3 | 3 | — | — | — | — |
+| 4th | +2 | Ability Score Improvement, Additional Battlestrike | 2 | 3 | 3 | — | — | — | — |
+| 5th | +3 | Battlestrike damage (1d8), Extra Attack, Form Upgrade | 3 | 4 | 4 | 2 | — | — | — |
+| 6th | +3 | Prime Directive feature | 3 | 4 | 4 | 2 | — | — | — |
+| 7th | +3 | — | 4 | 5 | 4 | 3 | — | — | — |
+| 8th | +3 | Ability Score Improvement | 4 | 5 | 4 | 3 | — | — | — |
+| 9th | +4 | Form Upgrade | 5 | 6 | 4 | 3 | 2 | — | — |
+| 10th | +4 | Additional Battlestrike | 5 | 6 | 4 | 3 | 2 | — | — |
+| 11th | +4 | Battlestrike damage (2d8), Integration Improvement | 5 | 7 | 4 | 3 | 3 | — | — |
+| 12th | +4 | Ability Score Improvement, Form Upgrade | 6 | 7 | 4 | 3 | 3 | — | — |
+| 13th | +5 | — | 6 | 8 | 4 | 3 | 3 | 1 | — |
+| 14th | +5 | More Machine Than Man, Prime Directive feature | 6 | 8 | 4 | 3 | 3 | 1 | — |
+| 15th | +5 | Form Upgrade | 7 | 9 | 4 | 3 | 3 | 2 | — |
+| 16th | +5 | Ability Score Improvement | 7 | 9 | 4 | 3 | 3 | 2 | — |
+| 17th | +6 | Battlestrike damage (3d8) | 7 | 10 | 4 | 3 | 3 | 3 | 1 |
+| 18th | +6 | — | 8 | 10 | 4 | 3 | 3 | 3 | 1 |
+| 19th | +6 | Ability Score Improvement | 8 | 11 | 4 | 3 | 3 | 3 | 2 |
+| 20th | +6 | Transcendent | 8 | 11 | 4 | 3 | 3 | 3 | 2 |
+
+> ##### Clerics of Forge and Technology
+> Clerics with a god of technological production may wish to multiclass as an augmented, applying the divine scriptures of artificial creation to their own bodies.
+>
+> For such clerics, the knowledge required to modify themselves into augmented may be a matter of religious dogma, rather than arcane study. If this is the case (and with permission from the DM), such clerics may replace all instances of Intelligence used by the augmented with Wisdom, thus requiring Wisdom for multiclassing into augmented and allowing augmented spells to be cast with Wisdom rather than Intelligence.
+
+## Class Features
+As an augmented, you gain the following class features.
+#### Hit Points
+___
+- **Hit Dice:** 1d10 per augmented level
+- **Hit Points at 1st Level:** 10 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per augmented level after 1st
+
+#### Proficiencies
+___
+- **Armor:** All armor, shields
+- **Weapons:** Simple weapons, martial weapons
+- **Tools:** Choose one from smith's tools or tinker's tools
+
+___
+- **Saving Throws:** Constitution, Intelligence
+- **Skills:** Choose two from Arcana, Athletics, Intimidation, Investigation, Medicine, Perception, and Stealth
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- A battlefist
+- *(a)* a shield, *(b)* a shortsword, or *(c)* a warhammer
+- *(a)* leather armor, *(b)* a chain shirt, or *(c)* chain mail
+- *(a)* a set of smith's tools or *(b)* a set of tinker's tools
+- *(a)* a dungeoneer's pack or *(b)* a scholar's pack
+- A hand crossbow and a quiver of 20 bolts
+
+### Amalgamated Being
+You have become something new, neither a mere living being nor entirely a construct. Your unique state as a living mechanical creature comes with several benefits.
+
+### Battlefist
+You have a battlefist, a robotic construct arm that replaces one arm of your choice. Your battlefist can hold items, weapons, or shields and grapple creatures just as a normal hand can, but it when it is not holding an object it can also be used to make a melee weapon attack that deals 1d6 bludgeoning damage on a hit.
+
+When making this attack using your battlefist, treat it as a melee weapon with the light and finesse properties, adding your proficiency bonus to its rolls to hit.
+
+> ##### Augmented and Multiclassing
+> Becoming an augmented after taking a 1st level in another class is somewhat more complicated than multiclassing into other classes, owing to how one becomes an augmented in the first place. A battlefist must be found or created, an arm may have to be removed, and the battlefist must be installed in its place. A battlefist can be crafted with smith's tools or tinker's tools using the downtime rules on page 187 of the Player's Handbook, and is considered to be an item worth 1,000 gp for this purpose.
+>
+> Beyond that requirement, multiclassing as an augmented requires an Intelligence score of at least 13 and either a Strength or Dexterity score of at least 13. Multiclassing into the augmented class grants the armor, weapon, and tool proficiencies associated with the class, but no others.
+>
+> Similar to the paladin and ranger, the augmented is a half-caster. When determining spell slots from multiclassing, apply half your augmented levels (rounded down) to the Multiclass Spellcaster table on page 165 of the Player's Handbook.
+
+#### Construct Nature
+You are considered a construct, in addition to any other creature types you have. If a spell, ability, or item would be able to affect one of your creature types, it can affect you.
+
+#### Repairs
+When you take a short rest with a creature that is proficient with smith's tools or tinker's tools, or that knows the *mending* cantrip, that creature can choose to spend their short rest repairing you. You can also repair yourself over a short rest, should you meet one of these requirements.
+
+During this process, you can expend hit dice as normal for a short rest. While you are being repaired, you can reroll a number of hit dice you choose, up to half your augmented level (round up). These dice can only be rerolled once, and you must use their new result.
+
+### Augmentation
+As a creature of flesh and technology, you have the ability to continually improve the mechanical parts of your being, adding features that enhance your capabilities.
+
+You gain one augment, which you can find listed in their section near the end of this class option. Augments may have requirements which must be met before taking them. When you gain certain augmented levels, you gain additional augments of your choice, as shown in the Augments column of the Augmented table.
+
+Additionally, when you take a long rest or gain a level in this class, you can choose one of the augments you have and replace it with another augment that you meet the requirements for.
+
+### Battlestrike
+At 2nd level, your battlefist gains an enhanced method of attacking your foes, called a battlestrike. Once on your turn when you hit with an attack using your battlefist or an integrated weapon (as with the Integration feature), you can make that attack a battlestrike. This grants the attack additional effects and changes the attack's damage to a type listed with the battlestrike.
+
+At 5th level, each battlestrike deals 1d8 additional damage of its type. This extra damage increases to 2d8 at 11th level, and 3d8 at 17th level.
+
+You start with knowledge of one battlestrike on the following list, and learn one additional battlestrike at 4th level and 10th level.
+
+***Disruption.*** Deals psychic damage. Your weapon is encased in a psychic field that overwhelms your enemy's nerve impulses. A creature hit by this ability can only move half their speed on their next turn.
+
+***Hammerblow.*** Deals bludgeoning damage. This powerful blow adds kinetic energy to your weapon, which may come from a rocket in the base of your battlefist or warhammer, or a high-tension bowstring. You can move a creature hit by this ability up to 10 feet away from you in a direction of your choosing, which can not be upwards. This distance increases to 20 feet at 13th level.
+
+***Serration.*** Deals slashing damage. Barbs, spikes, or jagged edges bristle from your weapon, transforming your first into a spiked gauntlet, a bolt into a serrated dart, or a longsword into a chainsaw blade. This attack cuts into your foe's armor, making them an easier target for your allies. A creature hit by this ability grants advantage on the next attack made against it by a creature other than yourself, before the start of your next turn.
+
+***Voltaic Strike.*** Deals lightning damage. Electricity courses through your attack, shocking your foe and dulling their responses. The target of this attack can not make opportunity attacks until the start of your next turn.
+
+### Fighting Style
+At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
+___
+- **Archery.** You gain a +2 bonus to attack rolls you make with ranged weapons.
+- **Protection.** When a creature you can see attacks a target other than you that is within 5 feet of you, you can use your reaction to impose disadvantage on the attack roll. You must be wielding a shield.
+- **Two-Weapon Fighting.** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+
+### Spellcasting
+By 2nd level, you can draw upon the arcane force that powers you to manifest certain spells. See chapter 10 in the Player's Handbook for the general rules of spellcasting. The augmented spell list is included here, at the end of this option.
+
+#### Spell Slots
+The Augmented table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these augmented spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+#### Spells Known of 1st Level and Higher
+You know two 1st-level spells of your choice from the augmented spell list.
+
+The Spells Known column of the Augmented table shows when you learn more augmented spells of your choice. Each of these spells must be of a level for which you have spell slots.
+
+Additionally, when you gain a level in this class, you can choose one of the augmented spells you know and replace it with another spell from the augmented spell list, which also must be of a level for which you have spell slots.
+
+#### Spellcasting Ability
+Intelligence is your spellcasting ability for your augmented spells, owing to your memorization of the complex magical processes required to shape your animating force into spells. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for an augmented spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell save DC​** = 8 + your proficiency bonus + your Intelligence modifier
+
+</center>
+
+<center>
+
+**Spell attack modifier**​ = your proficiency bonus + your Intelligence modifier
+
+</center>
+
+#### Spellcasting Focus
+You can use your battlefist or any integrated weapons as a spellcasting focus for your augmented spells.
+
+### Integration
+Starting at 3rd level, you are able to install a weapon or implement into your battlefist. Choose a one-handed weapon, a shield, or two sets of tools with which you have proficiency. A non-magical internal version of this selected item is found within your battlefist, which can be deployed or retracted as a bonus action. If you have multiple items integrated within the same battlefist, you can switch between them using a single bonus action.
+
+Integrated items are physically a part of your battlefist and cannot be thrown, disarmed, or used with the versatile property. When deployed, an integrated item counts as being held by the hand your battlefist occupies.
+
+Additionally, should you integrate a weapon with the loading property and you have the appropriate ammo on your person, your battlefist will automatically load one piece of ammunition of your choice into the weapon at the start of each of your turns. This requires no action or object interaction.
+
+You can reselect an option chosen from this feature by taking a short rest to tinker with your battlefist, replacing what you previously selected with another applicable item or items in your possession. You can use this process to integrate a magical shield or weapon you own into your battlefist.
+
+If you have multiple battlefists, you can select an integrated item option for each of them. You can deploy, switch, or retract integrated items from multiple battlefists individually or simultaneously, using the same bonus action.
+
+Once you reach 11th level, you can select a second integration option for each of your battlefists. You still can only have one item deployed from each battlefist at any time.
+
+### Prime Directive
+At 3rd level, you select a prime directive for your augmented to follow, a single value you hold above all else. You can choose between Directive: Eradicate, Directive: Safeguard, or Directive: Infiltrate, all of which are detailed later in this class description. Your choice grants you features at 3rd level, and again at 7th and 14th level.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+### Form Upgrade
+At 5th level, you can choose an additional portion of your body to upgrade, adding arcane technological components or replacing an entire segment. Select one of the following options, which grant their listed bonus and can provide access to additional augmentations. Choose another option from this list that you have not yet selected at 9th level, and again at 12th and 15th levels.
+
+***Core Upgrade.*** You inlay the core of your body with a metal exoskeleton. When not wearing armor, your AC becomes 18 and is unaffected by Dexterity. You can use a shield and still gain this benefit.
+
+***Head Upgrade.*** Your head is augmented with a comprehensive framework of arcanotech devices. Choose one skill out of Perception, Investigation or Insight. You are considered proficient in the chosen skill and add double your proficiency bonus to checks made with it, instead of your normal proficiency bonus.
+
+***Legs Upgrade.*** You replace your legs with metallic limbs of superior functionality. Your base movement speed increases by 10 feet, and the distance and height of your jump doubles.
+
+***Second Battlefist.*** Your second arm is replaced with an additional battlefist. Any augmentations that apply to your first battlefist also apply to your second.
+
+### More Machine Than Man
+Starting at 14th level, your transformation has progressed dramatically, granting you some of the resilience enjoyed by constructs. You gain resistance to poison damage and immunity to both disease and the poisoned condition.
+
+> ##### Amputation, Augmentation, and Tone
+> Unlike other classes, being augmented requires constant tinkering with one's own form, adding technology, individual augments, and, in some cases, removing limbs.
+>
+> Needless to say, the realities of self-amputation are not for every table or every game, and can create a very dark tone that may or may not mesh with the desired atmosphere. It can easily be assumed that, in lieu of outright amputation, the gradual progression of tinkering and creating technology within oneself can lead to the same improvements that could be found with removing a limb and replacing it wholesale.
+> One need not replace their legs to receive a form upgrade for their legs, for example. The form upgrade may take the form of an obvious infrastructure of technology above and below the skin that nevertheless leaves the legs intact, allowing for augments to be installed without amputation.
+>
+> As always, work with your DM and the other players to help develop what the game's tone should be, and to discover every player's comfort zone. The ideas of upgrading oneself and integrating with technology may be approached from many angles, and all the members of your group can collectively best determine how to incorporate these themes.
+
+### Transcendent
+Once you have reached 20th level, you have become a perfect living mechanical being. You no longer age, and you can make two battlestrikes instead of one on your turn. Each battlestrike must still be made with a seperate attack.
+
+## Augmented Spell List
+This section includes all spells available to the augmented class, other than those determined by choice of Prime Directive.
+
+##### 1st Level
+- Absorb Elements
+- Alarm
+- Burning Hands
+- Catapult
+- Chaos Bolt
+- Chromatic Orb
+- Color Spray
+- Comprehend Languages
+- Detect Magic
+- Earth Tremor
+- Fog Cloud
+- Grease
+- Guiding Bolt
+- Ice Knife
+- Identify
+- Mage Armor
+- Magic Missile
+- Ray of Sickness
+- Torrent
+
+##### 2nd Level
+- Aganazzar's Scorcher
+- Arcane Lock
+- Blindness/Deafness
+- Blur
+- Continual Flame
+- Darkness
+- Enhance Ability
+- Find Traps
+- Gust of Wind
+- Heat Metal
+- Magic Weapon
+- Mind Spike
+- Mirror Image
+- Misty Step
+- Ray of Enfeeblement
+- Scorching Ray
+- Shatter
+
+##### 3rd Level
+- Conjure Barrage
+- Dispel Magic
+- Flame Arrows
+- Glyph of Warding
+- Lightning Arrow
+- Lightning Bolt
+- Remove Curse
+- Sending
+- Stinking Cloud
+- Thunder Step
+- Tiny Servant
+
+##### 4th Level
+- Arcane Eye
+- Banishment
+- Confusion
+- Dimension Door
+- Fabricate
+- Fire Shield
+- Locate Creature
+- Sickening Radiance
+- Storm Sphere
+- Vitriolic Sphere
+
+##### 5th Level
+- Antilife Shell
+- Cloudkill
+- Cone of Cold
+- Far Step
+- Immolation
+- Steel Wind Strike
+- Swift Quiver
+- Synaptic Static†
+- Telekinesis
+- Teleportation Circle

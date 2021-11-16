@@ -1,0 +1,55 @@
+### Oath of Harmony
+[**Source:** *Faiths of the Forgotten Realms*](https://drive.google.com/file/d/1KNgb9GnHILrvW9uNcn1bzQbbipYhNvOA/view)
+
+Music connects all things in harmony. Every creature has a voice and a song. Everyone deserves the chance to express this freely, and in turn, hear the unfettered song of those around them. Music is joy and expression that transcends mere words.
+
+Those who take the Oath of Harmony strive to let the voiceless be heard, and combat those who would silence or corrupt the songs of the world.
+
+#### Tenets of Harmony
+***Harmony of the Spheres.*** Music permeates and influences all things. All creatures, places, and times are connected through it.
+
+***Freedom of Expression.*** Every creature should be free to express itself through enriching music. Each voice is unique and precious.
+
+***Forthright in Communication.*** Be bold, clear, and forthright in your words and actions.
+
+***Music to Empower, not Oppress.*** Music can inspire and empower, but it can also intimidate and oppress. Oppose those who cause harm through music.
+
+##### Oath of Harmony Spells
+| Paladin Level | Spells |
+| :-: | :-- |
+| 3rd | <em>comprehend languages, song of lingering</em> |
+| 5th | <em>song of healing, suggestion</em> |
+| 9th | <em>aural assault, battle song</em> |
+| 13th | <em>forgotten melody, searing song</em> |
+| 17th | <em>induce harmony, Rary's telepathic bond\*</em> |
+<em>\* Known among the faithful as "Milil's bond"</em>
+
+#### Sonic Smite
+Your Divine Smite feature deals thunder instead of radiant damage. This is known among the order as "Milil's Displeasure".
+
+#### Channel Divinity
+When you take this oath at 3rd level, you gain the following two Channel Divinity options.
+
+***Shatter Silence.*** As an action, you raise your holy symbol and intone the secret note of Milil, which radiates outward to a range of 30 feet, automatically dispelling any silence effects, and curing non-natural deafness.
+
+***Abjure the Beguiling.*** You can use your Channel Divinity to utter the pure music that pains fey and fiends. As an action, you present your holy symbol, and each fey and fiend within 30 feet of you that can hear you must make a Wisdom saving throw. On a failed save, the creature is turned for 1 minute or until it takes damage. A turned creature must spend its turns trying to move as far away from you as it can, and it can't willingly move to a space within 30 feet of you; it also can't take reactions. For its action, it can only use the Dash action or try to escape from an effect that prevents it from moving. If there's nowhere to move, the creature can use the Dodge action.
+
+If the creature's true form is concealed by an illusion, shapeshifting, or similar effect, that form is revealed while it is turned.
+
+#### Aura of clarity
+Beginning at 7th level, you are immune to the charmed condition. In addition, all allies within 10 feet of you gain advantage on saving throws against spells and effects that cause the charmed condition.
+
+#### Countersong
+At 15th level, as a reaction, you can counter any attack that deals thunder damage or uses sound or music to affect an unwilling creature (harpy charm, etc.) if the source is within 60 feet of you, regardless of the intended target. The initiating creature must make a Wisdom saving throw or the ability fails to take effect, and it takes psychic damage equal to the damage from the spell or ability, or equal to your level if it doesn't deal damage. On a successful save, the ability still takes effect, and the creature takes half as much damage.
+
+Once you use this feature, you must finish a short or long rest before you can use it again.
+
+#### Reclaimer
+At 20th level, you can assume the form of the embodiment of harmony. Using your action, you undergo a transformation. For 1 hour you gain the following benefits:
+- All sound within 100 feet of you is hushed to a whisper, yet all creatures within the area can hear and differentiate sound with perfect clarity.
+- Your voice can be heard and understood by all creatures with an intelligence of 4 or greater within 100 feet. Even deaf creatures can hear you.
+- You gain advantage on performance checks when singing or playing musical instruments.
+- You gain advantage on Charisma (Persuasion) and Charisma (Intimidation) checks.
+- All creatures (yourself included) within 100 feet incur disadvantage on Charisma (Deception) checks.
+
+Once you use this feature you can't use it again until you finish a long rest.

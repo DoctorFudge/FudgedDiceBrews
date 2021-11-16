@@ -1,0 +1,138 @@
+## Myr
+[**Source:** *Myr*](https://homebrewery.naturalcrit.com/share/6lq01nL5h)
+
+*“As the experimental population grows, so do the number of myr. It’s a perfect equilibrium.”*
+
+<div style="text-align: right">
+— Memnarch, Master of Mirrodin
+</div>
+  
+Aeons ago in a world most adventurers would never set foot in, the Myr were created by the wizard Memnarch, Ruler of Mirrodin. Originally, the Myr were created as mindless servitors and act out a single role without question, each one purpose built for their task. It is said that the Myr came in as many different shapes as men, and no two were designed alike.
+  
+However, the centuries past and one day their master vanished. Since the fall of Memnarch, many Myr continued to fulfill their duties regardless of having no master while others simply shut down to await commands that would never come. Some developed a consciousness and free will, traveling the planes in search of their master, or perhaps a new purpose.
+
+### A Thousand Hands, For a Thousand Tasks
+The Myr are bipedal constructs, with small sullen eyes and crested, beak-like faces. Their dexterous hands have only four fingers, and their hunched backs belay their spry nature.
+  
+Each Myr is an individual, its body shape and composition chosen carefully by their master to suit their destined task. After his disappearance however, some took to changing themselves to adapt to the rigors of adventuring life.
+  
+### Purpose Built
+A Myrs place in the world is perhaps their most defining trait, dictating their height, strength, tools, and even their metallic skin. Each aspect intended to provide some benefit and make them the master of their task. The common unawoken Myr is content to simply perform its duties and watch the other inhabitants of the world. 
+  
+Those who have taken up the mantle of adventurer however, usually lack such finesse of design, often with more varied and general builds. They seek their own purpose, yearning for the structure and schedule of their brethren.
+
+### Myr Society    
+Myr are not typically social creatures unless by design. Among the Myr, all are equal under their creator. Even still, there exist some Myr who exist to monitor others to their tasks, known as Enforcers. Each Myr considers the other family, especially those of similar function. 
+
+Myr have a unique way of sharing information between one other. The Myrmind is a hivemind network akin to that of an insect, allowing any Myr to attune to the thoughts of another and wordlessly transmit data. These messages are seemingly specially encoded, as even skilled mindreaders have difficulty understanding them.
+
+### The Pursuit of Purpose
+The Myr changed without their master. Suddenly their countless tasks had no purpose behind them. The Myr worked the engines of Mirrodin, shaped the land and hunted the enemies of an absent king. As the Myr are defined by their work, their hollow tasks sparked them to new try and find new purpose.
+  
+Many set out across the planes, seeking new tasks and new masters. Others intended to seek out Memnarch and return him to the throne of Mirrodin. Others still, wander without purpose, seeking a meaning to their newfound freedom. A Myr adventurer may be of any model, but the purpose behind its tools is of their own making.
+  
+### Myr Names
+Those among the Myr who take names often base them after their own purpose. Alternatively, they may simply address themselves as a model number. As constructs they do not follow a gendered name structure like other humanoids.
+
+**Myr Names:** Adapter, Coretapper, Galvanizer, Landshaper, Propogator, Retriever, Servitor.
+
+### Myr Traits
+Myr come in countless make and model, but the foundation remains the same. 
+  
+***Ability Score Increase.*** Your Constitution ability score increases by 1.
+ 
+***Age.*** Myr are efficient and tireless, and will live as long as they remain functional.
+ 
+***Alignment.*** Myr are observers by nature, and tend towards neutral alignments.
+ 
+***Size.*** The most common Myr stand only a few feet high. Your size is Small. 
+ 
+***Speed.*** Your base walking speed is 25ft. 
+ 
+***Construct.*** In addition to the creature type "Humanoid", you have the creature type "Construct". Spells and effects that do not effect constructs do not effect you.
+  
+***Tireless Worker.*** You don’t need to eat, drink, or breathe. When you take a long rest, you must spend at least six hours in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn’t render you unconscious, and you can see and hear as normal.
+
+***Myriad Design.*** You have seven Design Points. You may spend them to choose additional features from the table below. You may only choose any feature once.
+
+***Languages.*** You can speak, read, and write Common, and Myr.
+
+##### Myr Designs
+| Feature            | Value |
+|:--------------------:|:-:|
+| Ambassador           | 2 |
+| Augment Size         | 1 |
+| Conservator          | 2 |
+| Designated Task      | 2 |
+| Disassembler         | 2 |
+| Failsafe Propagation | 3 |
+| Gatherer's Grasps    | 2 |
+| Greater Myr          | 1 |
+| Gyroscopy            | 1 |
+| Hovermyr             | 2 |
+| Hydroturbine         | 1 |
+| Ichorclaw            | 2 |
+| Incandescent Eyes    | 1 |
+| Latchclaw            | 2 |
+| Magnetic Form        | 2 |
+| Myr Booster          | 3 |
+| Myrmind Delver       | 4 |
+| Nimblewing           | 2 |
+| Peerless Perceptor   | 2 |
+| Plating              | 1 |
+| Quadropod            | 2 |
+| Resilient Frame      | 2 |
+| Spec: Charisma       | 2 |
+| Spec: Constitution   | 2 |
+| Spec: Dexterity      | 2 |
+| Spec: Intelligence   | 2 |
+| Spec: Strength       | 2 |
+| Spec: Wisdom         | 2 |
+| Shimmerskin          | 3 |
+| Welder               | 3 |
+
+#### Myr Design Features
+___
+- **Ambassador.** You were designed with a certain charm, in order to endear you to other species for interaction. You gain proficiency in the *Insight* and *Deception* skills.
+- **Augment Size.** You were designed for tasks requiring a substantial body. Your size increases from Small to Medium, and you gain an additional 5 feet of movement speed.
+- **Conservator.** You exist to repair other Myr. You know the *Mending* cantrip. When you reach 3rd level, you can cast the *Repairing Word* spell. When you reach 5th level, you can cast the *Enhance Ability* spell. Constitution is your Spellcasting ability for these spells.
+- **Designated Task.** You among Myr are still aware of your purpose in life. When you choose skill proficiencies from those provided by your chosen class, you may pick one additional skill to gain Expertise in.
+- **Disassembler.** You are skilled in breaking down scraps for greater purpose. You deal double damage to objects and structures.
+- **Failsafe Propagation.** You were designed to produce additional Myr. When you are reduced to 0 Hit Points, but not killed outright, a Tiny construct emerges from your body. This construct has 6 HP and and AC of 8 and its appearance is identical to yours. The construct cannot attack or use items, but can follow simple preprogrammed instructions such as getting help or acting as a decoy. <br>
+If you recover above 0 Hit Points your Failsafe automatically returns to you. If it is destroyed, you automatically create a new one during your next Long Rest.
+- **Gatherer's Grasps.** *(Prerequisite: Medium)* Your limbs are long and nimble. When you make a melee attack on your turn, your reach for it is 5 feet greater than normal. Also you may reach up to 10 feet to grab an object.
+- **Greater Myr.** Your frame has a larger bulk compared to other Myr. You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+- **Gyroscopy.** Thanks to internal stabilizers, you have advantage on Strength and Dexterity saving throws and ability checks made against effects that would knock you prone.
+- **Hovermyr.** *(Prerequisite: Flying)* One or more propellers are attached to your body. You gain the *Hover* property while flying (You do not fall if your movement speed is reduced to 0).
+- **Hydroturbine.** Your body is equipped to propel you through water. You gain a swimming speed equal to your movement speed.
+- **Ichorclaw.** For the purpose of culling unwanted species, you were built with a venomous claw which you can use to make unarmed strikes. If you hit with it, you deal Poison damage equal to 1d4 + your Strength modifier, instead of the bludgeoning damage normal for an unarmed strike.
+- **Incandescent Eyes.** As a bonus action, you may cast light from your eyes. For 1 hour, you shed bright light in a 10-foot radius and dim light for an additional 10 feet. You can end this effect at any time, no action required.
+- **Latchclaw.** You have small claws unsuited for battle but perfect for gripping onto almost any surface. You gain a climbing speed equal to your walking speed.
+- **Magnetic Form.** *(Prerequisite: Medium)* Your frame has magnets installed in various strategic locations. Once per day, you may cast the *Enlarge* spell on yourself without using a spell slot or material. You do not need to maintain Concentration for this spell.
+- **Myr Booster.** *(Prerequisite: Small)* Gouts of flame erupt from your back at will, propelling you skyward. You gain a fly speed equal to your walking speed.
+- **Myrmind Delver.** As a bonus action, you may delve into the Myrmind and strategize with your allies. You gain Advantage on the next attack roll you make this turn against a creature if at least one of your allies is within 5 feet of the creature and the ally isn’t incapacitated. Additionally, if the ally is also a Myr, you gain a +1 bonus to hit.
+- **Nimblewing.** *(Prerequisite: Flying)* You are an elegant flyer, darting to and fro. You may perform the Disengage action as a bonus action while flying.
+- **Peerless Perceptor.** Your senses are fine tuned for the purpose of tracking resouruces or creatures. You gain the *Keen Senses* feature with either Sight or Hearing.
+- **Plating.** Your chassis is coated in a thin layer of material, granting you resistance to an associated damage type.
+
+##### Myr Plating
+| Material | Resistance |
+|:----:|:-------------|
+| Copper    | Poison   |
+| Gold      | Radiant  |
+| Iron      | Fire     |
+| Lead      | Necrotic |
+| Palladium | Psychic  |
+| Silver    | Cold     |
+
+___
+- **Quadropod** *(Prerequesite: Climbing)* In addition to strong hands your feet are also designed to be able to grip onto surfaces. You can move up, down, and across vertical surfaces and upside down along ceilings while climbing.
+- **Resilient Frame.** Your body was built to take more punishment than the average Myr. You gain a +1 bonus to your Armor Class.
+- **Shimmerskin.** Your body is partially comprised of quicksilver. You may use the Dodge action as a bonus action. You may only use this feature a number of times equal to half your Dexterity modifier rounded up (minimum 1) after which you must finish a Short or Long Rest.
+- **Spec: Charisma.** Your Charisma ability score increases by 1. This is in addition to your base Ability Score Increase.
+- **Spec: Constitution.** Your Constitution ability score increases by 1. This is in addition to your base Ability Score Increase.
+- **Spec: Dexterity.** Your Dexterity ability score increases by 1. This is in addition to your base Ability Score Increase.
+- **Spec: Intelligence.** Your Intelligence ability score increases by 1. This is in addition to your base Ability Score Increase.
+- **Spec: Strength.** Your Strength ability score increases by 1. This is in addition to your base Ability Score Increase.
+- **Spec: Wisdom.** Your Wisdom ability score increases by 1. This is in addition to your base Ability Score Increase.
+- **Welder.** You were built to channel flame and conjoin metal. Once per day, when you deal Fire damage, you can choose to deal the maximum damage instead of rolling.

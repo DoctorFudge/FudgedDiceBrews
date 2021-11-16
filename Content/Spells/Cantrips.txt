@@ -1,0 +1,92 @@
+## Cantrips
+
+#### Eldritch Orb
+*Evocation* 
+___
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:**  Instantaneous
+- **Classes:** None
+___
+You fling a ball of eldritch energy at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 force damage, and each other creature within 5 feet of the target must make a Dexterity saving throw. On a failed save, a creature takes half as much damage.
+
+This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+#### Force Blast
+*Evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 180 feet
+- **Components:** V, S
+- **Duration:**  Instantaneous
+- **Classes:** Artificer, Sorcerer, Wizard
+___
+You unleash a bolt of mystical power at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 force damage.
+
+This spell's damage increases by 1d8 when you reach 5th level (2d8), 11th level (3d8), and 17th level (4d8).
+
+#### Kevin's Vine Lash
+*Abjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** 10 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+- **Classes:** Cleric, Druid
+___
+You strike a creature with a thorny vine. Make an attack roll against a creature within range. On a hit the target takes 1d4 bludgeoning damage and 1d4 acid damage.
+
+You can make more attacks when you reach higher levels: two attacks at 5th level, three attacks at 11th level, and four attacks at 17th level. You can attack the same target or attack different ones.
+
+#### Lifehunt Scythe
+*Necromancy*
+___
+- **Casting Time:** 1 action
+- **Range:** 10 feet
+- **Components:** V S M (a quarterstaff or scythe)
+- **Duration:** Instant
+- **Classes:** Cleric, Sorcerer, Wizard
+___
+The image of a profaned blade surrounds your weapon, thirsting for the end of life. Make a melee spell attack. on a hit the target takes 1d6 Necrotic and 1d6 Slashing damage.
+
+This damage increases by 1d6 Necrotic when you reach 5th level, 11th level, and 17th level.
+
+#### Magecraft
+*Divination*
+___
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** V, S, M (a set of artisan's tools)
+- **Duration:** Concentration, up to 1 minute
+- **Classes:** Artificer, Bard, Wizard
+___
+You must be proficient in the artisan's tools used as the material component of this spell. Once before the spell ends, you can gain advantage on an ability check using these tools.
+
+#### Project Blade
+*Conjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (a used whetstone)
+- **Duration:** Instantaneous
+- **Classes:** Artificer, Sorcerer, Wizard
+___
+You project the image of a spectral sword at a creature or object within range. Make a ranged spell attack against the target. On a hit, the target takes 1d8 piercing or slashing damage. 
+
+**At higher level:** The number of swords you project increases by one when you reach higher levels: two swords at 5th level, three swords at 11th level, and four swords at 17th level. You can direct the swords at the same target or at different ones. Make a separate attack roll for each sword.
+
+#### Recreate Weapon
+*Divination*
+___
+- **Casting Time:** 1 bonus action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** 1 minute
+- **Classes:** Wizard
+
+You draw upon memories of your training to arm yourself, solidifying raw magic in the form of your choice. As an action, you recreate a weapon you're proficient with in your hand that lasts the duration. 
+
+You can only have one instance of this spell at any time. If you cast this spell a second time to create a new weapon, the first spell ends. If the weapon is more than 10 feet from you at the end of your turn, the spell ends.
+
+**At Higher Levels:** The replicated weapon becomes magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage when you reach 5th level. You conjure a +1 version of the weapon at 11th level and +2 at 17th level.

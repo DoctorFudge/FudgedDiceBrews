@@ -1,0 +1,22 @@
+### Way of the Hurtling Hare
+[**Source:** *A Treasury of Tales and Legends*](https://drive.google.com/file/d/1ghK_gGGfGMXSQImUGZc8dlxXd-YwC1D0/view)
+
+Though all monks are known for their unmatched agility, those who follow the Way of the Hurtling Hare take this mobility to the next level. Holding almost too much pride in their skills, these monks use their incredible leaping ability to transform into untouchable combatants.
+
+#### Leporine Leap
+Starting at 3rd level, your running leaps take on an impressive grace. For the purposes of calculating jump distances, you can use your Dexterity score and modifier instead of your strength score. Your running long jump is considered 10 feet if neither ability score is greater than 10.
+
+Additionally, you learn how to incorporate your leaps into your attacks. When you use your moving long jump to move onto or through the space of another creature, you can use your action, and optionally your bonus action, to make melee attacks on the creature, as if you were standing in a space adjacent to that creature. After, you can jump off the creature, up to a distance equal to your moving long jump distance. This does not provoke an attack of oppurtunity from the creature you jumped off of.
+
+If you do not hit a creature that you jumped onto with an attack, you must jump off the creature to a space adjacent to it.
+
+#### Leaping Assailant
+Starting at 6th level, you are untouchable as you leap around the battlefield. When you make an attack on a creature using your action with your Leporine Leap feature, and you have not yet used your bonus action, you can use the additional jump granted by Leporine Leap to jump onto another creature, triggering Leporine Leap again. You can attack this second creature using your bonus action as if you had just used your action to attack it immediately before.
+
+#### Rabbit's Stride
+At 11th level, you learn to further enhance your movement with your ki. You can spend 2 ki points to cast jump, longstrider, and water walk, and can spend 3 ki points to cast freedom of movement. When you cast a spell this way, you do not need to provide material components, and can only target yourself.
+
+#### Hubris of the Hare
+At 17th level, you can act on an unmatched confidence in your leaping strikes. When you use your Leporine Leap creature for the first time on your turn, you can spend 1 ki point to invoke the Hubris of the Hare until you touch the ground or your turn ends.
+
+When the Hubris is invoked, all of your attacks have advantage. However, if any attack you make misses, you immediately jump to the ground next to the creature you were attacking, fall prone, and lose any remaining movement speed you would have that turn.

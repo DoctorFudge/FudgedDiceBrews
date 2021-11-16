@@ -1,0 +1,17 @@
+### Spirit of Divinity
+Similar to Death Lanterns, Divine Lanterns are created when Nightbreakers with particularly strong qualities undergo the bonding ritual with their lantern. Wielders of Divine Lanterns are often justice-seekers, defenders of the weak, or simply have a strong sense of altruism. Wielders of Divine Lanterns are a force to be reckoned with.
+
+To this end, these lanterns bless the wielder with a number of spells themed around protection and enhancing the combat abilities of both the Nightbreaker and their party.
+
+**Lantern Power:** At level 2, when one of your allies within 30 feet that you can see makes an attack roll, you can use your reaction to give them a bonus equal to your wisdom modifier. You can use this after they roll, but must do so before the result of the roll is determined. You can use this ability a number of times per day equal to your wisdom modifier.
+
+#### Spell List
+**1st Level Spells:** *Ceremony, Compelled Duel, Divine Favour, Guiding Bolt, Heroism, Searing Smite, Thunderous Smite, Wrathful Smite*
+
+**2nd Level Spells:** *Branding Smite, Calm Emotions, Enhance Ability, Lesser Restoration, Magic Weapon, Moonbeam, Spiritual Weapon*
+
+**3rd Level Spells:** *Aura of Vitality, Blinding Smite, Beacon of Hope, Crusader’s Mantle, Mass Healing Word, Protection from Energy, Revivify*
+
+**4th Level Spells:** *Aura of Life, Aura of Purity, Banishment, Death Ward, Guardian of Faith, Staggering Smite*
+
+**5th Level Spells:** *Banishing Smite, Dawn, Hallow, Holy Weapon, Greater Restoration*

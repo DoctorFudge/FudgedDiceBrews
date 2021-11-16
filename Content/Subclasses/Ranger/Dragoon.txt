@@ -1,0 +1,46 @@
+### Dragoon
+[**Source:** *The Gunpowder Codex*](https://drive.google.com/file/d/1jjhLL1aeWVp2AsoOIwJJ-0BvO6dvPedk/view)
+
+At the unusual crossroads between horsemanship, marksmanship, and wilderness expertise stand dragoons, rangers that are trained in firearms and move quickly across wide stretches of land. Most begin their careers in armies or large mercenary companies, but most welcome their skills no matter their source. In militaries, they often act as scouts or form flanking forces in combat; in smaller adventuring parties they are well-suited to hit and run tactics and exploration.
+
+#### Proficiencies
+Starting when you choose this archetype at 3rd level, you gain proficiency with firearms, allowing you to add your proficiency bonus to attacks made with firearms.
+
+#### Gunsmith
+Upon choosing this archetype at 3rd level, you gain proficiency with Tinker's Tools. You may use them to craft ammunition, repair damaged firearms, or even draft and create new ones (DM's discretion). Some extremely intricate and experimental firearms are only available through crafting.
+
+#### Dragoon Magic
+Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Dragoon Spells table. The spell counts as a ranger spell for you, and it doesn't count against the number of ranger spells you know.
+
+##### Dragoon Spells
+**Ranger Level**|**Spells**
+:-----:|:-----
+3rd|<em>longstrider</em>
+5th|<em>find steed</em>
+9th|<em>lightning arrow</em>
+13th|<em>carven rifle</em>
+17th|<em>tree stride</em>
+
+
+#### Reconnaissance
+At 3rd level, you gain the ability to grant allies an edge in combat by studying the battlefield beforehand and giving a report to your companions. Choose an area with a 50-foot radius you can see within 500 feet; if you are in an elevated position or otherwise have a better view, this range may be extended at the DM's discretion.
+
+By studying this area for at least 1 minute, you are able to glean some basic tactical information about it, such as where roots or rubble make footing tricky, or where hanging vines might obstruct movement. If your allies are with you, you may point these things out as you see them; otherwise you must spend 1 additional minute relaying this information to them in person later.
+
+You and any allies who hear this information gain the following benefits the first time you enter combat in the chosen area within the next hour:
+- You have advantage on initiative checks within the chosen area.
+- You may ignore difficult terrain within the chosen area for the duration of the encounter. Difficult terrain created by spells or other magical effects still affects you.
+- When attacking, you treat all cover within the area as reduced by one step: total cover is treated as three-quarters cover, three-quarters cover is treated as partial cover, and partial cover is ignored.
+
+#### Ride-By Attack
+By 7th level, your cavalry training enables you to make hit-and-run attacks on the battlefield. During your turn, if you are mounted and make a weapon attack against a creature, that creature can't make opportunity attacks against you for the rest of your turn.
+
+#### Terrain Awareness
+At 11th level, you have become increasingly aware of all the nuances of terrain and environment in the chosen area of your Reconnaissance ability, and can use this knowledge to help your companions. While within that area, you may use your reaction to grant one ally within 15 feet of you (who is also within the chosen area) advantage on one attack roll, saving throw, or ability check. You may use this ability once, and regain spent uses after a short or long rest.
+
+At 18th level, the range of this ability increases to 30 feet, and it may be used twice between rests.
+
+#### Earthen Assault
+At 15th level, you gain a magical connection to the land within the chosen area of your Reconnaissance ability. Both time requirements for Reconnaissance are reduced to two rounds (12 seconds) each to complete as the ground willingly reveals its secrets to you.
+
+Additionally, once per turn you may use your bonus action to command the environment to attack one creature within the chosen area, as long as you are also within the area. The form this attack takes depends on the environment, and is up to the DM. A thorny vine might strike out, pebbles or a boulder may fling themselves at an enemy, or water may rise up and freeze itself onto the target. Although the DM decides the type of damage based on the attack, this attack uses your spell attack modifier for its attack roll and deals damage equal to 2d8 + your Wisdom modifier.

@@ -1,0 +1,31 @@
+### Reincarnated Warrior
+[**Source:** *The Complete Arcanist Handbook*](https://drive.google.com/file/d/1ucl27lI0dMWi0BDsolHBB-ZgW4CSPhdP/view)
+
+Some legends are so widespread and revered that they will forever live on. Heroic warriors, in particular, capture the hearts and minds of the common folk, spurred by the songs and tales of bards across the world. Whether you know it or not, you are the soul of such a warrior born anew. You have a natural affinity for the tools of battle, and never feel more alive than when your blade is locked against another.
+
+Unlike your first life, though, you have an innate magic born of the adoration of generations who have repeated your legend. You can channel this magic through your weapons and combine it with your martial prowess.
+
+If you are aware of your reincarnation, a doubt may haunt your thoughts: Why now? Why after all this time have you been given new physical form? Perhaps a new destiny awaits you that requires a legend of your magnitude, and your legacy will ever grow.
+
+#### Soul of Endurance
+Starting at 1st level, your body and soul sing when you are engaged in battle, granting you immense resilience. You gain the following benefits:
+- While you wear no armor or you are under the effects of the *mage armor* spell, you can use your Charisma modifier, instead of your Dexterity modifier, to calculate your Armor Class. You can use a shield and still gain this benefit.
+- Whenever you would take damage while you are conscious and within 5 feet of a hostile creature, you reduce the amount of damage you take by 1. The reduction increases when you reach certain levels in this class, increasing to 2 at 5th level, 3 at 10th level, 4 at 15th level, and 5 at 20th level.
+
+#### Martial Inheritance
+Also starting at 1st level, you are supernaturally talented with martial implements. You are proficient with all melee weapons and with shields.
+
+When you reach 2nd level in this class, you can spend 1 sorcery point as a bonus action to make a weapon you’re holding a conduit for your magic for 10 minutes or until it leaves your hand. For the duration, you can use the weapon as a spellcasting focus for your sorcerer spells, and it is considered magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+#### War Magic
+Beginning at 6th level, when you use your action to cast a cantrip, you can make one weapon attack as a bonus action.
+
+Once you reach 14th level in this class, when you use your action to cast a spell, you can make one weapon attack as a bonus action.
+
+#### Warrior’s Resolve
+Starting at 14th level, when you take damage that reduces you to half your maximum hit points or less, you can use your reaction to regain half of your expended sorcery points. When you do, the damage reduction granted by your Soul of Endurance is doubled for 1 minute.
+
+Once you use this feature, you must finish a long rest before you can use it again.
+
+#### Legendary Prowess
+Beginning at 18th level, you can use your magic to fuel a furious flurry of strikes. When you take the Attack action on your turn, you can expend a spell slot to gain a number of additional attacks this turn equal to the level of the expended spell slot. Each of these additional attacks must use a melee weapon you’re holding, and each attack counts as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.

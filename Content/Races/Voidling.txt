@@ -1,0 +1,47 @@
+## Voidling
+[**Source:** *Voidling*](https://homebrewery.naturalcrit.com/share/wPXDmbaF-)
+
+Voidlings. Born of the void, reborn of the void. But just who are they? Let's see what this book says.
+
+#### Physical Description
+Voidlings can take the appearance of any race, determined when they appear in the Prime Material Plane. This appearance is a nigh perfect copy of another nearby creature, similar to what a doppelganger could do. Voildings are not, however, shapeshifters and will retain this appearance for life. When seen with the aid of True Sight, they appear as a vaguely humanoid black void. Despite some voidling appearing like a race that can breathe fire or has some other ability that voidlings normally don't have, voidlings do not seem to gain those advantages. This does not apply to Speed exclusively. They instead must create an excuse, usually involving injury or illness, as an explanation as to why they are unable to do these things.
+
+### History
+Voidlings are literally born of the void and, when they appear on the Prime Material Plane, take the appearances of the nearest humanoid race. Strange things have been known to happen around voidlings. They are elusive and rarely reveal themselves or share anything about themselves or their race. However, it is believed the first voidling appeared with the first humanoids, but this has never been confirmed. They cannot have children. Ancient records mention an empire of peoples who were of a variety of races, yet worked together seamlessly. No evidence supports them being voidlings, but it does explain the few times that voidlings have been identified, they act superior. Mentions of voidlings are fragmented and uncertain, but speak of a race on the fringes of society, acting secretly and without letting anyone know of their existence. Legends claim they destroy knowledge about themselves to keep it hidden.
+
+### Society
+Voidlings are very independant, yet can work well in groups. They rarely accept charity. Voidlings often act superior to other races, including the race they appear as. They pretend to be the race they appear as so much, it is hard to tell they are anything but that race. Voidlings ignore each other to hide what they are, but may occasionally meet to share information and to see if anyone seems too suspicious of what they are. Voidlings fear others know what they are so much, they discredit and destroy anything about their race and loathe to reveal it to anyone, including trusted friends. They often seem lonely, even in large groups they are actively befriending.
+
+### Voidling Names
+To avoid arousing suspicion, voidlings take name(s) appropriate for the race they appear as. preferring common names for the race they find themselves to be. Their names are not given, they are instead chosen and often changed as need be.
+
+### Voidling Racial Traits
+***Ability Score Increase.*** Your Wisdom score increases by 2 and your Dexterity score increases by 1. 
+
+***Age.*** Voidlings mark age from when they appear in the Prime Material Plane. They usually spend about 10 years learning and studying, thus, they reach what they consider as "adulthood" at age 10. Their lifespan is unknown, but believed to be thousands of years, if not infinite.
+
+***Alignment.*** Most voidlings are chaotic neutral, but voidlings have been known to have all sorts of alignments.
+
+***Size.*** Varies depending on the race they appear as. Your size is Small or Medium.
+
+***Speed.*** Your base walking depends on your Racial Appearance (See Below.) If your appearance is that of a voidling, your walking speed is 30 feet.
+
+***Aberration.*** Your creature type is aberration, instead of humanoid.
+
+***Racial Appearance.*** Choose another race. Your size, weight, height, and appearance are the same as that race. If the creature type of the race you choose is humanoid, you also gain the "humanoid" type.
+
+***Born of the Void.***  If you die, your essence returns to the void. Unless you are resurrected (you cannot be reincarnated) within 3 days, your essence is used to create a new voidling that is not you and has no memory of or connection to you. Once this has happened, you are permanently dead and cannot be brought back to life by any means.
+
+***Magic-less Void.*** When you reach 5th level, you can cast the Dispel Magic spell once with this trait and regain the ability to do so when you finish a long rest. Wisdom is your spellcasting ability for it.
+
+***Void Form.*** When you drop below 1/4th of your maximum health, you enter into a frenzied panic. You transform back into your base Voidling form, losing all benefits of your chosen race. Your movement in this form does not provoke opportunity attacks, and you are Frightened of whatever did the damage that brought you below the health threshold for one minute. You cannot willingly transform again until you are no longer Frightened. 
+
+Alternatively, if viewed with truesight, You will be seen in your original form only by the creature viewing you, as long as their truesight is active.
+
+In this form your items temporarily disappear into the void. This includes worn, held and carried items. You cannot wield weapons, wear armor, or benefit from worn or carried objects this way. Your items and wielding ability return when you return to your Racial Appearance. 
+
+***Void Sense.*** You have an innate sense for voidlings. If you can see a creature within 30 feet of you, you know if they are a voidling.
+
+***Languages.*** You can read, speak, and write Common and Deep Speech.
+
+***Deceptive.*** You gain proficiency in the Deception skill.

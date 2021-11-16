@@ -1,0 +1,37 @@
+### Clown
+The clown is an entertainer, but equally they are a figure of horror, drawing upon the ghostly pallour of the dead, the bright red lips of a poisonous beetle, the sunken eyes of a bloated corpse, the wild hair of a thorny brush, and the gangly movements of a puppet without a master.
+
+##### Clown Spells
+| Spell Level | Spells |
+|:-:|:--|
+| 1st | <em>color spray, Tasha's hideous laughter</em> |
+| 2nd | <em>crown of madness, magic mouth</em> |
+| 3rd | <em>fear, feign death</em> |
+| 4th | <em>confusion, freedom of movement</em> |
+| 5th | <em>cloudkill, dream</em> |
+
+#### Clown Make-Up
+After taking this specialisation at 2nd level, while wearing your make-up, you know *friends* and *vicious mockery*. This doesn't count against the number of cantrips you know.
+
+#### Tumbling Fool
+Starting when you take this specialisation at 2nd level, you become proficient in Acrobatics if you aren't already.
+
+While you are wearing make-up, when you take damage from a fall, you can choose to ignore the damage if it is less than your rouge level x5. Additionally while you are wearing make-up, you can take the Disengage action as a bonus action.
+
+#### Favoured Face Option: The Whole Circus
+At 3rd level, this option becomes available to you.
+
+When a creature hits you with a melee attack, your blank eyes and false smile is deeply unsettling to them. As a reaction, you force the creature to make a Wisdom saving throw against your spell save DC, becoming frightened of you until the end of your next turn on a failed save. A creature that succeeds on this save is immune to this effect for 24 hours.
+
+#### Fearful Magic
+Starting at 6th level, when a creature fails a saving throw against one of your spells of 1st level or higher, the creature is also frightened of you for the duration of the spell if you choose.
+
+#### Just Clowning Around
+Starting at 13th level, your ability to use *vicious mockery* in combat improves dramatically. You can add your Charisma modifier to the damage of the spell, and a creature that succeeds on its save takes half damage instead of none.
+
+#### Pop-Up Carnival
+Starting at 20th level, you have the power to trap a creature in a hallucinatory carnival nightmare. When a creature fails a saving throw against your *vicious mockery*, you can use this feature to instantly plunge the creature into your twisted carnival. This feature has no effect on creatures that can see through illusions, such as those with truesight.
+
+An affected creature is stunned, and it is also blinded and deafened to its surroundings. The effects last until the end of your next turn, at which point the hallucinations cease and the creature takes 10d10 psychic damage as it reels from its horrific experience.
+
+Once you have used this feature, you can't use it again until you finish a short or long rest.

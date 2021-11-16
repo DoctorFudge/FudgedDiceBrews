@@ -1,0 +1,32 @@
+### Fashionista
+Always the center of attention, the fashionista languishes in the spotlight, using their magic to light up the room and bask in their own glory.
+
+##### Fashionista Spells
+| Spell Level | Spells |
+|:-:|:--|
+| 1st | <em>faerie fire, guiding bolt</em> |
+| 2nd | <em>enthrall, pyrotechnics</em> |
+| 3rd | <em>daylight, hypnotic pattern</em> |
+| 4th | <em>dominate beast, hallucinatory terrain</em> |
+| 5th | <em>dawn, wall of light</em> |
+
+#### Fashionista Make-Up
+After taking this specialisation at 2nd level, while wearing your make-up, you know *dancing lights* and *thaumaturgy*. This doesn't count against the number of cantrips you know.
+
+#### Fashion Statement
+Starting when you take this specialisation at 2nd level, while you are wearing make-up, you can give off radiant light, expelling bright light up to 10 feet and dim light another 10 feet past that. A creature in the bright light has disadvantage on melee attack rolls against you unless it can see you through any other senses it has. You can deactivate or reactivate this effect as an action by smearing or re-applying parts of your make-up.
+
+#### Favoured Face Option: Gliding Model
+At 3rd level, this option becomes available to you.
+
+You have advantage on ability checks and saving throws made to avoid being knocked prone, and you can ignore the effects of difficult terrain.
+
+#### Charming Magic
+Starting at 6th level, when a creature fails a saving throw against one of your spells of 1st level or higher, the creature is also charmed by you for the duration of the spell if you choose.
+
+#### Belle of the Ball
+Starting at 13th level, as an action, you can choose a creature you can see within 60 feet of your position. The target must succeed on a Wisdom saving throw against your spell save DC or become charmed by you. While charmed, the creature can't perceive creatures other than you through sight.
+
+You can have only one creature affected by this feature at the same time. The effects end after one minute. At the end of each of its turns, the target can remake the saving throw, ending the effects early on a success. Once the effects have ended or the target succeeds on any saving throw against this feature, the target is immune to this feature for 24 hours.
+
+At 20th level, when you first choose the target, you can also choose two other creatures you can see within 30 feet of the original target to be affected. While a creature is charmed by you with this feature, you can use your action on subsequent turns to target additional creatures, with no limitation on the total number of creatures charmed.

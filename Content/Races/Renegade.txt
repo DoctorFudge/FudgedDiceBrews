@@ -1,0 +1,31 @@
+## Renegade
+[**Source:** *Renegade*](https://www.gmbinder.com/share/-MKXViuVQIgGm8SWxu9p)
+
+Ramblin' on ain't an easy life, but somebody's gotta do it, and nobody gotta do it better or badder than the Renegades. Fallen angels fallin' into step on the lonesome road to find the means to seek the truthful questions and answers of life's greatest lies, protectin' and preachin' all over your face.
+
+### Eternal Ramblers
+The Renegades live and die on the road, poundin the pavement with their prodigious wisdom-crammed minds as they sleep in the middle of the road of life, allowing the cars of wisdom to drive right over their souls and leave skid marks of higher learning upon their mangled mind corpses.
+
+### Many with the World
+Some chumps settle for being one with the world, but the Renegade is many with the world, probing the very fabric of reality with the morning wood of truth-seeking, pitchin' a tent of justice on the frontiers of yo mama: Mother Earth.
+
+### Renegade Racial Traits
+***Ability Score Increase.*** Your Constitution score increases by 2, and your Wisdom score increases by 1.
+
+***Age.*** Renegades age at the same rate as humans, reaching adulthood in their late teens and living less than a century.
+
+***Alignment.*** Owing to their total disconnect with the civilized world and its ways of thinking, Renegades are almost universally chaotic, regardless of whether or not they think they are.
+
+***Size.*** Renegades are medium sized.
+
+***Speed.*** Your base walking speed is 35 feet.
+
+***Languages.*** You can speak, read and write Common, albeit with a severe speech impediment (see Ice-Cream Koan). Additionally, you may choose to learn either Celestial, Abyssal, or Primordial.
+
+***Ice-Cream Koan.*** Being so enlightened, Renegades are nearly entirely incapable of speaking like a normal person. Instead, they speak in twisted Koans, short phrases or riddles typically used to convey some philosophical insight.
+
+***Appachistani Training.*** All Renegades are trained by Appachistani gurus in the arts of combat and mysticism. You are proficient with your feet, and are able to make unarmed strikes with them, dealing 1d4 bludgeoning damage in place of the damage you would otherwise do. Additionally, you are proficient with the the Shakashuri, a woodwind instrument of Appachistani origin.
+
+***Imparter of Wisdoms.*** By speaking for one minute, you are able to captivate those around you into believing you truly are in touch with some higher spiritual understanding. If you start a rambling speech, make a Charisma (Persuasion) check. Any creature listening to your speech must make an Intelligence saving throw, with the DC being equal to the check. Creatures that fail this save will automatically believe anything you tell them for the next minute. Creatures that pass this save are unaffected, although might become hostile to you if they think you're annoying enough.
+
+***Ancient Mysticisms.*** You know the *druidcraft* cantrip. Wisdom is your spellcasting ability score for this spell.

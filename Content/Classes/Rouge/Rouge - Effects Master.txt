@@ -1,0 +1,31 @@
+### Effects Master
+The effects master excels at creating special effects and illusions. Their make-up extends to the world before them, leaping off of their skin and forming into strange and entrancing creations.
+
+##### Effects Master Spells
+| Spell Level | Spells |
+|:-:|:--|
+| 1st | <em>color spray, silent image</em> |
+| 2nd | <em>mirror image, phantasmal force</em> |
+| 3rd | <em>hypnotic pattern, major image</em> |
+| 4th | <em>hallucinatory terrain, phantasmal killer</em> |
+| 5th | <em>modify memory, seeming</em> |
+
+#### Effects Make-Up
+After taking this specialisation at 2nd level, while you are wearing your make-up, you know *minor illusion* and *thaumaturgy*. This doesn't count against the number of cantrips you know.
+
+#### Illusory Visage
+Starting when you take this specialisation at 2nd level, while you are wearing make-up, creatures do not form memories of your face unless they are immune to being charmed. A creature can remember you in other ways, such as through your clothes, your build, your actions, your equipment, or your voice, but your face appears as a blurry smear in their memory. You can choose specific creatures to ignore this effect.
+
+#### Favoured Face Option: Special Effect
+At 3rd level, this option becomes available to you.
+
+The make-up on your face is a shifting miasma of shapes and colours. As an action, you can reshape your make-up to form a scene from your memory or imagination, creating a rough visual approximation within the limitations of your make-up.
+
+#### Fearful Magic
+Starting at 6th level, when a creature fails a saving throw against one of your spells of 1st level or higher, the creature is also frightened of you for the duration of the spell if you choose.
+
+#### Mysterious Illusions
+Starting at 13th level, the illusions you create through *phantasmal force* and *phantasmal killer* have no limitation on size.
+
+#### You Won't Believe Your Eyes
+Starting at 20th level, when a creature that fails a save against one of your spells of 1st-level or higher, you can force the creature to become maddened by its experience in addition to the effects of the spell. The madness lasts for 1d10 minutes. Once a creature has been maddened by this effect, it can't be maddened in the same way for 24 hours. Roll on the Short-Term Madness table in the Dungeon Master's Guide to determine the target's madness.

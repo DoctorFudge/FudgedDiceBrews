@@ -1,0 +1,174 @@
+## Biomancer
+[**Source:** *The Biomancer (Revised)*](https://homebrewery.naturalcrit.com/share/n8oGUeE85gCQ)
+
+##### The Biomancer
+| Level | Proficiency Bonus | Features | Cantrips Known | Spells Known | 1st |2nd | 3rd | 4th | 5th |
+|:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1st | +2 | Spellcasting, Medical Practice | 2 | 2 | 2 | — | — | — | — |
+| 2nd | +2 | Effluviant Miasma              | 2 | 2 | 2 | — | — | — | — |
+| 3rd | +2 | Bodily Augmentation            | 2 | 3 | 3 | — | — | — | — |
+| 4th | +2 | Ability Score Improvement      | 2 | 3 | 3 | — | — | — | — |
+| 5th | +3 | —                              | 2 | 4 | 4 | 2 | — | — | — |
+| 6th | +3 | Practition Feature             | 2 | 4 | 4 | 2 | — | — | — |
+| 7th | +3 | —                              | 2 | 5 | 4 | 3 | — | — | — |
+| 8th | +3 | Ability Score Improvement      | 2 | 5 | 4 | 3 | — | — | — |
+| 9th | +4 | —                              | 2 | 6 | 4 | 3 | 2 | — | — |
+| 10th | +4 | Bodily Augmentation           | 3 | 6 | 4 | 3 | 2 | — | — |
+| 11th | +4 | —                             | 3 | 7 | 4 | 3 | 3 | — | — |
+| 12th | +4 | Ability Score Improvement     | 3 | 7 | 4 | 3 | 3 | 1 | — |
+| 13th | +5 | —                             | 3 | 8 | 4 | 3 | 3 | 1 | — |
+| 14th | +5 | Practition Feature            | 4 | 8 | 4 | 3 | 3 | 2 | — |
+| 15th | +5 | —                             | 4 | 9 | 4 | 3 | 3 | 2 | — |
+| 16th | +5 | Ability Score Improvement     | 4 | 9 | 4 | 3 | 3 | 3 | — |
+| 17th | +6 | Bodily Augmentation           | 4 | 10 | 4 | 3 | 3 | 3 | 1 |
+| 18th | +6 | Practition Feature            | 4 | 10 | 4 | 3 | 3 | 3 | 1 |
+| 19th | +6 | Ability Score Improvement     | 4 | 11 | 4 | 3 | 3 | 3 | 2 |
+| 20th | +6 | Adrenal Infusion              | 4 | 11 | 4 | 3 | 3 | 3 | 2 |
+
+Not everyone in the world is blessed with healing magics. There are those who must cut through flesh and rifle through viscera in order to pull a befouled organ from a still living body. Those who must spend long nights studying every detail of the fleshy edifice that is a human body. Much the way that wizards study to control the weave and cast spells, a Biomancers lengthy studies have given them unparalleled control over bodily functions both their own and of others.
+
+### Malignant Knowledge
+The Biomancer seeks to ply their craft wherever it is needed. Years spent practicing on cadavers and patients has made them numb to the more vile aspects of medicine. An adventuter under the mantle of the Biomancer may have a drive to cure a specific illness, or simply seek to prefect their own skills, but they likely never shy away from the grisly or macabre. Reaching into the essence of his allies, the biomancer knits together bones, heals flesh and banishes fatigue so that they carry on the fight.
+
+## Class Features
+As a Biomancer, you gain the following class features.
+#### Hit Points
+___
+- **Hit Dice.** 1d8 per Biomancer level
+- **Hit Points at 1st Level.** 8 + your Constitution modifier.
+- **Hit Points at Higher Levels.** 1d8 + your Constitition modifier per Biomancer level after 1st
+
+#### Proficiencies
+___
+- **Armor.** Light Armor
+- **Weapons.** Simple weapons, hand crossbows.
+- **Tools.** Doctor's Kit, Alchemist's Supplies, one Artisans Tool of your choice.
+- **Saving Throws.** Intelligence, Wisdom
+- **Skills.** Choose two from Deception, History, Insight, Investigation, Medicine, Nature.
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+* (a) a hand crossbow and 20 bolts *or* (b) any simple weapon
+* (a) a scholars pack *or* (b) a diplomats pack
+* A dagger
+* Doctor's Kit and alchemist's supplies.
+
+### Spellcasting
+As a student of medicine, your knowledge of bodies had become virtually indistinguishable from magic. You have studied for years and are well versed with your tools.
+
+#### Doctor's Kit
+At 1st level you have a Doctor's Kit, which includes twine and needles for making stitches, several small blades, a pair of forceps and a bonesaw. You can use your Doctor's Kit as a spellcasting focus for biomancy. As an action, you can make use of the kit to stabilize a creature that has 0 hit points, without needing to make a Wisdom (Medicine) check.
+
+Additionally, you can use your Doctor's Kit to perform surgeries using the Medicine skill. These can range from amputation or re-attaching limbs to removing a befouled organ. Your DM determines the DC for these ability checks.
+
+#### Cantrips
+You know two Cantrips of your choice from the Biomancer spell list. You learn additional Biomancer Cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Biomancer table.
+
+#### Spells Known of 1st Level and Higher
+You know two 1st-level spells of your choice from the Biomancer spell list.
+The Spells Known column of the Biomancer table shows when you learn more biomancer spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.
+
+Additionally, when you gain a level in this class, you can choose one of the biomancer spells you know and replace it with another spell from the biomancer spell list, which also must be of a level for which you have spell slots.
+
+#### Spellcasting Ability
+Intelligence is your spellcasting ability for Biomancer spells, since your craft stems from years of study and practice. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the save throw DC for a biomancer spell you cast, and when making an attack roll with one.
+
+<center>
+
+___
+- **Spell save DC** 8 + your your Proficiency bonus + your Intelligence modifier
+- **Spell attack modifier** Your Proficiency bonus + your Intelligence modifier.
+
+</center>
+
+### Medical Practice
+Choose a school of medicine for you to specialize in. You may choose from Flesh, Nerves, or Four Humors, each of which is detailed at the end of the class description.
+
+Your choice grants you features at 1st level, and again at 6th, 14th, and 18th
+
+### Effluviant Miasma
+At 2nd level, you encourage a new organ to grow in your body which allows you to release a miasmatic haze around you. Your choice of Medical Practice determines the effects of your miasma.
+
+### Bodily Augmentation
+Many surgeons are aware of the limitations of the human body. Just as many seek to surpass it through a practice called Bodily Augmentation. at 3rd Level you turn your scalpel on yourself as many have before you, in order to gain a physical enhancement. Your choice of Medical Practice determines which Augmentations you may choose, as detailed at the end of this document.
+
+Additionally, when you gain a level in this class, you can choose one of the augmentations you have made to your body and replace it with another augmentation that you could learn at that level.
+
+You gain an additional Augmentation at 5th, 10th and 17th level, but you may not pick the same Augmentation twice. If an augmentation has prerequisites, you must meet them to learn it. You can learn the augmentation at the same time that you meet its prerequisites. A level prerequisite refers to your level in this class.
+
+### Ability Score Improvement
+When you reach 4th Level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two Ability Scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Adrenal Infusion
+At 20th level, you gain the ability to enhance your bodily processes to their limits. As an action, you can spend 1 minute forcibly activating your adrenal gland, and regain all your expended Spell Slots. Once you regain Spell Slots with this feature, you must finish a Long Rest before you can do so again.
+
+## Biomancer Spell List
+This section includes all spells available to the biomancer class.
+
+##### Cantrips (0 Level)
+- Eldritch Blast
+- Acid Splash
+- Chill Touch
+- Dancing Lights
+- Infestation
+- Mage Hand
+- Mending
+- Poison Spray
+- Toll the Dead
+
+##### 1st level
+- Absorb Elements
+- Armor of Agathys
+- Bane
+- Bless
+- Cause Fear
+- Charm Person
+- Color Spray
+- Cure Wounds
+- Dissonant Whispers
+- False Life
+- Find Familiar
+- Ice Knife
+- Inflict Wounds
+- Ray of Sickness
+
+##### 2nd Level
+- Alter Self
+- Calm Emotions
+- Darkness
+- Darkvision
+- Enlarge/Reduce
+- Knock
+- Lesser Restoration
+- Silence
+- Warding Bond
+- Wristpocket
+
+##### 3rd Level
+- Animate Dead
+- Beacon of Hope
+- Bestow Curse
+- Enemies Abound
+- Life Transference
+- Speak with Dead
+- Vampiric Touch
+- Revivify
+
+##### 4th Level
+- Blight
+- Compulsion
+- Confusion
+- Death Ward
+- Mordenkainen's Private Sanctum
+- Polymorph
+- Stoneskin
+
+##### 5th Level
+- Antilife Shell
+- Contagion
+- Dominate Person
+- Enervation
+- Insect Plague
+- Mass Cure Wounds
+- Raise Dead
+- Seeming

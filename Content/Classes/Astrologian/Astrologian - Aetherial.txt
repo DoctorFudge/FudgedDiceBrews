@@ -1,0 +1,17 @@
+### Aetherial Sect
+Unlike their brothers who gaze upon the stars and their sisters who track their movements, those in the aetherial sect believe that *feeling* the heavens is most important to understanding them. And what they feel most strongly is the trying forces of nature leaving destruction in its wake.
+
+#### Malefic
+When you choose this sect at 2nd level, choose one of the following spells: *chaos bolt*, *chromatic orb*, or *inflict wounds*. You add this spell to your spell list without it counting against your spells known.
+
+#### Aetherial Aspect
+At 2nd level, your spells pulse with raw energy. Whenever you cast a spell of 1st level or higher that deals hit point damage that targets one creature, you can expend a use of your Major Arcana to deal additional damage of the same type equal to 2 + the spell's level.
+
+#### Combust
+At 6th level, you discover the secret to minutely breaking down matter. As an action, choose a target within 60 feet. The target must make a Constitution saving throw or take damage equal to your proficiency bonus every round for 1 minute. Any magical healing the target receives during this duration negates this ability. You have two uses of this ability, and you regain all expended uses of it when you finish a short or long rest.
+
+#### Destructive Synastry
+At 14th level, you can create a cruel bond between yourself and another creature. As a bonus action, choose a target within 60 feet of you. The target must make a successful Wisdom save or be bonded with you. For the next minute, whenever you deal hit point damage to the target or they deal hit point damage to you, the target takes an amount of damage equal to half of the damage taken. You may use this ability once and regain the ability to do so after a short or long rest.
+
+#### Stellar Detonation
+At 20th level, you come to understand the universe's balance of death and life. As an action, choose a point within 60 feet. A 15-foot radius sphere that flickers like a faint star erupts in that location, restoring 12d6 hit points to you and any ally within it and dealing the same amount of radiant damage to your opponents within. A successful Constitution saving throw halves this damage. You may use this feature once and regain the ability to do so after a long rest.

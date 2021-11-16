@@ -1,0 +1,17 @@
+### Diurnal Sect
+Those who focus on the movement and activity of the sun belong to the diurnal sect. They believe the sun represents the active and what is known. The healing powers that lie within the fiery sphere are drawn upon by this group of scholars.
+
+#### Benefic
+When you choose this sect at 2nd level, choose one of the following spells: *cure wounds*. *healing word*, or *false life*. You add this spell to your spell list without it counting against your spells known.
+
+#### Diurnal Aspect
+At 2nd level, your healing spells become more potent. Whenever you cast a spell of 1st level or higher that restores hit points, the target gains a regeneration effect. At the beginning of your subsequent turns, the target regains 1 hit point for a number of rounds equal to the spell's level. Multiple regeneration effects from this feature do not stack, nor does this feature stack with other Diurnal Sect features.
+
+#### Helios
+At 6th level, you can call forth the healing properties of the sun to aid you and your allies. As an action, you and all allies within 30 feet gain a regeneration effect for 1 minute. On this turn, and at the beginning of your subsequent turns, all affected targets regain 1 point. You may use this ability once and regain the ability to do so after a long rest.
+
+#### Healing Synastry
+At 14th level, you can create a healing bond between yourself and an ally. As a bonus action, choose an ally within 60 feet. For the next minute, whenever you restore hit points to yourself or another creature (including the bonded ally) using an astrologian spell, the bonded ally restores an amount of hit points equal to half of the hit points restored. The bonded ally must be no more than 60 feet away from you to gain this healing. You may use this ability once and regain the ability to do so after a short or long rest.
+
+#### Collective Unconscious
+At 20th level, you discover the interconnectedness that you have to your allies. As an action, you begin healing yourself and all allies within 20 feet. For up to 1 minute, every target regains 5 hit points on this turn and the beginning of all of your subsequent turns. This ability requires concentration, as per spellcasting. You may use this ability once and regain the ability to do so after a long rest.

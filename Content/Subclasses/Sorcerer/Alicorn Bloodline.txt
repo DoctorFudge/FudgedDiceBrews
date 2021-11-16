@@ -1,0 +1,19 @@
+### Alicorn Bloodline
+[**Source:** *Planeshift: Equestria*](https://drive.google.com/file/d/1899ocF4xZYbFX6f9tsY4JPzeCkGZKoKO/view)
+
+Sorcerers of the Alicorn Bloodline often are distant relatives of the divine rulers, called to magic by their very soul. They can be haughty if they are aware of their heritage, but most often they never know until wings sprout from their backs. Alicorn Bloodline sorcerers tend to be ponies, especially unicorns from Canterlot, though there have been rumors of other races bearing these traits. They've never been confirmed of course.
+
+#### Celestial Chosen
+At 1st level, you gain the *thaumaturgy* cantrip. Also, when choosing sorcerer spells by leveling up, you may also choose from the cleric spell list.
+
+#### Armor Training
+Casting spells with divine power is easier than doing arcane magic in armor. At first level you gain proficiency in light and medium armor.
+
+#### Divine Metamagic
+At 6th level, you can use a bonus action after casting a spell with a metamagic to empower any creature within 60 feet of you that you can see with that same metamagic for their next spell. If and only if they use their next action to cast a spell, it gains that metamagic, assuming the spell meets all requirements as usual for the metamagic, and you pay the Sorcery Point cost for it. While empowered by this ability, you and the target gain spectral wings and/or a spectral unicorn horn, unless you have either of those physical features already. If so, those physical features glow dimly.
+
+#### Alicorn Horn and Wings
+At 14th level, you gain the ability to sprout a pair of feathered wings from your back, gaining a magical flying speed equal to your current walking speed. You can create these wings as a bonus action on your turn. They last until you dismiss them as a bonus action on your turn. You can't manifest your wings while wearing armor unless the armor is made to accommodate them, and clothing not made to accommodate your wings might be destroyed when you manifest them. In addition, you gain a horn on your forehead that acts as an arcane focus. You can manifest the horn in the same way you manifest the wings. If you already have a horn or wings, you only gain the one you don't have.
+
+#### Divine Favor
+At 18th level, you gain the ability reach out to the threads of divine fate and respin them. As a reaction, you can roll 1d12, and choose to add or subtract this total to any attack roll, ability check, saving throw or damage roll you or a creature you can see makes, before or after you learn the result of the roll. Once you use this feature you must finish a short or long rest to use it again.

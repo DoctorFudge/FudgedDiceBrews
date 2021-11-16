@@ -1,0 +1,26 @@
+## Choosing A Benefactor
+While every knight is competent in their own right, it is always nice to know someone has your back. Much like how knights of old belonged to ancient orders that provided them with tools, your benefactor is a patron of your adventures, and regularly provides you with Relics that empower you and your weapons. Consider who or what is supplying you with rare treasures. They each provide one bonus skill, tool, or language proficiency.
+
+### The Bard
+This wandering minstrel found their company among yours during your travels and has offered to aid you in your quest for glory. While they lack the power to go off on fantastic adventures, they see benefit in supplying you with Relics in their own quest to write sonnets about warriors of legend.
+
+Curiously, you always find them wearing a knight's helmet but have yet to discover why. The Bard is a being of Good will and tends to gravitate towards Good aligned folk.
+- **Bonus Proficiency:** Choose one: Acrobatics, Performance, one Musical Instrument of your choice.
+
+### Mom
+Some adventurers never stray too far from home. Perhaps your benefactor is a former adventurer in your family, or another relative. Through thick and thin, its good to know your family will always have your back. Considering your relationship, Mom will always see the best in you, even if your alignment is evil.
+- **Bonus Proficiency:** Choose one: Persuasion, Medicine, Insight, or One Artisan's Tool Proficiency of your choosing.
+
+### Troupple King
+The leader of the Troupples who thinks himself a god amongst men (and fish). Those who seek out his guidance may find him. He seems to be unfettered by alignment.
+
+It is said that his spit is the source of all Ichor. But that can't be true, right?
+- **Bonus Proficiency:** Choose one: Acrobatics, Athletics, Language (Aquan)
+
+### The Enchantress
+This mysterious sorceress wields powerful and evil magic that enables her control over a small legion of followers. Perhaps you've caught her eye, and as such are granted Relics as your strength grows. Whatever plans she has for you are unclear. You're only certain that someday, her good will may end. As a powerful and evil sorceress, she tends to patron those of the Evil alignment.
+- **Bonus Proficiency:** Choose one: Acrobatics, Survival, Arcana
+
+### Chester
+This shopkeeper seems to be passionate about Relics and often tries to find them for resale. Thankfully, he's taken a liking to you and has offered you his collection to help advertise his wares and aid your adventures. Chester seems to prefer folk who fall in the Lawful alignment and won't impose on his good-will.
+- **Bonus Proficiency:** Choose one: Acrobatics, Survival, Thieve's Tools, or Jeweler's Tools

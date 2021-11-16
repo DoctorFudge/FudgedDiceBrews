@@ -1,0 +1,40 @@
+### Decree of Retribution
+The Decree of Retribution calls for heroes to see through the lies of the sinful, before bringing them to justice with a blade of wrath. No matter how adept their enemies may be, a hero that enforces this Decree will cut through the fog of deceit that shrouds their path, before reaching out for the truth.
+
+#### Decree Magic
+Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Retribution Spells table. The spell counts as a masked hero spell for you, but it doesn't count against the number of masked hero spells you know.
+
+##### Retribution Spells
+| Masked Hero level | Spell |
+|:----:|:-------------|
+| 3rd  | *wrathful smite* |
+| 5th  | *zone of truth* |
+| 9th | *blinding smite* |
+| 13th | *dominate beast* |
+| 17th | *banishing smite* |
+
+#### Eye for Injustice
+When you select this decree at 3rd level, you learn how to see through the lies and deceit of those you are interrogating. You gain proficiency in the Insight skill if you don't already have it. In addition, whenever you make a Wisdom (Insight) check on a creature that you have spent at least 1 minute interacting with, you can add your proficiency bonus twice to the check.
+
+#### Judgement Blade
+At 3rd level, after using Deflective Strike, you can use your reaction to make a melee spell attack against an enemy creature that you can see within 30 feet of you, interrupting the current turn.
+
+The spell attack's damage is psychic, and its damage die is a d6. You can add your Wisdom modifier to the damage roll of this attack. Hit or miss, the target of this spell attack can't take reactions until the end of your next turn.
+
+You may expend one masked hero spell slot to deal an extra 2d6 psychic damage after the spell attack hits, plus an additional 1d6 for each spell slot level used higher than 1st, to a maximum of 5d6.
+
+The attack's damage die increases when you reach certain levels in this class, increasing to 1d8 at 7th level, and 1d10 at 11th level.
+
+> ##### Your Transformation & Your  Decree
+> While nothing in the class description states how your transformation looks, it is encouraged to have it reflect your chosen Decree. For example, a hero of Retribution could don a helmet with a blindfold-esque visor, glowing symbols shaped in the scales of justice hovering around them wherever they go.
+
+#### Vengeful Retaliation
+At 7th level, after using Deflective Strike, your blows become infused with a need for retribution. The first enemy creature you hit on your next turn with a melee weapon attack  must succeed on a Strength saving throw against your masked hero spell save DC or be knocked prone. The target has disadvantage on the save if it has damaged you since the end of your last turn.
+
+#### Decree Enhancements
+Starting at 11th level, you gain the following benefit for your Masked Transformation:
+
+***Vanquishing Armament.*** Whenever you take the Attack action on your turn with a heroic armament in the form of a melee weapon, you can forgo two of your attacks to make the melee spell attack of Judgement Blade.
+
+#### Psychic Assault
+At 15th level, you can delve into the minds of your enemies and unravel their very thoughts. As an action, you can expend one use of Heroic Armaments to cast *detect thoughts*, without expending a spell slot. Whenever you do this, a creature that you are focusing this spell on has disadvantage on Wisdom saving throws made in order to prevent you from probing deeper into its mind. If a creature attempts to use its action to end the spell by making an Intelligence check contested by your Intelligence check, you gain a +5 bonus to your check.

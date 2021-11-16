@@ -1,0 +1,16 @@
+### Path of the Goodberry
+[**Source:** *Praise Be The Goodberry! Compendium*](https://www.gmbinder.com/share/-LZeyRZtzKZLu2cjiglX)
+
+Among the various followers of the goodberry there are a select few who take their praise of the Goodberry to fanaticism. Often taking drastic action to ensure that the Goodberry is praised by all. Often uttering the phrase "Praise or Die!" to those who do not.
+
+#### Wild Step
+Starting at 3rd level, while raging you can as a bonus action cause your fanaticism for the Goodberry to burst forth causing goodberry terrain to sprout and burst forth within 10 feet of you. The Goodberry terrain acts as magical rough terrain, and any enemies who start their turn in the terrain or move into the terrain on their turn must make a Dexterity saving throw, on a failed saving throw taking 3d6 magical bludgeoning damage from the goodberry vines and half as much on a successful save. You are immune to the effects of Goodberry terrain. You can use this feature once per rage and the terrain lasts for 15 minutes.
+
+#### Thrashing Vines
+At 6th level, the Goodberry seeks to protect you. While raging, you can as a reaction whenever you take damage cause a vine to burst forth from the ground at your feet and deal 1d6 magical piercing damage to a creature within 5 feet of you. You can use this feature three times per short or long rest.
+
+#### Goodberry Protection
+At 10th level, your skin hardens and becomes more resilient to damage. When you roll for initiative you gain temporary hit points equal to what you rolled for initiative + your Constitution modifier.
+
+#### Praise or Die
+Finally at 14th level, your ravenous worship of the Goodberry and the power you gain reaches it zenith. While raging, you can as an action choose one creature that is inside the area of Wild Step, they must make a Dexterity saving throw. On a failed save taking 6d6 magical bludgeoning damage, and half as much on a successful save. Once you use this feature you cannot do so again until you complete a long rest.

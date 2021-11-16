@@ -1,0 +1,46 @@
+## Starforged
+[**Source:** *All the Lights in the Sky are Stars*](https://www.gmbinder.com/share/-LSNMh6eX2Cm0VdsuZTr#p5)
+
+*"I remember it so clearly, it was fleeting, but it was there, it came as soon as it arrived. My first thought, the first thing my core every thought of, a simple phrase: Why am I here?"*
+<div style="text-align: right"> — Hem Haywire, Starforged </div>
+
+### Sentient Constructs
+Constructs created from the parts of meteorite or comets, some of these mindless automatons develop sentience after a single catalyzing thought. This thought ruminates within the starforged as it continues its designated function, but slowly grows into more and more thoughts, until flowering into sentience and a concept of self. Though this process varies from between starforged, each one's first thought remains universally the single thing that it dedicates its life to unraveling.
+
+### Born of Space
+Starforged are a singular bright and white core surrounded by rock and ice. The core acts as the brain for the creature as well as its mouth and eyes. The rock and ice that makes them up floats around this core, but will move to a position in a way that simulates a humanoid. Starforged rarely form heads, however, preferring to let their cores rest in the middle of the chest instead.
+
+### Driving Question
+A starforged's life is dedicated to understanding its first thought, normally to answering its question or unveiling the meaning behind that thought. Starforged are innately curious about the world, learning by testing and observing how things work. They tend to be empathetic to other humanoids wanting to achieve humanity. They can however be resentful to humans if their master had treated them badly enough before their awakening. This makes them violent and quick to anger when humanoids are hostile towards them.
+
+### Starforged Names
+Nameless before achieving sentience, a starforged chooses or is given a name after gaining a sense of self. Names given to a starforged by another creature take after that creature's language and culture.
+
+Names chosen by a starforged for itself often relate to its first thought, sometimes creating anagrams of the thought. Thoughts such as "Who am I?" can be rearranged into names like Whaimo, or abbreviated into names such as Ami.
+
+### Starforged Racial Traits
+Your starforged character has certain traits derived from its cosmic and constructed nature.
+
+***Ability Score Increase.*** Your Constitution score increases by 2, and one other score of your choice increases by 1.
+
+***Age.*** After achieving sentience, starforged mature at the same age as humans. They can live until their core run out of energy, a process that can take up to 700 years.
+
+***Alignment.*** Most starforged take comfort in order and discipline, tending toward law and neutrality, but some have absorbed the morality—or lack thereof—of the beings they served with.
+
+***Size.*** Most starforged stand between 5 and 6½ feet tall. Your size is Medium.
+
+***Speed.*** Your base walking speed is 30 feet.
+
+***Luminous Core.*** You know the *light* cantrip. Constitution is your spellcasting ability for it.
+
+***Languages.*** You can speak, read, and write Common and one extra language of your choice.
+
+***Starforged Resilience.*** Your constructed and cosmic nature grants you the following benefits:
+- You have resistance to cold damage.
+- You are immune to disease.
+- You don't need to eat, drink, or breathe.
+- You don't need to sleep and don't suffer the effects of exhaustion due to lack of rest, and magic can't put you to sleep.
+
+***Natural Armor.*** Your body is composed of metal, stone, and strands of starlight. When you aren't wearing armor, your AC is 13 + your Dexterity modifier. You can use your natural armor to determine your AC if the armor you  wear would leave you with a lower AC. A shield's  benefits apply as normal while you use your natural armor.
+
+***Sentry's Rest.*** When you take a long rest, you must spend at least six hours of it in an inactive, motionless state, rather than sleeping. In this state, you appear inert, but it doesn't render you unconscious, and you can see and hear as normal.

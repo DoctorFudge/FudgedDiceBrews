@@ -1,0 +1,98 @@
+## Pactborn
+[**Source:** *Sterling Vermin Adventuring Co. Anthology*](https://drive.google.com/file/d/1Ny8dWiwZ57q6lGtbyQUp_xOwmlx4Ty_m/view)
+
+When warlocks dare to test their luck by forging pacts with powerful creatures outside the material realm they risk not only their own souls but the souls of their kin as well. Pactborn are the children of warlocks whose binding relationship to otherworldly patrons left a telling imprint on their spawn. Pactborn children are almost always shunned by society and usually just as likely to be rejected by their parents. In the eyes of their parents, pactborn are a cruel reminder of the price they paid for power. In everyday society, pactborn are unfairly and incorrectly seen as innately evil or nefarious.
+
+### Thicker Than Blood
+Not all children of warlocks are pactborn and it is unclear what factors differentiate warlocks who pass along their inhuman nature to their kin from those that do not. Increasing their isolation from the world, Pactborn are not able to sire or bear children themselves so even the embrace of a family of their own is beyond their grasp. Though they might wish otherwise, the pactborn’s unnatural lineage is betrayed by their outward appearances, their physical features a symbol of the union between their parent and their parent’s otherworldly patron. Due to the incredible strain the pactborn have in starting and keeping relationships they tend to be steadfast and loyal to those who show them true kindness and respect.
+
+### Otherworldly Kin
+All pactborn have an unnatural charisma that stems from their parents and their parent’s patron’s raw and overwhelming presence. Warlocks promised to the Archfey can sire or birth siofra, a pactborn known for their duplicity and tricky nature. Warlocks in the service of a Fiend can have tiefling children, whose appearance matches their infernal temperament. Warlocks bound to the Great Old Ones sometimes spawn the methuselah, pactborn who exude the alien weirdness of their parent’s patrons and whose madness is only matched by their insight.
+
+Other stranger and rarer pactborn are the result of less common warlock patrons. Among these pactborn, the aasimar are born to warlocks who have forged their pacts with powerful beings of light and order and the lemures are the spawn of warlocks pledged to ancient undead beings suffused with necromantic power.
+
+### Pactborn Racial Traits
+All pactborn share the following features.
+
+***Ability Score Increase.*** Your Charisma score increases by 2.
+
+***Age.*** Pactborn mature at the same rate as humans but live a few years longer.
+
+***Alignment.*** Pactborn may not have an innate tendency toward evil, but many of them end up there after a lifetime of desperation and social isolation. Influenced by the mystic imprint of a warlock’s pact, pactborn are prone towards a lawful alignment.
+
+***Size.*** Pactborn are about the same size and build as humans. Your size is medium.
+
+***Speed.*** Your basic walking speed is 30.
+
+***Subrace.*** Five subraces of pactborn are found among the worlds of D&D: siofra, tiefling, methuselah, aasimar, and lemures. Choose one of these subraces.
+
+#### Siofra
+Siofra are said to be capricious and mercurial. The parent of a siofra child must always be vigilant as the child is prone to putting itself in harm’s way to satisfy its curiosity. When the child finally grows out of that phase they are likely to torment their parents with no end with practical jokes and gags meant to amuse no one but the child themself. While most siofra outgrow these habits they do tend to have overactive senses of humor, quickly change their minds, and display a certain degree of lack of empathy or consideration for others.
+
+Physically the siofra are lithe, beautiful, and often have splashes of shocking color in their hair, eyes, or skin. Some siofra smell of sweets or flowers or other pleasant things. It is unheard of for a siofra to be plain. Whether they are beautiful or otherwise, they are always striking in appearance.
+
+***Ability Score Increase.*** Your Dexterity score increases by 1
+
+***Chimeric Legacy.*** You know the *minor illusion* cantrip. Once you reach 3rd level, you can cast the *charm person* spell once with this trait as a 2nd-level spell, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the *misty step* spell once with this trait, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+
+***Fey Ancestry.*** You have advantage on saving throws against being charmed, and magic can’t put you to sleep.
+
+***Untrue.*** You have proficiency in the Deception skill.
+
+***Languages.*** You can speak, read, and write Common and Sylvan.
+
+#### Tiefling
+Tieflings often bare a certain characteristic demeanor of their infernal heritage though to a lesser degree than they are often accused of. Tieflings are prone to have a particular vice that then struggle with or indulge in most of their lives. For some tieflings this means a life time of late nights and large tabs at taverns while others’ habits run more violent or esoteric.
+
+The appearance of tieflings is quite diverse. Most tieflings have a red complexion although for some this is quite light and for others it is stark. Common physical qualities of tieflings include horns, tails, fangs, forked tongues, and upturned noses. Despite these qualities being common they are not ubiquitous and most tieflings only have some of these traits rather than all of them. Tieflings sometimes smell like burnt wood, cinnamon, or sulfur.
+
+***Ability Score Increase.*** Your Intelligence score increases by 1.
+
+***Darkvision.*** Thanks to your infernal heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as it if were bright light, and in darkness as it if were dim light. You can’t discern color in darkness, only shades of gray.
+
+***Hellish Resistance.*** You have resistance to fire damage.
+
+***Infernal Legacy.*** You know the *thaumaturgy* cantrip. Once you reach 3rd level, you can cast the *hellish rebuke* spell once with this trait as a 2nd-level spell, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the *darkness* spell once with this trait, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+
+***Languages.*** You can speak, read, and write Common and Infernal.
+
+#### Methuselah
+Methuselah frequently spend much of their childhood without uttering a word and seemingly oblivious to others around them. As they grow older, methuselah engaged a bit more with others but are always noticeably distracted by internal thoughts or stimuli. While madness is relatively common in methuselah it is not guaranteed. Most methuselah have very idiosyncratic ideas about themselves and the world and are prone to being conspiratorial and paranoid.
+
+Although the appearance of methuselah varies greatly they are all distressing on some level to others. Methuselah have been known to exhibit translucent skin, bulbous lumps about their bodies, vestigial limbs, bulging veins, and odd patches of hair or hairlessness. The voices of methuselah are also often noted as having an unnerving quality of some kind. This quality might be an unnatural or quavering pitch, words that echo themselves, or unintended guttural growls or groans.
+
+***Ability Score Increase.*** Your Constitution score increases by 1.
+
+***Ineffable Legacy.*** You know the *prestidigitation* cantrip. Once you reach 3rd level, you can cast the *sleep* spell once with this trait as a 2nd-level spell, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the *crown of madness* spell once with this trait, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+
+***Inscrutable Madness Insight.*** When you complete a long rest roll a d20 and record the number rolled. You can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with this roll. You must choose to do so before the roll and, when you do, you lose this foretold roll. When you take a long rest you lose this foretold roll.
+
+***Languages.*** You can speak, read, and write Common and Deep Speech.
+
+#### Aasimar
+Despite their appearance and supernatural inheritances, the aasimar are not the beings of unflinching virtue some assume they must be. Instead, aasimar struggle with the strong convictions fueled by their supernatural connection to order and all the shortcomings that make them mortal. In coping with this struggle, some aasimar begin to believe that they are morally superior in due to their heritage and become philosophically bullish insisting that their own moral compass is flawless regardless of where it leads them. For other aasimar, the better side of both of their natures prevail and they truly are the beings of goodness, compassion, and justice others hope they are.
+
+Aasimar have a radiant or magnetic presence. While they may not be beautiful by traditional standards, something about their appearance signified authority or goodness. They may have tinges of gold in their eyes, hair, or skin and they are almost always without physical blemish. Very rarely an aasimar is born with wings but these limbs are always useless for flying or gliding, though they do make clothing and armor more difficult and expensive to come by.
+
+***Ability Score Increase.*** Your Wisdom score increases by 1.
+
+***Darkvision.*** Thanks to your celestial heritage, you have superior vision in dark and dim conditions. You can see in dim light within 60 feet of you as it if were bright light, and in darkness as it if were dim light. You can’t discern color in darkness, only shades of gray.
+
+***Celestial Resistance.*** You have resistance to necrotic damage and radiant damage.
+
+***Celestial Legacy.*** You know the *light* cantrip. Once you reach 3rd level, you can cast the *lesser restoration* spell once with this trait, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the *daylight* spell once with this trait as a 3rd-level spell, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+
+***Languages.*** You can speak, read, and write Common and Celestial.
+
+#### Lemures
+Perhaps unsurprisingly, lemures have a fascination with death and dead things. Despite this fascination, lemures are rarely violent but instead prefer to observe the machinations of death and decay where they are already occurring. While this is an unsettling interest in children it is even more prone to unsettle others once the lemures reaches adulthood. Lemures are typically quiet, reserved, and prone to sullen and withdrawn moods.
+
+Lemures often look older and more weary than they are though they age and exhaust no faster than other Pactborn. Their frequently frail and malnourished appearance also masks their inherent strength. Lemures are prone to having ashy or dry skin with black or gray eyes and black, gray, or white hair. Lemures sometimes smell of freshly turned earth, smoke, or rot.
+
+***Ability Score Increase.*** Your Strength score increases by 1.
+
+***Stygian Legacy.*** You know the *spare the dying* cantrip. Once you reach 3rd level, you can cast the *ray of sickness* spell once with this trait as a 2nd-level spell, and you regain the ability to do so when you finish a long rest. Once you reach 5th level, you can cast the *speak with the dead* spell once with this trait, and you regain the ability to do so when you finish a long rest. Charisma is your spellcasting ability for these spells.
+
+***Unnatural Innervation.*** As an action you can roll and expend a hit dice to gain the result + your Constitution modifier in temporary hit points.
+
+***Languages.*** You can speak, read, and write Common. Additionally, you can speak to and understand the speech of any undead creature that knows a language.

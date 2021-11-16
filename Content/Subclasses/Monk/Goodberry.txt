@@ -1,0 +1,16 @@
+### Way of the Goodberry
+[**Source:** *Praise Be The Goodberry! Compendium*](https://www.gmbinder.com/share/-LZeyRZtzKZLu2cjiglX)
+
+There are those who see the Goodberry as a force with which they can better themselves. Monks of this sort seek to make themselves one with the Great Goodberry, both physically and spiritually.
+
+#### Grasping Touch
+At 3rd level, whenever you make an unarmed attack you can as a reaction cause vines to sprout from your hands and make a grapple check against the creature you attacked.
+
+#### Knowledge of the Great Goodberry
+At 6th level, you gain proficiency with the nature and survival skills if you aren't already proficient with them. Whenever you make a nature check you can use Wisdom instead.
+
+#### Goodberry Tendrils
+At 11th level, you may spend 1 ki point to increase the reach of your unarmed attacks by 10 feet for 1 minute. You can use this feature a number of times equal to your Wisdom modifier per long rest.
+
+#### Goodberry Ascendant
+At 17th level, you have become one with the Great Goodberry in mind, soul, and body. You can cast Kevin's Faithful Goodberry once per long rest without needing to expend a spell slot.

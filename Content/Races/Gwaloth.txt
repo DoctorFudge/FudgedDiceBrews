@@ -1,0 +1,39 @@
+## Gwaloth
+[**Source:** *Old Gus’ Errata: Plantfolk, Undead, and Other Oddities*](https://drive.google.com/file/d/1rhNUe5owqrRFA8jNWBHUaRzTBX6Il6n9/view)
+
+### Growing Together
+Gwaloth have the appearance of lithe, vine-covered halflings. They have growths that resemble hair and beards, and often have a nest of petals sprouting from the tops of their heads. Gwaloth never tolerate shoes, and prefer a thick coating of raw earth around their root- like feet. They prefer to live in sun-dappled forests and jungles, with a tall overhead canopy, although some tribes favor swamps or mountainous scrubland. They avoid deserts or any place without fertile soil.
+
+Gwaloth favor their attachment to fertile earth so much that Gwaloth priests, governors and others of station in their societies literally put their roots down, never leaving their planting positions as a public sign of their dedication.
+
+Gwaloth are especially hardy creatures for their size, and can be notoriously difficult to exterminate. Thankfully, they prefer a live-and-let-live philosophy, with many of their tribes (which they call “gardens”) taking a vow a strict pacifism as part of adult rites.
+
+Gwaloth love to trade favors and gifts. If a gwaloth produces fruit from their own body and offers it to you, you know you have made a friend for life.
+
+### Gwaloth Racial Traits
+
+***Ability Scores.*** Your Wisdom score increases by 2 and your Constitution score increases by 1.
+
+***Age.*** Gwaloth reach adulthood at around 30 years and live up to two centuries.
+
+***Alignment.*** Most gwaloth are good.
+
+***Size.*** Gwaloth average 4 feet tall and weigh about 45 pounds. Your size is Small.
+
+***Speed.*** You have a base walking speed of 25 feet.
+
+***Languages.*** You can speak, read and write Common and Sylvan.
+
+***Photosynthetic.*** You do not eat, but must maintain physical contact with fertile soil for at least 24 hours each week or ingest one handful of fertile soil each day.
+
+You must be exposed to direct sunlight for 4 hours each day. Partial sunlight contributes at half the rate, and bright magical light at one quarter of the rate.
+
+***Deep Roots.*** If you are standing on fertile soil, you can plunge your roots into the ground using your action. Until the start of your next turn, you can’t move or take reactions, and you resist all damage unless it is fire damage. If an attack, ability or spell deals lightning damage to you, you heal for the amount instead. Additionally, you have advantage on any saving throw or check you make that would result in you being knocked prone. At the start of your next turn, your roots retract from the earth, and you can choose to immediately spend one hit die, rolling it and adding your Constitution modifier to it. You regain hit points equal to the total.
+
+Once you use this trait, you can’t use it again until you finish a long rest.
+
+***Herbal Affinity.*** You are proficient in the Nature and Medicine skills.
+
+***Gwaloth Magic.*** You know the *resistance* cantrip. When you reach 3rd level, you can cast the *goodberry* spell once, and must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can cast the *speak with plants* spell once, and must finish a long rest in order to cast the spell again using this trait. Wisdom is your spellcasting ability for the spell.
+
+***Hybrid Nature.*** You have two creature types: humanoid and plant.

@@ -1,0 +1,33 @@
+### Powderblood
+[**Source:** *The Gunpowder Codex*](https://drive.google.com/file/d/1jjhLL1aeWVp2AsoOIwJJ-0BvO6dvPedk/view)
+
+While many sorcerers draw their power from some ancient, revered, or mystical source, Powderbloods draw theirs from an unfortunate accident that occurred at some point in their lives. All at some time experienced a disastrous miscalculation when working with black powder, and the resulting explosion blended with latent magical forces to imbue them with innate magic and understanding of gunpowder. Rare and often eccentric, powderbloods are nonetheless a formidable force on the battlefield.
+
+#### Powder Magic
+Your affinity for gunpowder gives you the option to learn some non-sorcerer spells. When your Spellcasting feature lets you learn a sorcerer spell of 1st level or higher, you can select the spell from the following list of spells, in addition to the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.
+
+**Spell Level**|**Spell**
+:-----:|:-----
+1st|<em>faerie fire, hail of thorns, hellish rebuke</em>
+2nd|<em>continual flame, flaming sphere, bullet scry</em>
+3rd|<em>elemental weapon, conjure barrage</em>
+4th|<em>elemental bane</em>
+
+#### Explosive Blood
+At 1st level, you have learned to tap into the powder within your blood to create a powerful explosion around you. As an action, you may cause flames to burst from you, damaging anyone within 10 feet of you. All creatures and objects within that area, except for those in your space, take 2d8 fire damage, or have as much on a successful Dexterity saving throw. This ability's damage increases by 2d8 when you reach 5th level (4d8), 11th level (6d8), and 17th level (8d8). You may use this ability a number of times equal to half your Charisma modifier (minimum of once), and you regain all expended uses after a long rest.
+
+#### Extra Attack
+Starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+#### Metablood
+At 6th level, you gain new options for spending sorcery points, as follows:
+- You may spend 1 sorcery point when you use your Explosive Blood ability to increase its damage by 2d8. You may do this only once per use of the ability.
+- You may spend sorcery points to increase the radius of your Explosive Blood ability by 5 feet per point spent, to a maximum radius of 30 feet.
+- If an attack roll you make with a firearm would cause it to misfire, you may spend 1 sorcery point to ignore the misfire. The attack still misses, but your weapon is unaffected.
+- When making an attack roll with a firearm, you may spend 1 sorcery point to ignore disadvantage imposed by long range.
+
+#### Gunmage
+At 14th level, the black powder coursing through your veins enables you to blend the arcane arts with flint and steel to deadly effect. If you use an action to cast a spell on your turn, you may use your bonus action to make a single firearm attack.
+
+#### Black Powder Apotheosis
+By 18th level, your innate skill with firearms has reached its apex. Whenever you score a critical hit with a firearm, you regain 1 sorcery point.

@@ -1,0 +1,25 @@
+### Order of the Root
+#### Fundamental Basics
+You excel at producing minor magical effects, standing on the threshold of the basis of the Weave. Starting at 2nd level, you know three cantrips of your choice from the Magi spell list. You learn additional Magi cantrips of your choice at higher levels: four at 4th, five at 10th and six at 16th.
+
+Additionally, you gain the following benefits:
+- You can simultaneously concentrate on a cantrip and one other spell.
+- When you gain an additional cantrip from this class, you can choose from any class' spell list. Cantrips learned this way are considered Magi cantrips for you.
+
+#### Expert Adept
+By 6th level, well-practiced cantrips benefit from your considerable dedication, honed to the verge of perfection. When you cast a cantrip, you can expend spell points and choose one of the following benefits to apply to it:
+- If the cantrip has a range other than Self, you can spend 2 spell points to double its range. If its range is Touch, it becomes a 10 foot cone.
+- If the cantrip has a duration of 1 minute or longer, you can expend 2 spell points to extend its duration to a maximum of 12 hours.
+- You can expend 3 spell points to give targets disadvantage on saving throws made against a cantrip or give yourself advantage on the attack roll with that cantrip.
+- You can expend 3 spell points to cast the cantrip as though you were located in the space of an allied creature that you can see within 30 feet.
+- If the cantrip deals a type of damage from the following list, you can spend 1 spell point to change that damage type to one of the other listed types: acid, cold, fire, lightning, poison, thunder.
+
+Additionally, you add your Charisma modifier to the damage you deal with any Magi cantrip.
+
+#### Quick Study
+Starting at 13th level, you can replace a Magi cantrip you know with a different cantrip from the Magi spell list as a bonus action. Once you use this feature, you can't use it again until you finish a long rest.
+
+#### Master of the Root
+At 18th level, you have gained an understanding of the Weave so great that's begun to spread to true magic. Choose a 1st level Magi spell you have prepared. You can cast this spell at their lowest level without expending a spell point, treating it as a Magi cantrip. If you want to cast either spell at a higher level, you must expend spell points as normal and have it prepared.
+
+By spending 8 hours in meditation, you can exchange the spell you chose for a different spell of the same level.

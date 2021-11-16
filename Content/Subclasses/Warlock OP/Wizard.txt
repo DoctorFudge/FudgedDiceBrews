@@ -1,0 +1,60 @@
+### The Wizard
+[**Source:** *The Wizard*](https://www.gmbinder.com/share/-MlUP_n0t45-fEYS4x8P)
+
+Behind every great wizard is an apprentice. Not because the wizard wants to pass on his knowledge, but because he needs help. One who finds themselves in the apprenticeship of an accomplished wizard is in quite a privleged position to gain significant power through knowledge. After all, if the apprentice is incompetent, he's no more help than the next hired mercenary; just a warm body.
+
+You have achieved the greatest mastery of magic. A terrible fate has befallen you. You've angered the gods. A spell has gone horribly wrong. You've been reincarnated into a much less powerful vessel, but the knowledge remains. You just need to draw it out and learn how your new body channels magic.
+
+An elderly wizard that has far outlived his years is living out the end of his days. His life's work can't be for naught! He's used a powerful magic to divine a new host for all of his knowledge, you. It drives you insane. You're scribing scrolls he used to know in your sleep. You're studying things you never knew you never knew.
+
+No matter how, you have the knowledge of a very powerful wizard contained in your skull. It's dangerous, but powerful.
+
+#### Expanded Spell List
+The Wizard lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are some suggested wizardly spells to choose.
+
+Your wizard is willing to teach you nearly anything he knows, this allows you to learn spells from the wizard class. When your Pact Magic feature lets you learn or replace a warlock cantrip or a warlock spell of 1st level or higher, you can choose the new spell from the wizard spell list or the warlock spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a warlock spell for you.
+
+| Spell Level  | Spells |
+|:---:|:-----------:|
+|  1st  | Find Familiar, Magic Missile |
+|  2nd  | Levitate, Locate Object |
+|  3rd  | Phantom Steed, Tiny Hut |
+|  4th  | Arcane Eye, Phantasmal Killer |
+|  5th  | Bigby's Hand, Wall of Force |
+
+#### Arcane Knowledge
+Your knowledge is an ever-flowing river that cannot be contained. Whenever you make an Intelligence check, you may add your proficiency bonus to the result.
+
+#### Gifted Scroll
+When you finish a long rest you'll find that your patron has gifted you with a scroll. Roll a d8, you gain a scroll of the spell that corresponds to that roll and any other scrolls you have from this feature vanish. At 10th level you may choose the scroll instead of rolling.
+
+In addition, you gain the ability to cast scrolls from the wizard spell list as warlock spells. 
+
+| d8  | Spell Scroll |
+|:---:|:-----------:|
+|  1  | Absorb Elements |
+|  2  | Find Familiar |
+|  3  | Fog Cloud |
+|  4  | Grease |
+|  5  | Protection from Evil and Good |
+|  6  | Shield |
+|  7  | Tasha's Hideous Laughter |
+|  8  | Unseen Servant |
+
+#### Paired Incantation
+By 6th level it has been lifetimes of accumulating information. Mastery over the arcane is yours to do with what you please. You learn one cantrip from the wizard spell list that doesn't mention damage in its description. It is a warlock cantrip for you and does not count against the number of cantrips known. 
+
+You can cast a cantrip that doesn't mention damage in its description with a casting time of 1 action as a bonus action.
+
+#### Scroll Master
+At 10th level you are able to observe a spellcaster at work and replicate their magic. As a reaction when you can observe all components of a spell being cast, you can begin concentrating (as if on a spell) to record the spell's components in your mind.
+
+As an action on your next turn you can make a magical mental note of the spell or lose your train of thought. Either way, your concentration on fixing the spell in your mind ends. You can hold a number of spells in your mind equal to your Intelligence modifier (min. one). 
+
+The next time you receive a gifted scroll you may choose the recorded spell instead of getting a random spell. It counts as a warlock spell for you. Whether or not you chose a recorded spell, all currently recorded spells are forgotten once you receive a scroll. 
+If you also have the Pact of the Spellbook, you may scribe the spell into it for the usual cost, provided it is on the wizard spell list. 
+
+#### Divisible Casting
+At 14th level as an action you can touch a creature and share your infinite awareness with them. The creature must succeed on an intelligence saving throw or suffer a random short-term madness effect. A creature already afflicted with short-term madness suffers long-term madness instead. A creature already afflicted with long-term madness suffers indefinite madness instead. 
+
+You can use this feature a number of times equal to your Charisma modifier. You regain all expended uses when you finish a long rest.

@@ -1,0 +1,41 @@
+### Gunslinger
+[**Source:** *The Complete Martialist Handbook*](https://drive.google.com/file/d/1oGWtJWYIL63dUACooColfDVhX6MllXji/view)
+
+You are a one of a rare new breed of fighters in the world. Gunslingers master the use of firearms as they wrestle with their place in society, wander the world, and settle personal grudges. These fighters use new technology to do battle, but the reasons they fight are timeless. Gunslingers live by a code, though whether that code gives them free reign to terrorize the local town or demands they protect it at all costs depends on the path they choose for themselves. When you live and die by the gun, you're a Gunslinger.
+
+#### Bonus Proficiencies
+When you choose this archetype at 3rd level, you gain proficiency with one gaming set of your choice and with tinker's tools. In addition, you learn one language of your choice.
+
+#### True Grit
+At 3rd level, a life of getting by depending on no one but yourself has given you a deep reserve of grit. You have 3 grit points. You can expend a grit point to power deeds (special abilities gunslingers learn), including the following:
+
+***Fan the Hammer.*** Once per turn when you make a ranged weapon attack with a six shooter and miss, you can expend 1 grit to make another attack with a six shooter as part of the same action.
+
+***Fast Hands.*** You can expend 1 grit when you take the Attack action to ignore the loading property of black powder weapons this turn.
+
+***Iron Sights.*** You can expend 1 grit before you make a ranged weapon attack using a black powder weapon to gain advantage on the attack roll.
+
+You regain an expended grit when you score a critical hit using a black powder weapon. You regain all expended grit when you complete a short or long rest.
+
+#### Wild Stallion
+Starting at 7th level, you can perform a 10-minute ritual to cast the *find steed* spell. Charisma is your spellcasting ability for this feature.
+
+#### Sown Oats
+Starting at 10th level, your maximum number of grit points increases by your Charisma modifier (minimum +1). In addition, you have to make a hard choice about which side of the law you fall on. You must choose to gain the Black Hat or White Hat deed.
+
+***Black Hat.*** When you make a Deception, Intimidation, or Stealth ability check you can spend 1 grit to gain advantage on the roll.
+
+***White Hat.*** When you make an Investigation, Insight, or Persuasion ability check you can spend 1 grit to gain advantage on the roll.
+
+#### Trick Shot
+Starting at 15th level, when a creature you can see makes a ranged weapon attack, you can use your reaction to shoot the attack out of the air. You may choose to do so after the d20 roll is made but before the DM says whether the attack succeeds or fails. When you do, make a weapon attack with a black powder weapon. If your result is greater than the triggering attack result, the triggering attack misses.
+
+#### Deadeye
+Starting at 18th level, weapon attacks you make with a black powder weapon score a critical hit on a roll of 19 or 20.
+
+#### End of the Road
+Starting at 18th level, you gain a new deed based on your choice of Sown Oats deed. If you chose Black Hat, you gain the Hero Stopper deed. If you chose White Hat, you gain the Villain Dropper deed.
+
+***Hero Stopper.*** When you score a critical hit with a black powder weapon, you can expend 1 grit to roll your attack's damage dice three times and add them together, instead of twice as normal for a critical.
+
+***Villain Dropper.*** When you score a critical hit with a black powder weapon, you can expend 1 grit. If you do, all attacks against that creature before the start of your next turn have advantage.

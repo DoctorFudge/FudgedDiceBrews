@@ -1,0 +1,20 @@
+### Order of the Weave
+#### Arcane Knowledge
+Starting at 2nd level, whenever you make an Intelligence (Arcana or History) or Wisdom (Investigation) check related to magical or otherworldly creatures, items, or effects, you can add twice your proficiency bonus, using your Charisma modifier as you draw information from within the Weave.
+
+#### Spell Mimicry
+Starting at 6th level, you begin to understand the makings of the magic around you at a glance. When a creature that you can see casts a spell of 5th level or lower, you can use your reaction to carefully study their movements and wording. For the next minute, you know the spell and can cast it using your spell points and your spellcasting ability.
+
+Once you use this ability, you cannot use it again until you complete a short or long rest.
+
+#### Mimic Magus
+Starting at 13th level, you've advanced your ability to understand a spell on the fly. A new Mimicry page has appeared in your spellbook.
+
+When you use your Spell Mimicry feature, you can choose to store the spell on this Mimicry page for up to a week. You can store a number of Mimicry spells equal to your Charisma mod. To store additional spells, you must replace an existing one from your Mimicry page.
+
+These spells are treated as Magi spells for you and count towards the number of spells you can prepare.
+
+#### Master of the Weave
+At 18th level, your knowledge of magic allows you to duplicate almost any spell. As a bonus action, you can call to mind the ability to cast one spell of your choice from any class's spell list. The spell must be of a level for which you can use spell points for, you mustn't have it prepared, and you follow the normal rules for casting it, including expending spell points. If the spell isn't a Magi spell, it counts as a Magi spell when you cast it. The ability to cast the spell vanishes from your mind when you cast it or when the current turn ends.
+
+You can't use this feature again until you finish a long rest.

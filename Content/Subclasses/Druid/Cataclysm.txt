@@ -1,0 +1,16 @@
+### Circle of Cataclysm
+[**Source:** *The Complete Devout Handbook*](https://drive.google.com/file/d/1TEY7P4FVWD_-Ky5YrrK92__yYOwTY3w-/view)
+
+Druids in the Circle of Cataclysm embody the most destructive manifestations of nature's power. Channeling the untamed might of natural catastrophes such as earthquakes, tsunamis, and volcanoes, these spellcasters destroy their enemies with none of the subtlety typical of druids. Members of this circle see themselves as agents of the end times, heralds of ruination, and deliverers of nature's judgment.
+
+#### Cataclysmic Font
+When you choose this circle at 2nd level, you are infused with the terrible strength of nature. You are a font of destructive energy waiting to be unleashed. You have a pool of cataclysmic energy represented by a number of d4s equal to your druid level. When you cast a druid spell that deals damage, you can spend a number of these dice up to the level of the spell slot you expended casting the spell. When you do, roll the spent dice and add them to the initial damage dealt by the spell. You regain all of the expended dice when you finish a long rest.
+
+#### Rubble and Ruin
+Starting at 6th level, damage from your druid spells is doubled against inanimate objects and structures.
+
+#### Potent Cantrip
+At 10th level, your damaging cantrips affect even creatures that avoid the brunt of the effect. When a creature succeeds on a saving throw against one of your druid cantrips, the creature takes half the cantrip's damage (if any) but suffers no additional effect from the cantrip.
+
+#### Catastrophic Damage
+At 14th level, when you roll damage for a druid spell, you can use your reaction and expend a use of your Wild Shape to reroll a number of the damage dice up to your Wisdom modifier (minimum 1). You must use the new rolls.

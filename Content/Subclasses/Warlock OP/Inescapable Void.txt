@@ -1,0 +1,29 @@
+### The Inescapable Void
+<a href="https://dnd-wiki.org/wiki/Warlock_Patron_-_The_Inescapable_Void_(5e_Subclass)">**Source:** *Warlock Patron - The Inescapable Void*</a>
+
+In the beginning there was *Nothing*. From the *nothing* two things were created, the *Chaos* and the *Void*. From the *Chaos* the *Everything* was defined as the shapes of the multiverse were forged in the *Creation*. **All the while, the Void waits.** The *Creation* continued as was its nature and *Order* was pulled from *Chaos* and the predecessors of the known *Laws* defined the paths of *Creation*. As *Chaos* was picked and pulled upon, it waned as is essence was used and twisted to give *Substance and Meaning* to *All That Is*, even *Chaos* had not escaped their touch. **All the while, the Void waits.** The *Void* is the *Emptiness That Swallows*, it seeks only to unite with *All That Is* to become *Nothing* once again. The *Void* is a power, a force that pulls at all things. This pull is felt by those that feel the great truth of *Nothing*. Those that heed its call are given the tools to hasten the return to *Nothing*. Whether it be for selfish or more philosophical reasons the *Void* cares not, the mere use of its gifts only furthers its goals. You are one such individual, having made a pact with the *Void* itself, you are one who heeds the call.
+
+##### The Inescapable Void Extended Spell List
+| Warlock Level | Spells   |
+| :-: | :-- |
+| 1st | <em>Inflict Wounds, Sleep </em> |
+| 3rd | <em>Blindness/Deafness, Silence </em> |
+| 5th | <em>Nondetection, Phantom Steed </em> |
+| 7th | <em>Evard's Black Tentacles, Dimension Door </em> |
+| 9th | <em>Dispel Evil and Good, Mislead</em> |
+
+#### Entropy Well
+Starting at 1st level, you add Stealth to the list of skill proficiencies you can choose from. You have learned the path of entropy and its effects on the world both to reduce another's efforts null and rip the energy from the planes themselves. You gain access to an additional source of power called an Entropy Well with which you can prevent damaging effects. The amount of damage your Well can hold before it is full is equal to three times your warlock level plus your Charisma modifier. If you use your Well to prevent all damage from an effect, the effect is absorbed completely and no additional effects that would normally be imposed occur.
+
+You may use your reaction to direct any damage you would receive into your entropy well. Damage that exceeds the total limit of your Well is applied to you. If the damage being prevented is from an area of effect, the damage you redirect is subtracted from that effects total damage instead. The damage stored in your entropy well is reduced to 0 after you finish a long rest. A 6th level you may use your entropy well to absorb damage that would be received by another creature you can see within 30 feet of you.
+
+While you have damage stored in Entropy Well, you may siphon off of its stored damage. When you inflict damage to another creature with a spell or attack you can deal an additional amount of Cold or Necrotic damage up to the amount store in you Entropy Well, this damage is removed from that stored in your entropy well. This additional damage cannot exceed your warlock level during a turn.
+
+#### Hollow Presence
+Starting at 6th level, your patron bestows upon you the ability to emanate the emptiness of the void. When a creature tries to recall firsthand knowledge of you it must succeed on an Intelligence saving throw against your warlock spell save DC. On a failure the creature forgets specific details about you; and in particularly vivid memories, they recall false information about you. On a successful saving throw, the creature is immune to the effects of this feature for the next 24 hours and is able to recall any unforgotten information normally during this time. You can select any number of creatures that you can perceive and suspend this effect on them as a bonus action. You can resume this effect as a bonus action, when you do creatures of choice you may clearly recall information from the duration of the suspension, unselected creatures must attempt the Intelligence saving throw to recall firsthand knowledge of you. As an action you can touch a creature and allow it to recall information about you of your choice permanently exempt from this feature. This is a mind-affecting ability.
+
+#### Empty Soul
+Starting at 10th level, the emptiness within you overwhelms even that of outside influences and you become closer to the darkness that awaits all. You gain resistance to necrotic and cold damage. You are invisible to creatures that are using darkvision to perceive you.
+
+#### Knowledge of the Void
+Starting at 14th level, you can bestow a creature with the knowledge of how infinitely meaningless they are when compared to the emptiness that awaits all. The touched creature must succeed on a Charisma saving throw against your warlock spell save DC, on a failure the character is filled with a wave of apathy as the very will to exist leaves them. The creature immediately falls prone, remains prone, and becomes incapacitated until a Remove Curse spell is used on the creature or this ability is used on another creature. If the creature takes damage while the effect is active, it may make another Charisma saving throw. This ability doesn't work on creatures with an intelligence of 4 or lower. A creature that succeeds against the saving throw from this ability is immune to it for the next 24 hours.

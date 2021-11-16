@@ -1,0 +1,33 @@
+## Paledrake
+[**Source:** *Dragonborn Variant: Paledrake*](https://homebrewery.naturalcrit.com/share/15IKxSEWUx6lpS5wnl05DG8Py-i5ymKzZb8w8KoHFGtQw)
+
+### An Inherited Grudge
+It goes without saying that Dragonborn owe their heritage to the dragons. Paledrakes are a rare and unusual case where they can trace their lineage to one specific dragon. In a primordial era long since past, one dragon born without scales was denied his ageless birthright. He betrayed dragonkind, and helped wage war against them.
+
+But he would not last against his brethren. Time would come for him much sooner than they, and so, alone, he created his progeny. Those who would carry his anger into eternity.
+
+### Freedom From Mortality
+Knowing his time was limited, the scaleless dragon conducted numberous experiments, the Paledrakes among them. Each experiment a desperate attempt to postpone the inevitable, until one bore fruit: a form of crystalized magic that preserved his flesh against the weathering of time. With it, he was unstoppable, but when his war was at its apex, the crystal was destroyed by a single, lowly human.
+
+He was erased from the annals of history, and no dragon alive will ever admit to these events. The Paledrakes remain his only legacy, to this very day.
+
+### Paledrake Racial Traits
+***Ability Score Increase.*** Your Strength score increases by 2, and your Charisma score increases by 1.
+
+***Age.*** Paledrakes grow and age similarly to normal Dragonborn, but typically don't live as long.
+
+***Alignment.*** Denying both Tiamat and Bahamut, Paledrakes may be of any alignment, answering only to themselves.
+
+***Size.***	Paledrake are taller and heavier than humans, but leaner than their scaled cousins. Your size is Medium. 
+
+***Speed.*** Your base walking speed is 30 feet.
+
+***Scaleless.*** Your great ancestor was a pallid, scaleless dragon, and you follow suit. When determining your Hit Point Maximum, you have a -2 penalty each time it increases, to a minimum of 1.
+
+***Crystal of Immortality.*** Your grandsires experiments benefit each of his descendants. Whenever you finish a long rest, you gain Temporary Hit Points equal to 2 times your Level.
+
+***Crystal Breath.*** You can use your action to exhale destructive energy in a line 5 feet wide and 30 feet long directly in front of you. Each creature in the area must make a Dexterity saving throw, The DC of which equals 8 + your Constitution modifier + your proficiency bonus. A creature takes 2d6 Force damage on a failed save, and half as much damage on a successful one. After, this area becomes difficult terrain until the start of your next turn as crystaline growths sprout from the ground.
+
+This damage damage increases to 3d6 at 6th level, 4d6 at 11th level, and 5d6 at 16th level. After you use your breath weapon, you can't use it again until you complete a short or long rest.
+
+***Languages.*** You can speak, read, and write Common and Draconic. Draconic is thought to be one of the oldest languages and is often used in the study of magic. The language sounds harsh to most other creatures and includes numerous hard consonants and sibilants.

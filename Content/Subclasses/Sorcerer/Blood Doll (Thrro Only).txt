@@ -1,0 +1,35 @@
+### Blood Doll (Thrro Only)
+[**Source:** *Thrro*](https://drive.google.com/file/d/1dtpUmdF_HMND_zaZSuU7bTgcRYsUs1K0/view)
+
+In the name of academic magic, some find the use of Necromancy a bit too unethical or even amoral, however some mages had devised a brilliant solution to this dilemma. Where is the harm in using willing flesh and tissue in a test subject that is not truly alive? If it was built for experimentation then surely level headed researchers in the name of progress would see this as a solution. The Thrro are made from conduit cloth this is certain, but with the introduction of flesh along with conjuration, a new breed of Thrro was born. The academics rejoiced, until the Thrro of such machinations discovered what pain was. It was not pleased, and it shared it's grief upon it's creators in more ways than verbal conserns.
+
+#### Trace
+Starting at 1st level if you have an item that was touched by another living creature for the next 24 hours you mark the target and can pinpoint the exact location of the creature so long as they are with 120 feet of you. During this time you also have advantage to all attacks made against the marked target. After the 24 hours are finished you are no longer able to track down the creature with the item used during Trace.
+
+If you ingest the flesh, hair, skin, bones, or blood of a creature, you can trace the creature indefinitely, you may only ingest one sample of a creature's body at a time. Ingesting a bodily sample of new creature or if the creature dies will drop the mark on the creature. When the creature you mark and do not see dies, you gain the knowledge that the creature has perished, but not how it has died.
+
+#### The Gift of Pain
+Also at 1st level, your body's conduit cloth has become intertwined with the flesh inside you gaining a minor acclimation to the living's concept of pain. You are no longer vulnerable to fire damage.
+
+#### Evil Touch
+At 6th level as a bonus action you can expend a spell slot to apply Trace on a target you have successfully hit with a melee attack, received melee damage from, or upon touching a willing creature. Unwilling creatures must make a Wisdom vs 8 + your Charisma Modifier + proficiency saving throw, on success they are no longer marked. The target may roll a Wisdom save again at the end of it's turn to break free of the mark.
+
+When an unwilling creature is marked you may ask the DM to reveal the creature's modifier of an ability score of your choosing, you may also pull a number from willing creature you can see within 60ft and ask them for their own modifier number for any ability score you choose. You may only have one target marked at a time, Once you have the number, you may do one of the following features:
+
+***Unease.*** As a reaction, on the marked enemy's turn you apply the number received from the mark to their attack roll. If the number you received was positive it becomes negative for this feature.
+
+***Mire.*** As a reaction, when you or an ally attempt to attack marked target, you add the number received to the target's AC. If the number you received was positive it becomes negative for this feature.
+
+***Revenge.*** As a reaction, on the marked enemy's turn if they successfully hit you or an ally you can see within 60ft, the marked target takes half the damage revieved in Necrotic damage and you heal for the number recieved. If the number you received was negative it becomes positive for this feature.
+
+***Equalize.*** As a reaction, if you receive damage from the marked target you may apply the total recieved + the number received in damage on the marked target. If the number you received was negative it becomes positive for this feature.
+
+***Empower.*** As a reaction if you or an ally you see within 60ft fail a saving throw you may reroll and apply the received number to the roll. If the number you received was negative it becomes positive for this feature.
+
+#### Evil Eye
+Starting at 14th level, you may expend a spell slot to mark a target you successfully hit with a ranged spell attack with Trace.
+
+#### Puppeteering
+Starting at 18th level, once per day you can spend an action to completely control a target you have marked with Trace. You may not command the target to inflict self harm or perform an action it is physically incapable of performing. At the end of the target's turn it must roll a Wisdom vs 8 + your Charisma Modifier + proficiency saving throw. On success it breaks free of your control but remains marked, on failure you gain control of it's actions on it's next turn.
+
+If you recieve damage, you can tranfer any amount of damage recieved to a target that is marked and under your control. Doing this will allow the target to reroll it's Wisdom saving throw. If the target rolls a critical failure while attempting to break free, it becomes Enthralled and is under your control for the next 6 hours before it it able to reroll it's saving throw. While the creature is Enthralled, you dealing damage to the target will not break the spell. You may use this feature again after a long rest.

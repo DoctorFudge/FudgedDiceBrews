@@ -1,0 +1,45 @@
+### Valour Domain
+[**Source:** *Cleric Domain: Valour Domain*](https://www.gmbinder.com/share/-MDmTaG0ckSZEn9tUHdD)
+
+Valour is shown when bravery is observed and heroic acts are made in the face of evil and certain death. Clerics of the valour domain embody this ideology, protecting their allies in the heat of battle and bolstering their resolve against the strongest of adversaries. They hold courage and resilience as their strongest values, always determined to continue when the path seems dark.
+
+Gods of valour include the archangel's Rykiel, Sariel, and Varia, and the Archdemon of Casaldius. These are usually beings who hold firm to their beliefs of protection, honour, integrity, and hold their own values in high regard. Valour domain deities believe in the power of courage and bravery no matter the situation.
+
+#### Domain Spells
+You gain domain spells at the cleric levels listed in the Valour Domain Spells table. See the Divine Domain class feature for how domain spells work.
+
+##### Valour Domain Spells
+| Cleric Level	| Spells |
+| :-: | :-- |
+| 1st	| <em>compelled duel, heroism</em> |
+| 3rd	| <em>branding smite, magic weapon</em> |
+| 5th	| <em>aura of vitality, crusader's mantle</em> |
+| 7th	| <em>aura of life, guardian of faith</em> |
+| 9th	| <em>holy weapon, steel wind strike</em> |
+
+#### Bonus Proficiencies
+At 1st level, you gain proficiency with martial weapons and heavy armor.
+
+#### Aegis of Faith
+From 1st level, you can protect yourself and others with a powerful shield. If you or an allied creature you can see within 30 feet is hit with an attack roll, you can use your reaction to increase the targets AC until the end of the turn, including against the triggering attack. The bonus equals your Wisdom modifier (minimum of +1).
+
+You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a short or long rest.
+
+#### Channel Divinity: Rally
+Starting at 2nd level, you can use your Channel Divinity to inspire an ally with resolve and hope.
+
+As an action, you can present your holy symbol and select a creature you can see within 60 feet. Until the end of your next turn, the target makes all attack rolls and saving throws with advantage.
+
+#### Bastion of Hope
+Starting at 6th level, when an attack roll is made against you and misses you, you can choose to gain temporary hit points equal to twice your cleric level. These temporary hit points last until the beginning of your next turn.
+
+Once you use this feature, you cannot do so again until you finish a short or long rest.
+
+#### Steel Will
+Also at 6th level, you are immune to being frightened.
+
+#### Divine Strike
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+
+#### Vigilant Champion
+Beginning at 17th level, you always stand vigilant no matter the opposition. Whenever you must make a saving throw, you gain a bonus to the saving throw equal to your Wisdom modifier (minimum 1).

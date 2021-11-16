@@ -1,0 +1,35 @@
+### The Void
+[**Source:** *The Void*](https://drive.google.com/file/d/1FNlB1mK6-IlDojBa-jOZZi96MWsYIZG2/view)
+
+Absolute Nothingness, the Space-In-Between, Black Hole, Great Nothing, the pure and total absence of matter, a tear in reality... The Void has many names and infinite ways of defining what it isn't. At its core though, the Void is the simple paradox of something that exists and at the same time is nothing. Still, some people are drawn to it like moths to a flame, these fools lose their minds trying to gaze into the Void, searching for answers. But the Void has no voice, no thought, no will of its own. Or at least, this is the conclusion scholars throughout the multiverse have reached after centuries of studies. And yet, sometimes the Void stares back. No one knows how and why the Void bestows its gifts, but it does. The warlocks chosen by the Void are usually outcasts, unbalanced or straight up mad for even thinking about making a pact with nothing. They can be complete nihilists, unrepentant atheists, or zealots with an appetite for annihilation, yearning to see something destroyed to the point that not even the memory remains.
+
+The Void is the ultimate mystery of the multiverse, and its warlocks are its enigmatic heralds.
+
+#### Expanded Spell List
+The Void lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+| Spell slot | Spells |
+| :-: | :-- |
+| 1st | <em>detect magic, shield</em> |
+| 2nd | <em>blur, phantasmal force</em> |
+| 3rd | <em>nondetection, protection from energy</em> |
+| 4th | <em>Evard's black tentacles, phantasmal killer</em> |
+| 5th | <em>passwall, wall of force</em> |
+
+#### Entropic Field
+Starting at 1st level, you can use your bonus action to slightly tear the fabric of reality in a cube of 20 feet centered around you. When the Entropic Field is active, you can use your reaction to prevent a creature inside the field to cast any spell or use any supernatural or magical ability that allows to disguise or conceal its appearance, such as *alter self*, *disguise self*, *invisibility*, or a doppelganger's ability to shapeshift. You can also try to end such an effect if it's already active when the creature enters the Entropic Field. To be able to do so you have to succeed on a spellcasting ability check (DC 12 + the spell's level or the creature's hit dices).
+
+The Entropic Field lasts a number of rounds equal to 3 + your spellcasting ability bonus.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+#### Touched by the Void
+Starting at 6th you gain immunity to force damage.
+
+#### Planar Disruption
+Starting at 10th, when the Entropic Field is active, you can use your reaction to prevent a creature inside the field to cast any spell or use any magical ability that allows planar movement or teleportation such as misty step, dimension door, planar shift, teleport or the blink dog's magical ability to teleport. To be able to do so you have to succeed on a spellcasting ability check (DC 12 + the spell's level or the creature's hit dices).
+
+The Entropic Field expands to 40 feet and you can use it twice between rests. When you finish a short or long rest, you regain your expended uses.
+
+#### One with The Void
+Starting at 14th, when the Entropic Field is active, you have advantage on saving throws against enchantment and mind-affecting spells.

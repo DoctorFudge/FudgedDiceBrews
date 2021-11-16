@@ -1,0 +1,47 @@
+### Path of the Heart
+Nobles who follow the Path of the Heart lead in subtle ways. They inspire loyalty through their own empathy, kindness, and ingenuity. A noble who follows the Path of the Heart may lack ambition, but they make up for it in honesty and charm.
+
+> ##### Abandoning Path of the Heart
+> A noble can abandon the Path of the Heart at any time. You lose all Path of the Heart features and can choose a different Noble Path, or a different char- acter class, at the GM’s discretion. These changes can be made at different speeds depending of the needs of the campaign. About 250 days of training during downtime is enough for more open-world campaigns, but in more cinematic campaigns, a particularly dramatic moment could inspire a Path of the Heart noble to instantly retrain noble levels into fighter levels.
+
+#### Noncombatant
+You are the heart of your group, and you never draw a weapon except in dire circumstances. You have disadvantage on melee attack rolls, and while wearing medium or heavy armor or holding a shield, you have disadvantage on all Strength and Dexterity checks. When you cast a spell that requires its target to make a saving throw, it has advantage.
+
+#### Aura of Innocence
+When unarmored and not wielding a shield, you reflect an air of vulnerability and innocence that makes even the most heartless monster hesitate to attack you. Your AC equals 10 + your Dexterity modifier + your Charisma modifier.
+
+#### Vicarious Attack
+When you take the Attack action, you can choose not to make any attack. If you do this, one of your allies can choose an enemy and make a single melee weapon attack or cast a cantrip against that enemy.
+
+#### Bonus Proficiencies
+You gain proficiency with a set of artisan’s tools of your choice and two skills. These skills can be from the noble class list or from the following: Animal Handling, History, Investigation, Nature, and Religion.
+
+#### Cry Out
+Starting at 2nd level, you can cry out to influence enemies and allies.
+- **Cry for Attention.** As a bonus action, you may select a hostile creature. Until your next turn, that enemy has advantage on attacks against you and disadvantage to attack anybody else.
+- **Cry for Help.** When an enemy attacks you, you may cry for help as a reaction. An ally can use their reaction to move up to 30 feet towards you and make a single melee weapon attack or cast a cantrip against that enemy.
+- **Cry for Life.** When an ally is reduced to 0 hit points, you may use your reaction to allow your ally to spend a number of Hit Dice equal to half your noble level.
+- **Distracting Cry.** As a reaction when an ally is about to be attacked, you may impose disadvantage on the attacker on all attacks made against that ally this turn.
+
+Once you use this feature twice, you must finish a short or long rest before you can use it again. You can use it only once on the same turn.
+
+Starting at 14th level, you can use your cries three times between short or long rests.
+
+#### Force of Personality
+At 6th level, you gain proficiency with Persuasion. In addition, you add your Charisma bonus (mini- mum 1) to the hit points recovered by your Rallying Word.
+
+#### Tears of the Pure-Hearted
+The gentleness of your heart and the strength of your love infuses your tears with magical power. Starting at 6th level, you can use your action to shed tears so they touch a friendly creature next to you. The creature can spend Hit Dice to recover hit points, and if they are blinded, charmed, deafened, paralyzed, or poisoned; the condition ends. Once you use this feature, you must finish a long rest before you can use it again.
+
+#### Stirring Words
+Starting at 11th level, your allies add your Charisma bonus to their attack rolls when they are granted attacks through your Vicarious Attack, Cry for Help, Coordinated Attack, or Direct Ally features.
+
+#### Loved by the People
+Starting at 14th level wherever you go people are charmed by your love and compassion; they put grudges aside and go out of the way to help you and your allies to achieve peaceful goals.
+
+As long as you are within a settlement, you and your allies only need a tenth of the time needed for downtime activities.
+
+#### Heart’s Redemption
+Starting at 17th level, your words gain the ability to turn even the darkest of monsters to your cause. As an action, you may select a single hostile creature that can hear you and shares a language with you. That creature makes a Charisma saving throw with a DC equal to 8 + your proficiency bonus + your Charisma modifier. On a failed save, the target can’t attack or cast spells targeting your allies that turn. On a success, the target acts normally.
+
+At the beginning of your turn, you may use your action to sustain the effect, requiring the target creature to make a Charisma saving throw at the end of each of its turns. After three failed saves, the target stops being hostile to you and your allies, and may flee or fight by your side at the GM’s discretion. Once you use this feature, you must finish a long rest before you can use it again.

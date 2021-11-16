@@ -1,0 +1,14 @@
+### Dragon Slayer
+Dragoons find their roots in war against dragons, but over time it became a discipline with a less singular focus. That is the case for some anyways, but the Dragon Slayer has fully dedicated themselves to plunging into battle with some of the most feared beasts that exist. Experts in piercing tough hide and laying great beasts low, Dragon Slayers are able to ply their violent craft against all kinds of foes.
+
+#### Spineshatter Dive
+Beginning at the 3rd level, when you use your Jump feature, you can empower the attack to disable the target creature. When you do so, if the creature fails its Dexterity saving throw, it becomes stunned until the end of your next turn and you double the bonus damage of the Jump. When you use this feature, your Dragoon Trance ends after completing your Jump.
+
+#### Dragon Lore
+Beginning at the 7th level, you have gained a wealth of knowledge about dragons. You have proficiency in History, Nature and Perception checks when the check involves dragons, and you add the Draconic language to your known languages.
+
+#### Drachenlance
+Beginning at the 11th level, as an action you make a special lance attack which focuses on piercing tough defenses. Your attack roll is contested by 10 + the target's Dexterity modifier.
+
+#### Dragon's Bane
+Beginning at the 15th level, your expertise at battling dragons has provided you with greater techniques to battle them. When you are subjected to an effect that requires you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage is you fail. Additionally your attacks against dragons deals 3d6 extra damage as you are able to pin point their most vulnerable areas. Against non-dragon creatures your blows still carry extra precision, dealing an additional 1d6 damage.

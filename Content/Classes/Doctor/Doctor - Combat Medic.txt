@@ -1,0 +1,33 @@
+### Combat Medic
+Preventing damage can be just as useful as repairing it, and no one understands this better than the combat medic. They aren't meant to be stuck in a clinic, they do their best work when on the battlefield. While still an expert healer they focus just as much on how to hurt as how to heal.
+
+#### Surgical Strike
+When you Choose this Profession at 3rd level you utilize your knowledge of anatomy when making your attacks. You now add your Intelligence modifier to your attack rolls in addition to all other bonuses.
+
+#### Extra Attack
+Beginning at 7th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+#### Survival Tactics
+At 11th 1eve1 you gain one of the following features.
+
+**Mild Mannered.** Any creature who targets you with an attack or harmful spell must first make a Wisdom saving throw or choose a new target. If you make an attack, or deal damage to another creature, this ability ends until your next short or long rest.
+
+**Frantic Strike.** When surrounded by foes you lash out wildly. You can use your action to make a basic melee attack roll against any number of creatures within 5 feet of you, with a separate attack roll for each.
+
+**Flash Flask.** As a bonus action you throw a pre-prepared flask to the ground, the volatile mixture exploding in a flash of 1ight. Any attacks made against you until the start of your next turn are made at disadvantage. You cannot do this again until your next short or long rest.
+
+#### Disable Organ
+By your 15th level you have begun to recognize the weak points common in many creatures. You attempt to make a precise strike against an enemy in order to weaken it. Choose an effect below and make a regular attack roll. If successful rather than doing damage the target must make a saving throw or suffer your ability's effect. This effect lasts until the target is healed.
+
+**Cripple** — You target a limb, such as a leg or a wing, in order to inhibit a creature's movement. On a success the target's speed is reduced by half. DEX save.
+
+**Blind** — You target the eye or eyes of a creature in order to visually impair it. Depending on the creature the DM decides how and if it can be blinded. DEX save.
+
+**Disarm** — You target an extremity, such as a hand, claw or tentacle. On a success their extremity is disabled, as well as dropping anything they were holding. STR save.
+
+**Disable** - You target a unique organ in order to disable a creature's natural ability, such as its fire breath or poisonous sting. Your DM may determine an ability cannot be disabled in this way. CON save.
+
+#### Adrenaline Shot
+Having reached 18th level you have experienced enough battles that the desire to slay your foes overpowers your instincts for self-preservation. As a bonus action you inject yourself with a concoction of your own creation designed to improve your speed and reflexes.
+
+Your body surges with energy as you benefit from effects identical to that of the Haste spell. Unlike the spell however this ability lasts for 5 minutes. These effects are physical rather than magical and cannot be dispelled Only your body can benefit from this ability due to your years of experiments. You may use this feature once per long rest.

@@ -1,0 +1,60 @@
+### The Powder Keg
+The Powder Keg pirate is a unique breed of pirate who takes a great sense of pride in crafting and tinkering to create unique forms of weaponry that can be used to aid themselves and others on the battlefield. Whether on land or at sea, these crazy sulphur and brimstone smelling pirates are always handy to have around; they are great at dealing damage against groups of enemies as well as enemy structures and vessels.
+
+#### Explosives Expert
+When you choose this archetype at 3rd level, Powder Keg pirates learn to create devious bombs to take down their opponents. In order to craft an explosive device, you must expend 2 hours in a workshop, village or town as well as half the gold cost of a regular bomb (25gold). You can carry up to 6 bombs in any combination of types on your person and can store up to 6 more in a normal pack. You cannot gift these bombs to anyone with an intelligence lower than 10, and can only hold a number of bombs equal to their intelligence modifier with a minimum of 1 and a maximum of 3.
+
+Within the 2 hour crafting time, you can craft a number of explosive devices equal to your Dexterity modifier, any bombs made beyond your maximum are immediately sold for 25 gold pieces each. After the crafting period, you are free to determine which bombs you create.
+
+As part of an Attack action, the powder keg pirate is able to throw a bomb to an area up to 30 feet away, affecting everything within a 10 foot radius. The types of bombs that you can craft and their unique effects are listed below:
+
+##### Powder Bomb
+Creates a 10 foot radius explosion. All creatures in the area must succeed on a Dexterity saving throw vs your Swashbuckler save DC or take 3d6 fire damage, taking half as much on a successful save.
+
+##### Slick Bomb
+Releases a slippery liquid that covers the ground in a 10 foot radius. When the grease appears, each creature standing in its area must succeed on a Dexterity saving throw vs your Swashbuckler save DC or fall prone. A creature that enters the area or ends its turn there must also succeed on a Dexterity saving throw vs your Swashbuckler save DC or fall prone. The area is difficult terrain until the grease is cleaned or washed away. This does not affect creatures whose size is larger than the radius of the grease bomb.
+
+##### Shrapnel Bomb
+Creates an explosion sending small pellets flying. This bomb's explosion radius is only 5 feet due to the pellets' loss of momentum. All creatures in the area must succeed on a Dexterity saving throw vs your Swashbuckler save DC or take 5d6 piercing damage, taking half as much on a successful save.
+
+##### Poison Bomb
+Releases a cloud of poison that lingers for three turns. A creature that enters the area or ends its turn there must succeed on a Constitution saving throw vs your Swashbuckler save DC or become poisoned (see Poisoned status effect) and must repeat the saving throw at the start of each of its turns. On each successive failed save, the character takes 1d4 poison damage. On a successful save, the poison ends. Maximum of one minute duration.
+
+##### Smoke Bomb
+Releases a cloud of smoke. The area becomes heavily obscured for 10 minutes or until a wind of moderate or greater speed (at least 10 miles per hour) disperses it.
+
+##### Sticky Bomb
+Releases a viscous liquid that covers the ground. All creatures in the area must succeed on a Dexterity saving throw vs your Swashbuckler save DC or become restrained. All creatures may make a Strength save at the end of each of their turns to free themselves.
+
+#### Powder Monkey
+At 7th level, as a master of firearms, you have gained and trained a small beastial companion in the form of a small baboon (or any other capable small or smaller beast of a CR of 1/2) that accompanies you and aids you on your journey through this world. This beast acts as if it were summoned via the Find Familiar spell. If the beast dies, you can perform a ritual to bring it back that takes around 8 hours and consumes 25 gp worth of bones and rare herbs. You can return your companion back to life even if you possess none of its body.
+
+##### Familiar's Initiative
+Your companion has its own initiative and can use its own abilities and in game statistics (determined in part by your level) if you so wish. Your companion uses your proficiency bonuses rather than its own. Additionally, your companion adds your proficiency bonus to its AC and damage rolls.
+
+##### Familiar's Levels
+For every level after 3rd level, your animal companion gains an additional hit die and increases its hit points accordingly. Whenever you gain an ability score improvement, your companion's abilities also improve in the same way. Your companion shares your alignment and acts as your closest friend.
+
+##### Familiar's Actions
+As long as your animal companion is alive, as well as holding on to you and not given any other task, it can spend its whole action to reload your ranged weapons, including firearm weapons, eliminating the need for you yourself to reload your weaponry. In order for the powder monkey to accomplish this, all weapons and ammunition must be accessible on some part of your body; this creature cannot access weapons or ammunition if they are stored within magical devices such as a bag of holding.
+
+#### Explosives Expert
+Starting at 10th level, you learn to pack the powder charge in your explosives in a way that increases the force output upon detonation. Thusly, whenever you target an inanimate object or structure with one of your explosive devices, you deal double damage against that object or structure.
+
+#### Master at Arms
+Starting at 15th level, you learn to create a greater range of explosive devices. To create these new bombs you must spend 100 gp and spend 2 hours in a workshop, village, or town per explosive device you wish to create. Due to the incredibly volatile nature of these explosives, you are only allowed to have one of each bomb type at any time. With this in mind, these explosives are far too dangerous to give to others, and cannot be sold without raising suspicion.
+
+##### Concussive Bomb
+Creates a concussive shock-wave. All creatures within a 60 foot radius that have Line of Sight to the area must succeed on a Dexterity saving throw versus your Swashbuckler save DC or be stunned. All creatures must make a Wisdom save at the end of each of their turns to end the effects.
+
+##### Fury Bomb
+Releases a cloud of gas. All creatures in a 20 foot radius must succeed on a Constitution saving throw versus your Swashbuckler save DC or fall under the effects of the *Confusion* spell. All creatures must make a Wisdom save at the end of each of their turns to shake themselves free from the effects of the gas.
+
+##### Incendiary Bomb
+Creates a deadly explosion. All creatures in a 10 foot radius must succeed on a Dexterity saving throw versus your Swashbuckler save DC or take 6d10 fire damage, or half as much on a successful save.
+
+##### Sleep Bomb
+Releases a cloud of gas. All creatures in a 30 foot radius must succeed on a Constitution saving throw versus your Swashbuckler save DC or be knocked unconscious. All creatures must make a Wisdom save at the end of each of their turns to overcome the effects of the gas. A sleeping creature awakens when attacked.
+
+#### Poison Savant
+Beginning at 18th level, you are well known in underground black markets. You can spend 100gp to collect 1d6 worth of any type of poison. After the roll, you are free to determine which poisons you collect. The save against the effects of these poisons is equal to your Swashbuckling save DC.

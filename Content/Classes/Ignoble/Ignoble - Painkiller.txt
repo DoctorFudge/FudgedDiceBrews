@@ -1,0 +1,57 @@
+### Painkiller
+*The heavily armored death troopers of Hell, the Painkillers serve Dispater, leading from the front of every major infernal battle.*
+
+Dispater is the Lord of Dis, the City of War. When Hell invades another world, Dispater’s army does the fighting and the dying. His Painkillers are master strategists who lead from the front, inspiring terror and awe in their soldiers. They are full of pride and hubris and present themselves as lordly, often having a fastidious obsession with their personal appearance.
+
+The Painkillers are among the most chivalrous of the ignobles, but theirs is a twisted chivalry. They will accept and honor a challenge to single combat, and swiftly punish any who try to interfere. But they will cheat if losing and toy with an enemy before finishing them if winning.
+
+In a moment of weakness or desperation, a ruler in another World might see their army facing certain defeat and call upon Dispater. Seeing the opportunity to sow strife and discord, Dispater might send a Painkiller to lead the desperate lord’s armies.
+
+#### Tenets of Pain
+The Painkillers swear an oath to Dispater when they join the Order of Desolation. The oath commits them to lead Hell’s armies and wage war against Good across the timescape.
+
+***Lead from the Front.*** I am at the front of every battle. I charge in, inspiring my soldiers and causing fear in my enemy. I will not use stealth nor hide my face. Let them see their doom.
+
+***Commander.*** Wherever I go, I command. I give orders, I do not take them.
+
+***Victory at Any Cost.*** I respect the enemy leader and will treat them honorably. But once swords are drawn I will use every tool and trick in my arsenal to win, and they should do the same.
+
+***Soldiers Die.*** I care not for the lives of my soldiers, for they exist to serve my victory. They are resources to be spent.
+
+#### Contract with Dispater
+Dispater’s heavy shock troops must be effective battlefield commanders, and quickly dispatch enemies.
+
+**Invoke Authority: Devastator.** As an action, you invoke the authority of Dispater. A number of allies equal to your Charisma modifier, whom you can see within 60 feet, and you, may use a reaction to make one weapon attack.
+
+**Invoke Authority: Infernal Surge.** Upon invoking Dispater’s authority, you gain an extra action in addition to your normal action and any possible bonus action.
+
+#### Bonus Proficiencies
+When you choose Dispater as your archdevil, you gain proficiency with heavy armor.
+
+#### By the Throat
+Starting at 7th level, you can, as an action, place a seal on an enemy within 30 feet. If they are Large or smaller, they must make a Wisdom saving throw (DC = 8 + your proficiency bonus + your Charisma modifier) or be grappled (escape DC 15), and the target is restrained until the grapple ends.
+
+#### Telekinetic Seal
+Starting at 9th level, you can, as a reaction to an enemy moving into a space adjacent to you, place a seal on them. If you do, they must make a Wisdom saving throw (DC = 8 + your proficiency bonus + your Charisma modifier). If they fail, they are thrown back 30 feet and knocked prone.
+
+#### You Die On My Command
+Starting at 13th level, when an ally within 30 feet who can hear you drops to 0 hit points but is not outright killed, you can use your reaction to shout an order at them, causing them to drop to 1 hit point instead. You cannot use this feature again until you complete a short or long rest.
+
+#### Steelmind
+Starting at 17th level, you gain advantage on Wisdom saving throws against spells and enemy abilities.
+
+#### Pain Devil
+Starting at 20th level, you can use your action to become a pain devil for 1 minute. Your size becomes Large. You gain +3 to hit and damage with melee weapons. You gain 100 temporary hit points.
+
+You emanate an aura of pain that forces every enemy starting their turn within 20 feet of you to make a DC 16 Constitution saving throw or suffer 4d12 force damage on a failed save (half that on a successful saving throw) as wounds in their flesh spontaneously open. Once a creature saves, they are immune to this ability for 24 hours.
+
+While in this form, your type becomes fiend (devil) and Hell is your home plane. You cannot use this feature again until you complete a long rest.
+
+#### Interdict Improvements
+As your Painkiller levels up, Dispater’s interdiction carries more power.
+
+**I Am Death.** At 6th level, after placing a seal on a creature, your attacks against that creature have advantage until the end of your turn.
+
+**Hell’s Fury.** At 10th level, the bonus action you use to place a seal on a creature now also grants you a weapon attack against them.
+
+**Deathstrike.** At 18th level, when you consume a seal after a successful attack roll against an interdicted creature, you may use your reaction to make the attack score a critical hit.

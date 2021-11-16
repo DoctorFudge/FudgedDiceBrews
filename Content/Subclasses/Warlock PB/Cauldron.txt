@@ -1,0 +1,12 @@
+#### Pact of the Cauldron
+[**Source:** *The Complete Arcanist Handbook*](https://drive.google.com/file/d/1ucl27lI0dMWi0BDsolHBB-ZgW4CSPhdP/view)
+
+You have a magical cauldron granted by your patron.
+
+You can use your cauldron to create a number of potions up to your Charisma modifier (a minimum of 1) over the course of 10 minutes. When consumed, you can use your reaction and expend a warlock spell slot to empower the potion, otherwise the consumer must succeed on a Constitution saving throw against your spell save DC or be targeted by the *disguise self* spell (you determine the consumer’s new appearance). A creature can choose to fail this saving throw without rolling.
+
+If you expended a spell slot, choose any warlock spell you know with a range of Self or Touch and the creature who consumed the potion is affected as if they were the target of the chosen spell.
+
+Once you create a number of potions equal to your Charisma modifier (a minimum of 1) with this feature, you can’t create any more until you finish a long rest. Potions made with your cauldron become inert and impotent after 8 hours.
+
+If you ever lose your cauldron, you can perform a 1-hour ceremony to receive a replacement from your patron. This ceremony can be performed during a short or long rest, and it destroys the previous cauldron. The cauldron melts into sludge when you die.

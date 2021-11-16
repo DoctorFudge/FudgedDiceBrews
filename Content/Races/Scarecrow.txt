@@ -1,0 +1,65 @@
+## Scarecrow
+[**Source:** *Scarecrow*](https://drive.google.com/file/d/19MS9ZeXaWj9qIVp9EOtIWKz3DkODCgeb/view?usp=sharing)
+
+*The chill autumn breeze sends ripples through the field of wheat, glowing gold-orange in the light of the setting sun. This waving, breathing, golden sea is punctuated by a single figure, dark and tattered, standing resolute over the field, affixed to a post. Somewhere at the end of the waves of wheat lies a small, isolated farming village, a town of simple folk leading simple lives, unconcerned with the plights of the outside world.*
+
+*Those plights make themselves known in the form of hoofbeats. Riders with weapons, on mounts too well-bred for men of their station. These horsemen, clad in patchworks of scavenged armor, descend on the field of wheat, spying the chimney-fires curling upwards from the village on the horizon. A raiding party, just six in all. Not many, but more than enough to kill the unarmed men, women, and children that make the town their home.*
+
+*With hollars and barbaric jeers, the first of the raiders sweeps through the field, brushing aside the straw and sackcloth sentinel, which spins on its post from the wind the horses bring with them. The second soon follows, then the third and fourth, driven onward by the promise of unearned food and plunder.*
+
+*As the last rider passes the watcher, he senses something amiss, furrows his brow, and glances behind him, turning his head to look behind him. He spies the scarecrow’s pole, but it is utterly vacant, the figure nowhere in sight. As the man gawks, a powerful clawed hand lunges silently out of the wheat and rips the man’s throat to ribbons. The man attempts to scream, clutching at his throat, before falling off his horse into the crops, smearing their gold with a red that shines dusky black in the evening sun.*
+
+*Standing over him is the scarecrow, its empty eyes boring directly into his. “This village is under my protection,” it speaks at last, not moving its carved mouth, “and it’s time for your friends to learn that lesson as well as you have.”*
+
+*With a surprising grace, the scarecrow swings its body up over the side of the fallen raider’s horse, cracks the reins, and sets off with purpose in the direction of the dying raider’s still-living comrades.*
+
+Created by witches, hags, and unfeeling yet potent fey, scarecrows are born to serve their master’s dark purposes for as long as that master may live. Though some lucky few escape their master’s dominion, very rarely is there a scarecrow whose mind and body don’t carry the traumatic markings of their master’s hand.
+
+### Wicker and Thatch
+Scarecrows are a hodge-podge construction of wood, straw, sack-cloth, and other materials often found in rural areas. No two scarecrows are alike, and even those created by the same being usually are distinct from one another due to different materials being on-hand at the time of their creation. A scarecrow is roughly as tall as a human, standing from 5 to 6 feet tall, though usually weighing only 75 to 125 pounds.
+
+Scarecrows are often dressed in durable but worn common clothes that are a part of their being. Coiled ropes, binding the scarecrow together, are a popular choice as well. A scarecrow’s head may simply be a stuffed cloth sack, though a carved pumpkin, gourd, turnip, or melon may also be used for the head, their use usually coinciding with the scarecrow being made in a region in which these crops are grown.
+
+### Lost and Imprisoned
+The ritual that produces a scarecrow does not require the inhabiting spirit’s consent, and these souls are forced into service, chained within a body of straw and wood. Scarecrows are often created by hags, witches, and powerful fey using the spirits of mortals, summoned demons, or other creatures foolish enough to tread within their realms. A scarecrow possesses no memories of its previous life, but the character and morality of soul used to create the scarecrow continues on, influencing the scarecrow’s actions even while under the direct control of their master.
+
+Most scarecrows are created for a specific purpose, usually to mercilessly guard an area or maraud through the countryside, sewing death and terror. While its master lives, a scarecrow has very little say in what they do, and scarecrows that gain their freedom either are aghast at the horrors they have caused, or embrace them fully as the natural result of what they are.
+
+### Hard-Earned Freedom
+A scarecrow gains its freedom in one of two ways: directly granted by the creature that created them, or through the death of their master. If freedom is granted directly, it is certain to come with caveats or as part of a hidden plan designed to benefit a scarecrow’s former master. The burden of choice can be too much for some scarecrows, which may fall to fits of berserk rage or turn to self destruction to contend with the monsters they have become.
+
+Some scarecrows attempt to reclaim their lost lives, though their utter lack of memories makes this difficult. Others guard areas of importance to them, staying in line with the function they were originally created to serve. And a few scarecrows are content to journey in search of their own purpose, and perhaps even acceptance, among the far reaches of the outside world.
+
+### Scarecrow Names
+The loss of one’s memories includes the loss of one’s name, and scarecrows often have to forge new names for themselves along with the rest of their identities. Names are not tied to gender, as scarecrows have none, and may simply be monikers passed on to scarecrows by their creators or companions.
+
+Examples of names given in this fashion may be seen, below:
+
+**Names:** Farmhand, Hayseed, Harvest, Jack, Mayfly, Pole, Pottsfield, Pumpkin, Reaper, Strawman, Turniphead, Watcher, Woodbones
+
+### Scarecrow Racial Traits
+***Ability Score Increase.*** Your Dexterity score increases by 2, and your Charisma score increases by 1.
+
+***Age.*** As a construct, you do not age in a traditional sense and may not die of old age.
+
+***Alignment.*** Scarecrows hold on to the alignments of their previous incarnations. Most scarecrows created by hags and witches thus tend to be evil, as it better suits the purposes of their creators to use evil spirits, but a scarecrow may be of any alignment. An especially malicious hag or fey may delight in the horror of binding a virtuous mortal soul to such a body, planning to torment or corrupt it thoroughly in its new state.
+
+***Size.*** Roughly the same size as humans, but much lighter, scarecrows are size Medium.
+
+***Speed.*** Your base walking speed is 30 feet.
+
+***Darkvision.*** The forces behind your animation imbue you with the power to watch over the holdings of your masters, by day or night. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+***Languages.*** You can speak, read, and write Common and one other language of your choice. Though most scarecrows cannot speak, regaining your independence has granted you this ability.
+
+***Living Construct.*** Though you inhabit the body of a construct, a living soul burns within you. You are immune to disease. You do not need to eat or breathe, but you can ingest food and drink if you wish. Additionally, you have two creature types: humanoid and construct. You can be affected by a spell or ability if it works on either of your creature types.
+
+***Body of Straw.*** You are immune to poison damage and the poisoned condition. However, whenever you take fire damage, you take additional damage equal to 5 – your Constitution modifier, which cannot be reduced or ignored by resistance or immunity.
+
+***Claws.*** You possess clawed fingers on each of your hands, giving you a natural claw attack, which you may use as an unarmed strike. This claw attack deals slashing damage equal to 1d4 + either your Strength or Dexterity modifier (your choice). In addition, you can use Dexterity in place of Strength for attack rolls with your claws, and your claws are considered to be a melee weapon with the finesse property for any ability or feature that requires it.
+
+***Frighten Crows.*** Any crows or ravens of CR 1 or less within 60 feet of you are automatically frightened of you until they are no longer within this range. This ability has no effect on familiars conjured by the find familiar spell or similar sources.
+
+***Scarecrow’s Vigil.*** Instead of sleeping, you enter an inactive state for 4 hours each day, standing completely motionless and sometimes (for a better vantage, or because old habits are hard to break) affixed to a tree or post. You do not dream in this state; you are fully aware of your surroundings and notice approaching enemies and other events as normal. While you remain motionless, whether or not you are in this inactive state, you are indistinguishable from a normal scarecrow.
+
+***Terrifying Glare.*** As a bonus action, target one creature you can see within 30 feet of you. That creature must make a Wisdom saving throw against a DC of 8 + your proficiency bonus + your Charisma modifier. If the creature fails this saving throw, it is frightened of you until the end of your next turn. Once you use this ability successfully, you require a short or long rest before you can use it again.

@@ -1,0 +1,20 @@
+### The Squared Circle
+Pugilists who fight in the Squared Circle know you don't have to knock an opponent senseless to get them to submit. Of course, members of the Squared Circle do beat their opponents senseless, they just know they don't have to.
+
+#### Groundwork
+Starting when you choose this fight club at 3rd level, you gain the following additional moxie features.
+
+***Compression Lock.*** When a creature attempts to break a grapple with you and succeeds, you can use your reaction and spend 1 moxie point to force the creature to roll again. The creature must use the second result.
+
+***Quick Pin.*** When a hostile creature's movement provokes an opportunity attack from you, you can use your reaction and spend 1 moxie point to make a grapple attack instead of an opportunity attack.
+
+***To the Mat.*** You can use a bonus action and spend 1 moxie point to make a grapple attack against a creature within range. If successful, the creature is also knocked prone.
+
+#### Meat Shield
+At 6th level, when you have an enemy creature grappled, you gain half cover against all attacks made against you by a creature you are not grappling. When a weapon attack made by a creature you are not grappling misses you, you may use your reaction and spend 1 moxie point to have that creature make the same attack with a new roll against an enemy creature you are grappling.
+
+#### Heavyweight
+At 11th level, you count as one size larger than you are for the purposes of grappling. In addition, you can move your full movement speed when you are dragging or carrying a grappled creature your size or smaller.
+
+#### Clean Finish
+At 17th level, your mastery of grappling reaches its peak. While you have a creature grappled, you gain advantage on all attacks against it. Additionally, when you make an unarmed strike or pugilist weapon attack against a creature you have grappled, you score a critical hit on a roll of 19 or 20.

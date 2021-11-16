@@ -1,0 +1,55 @@
+### Suit Driver
+[**Source:** *Artificer: Suit Driver*](https://docs.google.com/document/d/1HFS40brBMyohIjiEyA5UKjG0r25W9araFadr_51qW4M/edit)
+
+A suit driver is an artificer who isn't content to stand back and let their creations have all the fun. Drivers give their all to their suits—each one a towering wonder of engineering, perfectly suited and tailored to its Driver—and wear them into battle like a second skin. No matter the confrontation, a Driver's suit will stand to even the playing field against the mightiest of foes.
+
+#### Tools of the Trade
+When you adopt this specialization at 3rd level, you gain proficiency with heavy armor. You also gain proficiency with smith's tools. If you already have this tool proficiency, you gain proficiency with one other type of artisan's tools of your choice.
+
+#### Suit Driver Spells
+Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Suit Driver Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
+
+##### Suit Driver Spells
+Artificer Level|Spells
+:-----:|:-----
+3rd|<em>Shield, Thunderwave</em>
+5th|<em>Maximillian's Earthen Grasp, Levitate</em>
+9th|<em>Lightning Arrow, Sending</em>
+13th|<em>Fire Shield, Greater Invisibility</em>
+17th|<em>Conjure Volley, Steel Wind Strike</em>
+
+#### Piloted Suit
+At 3rd level, you can turn a suit of armor into your Driver Suit as an action, provided you have smith's tools in hand. While within 5 feet of your suit, you can use your action to enter and don it. If your suit isn't within 5 feet of you but is on the same plane of existence, you can use your action to teleport it to an unoccupied space within 5 feet of you and don it as part of the same action. Your suit is a Medium object. You can use your suit as a spellcasting focus for your artificer spells.
+
+While inside your Driver Suit, you gain the following benefits:
+- Your size becomes Medium if it isn't already and your walking speed becomes 35 feet. You can't use any other speeds you have, unless that speed is granted to you by a spell or magical effect.
+- When you make an ability check, attack roll, or saving throw using Strength, you can use your Intelligence instead.
+- If the suit of armor has a Strength requirement, it does not have that requirement for you.
+
+The suit has its own pool of health points equal to your Intelligence modifier times your Artificer level. When you don the suit, you treat these health points as if they were your own temporary health points. You cannot gain temporary health from any other source while you wear the suit.
+
+When the temporary health points granted by the suit are reduced to zero, it breaks, becoming a mundane suit of armor once more. You lose all of the above benefits. You can also eject from your suit as a bonus action, landing in an unoccupied space you can see within 10 feet of it.
+
+You can spend 1 minute repairing a destroyed suit using your smith's tools, provided you are within 5 feet of it and you expend a spell slot of 1st level or higher. You may cast the Mending cantrip on the suit to restore a number of health points to it equal to your Intelligence modifier, but you may only do this once before you must repair the suit with your tools as described above.
+
+At the end of a long rest, you can turn a suit of armor into a new Driver Suit if you have your smith's tools with you. If you already have a suit from this feature, the first one is immediately destroyed.
+
+#### Mechanized Combat
+By 3rd level, your training for combat with your Driver Suit is rewarded. You gain proficiency with martial weapons. Additionally, you’ve built a specialised weapon into your suit. Choose the blasting cannons, the lightning lance, or the power fist, as detailed below. While inside your suit, you can use a bonus action to activate the weapon you chose. Whenever you construct a new suit, you can replace the weapon you choose with another.
+
+- ***Blasting Cannons.*** When you activate this weapon, both cannons fire a swarm of tiny missiles at a creature or object within 90 feet of you. Make a ranged spell attack against the target. On a hit, the target takes 1d8 fire damage.
+- ***Lightning Lance.*** When you activate this weapon, you unleash a lance of lightning in a line 30 feet long and 5 feet wide. If the lance would strike a creature, that creature must succeed a Dexterity saving throw or be struck by the lance. When the lance strikes something, the target takes 1d8 lightning damage, and the lance dissipates.
+- ***Power Fist.*** When you activate this weapon, you slam a fist charged with explosive power towards a creature or object within 5 feet of you. Make a melee spell attack against the target. On a hit, the target takes bludgeoning damage equal to 1d8 + Intelligence modifier and is pushed up to 10 feet away from you.
+
+#### Extra Attack
+Starting at 5th level, you can attack twice, rather than once, whenever you take the Attack action on your turn.
+
+#### Arcane Reactor
+At 9th level, you upgrade your suit's magical core. The damage rolls of your suit's specialised weapons all increase by 1d8.
+
+Additionally, your reactor can generate enough power to launch you into the air. While wearing your suit, you have a flying speed of 40 feet. Your suit can't keep you aloft for long; you fall if you end your turn in the air and nothing else is holding you aloft.
+
+#### Core Blaster
+Starting at 15th level, you can overcharge your suit's reactor as a last-resort attack. As an action while inside your suit, you can choose to set off your suit's self-destruct. When you take this action, you eject from the suit, landing in an unoccupied space you can see within 60 feet of it, and your suit explodes. Your suit is destroyed, and each creature within 40 feet of it must make a Dexterity saving throw. A creature takes 5d10 lightning damage and 5d10 force damage on a failure, or half as much on a success. The blast spreads around corners and ignites flammable objects in the area that aren't being worn or carried.
+
+Once you use this feature, you can't use it again until you finish a long rest, even after you repair or replace your suit.

@@ -1,0 +1,49 @@
+### Oath of Vigilance
+[**Source:** *The Complete Devout Handbook*](https://drive.google.com/file/d/1TEY7P4FVWD_-Ky5YrrK92__yYOwTY3w-/view)
+
+Paladins who swear the Oath of Vigilance believe their highest calling is in service to others. Those who swear the Oath of Vigilance devote their lives to finding those worthy of protection and ensuring no harm comes to them. These paladins have as strict a moral code as any other but prize obedience to a righteous master above everything else. To them, any untoward actions taken in protecting their ward is justified.
+
+#### Tenets of Honor
+The tenets of the Oath of Vigilance vary by paladin, but all tenets revolve around protecting and honoring those the paladin deems worthy of his protection. Paladins who uphold these tenets are willing to sacrifice themselves for the sake of that which they safeguard, even abandoning their own dignity if it ultimately protects the name of their ward.
+
+***Defend the Greater Good.*** I place my life in the hands of someone greater than myself. I will defend those I deem morally greater than me to the death.
+
+***Absolved by Obedience.*** My own ability to comprehend is lesser than those I protect. I am absolved of my flaws by strict obedience to their directions.
+
+***Honor by Association.*** I am honored by my relationship with those I protect and, in turn, I must honor them by acting with integrity and respect.
+
+***Humility.*** When I find someone worthy of protecting I will make their will and life my priority. Through the advancement of their goals will I improve the world and be personally fulfilled.
+
+#### Oath Spells
+You gain Oath spells at the paladin levels listed.
+
+##### Oath of Vigilance Spells
+| Paladin Level | Spells |
+| :-: | :-- |
+| 3rd | <em>compelled duel, shield of faith</em> |
+| 5th | <em>aid, warding bond</em> |
+| 9th | <em>glyph of warding, life transference<sup>XGE</sup></em> |
+| 13th | <em>guardian of faith, stoneskin</em> |
+| 17th | <em>hallow, wall of force</em> |
+
+#### Channel Divinity
+When you take this oath at 3rd level, you gain the following two Channel Divinity options.
+
+***Safeguard Companion.*** As an action, you present your holy symbol and speak a prayer of warding, using your Channel Divinity. Choose one creature within 60 feet of you that you can see. That creature gains temporary hit points equal to your Charisma modifier + your paladin level. The creature loses any remaining temporary hit points after 10 minutes. While the creature has temporary hit points from this ability, it gains a +2 bonus to its AC.
+
+***Vow of Protection.*** As a bonus action, you can make a promise to safeguard a creature within 10 feet of you, using your Channel Divinity. For 1 minute, all attack rolls against that creature have disadvantage while you remain within 10 feet of it. This effect ends if you drop to 0 hit points or fall unconscious.
+
+#### Tireless Sentinel
+Starting at 7th level, your dedication to protection dissuades your foes from ignoring you. When you hit a creature with an opportunity attack, that creature has disadvantage on attack rolls against creatures other than you until the end of its turn.
+
+#### Soul of Vigilance
+Starting at 15th level, your guardianship of those under your Vow of Protection becomes nearly absolute. When you see a creature within 10 feet under your Vow of Protection take damage, you can use your reaction to move to any unoccupied space within 5 feet of the target of your vow and parry the brunt of the attack. When you do, the damage the creature takes is reduced by 1d10 + your Strength modifier + your paladin level.
+
+#### Unflinching Guardian
+Starting at 20th level, you can assume responsibility for the protection of all your companions. Using your action, you exude a protective aura and focus your will against your enemies for 1 minute.
+
+- When a friendly creature within 30 feet of you takes damage, that damage is reduced by your Charisma modifier (minimum 1).
+- Whenever a creature under your Vow of Protection moves, you can choose to move an equal distance as long as you end the movement within 10 feet of the creature.
+- You gain a special reaction you can use on each of your turns which you can take to use your Soul of Vigilance feature. You cannot use your reaction and this special reaction on the same turn.
+
+Once you use this feature, you can't use it again until you finish a long rest.

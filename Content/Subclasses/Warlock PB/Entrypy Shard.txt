@@ -1,0 +1,14 @@
+#### Pact of the Entropy Shard
+[**Source:** *The Void*](https://drive.google.com/file/d/1FNlB1mK6-IlDojBa-jOZZi96MWsYIZG2/view)
+
+At 3rd level, your otherworldly patron bestows a gift upon you for your loyal service.
+
+As an action, you can conjure a 2-inches shard of utter darkness in a square up to 30 feet from you. It lasts until you keep your concentration, than it vanishes. Every creature that stands in or passes through the square the shard is in has to succeed on a Constitution saving throw or suffer 1d10 force damage (there's no way to avoid touching it, since the shard constantly floats, jumps and bounces in the square).
+
+With a bonus action, you can use your mind to dismiss or move the shard 5 feet in any direction. You can also use a bonus action to make the shard implode collapsing onto itself and thus exerting a gravitational pull on every creature not bigger than Large in a 10 feet cube centered on the shard. Treat this as a shove (see page 195 of the *Player's Handbook*) with the shard having Strength (Athletics) +5 and advantage on the check. Every creature that fails the check is pulled 5 feet towards the shard (they can avoid the pull by falling prone in the square they're in). The shard vanishes afterwards, but does inflict damages one last time if a creature is pulled in the same square.
+
+The shard also implodes automatically as soon as it is farther than 60 feet from its caster.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+In addition, you have advantage on every check made to control a *sphere of annihilation*.

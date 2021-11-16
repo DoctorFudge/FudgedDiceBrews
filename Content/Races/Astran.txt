@@ -1,0 +1,61 @@
+## Astran
+[**Source:** *Blazing Dawn*](https://drive.google.com/file/d/1AZ5H-NE-5Up-teILzyZUCDvHuLltr5is/view)
+
+Hailing from the stars, as their name suggests, astrans are reclusive beings seldom seen by other races. They live on remote mountaintops or deserted islands, eking out a meager existence far from civilization. Few folk can claim to have met an astran, but those that do seldom forget the encounter. Their strange, mystifying appearance causes most other races to initially fear them, but their peaceful nature and penchant for wisdom makes them good friends of those that can get past the first impression.
+
+### Mystical Outsiders
+Those that look upon an astran’s peculiar features can tell that these creatures are not of this world. Although humanoid in form, an astran’s appearance is off-putting. Their bodies are long and wiry, and their skin is the color of ash, accented by deep crimson hues. But their most unique feature is the shape of their head, which is characterized by a set of three tentacle-like protrusions from the back of their skull, as well as pairs of smaller protrusions set into their slender face.
+
+They are approximately 7 feet tall on average, though some can stand up to 8 and half feet tall. Despite their staggering height, astrans usually only weigh between 130 and 170 pounds. They have no hair on any part of their bodies. To the other races all astrans look quite similar. While other astrans can easily tell their kind apart, most others need to study their features for at least a few moments before coming to a conclusion. If in doubt, all astrans can be set apart by their uniquely colored eyes, which can take on nearly any color and often contain complex patterns that are as unique as fingerprints.
+
+Astrans are also completely genderless, and therefore have no concept of "male" or "female." Their bodies look male to most other races, however, and they are usually fine with being referred to as "he".
+
+### Life from Fallen Stars
+Astrans are not born like other races. The rare, tiny embryos that eventually grow up into astrans can be found encased within meteorites. The origins of these meteorites is unknown—some believe that they are created by some celestial deity that casts down shooting stars from the heavens. Others believe that these meteorites are the destroyed remains of an ancient planet, still harboring sparks of life within its countless fragments.
+
+After an astran meteorite lands, it behaves much like an egg. The astran embryo grows inside the meteorite, until it emerges a few weeks later as a tiny creature, only 1-2 feet tall. Astrans are capable of fending for themselves as soon as they emerge. They can protect themselves with their innate magical capabilities, and they know the astran language and basic survival skills from their inception. They grow quickly, reaching their full size in approximately 1-2 years.
+
+Even if young astrans are better equipped to survive alone than most humanoid young, the world is still an exceptionally dangerous place for a young astran. Some older astrans watch the night sky for shooting stars, and trek great distances to find where meteorites have landed. Through these treks they seek to find a meteorite that holds an astran embryo, so that the young astran might have a better chance of surviving to adulthood, and so that they might have a companion to ease their loneliness.
+
+### Alone Through the Ages
+Astrans often live for close to a millenia, and during their long lives little changes about them from a physical standpoint. The changes made by aging are subtle—typically their skin changes color, becoming darker and losing some of its luster, and the light of their eyes becomes slightly dimmer. These changes happen so slowly that they are nearly unnoticeable, however, and only similarly long lived races, like elves, would have a chance of noticing an astran’s aging.
+
+The vast majority of astrans spend their long lives carefully avoiding long-lasting friendships, fearing the sadness that comes with watching their friends grow old as they, in turn, remain unchanged by the years. This fear often fades over time, and they might make friends with other long-lived races, particularly elves, once they have a few centuries behind them. While they tend to make their homes in places untraveled by other folk, they don’t actively avoid other races when those folk happen upon their humble abodes, and in fact they often welcome their visitors inside and are eager to share their wisdom with individuals that would appreciate it. Born with innate knowledge, an astran’s wisdom can sometimes be prophetic. Those that know of this trait may search far and wide for an astran that could act as an oracle.
+
+One of the few relationships that an astran is willing to take on with another race is that of a mentor-student relationship, where the astran imparts its knowledge and skill upon a worthy student. Even these associations are often short-lived, however, as they seek to not become too attached to their pupils.
+
+### Exploring the World
+While most astrans tend to stay put when they can help it, there are many points in their lives where they might take up adventuring. Some astrans are compelled to adventure when they take up students, as they seek to train them in real-life situations. Others might become unintentionally involved in worldly conflicts, if those conflicts reach their homesteads. Their typical kindness might make them protectors of refugees or escorts of travelers, where their involvement can easily rope them into greater adventures. Adventuring astrans tend to be the exception, rather than the rule, and may learn to make lasting friendships with their comrades.
+
+### Astran Names
+An astran chooses their own name shortly after they emerge from their meteorite. Since astrans are genderless, there are no "male" or "female" names for them. Their lack of true parents also means they lack a family name. An astran’s real name, taken from the astran language, is often difficult for other races to pronounce. Therefore, astrans tend to translate these names into common when dealing with other races. A few of the common translations are listed below.
+
+___
+- **Astran Names:** Antlia, Aquila, Aries, Caelum, Cepheus, Circinus, Crux, Dorado, Equuleus, Fornax, Horologium, Hydrus, Leo, Libra, Monoceros, Orion, Pavo, Sculptor, Serpens, Tucana, Virgo, Volans.
+
+### Astran Racial Traits
+Your otherworldly heritage manifests as a variety of traits that you have in common with all other astrans.
+
+***Ability Score Increase.*** Your Wisdom score increases by 2, and your Dexterity score increases by 1.
+
+***Age.*** Astrans emerge from their meteoritic egg with intellectual capabilities similar to that of a 12-year-old human child, and they grow to full size in less than 2 years. From this point on their aging virtually stops, and they can live on, unchanging, for nearly a thousand years.
+
+***Alignment.*** Most astrans are kind hearted, though occasionally distant. Though they often live in solitude, they are welcoming of visitors and eager to lend their aid to others. The typical astran tends towards neither law nor chaos, instead opting for a more neutral path. While this is their most common disposition, it isn’t uncommon for an astran to be of any good or neutral alignment, and even evil alignments aren’t completely out of the question.
+
+***Size.*** Astrans average about 7-8 feet tall, though they have exceptionally wiry builds, and often weigh only about 150 pounds. Your size is Medium.
+
+***Speed.*** Your base walking speed is 30 feet.
+
+***Astral Resistance.*** You have resistance to radiant damage.
+
+***Mystical Mentor.*** With your touch, you can temporarily transfer some of your skill and knowledge to another creature. As an action, you can touch a willing creature, and select a skill that you are proficient in. If the target isn’t already proficient in that skill, it becomes proficient in it for the next 8 hours.
+
+Once you use this trait, you can’t use it again until you finish a long rest.
+
+***Natural Survivor.*** You have proficiency in the Survival skill.
+
+***Starlight Navigator.*** Your memory is exceptionally good when it comes to the locations of all the stars that dot the night sky. As long as you can see the night sky, you know which way is north, and you have advantage on Wisdom (Survival) checks made to avoid becoming lost.
+
+***Wielder of Light and Flame.*** As a child of the stars, you can call upon innate magic granted to you by your astral heritage. You know the *light* and *control flames* cantrips. When you reach 3rd level, you can cast *faerie fire* with this trait, and starting at 5th level, you can also cast *pyrotechnics* with it as a 2nd level spell. Once you cast a spell with this trait, you can’t cast it again until you finish a long rest. Wisdom is your spellcasting ability for these spells.
+
+***Languages.*** You can speak, read, and write Common and Astran. Astran is a language different from all other worldly languages, and many of its words and common sounds are difficult for other races to pronounce. The different intonations used by this language often spill into the other languages an astran knows, causing them to often emphasize the wrong part of a word, or even order their sentences in a non-standard manner.

@@ -1,0 +1,40 @@
+### The Pumpkin King
+[**Source:** *All Patrons Eve*](https://drive.google.com/file/d/1MxBYTStm2Xl9F_PguVAcuii8JRsPKPWx/view)
+
+Known by many names, the Pumpkin King is the true patron of Halloween. Though not explicitly a deity, the pumpkin king is one of a very few gatekeepers to the land of the dead, and on the night of Halloween he is granted the opportunity to throw open the gates of the afterlife and let the dead roam the land once again. This is not with malicious intent, as most assume; Old Jack simply enjoys a bit of (mostly) harmless trickery and chaos, and the dead do enjoy a bit of time in the world of substance and life every now and then. He grants those who seek him the means to sow both joy and terror in equal measure, especially those most deserving.
+
+#### Expanded Spell List
+The Pumpkin King allows you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+##### Pumpkin King Expanded Spells
+| Spell Level | Spells |
+| :-: | :-- |
+| 1st | <em>goodberry, silent image</em> |
+| 2nd | <em>continual flame, spike growth</em> |
+| 3rd | <em>bestow curse, spirit guardians</em> |
+| 4th | <em>death ward, phantasmal killer</em> |
+| 5th | <em>hallow, seeming</em> |
+
+#### Trick or Treat
+Starting at 1st level, you can use your bonus action to bestow minor boons or banes upon a creature within 60 feet that can hear you. If that creature is hostile to you, it must succeed on a Wisdom saving throw or gain a Trick die. If that creature is friendly to you, it gains a Treat die. Both Trick and Treat die are d6s.
+
+Once within the next 10 minutes, if the creature has a Treat die, the creature can roll the die and add it to one ability check, attack roll, or saving throw it makes. If the creature has a Trick die, you can use your reaction to force it to roll the die and subtract it from one ability check, attack roll, or saving throw it makes. A Trick or a Treat die can be used after the roll is made, but can only be used before the GM says whether the roll succeeds or fails. Once a Trick or a Treat die is used, it is lost.
+
+You can use this feature a number of times equal to your Charisma modifier (a minimum of once), and you regain any expended uses when you finish a long rest.
+
+Starting at 6th level, you regain all uses of this ability following a short rest. Starting at 14th level, both Trick and Treat dice become d8s.
+
+#### Unearthly Fright
+Starting at 6th level, as an action, you can perform a horrifying, macabre spectacle, terrifying all around you. Each creature within 30 feet of you which can see or hear you to make a Wisdom saving throw or be frightened of you for up to a minute. A creature affected by this ability can make a new saving throw each time it takes damage and at the end of each of its turns, ending the effect on a successful save, or when the creature can neither see nor hear you.
+
+Once you use this ability, you must take a short or long rest before you can do so again.
+
+#### Ghoulish Resilience
+At 10th level, the Pumpkin King grants you some of the unnatural resilience of his ghastly companions. This is beneficial, but costly, as your skin takes on a deathly pallor and several of your bodily functions cease. You gain resistance to necrotic damage, and you no longer need to eat, drink, or breathe.
+
+Additionally, you can easily recover from horrific trauma. You can't be incapacitated or killed due to dismemberment or decapitation. If one of your body parts is severed but is still intact, you can hold it to the stump, and two instantly knit together. Lastly, you no longer take additional damage from critical hits.
+
+#### Ghoulish Revelry
+Starting at 14th level, Old Jack allows you to call on several of his friends to aid you in your revelry. You can cast animate dead as a 7th level spell without using a spell slot.
+
+Once you use this ability, you must take a long rest before you can do so again.

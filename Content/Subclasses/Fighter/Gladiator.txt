@@ -1,0 +1,33 @@
+### Gladiator
+[**Source:** *The Complete Martialist Handbook*](https://drive.google.com/file/d/1oGWtJWYIL63dUACooColfDVhX6MllXji/view)
+
+You've turned life or death combat into a form of entertainment. While other fighters focus on honing their skills to get the job done, gladiators combine martial prowess with crowd-pleasing. The only thing you love more than a good fight is a big audience cheering you on. You've learned to challenge your opponents to one-on-one combat and leverage your natural showmanship for advantage in combat.
+
+#### Entertainer
+When you choose this archetype at 3rd level, you gain proficiency in one of the following skills of your choice: Athletics, Intimidation, Performance, or Persuasion. Additionally, you learn one language of your choice.
+
+#### Mano-a-Mano Mark
+Starting at 3rd level, you can issue a challenge to a foe that makes it hesitate to engage your allies. When you hit a creature with a weapon attack, you can mark the creature for 1 minute. This effect ends early if you attack another creature, become incapacitated or die, or someone else marks the creature.
+
+If the creature makes an attack against a creature other than you, you have advantage on all weapon attacks against the creature until the end of your next turn. Additionally, you gain a special reaction that you can use once each round to make one weapon attack against the marked creature when it moves out of your reach or attacks a creature other than you. You cannot use this special reaction and your normal reaction on the same turn.
+
+#### Roar of the Crowd
+Starting at 7th level, when you take the Attack action on your turn, you can use a bonus action to showboat for your allies. When you do, choose a number of hostile creatures within 15 up to the number of friendly creatures within 15 feet. Chosen creatures must succeed on a Wisdom saving throw (DC = 8 + your Charisma modifier + your proficiency bonus) or take psychic damage equal to 1d6 + your fighter level.
+
+You can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses of it once you finish a long rest.
+
+#### Build the Heat
+Starting at 10th level, when you deal damage to the target of your Mano-a-Mano Mark, you roll twice and use the higher result. When the target of your Mano-a- Mano Mark deals damage to a creature other than you, it rolls the damage twice and uses the lower result.
+
+#### Big Finish
+Starting at 15th level, when you deal damage to a creature with a weapon attack and its remaining hit points immediately afterward are equal to or less than your fighter level + your Charisma ability score, you can choose to reduce the creature's hit points to 0.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+#### Signature Move
+Starting at 18th level, you have mastered a signature move that entertains any audience and dispatches your opponents with brutal efficiency. When you learn this feature, name your signature move and determine what it looks like. As an action on your turn, you can use your signature move.
+
+When you use your signature move, you do the following in any order:
+- Move up to twice your base movement speed. During this movement, your jumping distances are tripled.
+- Gain temporary hit points equal to your fighter level + your Charisma ability score.
+- Take the Attack action. Your final weapon attack as part of the Attack action has advantage and deals additional damage equal to your Charisma ability score. You can use your signature move once. You regain its use when you roll initiative.

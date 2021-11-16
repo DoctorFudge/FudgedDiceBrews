@@ -1,0 +1,27 @@
+### Training Dummy
+[**Source:** *Thrro*](https://drive.google.com/file/d/1env1Rl0-DC3O7qgBnaH2M1_DWlRIvDBS/view)
+
+Though the Thrro were created as means to safeguard or experiment with magic, some of the common folk started to learn of these crafted golems. There was fear for a time, however some of the more competitive of the people devised of a use for the creatures, they came to the mages asking if they could create a "Dummy" to hone their physical strength upon. Tired of the constant demand for such things the mages gave the people what they desired, a Thrro capable of handling abuse, however accounts of the Thrro retaliating began to occur. The mages responded quickly to such events fearing the worst, but what baffled them was when the athletic victims assured them that this was acceptable design.
+
+#### I Can Take It
+At 3rd level you are gain proficiency in Athletics, if you have so already you may add double your proficiency bonus.
+
+#### Try Harder
+Also at 3rd level, when you receive damage from an attack a target you can reach with melee, as a reaction you can spend a Moxie point to roll your Hit Die + Your Fisticuffs die. The result of the roll absorbs the damage you would have received. If your results absorb all of the damage received, the target receives the unused amount in Bludgeoning damage.
+
+#### Try Again
+Starting at 6th level, you have afew reactionary abilities to discipline your target into learning how to better defend themselves. You can use any of these abilities any number of times during combat, but using them more than once per combat grants the target an Attack of Opportunity with an on you after you use your ability. You may spend a Moxie point to use repeat an ability without allowing the target to gain an Attack of Opportunity.
+
+***Too Slow.*** When a target attempts to move away from you if you successfully hit with an opportunity attack you may add you Fisticuffs die in damage and also knock the target prone.
+
+***Too Predictable.*** When a target uses the same melee attack as it has on it's previous turn, as a reaction you can make a melee attack against the target before uses it's attack roll.
+
+***Too Weak.*** When a target's melee attack against you hits below your AC by 2 or more points, you can use a melee attack against the target as a reaction.
+
+***Too Distracted.*** When a target attempts to attack another ally while within your melee range as a reaction you can make a melee attack against the target before it's attack roll.
+
+#### Pay Attention
+Starting at 11th level, any time a target fails to hit you with a melee attack or takes damage from the Try Harder feature, the target also takes your Fisticuffs die in damage.
+
+#### Pay Closer Attention
+Beginning at 17th level, any time a target fails to hit you with a melee attack or takes damage from the Try Harder feature, you regain 1 Moxie point.

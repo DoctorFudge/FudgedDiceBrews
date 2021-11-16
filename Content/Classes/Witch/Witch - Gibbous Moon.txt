@@ -1,0 +1,87 @@
+### Coven of the Gibbous Moon
+Fate is written in both the stars and blood, for those who look with careful eye. Witches of the Coven of the Gibbous Moon consider themselves to be the arbiters of destiny, reading fate and either averting it or ensuring its completion. These indigo witches also act as spirit guides, bringing the souls of the dead to their final place of rest through rite and ritual. Witches in this coven are often neutral, respecting the forces of death and fate in the broader cosmos, and knowing their place as but a servant to each.
+
+#### Gibbous Moon Spells
+You gain advanced tutelage into specific spells important to your coven. You learn each of the spells on the following list at the witch level associated with them. These spells count as witch spells for you and do not count against the total spells you can know.
+
+##### Gibbous Moon Spells
+| Witch Level | Spells |
+|:-:|:--|
+| 2nd | <em>chaos bolt\*, guiding bolt</em> |
+| 3rd | <em>augury, gentle repose</em> |
+| 5th | <em>speak with dead, spirit guardians</em> |
+| 7th | <em>divination, Mordenkainen’s faithful hound</em> |
+| 9th | <em>scrying, Rary’s telepathic bond</em> |
+
+\* this spell is found in Xanathar’s Guide to Everything
+
+#### Read the Entrails
+When you join this coven at 2nd level, you learn how to read the secret signs hidden in a creature’s viscera. When a creature that is not an undead, elemental, ooze, or construct is reduced to 0 hit points and dies within 10 feet of you or your familiar, you can use a reaction to read fate in the substance of its death.
+
+If you do, roll twice on the Revelations table, selecting one of these two results and then choosing a creature within 30 feet of you. That creature gains the effect you selected, which lasts until its stated duration or until you take a short or long rest, whichever is first.
+
+Once you use this ability, you require a short or long rest before you can use it again.
+
+##### Revelations
+| d10 | Revelation |
+|:-:|:-|
+| 1 | **Inspiring Insight.** The chosen creature gains a point of inspiration. |
+| 2 | **Fortuitous.** The creature has advantage on the next saving throw it makes. |
+| 3 | **Narrow Escape.** The selected creature can immediately move a distance up to its movement speed, which does not provoke opportunity attacks. |
+| 4 | **Turning Point.** The creature has advantage on the next attack it makes. |
+| 5 | **Downfall.** The creature has disadvantage on the next saving throw it makes. |
+| 6 | **Deficiency.** The creature has disadvantage on the next attack it makes. |
+| 7 | **Weakness.** The creature becomes vulnerable to a damage type of your choice, until it takes damage of that type once. |
+| 8 | **Hidden Might.** The creature’s next attack that hits deals an extra 1d8 damage. |
+| 9 | **Forgotten Curio.** The creature finds a new mundane item of your choice on its person, which is worth 5 gp or less. |
+| 10 | **Fatesight.** The creature is aware of the exact location of all other creatures within 30 feet of it until the beginning of your next turn, including creatures that are invisible or in the Ethereal plane. |
+
+#### Psychopomp
+At 6th level, when you summon your familiar, you can have it manifest as a spectral version of itself. While in this form, your familiar gains the following additional benefits:
+A flying speed of 30 feet with the hover property (unless it has a faster flying speed)
+The ability to become invisible until the end of its next turn by using an action
+The ability to pass through solid surfaces other than those made of lead. If your familiar ends its turn within a surface, it takes 2d10 force damage, which cannot be reduced or ignored, and is expelled to the nearest available location.
+Resistance to all damage other than psychic; radiant; and bludgeoning, slashing, or piercing damage from magical or silvered weapons
+
+Additionally, when your familiar shares a space with a creature, you can cause your familiar to use its reaction to share one of these benefits of your choice with that creature. The creature receives the chosen benefit until the beginning of your next turn. Once you share a benefit in this way, you cannot do so again until you have finished a short or long rest.
+
+#### Fortune Telling
+At 10th level, you know the secrets to true fortune telling. As a 10-minute ritual, you conjure a tarokka deck and tell the fortune of a willing creature besides yourself within 5 feet of you for the duration of the ritual.
+
+This creature must share a language with you, and must have a CR or level of at least 1 to have a destiny significant enough for this reading. Roll three times on the Fortune Telling table, or, if you have a physical tarokka deck, shuffle together the high deck with the masters of swords, stars, coins, and glyphs, and deal out three cards.
+
+The creature must then select one of these cards, which it keeps. If the card is not specified to be used immediately, the creature can use the card with no action on its turn. The card’s magic fades once 24 hours have passed after the completion of the ritual, so it must be used within that time. A creature cannot have its fortune read by this ritual more than once every 30 days.
+
+When a creature is selecting a card, it is to know nothing about the fortune it chooses other than the name of the card and its appearance. Any hints as to the nature of the fortune bestowed by a card (by either any character or any player) invalidate the ritual, causing the spell slot to be expended with no result. Once the creature has selected a card, however, it knows fully the effects of the card chosen.
+
+A creature cannot receive the same fortune twice. If you draw a card that the creature has previously chosen, reroll it or discard it and draw again. If it is impossible to draw three cards without turning up one which the creature has already selected, this ritual no longer works for that creature.
+
+Once you have used this ability, you cannot do so again until you have completed a long rest.
+##### Fortune Telling
+| d20 | Card | Effects |
+|:---:|:---|:---|
+| 1 | Artifact | After reducing an enemy creature to 0 hit points, the creature that drew this card can use the card to find an appropriate valuable item or treasure on their possession worth 100 gp. |
+| 2 | Beast | This card is used immediately. Within the next 24 hours, the creature that drew this card has disadvantage on all Charisma checks that are not Intimidate checks, but has advantage on all Intimidate checks. |
+| 3 | Broken | One This card is used immediately. Within the next 24 hours, the creature that drew this card will lose something or someone of significance. |
+| 4 | Darklord | This card is used immediately. The creature that drew this card must name another creature considered to be its enemy, then gaining a valuable insight into its enemy’s motivations or goals that it did not already know. If the creature that drew this card knows of no such enemies, this card provides it with knowledge of one. |
+| 5 | Donjon | The creature that drew this card can use the card while within a ruin or dungeon. While in that location, the creature that drew this card has advantage on any checks made to find objects, rooms, or traps for the next 24 hours. |
+| 6 | Ghost | This card is used immediately. Within the next 24 hours, the creature that drew this card will be confronted by either the ghost of a foe it felled, or the serious consequences of its own actions. |
+| 7 | Executioner | When an attack made by the creature that drew this card hits, that creature can use this card to make that attack a critical hit. |
+| 8 | Horseman | This card is used immediately. Within the next 24 hours, the DM can decide to have one attack that hits the creature that drew this card become a critical hit. |
+| 9 | Innocent | This card is used immediately. Within the next 24 hours, someone the creature that drew this card knows and cares for will be placed in serious peril. |
+| 10 | Marionette | This card is used immediately. The creature that drew this card instantly knows of another creature that would be sympathetic to its cause, and that would have means to help it in a significant way. |
+| 11 | Mists | The creature that drew this card can use this card to cast the fog cloud spell as a 2nd-level spell centered on themselves, without using an action or expending a spell slot. |
+| 12 | Raven | The creature that drew this card can use this card to gain automatic success on one Intelligence check or save of its choice. |
+| 13 | Seer | The creature that drew this card can use this card to gain automatic success on one Wisdom check or save of its choice. |
+| 14 | Tempter | The creature that drew this card can use this card to gain automatic success on one Charisma check or save of its choice. |
+| 15 | Warrior (Master of Swords) | This card is used immediately. For the next 24 hours, any weapon held by the creature that drew this card is treated as a magic weapon with a bonus to attack and damage rolls equal to half that creature’s proficiency bonus (round up) for as long as the creature holds it. |
+| 16 | Wizard (Master of Stars) | The creature that drew this card can use the card instead of expending a spell slot for one spell they would otherwise be able to cast. The creature must still use an action of the appropriate type to cast the spell. |
+| 17 | Rogue (Master of Coins) | The creature that drew this card can touch one other creature and use this card, magically transporting the most valuable item that creature has on its person to a location on the creature that drew this card’s person. |
+| 18 | Priest (Master of Glyphs) | The creature that drew this card can use the card to regain hit points equal to 1/3 of their hit point maximum. |
+| 19 | Redraw – 1 | Reroll the entire draw, with two cards instead of three. Reroll any results that would have you redraw. |
+| 20 | Redraw + 1 | Reroll the entire draw, with four cards instead of three. Reroll any results that would have you redraw. |
+
+#### Guide of Fates
+Starting at 14th level, when you use your Read the Entrails feature, you can roll 3 times on the Revelation table, still selecting only one result. You can use your Read the Entrails feature twice between rests.
+
+In addition, while using your Psychopomp feature, your familiar can share two of the feature’s benefits instead of one with a single creature.

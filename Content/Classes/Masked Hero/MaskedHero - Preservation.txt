@@ -1,0 +1,42 @@
+### Decree of Preservation
+The Decree of Preservation heralds the arrival of heroes that shall become the stalwart defenders of the innocent. When these avengers arrive on the battlefield, any attack made by their enemies becomes futile in the face of protective wards, as these heroes seek to safeguard the lives of the innocent.
+
+#### Decree Magic
+Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Preservation Spells table. The spell counts as a masked hero
+spell for you, but it doesn't count against the number of masked hero spells you know.
+
+##### Preservation Spells
+| Masked Hero level | Spell |
+|:----:|:-------------|
+| 3rd  | *shield* |
+| 5th  | *gentle repose* |
+| 9th | *counterspell* |
+| 13th | *death ward* |
+| 17th | *dispel evil and good* |
+
+#### Mark of Valour
+When you select this decree at 3rd level, you can generate a Mark of Valour, a badge of honour meant only for the most bravest warriors. As an action, you can expend one use of Heroic Armaments to choose one creature that you can see within 5 feet of you. That creature gains a +1 bonus to its AC. This benefit lasts until that creature finishes a long rest, and ends early if that creature dies, dons medium or heavy armor, or a shield. A creature can have only one Mark of Valour at a time.
+
+#### Aegis Rune
+At 3rd level, after using Deflective Strike, you generate a rune called an Aegis Rune. This rune lasts until the end of your next turn, and you can have only one rune on you at a time. As a bonus action, you can expend this rune to choose one creature that you can see within 15 feet of you. That creature gains temporary hit points equal to a d6.
+
+These temporary hit points lasts until they are depleted, or until that creature finishes a long rest. Whenever a creature has these temporary hit points, they can move on their turn without provoking opportunity attacks from enemy creatures.
+
+You may expend one masked hero  spell slot when granting these hit points to choose an additional number of creatures equal to the slot's level, to a maximum of three additional creatures that you can see within 15 feet of you.
+
+These temporary hit points increase when you reach certain levels in this class, increasing to 2d6 at 11th level.
+
+#### Protective Ward
+At 7th level, you can generate defensive wards within you  called Protective Wards. You generate one Protective Ward whenever you use Deflective Strike, and you can store only one Protective Ward within you at a time. Whenever you finish a short or long rest, your number of Protective Wards resets to zero.
+
+When you - or a friendly creature that you can see within 15 feet of you - takes damage from an attack, you can expend your Protective Ward as a reaction to reduce that damage by an amount equal to 1d8 + your Wisdom modifier. You cannot use this feature and Deflective Strike within the same turn.
+
+At 15th level, the range of this feature increases to 30 feet.
+
+#### Decree Enhancements
+Starting at 11th level, you gain the following benefit for your Masked Transformation:
+
+***Aegis Mastery.*** You can store two Protective Wards within you instead of one. If your transformed state ends while you have more than one Protective Ward within you, the number of Protective Wards you have is reduced to one.
+
+#### Forceful Rebuke
+At 15th level, your protective runes react violently to enemy attacks. When an enemy creature deals damage to a  creature that has temporary hit points granted by Aegis Rune, they take 1d10 force damage at the end of their turn if you're within 30 feet of that enemy creature, and not incapacitated.

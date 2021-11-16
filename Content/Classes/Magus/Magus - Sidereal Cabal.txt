@@ -1,0 +1,138 @@
+### The Sidereal Cabal
+Magi in the Sidereal Cabal consult the stars to foresee the future and intercede at moments of particular import. Once, long ago, the cabal followed a philosophy of balance, believing that destiny and free will should be given equal weight. Today the cabal is largely split into two camps, kismetists and volitionists. Kismetists prefer indirect or discrete methods when possible, believing that active and obvious interference in the world's affairs might cause a disruption in the natural order of fate. They work to ensure that fate isn't thwarted by powers outside its reach. Volitionists find pivotal moments where the road of destiny forks and interject themselves to force the outcome they prefer.
+
+#### Sidereal Cabal Initiate
+When you choose this eldritch society at 1st level, you augment your martial prowess with the ability to cast cantrips.
+
+***Cantrips.*** You learn two cantrips of your choice from the Sidereal Cabal's spell list. You learn an additional Sidereal Cabal cantrip of your choice at 4th level and again at 10th. These cantrips count as magus spells for you.
+
+***Spellcasting Focus.*** You can use an astrolabe or arcane focus (found in chapter 5 of the Player's Handbook) as a spellcasting focus for your magus spells.
+
+***Spellcasting Ability.*** Intelligence is your spellcasting ability for your Sidereal Cabal spells, since you learn your spells through sacred geometry and detailed observation of stellar movements. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting DC the saving throw for a magus spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
+
+**Spell attack modifier** = your proficiency bonus + your Intelligence modifier
+
+</center>
+
+> ##### Astrolabe
+> An astrolabe is an inclinometer used to measure a celestial body's distance above the horizon. It costs 10 gold pieces and weighs 1 pound.
+
+#### Bonus Proficiencies
+At 1st level, you gain proficiency with the Perception skill, navigator's tools, and water vehicles.
+
+#### Selenite Seal
+Starting at 3rd level, the effects of your mystic marks are enhanced by the Sidereal Cabal's celestial radiance. When you place your mystic mark on an object or creature, it gives off a soft, indistinct light and hums with unseen energy.
+
+***Sidereal Enspell.*** When you deal damage with your enspelled weapon you can choose to deal force damage instead of its normal damage type.
+
+When you miss with an attack with this weapon you can choose to remove the enspell from the weapon, twisting fate in your favor. When you do, you can reroll the attack with advantage.
+
+***Sidereal Aegis.*** When an attack hits a creature protected by aegis you can use your reaction to remove the aegis, turning fortune against your foe. When you do, the attacker must reroll the attack with disadvantage.
+
+#### Celestial Clockwork Control
+At 7th level, your extensive study of the stars has taught you to twist the heavenly mechanics of fate in your favor. When a creature you can see within 60 feet makes an ability check, attack roll, or saving throw you can use your reaction and expend a spell slot to modify the result of the roll. When you do, you can choose to either increase or decrease the result of the roll by the level of the spell slot expended. This change modifies the die result directly, not the total of the roll, which means it can turn a roll into a natural 1 or 20.
+
+#### Seal Fate
+At 14th level, when a creature that you can see within 60 feet makes a roll with advantage or disadvantage, you can use your reaction to seal their fate. The creature rolls three d20s, rather than two, using the highest result if it had advantage or the lowest result if it had disadvantage.
+
+### The Sidereal Cabal Spell List
+##### Cantrips (0 Level)
+- Blade Ward
+- Dancing Lights
+- Guidance
+- Mage Hand
+- Message
+- Minor Illusion
+- Misfortune's Mark
+- Shillelagh
+- True Strike
+- Vortex Dart
+
+##### 1st Level
+- Bane
+- Bless
+- Charm Person
+- Command
+- Comprehend Languages
+- Detect Evil and Good
+- Detect Magic
+- Faerie Fire
+- Feather Fall
+- Guiding Bolt
+- Identify
+- Illusory Script
+- Jump
+- Longstrider
+- Magic Missile
+- Protection from Evil and Good
+- Sanctuary
+- Silent Image
+- Sleep
+
+##### 2nd Level
+- Augury
+- Blur
+- Calm Emotions
+- Darkness
+- Darkvision
+- Detect Thoughts
+- Find Traps
+- Hold Person
+- Levitate
+- Lesser Restoration
+- Locate Object
+- Mind Spike
+- Misty Step
+- Moonbeam
+- See Invisibility
+
+##### 3rd Level
+- Bestow Curse
+- Blinding Smite
+- Catnap
+- Clairvoyance
+- Counterspell
+- Daylight
+- Enemies Abound
+- Find Vessel
+- Fly
+- Haste
+- Melf's Minute Meteors
+- Nondetection
+- Remove Curse
+- Slow
+
+##### 4th Level
+- Arcane Eye
+- Banishment
+- Dimension Door
+- Divination
+- Locate Creature
+- Otiluke's Resilient Sphere
+
+##### 5th Level
+- Dawn
+- Dispel Evil and Good
+- Dream
+- Far Step
+- Geas
+- Greater Restoration
+- Hold Monster
+- Legend Lore
+- Scrying
+- Skill Empowerment
+- Synaptic Static
+- Telekinesis
+- Wall of Light
+
+##### 6th Level
+- Arcane Gate
+- Find the Path
+- Forbiddance
+- Scatter
+- Sunbeam
+- True Seeing

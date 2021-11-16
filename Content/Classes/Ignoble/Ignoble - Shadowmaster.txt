@@ -1,0 +1,59 @@
+### Shadowmaster
+*The hidden assassins of Hell, the Shadowmasters serve Moloch and excel at stealth and disguise.*
+
+Moloch is the Lord of Styx, the City of Lies. He strives to rule Hell through subterfuge, deceit, and trickery. His ignobles are assassins, striking from the shadows or using deception to earn high-ranking positions close to powerful rulers. Many Shadowmasters run networks of spies and assassins who have no idea of the infernal provenance of their master.
+
+The Shadowmasters are sworn not to reveal themselves and to take their own lives before betraying their true allegiance. Many Shadowmasters have elaborate plans ready for their own assassination so that, should someone get close to discovering their true identity, they will be killed by their own assassins, preserving the truth. Of course, these killers have no idea who they were really working for…
+
+#### Tenets of Shadow
+The Shadowmasters swear an oath to Moloch when they join the Order of Desolation. The oath commits them to serve Moloch’s foes as allies before revealing themselves as enemies.
+
+***Plans Within Plans.*** My enemies must never discover my true goals. I will sacrifice myself to protect my schemes.
+
+***Create Chaos.*** Disorder is my goal. Where there is peace, I will create strife. Where there is certainty, I will create doubt. If there is war, it must never end.
+
+***Power in Patience.*** I will study my enemy. I will prepare, research, slowly build trust, so that my loyalty is unquestioned and any thought of my betraying my lord unthinkable.
+
+***Hesitation Is Failure.*** I am perfectly willing and able to kill swiftly and efficiently should the need arise. I may rely on agents, but when the opportunity presents itself I will kill without hesitation.
+
+#### Contract with Moloch
+Moloch’s elite assassins must be able to survive to get close to their enemies and quickly eliminate them.
+
+**Invoke Authority: Fade.** As an action, you can become invisible and can, as part of this action, attempt to take the Hide action. The invisibility ends after 1 minute or if you make an attack or cast a spell.
+
+**Invoke Authority: Moloch’s Blessing.** As a bonus action, you can place all your remaining seals on a creature.
+
+#### Flash of Brimstone
+As a reaction to placing a seal on a target, you can teleport to an unoccupied space that you can see adjacent to the target.
+
+#### Bonus Proficiencies
+When you choose Moloch as your archdevil, you gain proficiency with Stealth, Acrobatics, and thieves’ tools.
+
+#### Dagger Adept
+Your training makes you skilled with certain light weapons. While two-weapon fighting with daggers and/or sickles, you can add your ability modifier to the damage of the second attack, and you can draw or stow two daggers or sickles when you would normally be able to draw or stow only one.
+
+At 5th level, your daggers and sickles do 1d6 damage. At 11th level, your daggers and sickles do 1d8 damage. At 17th level, your daggers and sickles do 1d10 damage.
+
+#### Relentless
+At 7th level, your movement increases by 10 feet.
+
+#### Only A Memory
+Starting at 9th level, your mastery of shadow grants you advantage on Dexterity (Stealth) checks when taking the Hide action, and Hide becomes a bonus action for you.
+
+#### Evasion
+Starting at 13th level, when you are prompted to make a Dexterity saving throw to take only half damage from an effect, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+#### Shadowkiller
+At 17th level, you gain darkvision and can see normally in magical darkness. In addition you can see the exact location of any creatures within 60 feet using illusion spells to obfuscate their location, such as blur, mirror image, or invisibility.
+
+#### Shadowform
+Starting at 20th level, as an action, you can become a greater shadow for 1 minute. You gain damage resistance to acid, cold, fire, lightning, thunder, bludgeoning, piercing, and slashing damage. You gain Incorporeal Movement and a flying speed of 50 feet. You can move through other creatures and objects as if they were difficult terrain. You take 5 (1d10) force damage if you end your turn inside an object. Your weapon attacks deal necrotic damage, and successful attacks drain 1d4 Strength from the target. If this drain reduces the target’s Strength to 0, it dies. Otherwise, the drain lasts until the target finishes a short or long rest. If a non-evil humanoid dies from this attack, a new shadow rises from the corpse 1d4 hours later. You cannot use this feature again until you complete a long rest.
+
+#### Interdict Improvements
+As your shadowmaster levels up, Moloch’s interdiction carries more power.
+
+**Marked for Death.** At 6th level, your connection to Moloch’s power deepens. If you hit an interdicted creature with a melee attack, you can mark them for death. The target has disadvantage on attack rolls that do not include you until the end of its next turn. While that creature is interdicted, it must make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Charisma modifier) whenever it tries to leave your reach. On a failure, its speed instead becomes 0 until the start of its next turn. These effects last until it is no longer interdicted, you leave its reach, or it leaves your reach.
+
+**He Is the Darkness.** At 10th level, while within 10 feet of an interdicted enemy, shadows envelop you and you gain the benefits of half cover.
+
+**Hell’s Assassin.** At 18th level, your seals do 3d10 damage each, rather than 3d6.

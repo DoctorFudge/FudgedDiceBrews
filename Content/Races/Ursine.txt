@@ -1,0 +1,76 @@
+## Ursine
+[**Source:** *Old Gus' Errata: Beastfolk*](https://drive.google.com/file/d/12PE02rLX8fM072__CFZJhVvMeKOcsvIo/view)
+
+### Bearfolk of the Wilds
+The ursine are a race of bearlike humanoids that prefer to live in forests. When encountered by the ignorant, they are commonly mistaken for werebears or even the odd sasquatch. These misunderstandings have driven most ursine tribes deep into wildernesses, far from the bustling metropolises of the world.
+
+Ursine have large heads, noses, ears and thick necks and claws that resemble those of bears. Their bodies are completely covered in fur that may be brown, black, white, grey or even red, orange or tawny in color. A few tribes have stripes or collars of another fur color as a general rule, and other tribes consider such patterns a sign from their ancestors, whom they worship. They organize themselves into tight-knit family groups, usually between ten and thirty individuals.
+
+When adulthood is reached, some ursine leave their tribe for on a spiritual quest of personal discovery. When they have finished, then return to their tribe and add their knowledge to the tribe, passing down their worldly wisdom to the next generation of cubs. These ursine spend up to fifteen years of their relatively short lives on such quests.
+
+#### The Endless Journey
+Ursine tribes are nomadic, and will pull their camps up and travel great distances with them to spend a season in a particular place with favored hunting or fishing grounds. Maintenance of tradition is important in ursine culture, and these places are often locations their family have returned to for generations.
+
+Tribes often maintain formal diplomatic relations with the more populous races that inhabit their ancestral lands. Ensuring the tribe’s safety and security is of utmost importance, as is maintenance of sacred ancestral lands. Ursine tribes are known to fight or ally with their neighbors according to how they feel the land is being managed by the powers that be.
+
+### Ursine Racial Traits
+***Ability Scores.*** Your Strength score increases by 1.
+
+***Age.*** Ursine mature at 10 years, and live up to 60 years.
+
+***Alignment.*** Ursine tribal traditions see them tend toward lawful alignments, but their tribes are good, neutral or evil in equal measure.
+
+***Size.*** Ursine stand between 6 and 8 feet tall, and weigh 240-380 pounds. Your size is Medium.
+
+***Speed.*** You have a base walking speed of 30 feet.
+
+***Languages.*** You can speak, read and write Common and Ursine.
+
+***Keen Smell.*** You have advantage on checks you make with the Wisdom (Perception) skill that rely on smell.
+
+***Natural Weaponry.*** Your claws and bite are natural weapons, which you can use to make unarmed strikes with proficiency. If you hit with them, you can choose to deal slashing or bludgeoning (claw) or piercing (bite) damage equal to 1d4 + your Strength modifier.
+
+***Powerful Build.*** You count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+***Hibernation.*** If you prepare yourself by consuming double the amount of food you require to live for at least one month, you can enter a state of deep sleep for a number of months equivalent to your proficiency bonus. For the duration, your metabolism slows, you do not need food or water, and you are immune to cold damage caused by your environment.
+
+You can awaken yourself at any time. If you take damage or are forced make a saving throw, you awaken. If you have been hibernating for at least 1 month when you awaken, you must immediately succeed a DC 12 Constitution saving throw or suffer from one level of exhaustion.
+
+Tribal Ancestry. Choose one of following tribes: Shash, Makwa or Helarc.
+
+#### Shash
+Largest and most fearsome of the tribes, the shash favor temperate arboreal areas in temperate or arctic regions, and avoid other races as much as possible, preferring the company of their own kind. Their fur is usually brown, grey or white.
+
+Honor, status and lineage mean a great deal in their societies, and members often have use-names that identify an important lineage or memorialize a particularly memorable feat that individual may have accomplished in their lifetime.
+
+Above all else, the shash prize honor, bravery and selfless dedication to their tribe. They will actively hunt Elkin tribespeople when moving through their lands, especially in the long winter months.
+
+***Ability Scores.*** Your Strength and Constitution scores increase by 1.
+
+***Menacing.*** You are proficient in the Intimidation skill. If your class or background grants you the Persuasion skill, you may add twice your proficiency bonus to rolls with it.
+
+***Forager.*** If there's edible flora, game to hunt or potable water within a number of miles equal to your proficiency bonus, you know it and where to find it.
+
+#### Makwa
+Smallest and most cunning of the tribes, makwa are clever tribes who often find ways to enter into mutually beneficial relationships with their neighbors. Their natural talent for craftsmanship and tolerant attitude makes them the most likely of the tribes to fully integrate into other humanoid societies. Their fur ranges from dark brown to black and deep red. A few have ringed tails or white markings.
+
+However, even the most urban makwa still favor trees and prize them for climbing and scratching unreachable spots of their body, and are loathe to live anywhere that doesn’t have a few good trees within reach.
+
+Makwa prize cunning, ingenuity and flexibility as virtues.
+
+***Ability Scores.*** Your Dexterity and Intelligence scores increase by 1.
+
+***Nimble Claws.*** Your claws are especially dexterous, and grant you a climbing speed of 20 feet. They can also serve as one artisan’s tool (or thieves’ tools), with which you are proficient.
+
+***Unseen Among the Leaves.*** You have advantage on Dexterity (Stealth) checks when in forest or jungle terrain.
+
+#### Helarc
+Members of the helarc tribe are the least likely of their kind to engage in the practice of hibernation, preferring tropical forests, jungles or swamps that brim with food year-round, enjoying in the continuous bounty that the warm climate provides. They range in color from brown to gold and tawny. A few are marked by dramatic white and black alternations.
+
+Helarc prize affability, wisdom and optimism as virtues. They tend to be gregarious, and engage eagerly with other races. Helarc merchants are famous for their ability to sell anything to anyone, be it goods or ideas.
+
+***Ability Scores.*** Your Charisma and Wisdom scores increase by 1.
+
+***Golden Tongue.*** You are proficient in the Persuasion skill. If your class or background grants you the Persuasion skill, you may add twice your proficiency bonus to rolls with it.
+
+***Speech of Beast and Leaf.*** You have the ability to communicate in a limited manner with beasts and plants. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them.

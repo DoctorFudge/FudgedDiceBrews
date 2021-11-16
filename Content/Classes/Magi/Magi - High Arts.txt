@@ -1,0 +1,16 @@
+### Order of the High Arts
+#### Adaptive Casting
+Starting at 2nd level, you've discovered the first in a series of arcane secrets uncovered by your extensive mediation. When you cast a Magi spell with spell points and the spell deals acid, cold, fire, force, lightning, necrotic, radiant, or thunder damage, you can substitute that damage type with one other type from that list (you can change only one damage type per casting of a spell). You replace one energy type for another by altering the spell's formula as you cast it.
+
+Additionally, when you cast a spell with spell points and the spell requires a saving throw, you can change the saving throw from one ability score to another depending on the throw. Strength, Dexterity, and Constitution saving throws may be swapped among each other, and Wisdom, Intelligence and Charisma saving throws may be swapped out among each other as well. Once you change a saving throw in this way, you can't do so again until you finish a short or long rest.
+
+#### Arcane Flow
+When you reach 6th level, you may spend your bonus action to increase your spell save by 2 until the start of your next turn. You can do this once per long rest and gain additional uses at 12th and 18th level.
+
+#### Steady Focus
+By 13th level, your understanding of the Weave allows you to focus more intently on your castings. You can concentrate on two spells at once. Only one of these spells can deal damage and when you are forced to make a Constitution saving throw to maintain concentration you roll once for each spell. If you fail the save, your concentration ends on the oldest spell.
+
+#### Master of the High Art
+At 18th level, your experience within the Weave has expanded your repertoire to great effect. You can cast any spell from the Magi Spell list of 8th level or lower without having prepared it. Spells cast this way do not use spell points, but do count towards your Spell Limit. You can use this feature three times and regain all expended uses when you finish a long rest.
+
+However, tapping into the weave in this way is very taxing, even if it's not immediately apparent. When you next complete a long rest after using this feature once, you regain only half of the amount of spell points you would normally have received, instead of regaining all of them. Additionally, at 20th level, the amount of spell points you regain from Will of the Arcane is halved as well, until you complete a long rest.

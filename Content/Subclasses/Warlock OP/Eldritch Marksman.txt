@@ -1,0 +1,42 @@
+### The Eldritch Marksman
+[**Source:** *The Gunpowder Codex*](https://drive.google.com/file/d/1jjhLL1aeWVp2AsoOIwJJ-0BvO6dvPedk/view)
+
+You have made a pact with the Eldritch Marksman, the spirit of the first man to craft and wield a gun, whose ability to blend arcane power with deadly iron and gunpowder has never been equalled. While most adventurers believe this figure to be little more than myth, your relationship with the Eldritch Marksman grants you new insight into the use of firearms.
+
+#### Expanded Spell List
+The Eldritch Marksman lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+##### Eldritch Marksman Expanded Spells
+**Spell Level**|**Spells**
+:-----:|:-----
+1st|<em>hunter's mark, thunderwave</em>
+2nd|<em>darkvision, silence</em>
+3rd|<em>fireball, nondetection</em>
+4th|<em>stoneskin, locate creature</em>
+5th|<em>hold monster, telekinesis</em>
+
+#### Proficiency
+Starting at 1st level, your the Eldritch Marksman grants you proficiency with firearms, allowing you to add your proficiency bonus to attacks made with firearms.
+
+#### Gunsmith
+Upon choosing this patron at 1st level, you gain proficiency with Tinker's Tools. You may use them to craft ammunition, repair damaged firearms, or even draft and create new ones (DM's discretion). Some extremely intricate and experimental firearms are only available through crafting.
+
+#### Marksman's Shroud
+Starting at 1st level, the spirit of the Eldritch Marksman to protects you in battle. As a bonus action, you can summon a spectral aspect of the Marksman which surrounds you and shares your space, granting you half cover in all directions. The Marksman's aspect remains with you for one minute or until you move, whichever comes sooner.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+#### Marksman's Blessing
+Starting at 6th level, you can call on your patron to guide your aim and steady your trigger finger. When you make an attack with a firearm, you can use this feature to add a d10 to your roll. You can do so after seeing the initial die roll but before the DM declares its success or failure.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+#### Eldritch Ammunition
+Starting at 10th level, you may imbue your firearm ammunition with eldritch magic. Over the course of one minute, you may prepare a number of pieces of ammunition equal to half your warlock level + 1. If you hit a creature with one of these bullets, the ammunition deals its normal damage in addition to delivering the effects of an eldritch blast. You can use this ability even if you do not know the eldritch blast cantrip. Any invocations that would apply to your eldritch blast also apply to a hit made with eldritch ammunition.
+
+Ammunition prepared in this way retains its potency for 1 hour, and you can only imbue one set of eldritch ammunition. You can use this ability again after a long rest.
+
+#### Banishing Shot
+Starting at 14th level, when you hit a creature with a firearm attack, instead of dealing damage, you may instantly cast banishment at 4th level, using your spell save DC. Your patron's power fulfills the material component of this spell and maintains concentration for the duration. If the creature succeeds on its Charisma saving throw, it is unaffected and your attack deals damage as normal.
+
+Once you use this feature, you can't use it again until you finish a long rest.

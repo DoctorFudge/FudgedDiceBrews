@@ -1,0 +1,21 @@
+### Freebooter
+[**Source:** *Blackpowder Pirates*](https://drive.google.com/file/d/19rjjWUopA215r-r1NFVm-oVj1BUkLwhK/view)
+
+You hone your skills operating as a pirate—for—hire aboard and ship that Will have you. With finesse and aplomb, you attack other vessels in order to sell their cargo to the first merchant that Will pay you for it at your next port of call. A trusty sidearm and a knack for cheating define the fighting style that keeps you alive and makes you a valuable asset to the rest of your crew.
+
+#### Scoundrel's Tactics
+Starting at 3rd level, you learn to employ a number of dirty tricks while fighting. When you hit a creature With a melee attack that has advantage, you can choose to knock the target prone or cause it to be blinded or deafened until the end of its next turn.
+
+Once you have used this ability you cannot use it again until you complete a rest.
+
+#### Shoot First
+At 3rd level, you gain proficiency With firearms. When you roll initiative you can draw one firearm in your possession. If you are not surprised, you can also make one attack with that firearm against any creature that you can see and Whose initiative result is lower than your own.
+
+#### Press the Advantage
+At 9th level, your dirty fighting style allows you to capitalize more fully on the openings in your targets' defenses. When you would normally inflict sneak attack damage with a melee attack, you can instead deal no extra damage but leave the target of your attack stunned until the end of that creature's next turn. This still counts as a use of your sneak attack ability.
+
+#### Unflinching
+At 13th level, you become immune to fear and fear effects and cannot be surprised.
+
+#### Blood in the Water
+At 17th level, your combat bloodlust is spurred by the sight of a wounded enemy. When you make an attack against a creature that has fewer than half of its total hit points remaining, you can deal additional damage to the target equal to your sneak attack damage. This does not count against your limit of dealing sneak attack damage once per turn. 

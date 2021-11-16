@@ -1,0 +1,49 @@
+### Coven of the Eclipse
+All witches know fully well there are magics they are forbidden to study, forgotten secrets that, if dabbled with, can easily be the end of the world. Though exceedingly rare, these red witches fall within the Coven of the Eclipse, dedicating themselves to their craft under the auspice of a lunar eclipse. Such witches can easily be evil malefactors obsessed with power, or they can simply be chaotic seekers of truth, willing to go to any length to understand the origins of their abilities.
+
+#### Eclipse Spells
+You gain advanced tutelage into specific spells important to your coven. You learn each of the spells on the following list at the witch level associated with them. These spells count as witch spells for you and do not count against the total spells you can know.
+
+##### Eclipse Spells
+| Witch Level | Spells |
+|:-:|:--|
+| 2nd | <em>arms of Hadar, dissonant whispers</em> |
+| 3rd | <em>crown of madness, flaming sphere</em> |
+| 5th | <em>hunger of Hadar, summon lesser demons\*</em> |
+| 7th | <em>phantasmal killer, summon greater demon\*</em> |
+| 9th | <em>immolation\*, infernal calling\*</em> |
+
+\* these spells are found in Xanathar’s Guide to Everything
+
+#### Fiendish Affinity
+When you join this coven at 2nd level, you learn the languages Infernal and Abyssal.
+
+Additionally, the dark powers behind your magic entrust you with one of their own. When you cast *find familiar*, you can choose to have your familiar be an imp or a quasit. Should you select one of these familiars, you cannot choose for it to be any type other than a fiend.
+
+When a creature adjacent to your imp or quasit familiar reaches 0 hit points and dies, you can use a reaction to have your familiar consume a portion of its soul. If you do, your choice of either you or your familiar gains temporary hit points equal to your Intelligence modifier + half your witch level, which last for up to one minute. Once your familiar consumes a portion of a soul in this way, it can’t do so again until you have finished a short or long rest.
+
+#### Sanguine Rain
+At 6th level, you can use an action to call down a rain of blood in a cylinder with a 15-foot radius and a height of 60 feet, centered on a point you can see within 120 feet of you. You and any fiends you choose attack with advantage while within this rain of blood. The rain of blood also confers half cover on you and any fiends you choose, and a number of additional creatures up to your Intelligence modifier (minimum 1).
+
+Once you use this ability, you must finish a short or long rest before you can use it again.
+
+#### Hellish Influence
+At 10th level you can use an action to invisibly summon a particularly insidious fiend, which takes root in the mind of a humanoid you can see within 120 feet of you. This fiend is active for 24 hours, during which time it psychically reports back to you as long as you are on the same plane of existence, making you aware of anything the target sees or does.
+
+Additionally, you can use an action to instruct the fiend to influence its humanoid host. This takes the form of a sentence or two of directions you tell the fiend to pass on to the target. The fiend does its best to make the course of action sound reasonable to the target, but cannot convince the target to harm itself in an obvious way. The fiend will also attempt to word the directions in a way that is both true to the letter of what you have requested, but also in service to whatever nebulous agenda the fiend may have.
+
+The target must make a Wisdom saving throw against your spell save DC. On a failure, it follows the fiend’s directions to the best of its ability. On a success, the fiend is expelled, the target becomes aware of its presence, and this effect ends. Creatures immune to being charmed automatically succeed on this saving throw.
+
+You can give the target directions in this way more than once, but the target has advantage on every saving throw it makes after the first.
+
+Once you use an action to summon a fiend with this ability, you cannot do so again until you have finished a long rest.
+
+#### Hagform
+Starting at 14th level, you can use a bonus action to let your fiendish power overtake you and transform into a night hag, a blue skinned, horned demonic creature, many of whom are the progenitors of this coven. This form lasts for up to a minute, until you are rendered unconscious, or until you dismiss it with another bonus action. Once you use this ability, you cannot use it again until you have completed a long rest.
+
+While in this form, you gain the following:
+- Your type is fiend, instead of any other type.
+- Darkvision out to 120 feet.
+- Resistance to bludgeoning, piercing, and slashing damage from nonmagical weapons that aren’t silvered.
+- As an action, you can cast the spell etherealness at-will as a 7th level spell without expending a spell slot. When cast in this way, the spell ends when you return to your original form.
+- Damage dealt by your cantrips uses the highest possible number on each die, instead of rolling.

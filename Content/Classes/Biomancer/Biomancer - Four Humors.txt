@@ -1,0 +1,28 @@
+### Practitioner of the Four Humors
+The Practice of the Four Humors emphasizes using biomancy to manipulate the fluids within a creatures body, including blood, phlegm, and yellow and black bile. Biomancers in this practice are able to heal allies or harm enemies by balancing and unbalancing the humors. Though some consider it only a theory practiced by swindlers, many more owe their lives to these practitioners.
+
+#### Soothe the Humors
+When you enter this Medical Practice at 1st level, you learn to temper the Humors of your patients. If a Biomancer spell you use heals a target to its hit point maximum, any healing the spell or ability would do in excess of this amount instead becomes temporary hit points for the target, which last for up to one minute.
+
+#### Miasma of Balancing
+At 2nd level, as an action, you can activate your Miasmatic Organ to create a cloud extending 5 feet around your body. Whenever a hostile creature makes an Attack roll or a saving throw before the effect ends, the target must roll a d4 and subtract the number rolled from the Attack roll or saving throw. Allies within the cloud may roll a d4 and add it to their roll instead.
+
+The effect lasts for 1 minute, and you cannot use this effect again until you finish a Long Rest.
+
+#### Purge the Blood
+At 6th level, level your control over the humors is enhanced. As an action you may choose a creature that is subjected to a condition such as Blinded, Paralyzed, or Poisoned. Other conditions may be applicable DM's discretion. You immediately end the condition affecting the creature and inflict it on another creature within 30 feet of it.
+
+You may use this feature a number of times equal to your Intelligence modifier. You regain all uses after finishing a Short Rest.
+
+#### Vital Tempering
+By 14th level you have mastered the ebb and flow of the humors within a creature. Whenever you cast a Biomancer spell that restores hit points, you restore additional hit points equal to half your Biomancer level rounded up.
+
+#### Fluid Equilibrium
+The ills of the world tremble before the might of your knowledge. Starting at 18th level, you may spend an hour treating any willing or restrained creature, including yourself, to bring their humors into line for whatever purpose you deem fit.
+___
+- **Phlegmatic Apathy.** For 24 hours, your patient has advantage on all saving throws against being Charmed, Frightened, Stunned, or magically put to sleep.
+- **Sanguine Swelling.** Roll 3 of your own Hit Dice. For 24 hours, your patient's maximum and current Hit Points increase by that total, plus your Spell Attack modifier.
+- **Melancholic Inversion.** For 24 hours, you can increase your patients movement speed by half rounded down.
+- **Choleric Perseverance.** Choose up to 2 damage types. For 24 hours, your patient gains resistance to both.
+
+Regardless of what your choice, at the end of the effects duration, your patient takes one level of exhaustion. A creature may only gain one benefit from this ability at a time, and successive surgeries will negate the effect of the previous one performed.

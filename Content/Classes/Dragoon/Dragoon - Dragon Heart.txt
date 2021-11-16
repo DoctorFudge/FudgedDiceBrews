@@ -1,0 +1,14 @@
+### Dragon Heart
+Dragon Hearts are dragoons who've leaned into the draconic origins of their foes and learned how to manipulate the magics latent in their bodies to become more like dragons. These fierce warriors use the breath of a dragon to attack large swaths of foes, while using their training as a Dragoon in combination to emulate a dragon in battle.
+
+#### Breath of the Dragon
+Beginning at the 3rd level, as a bonus action, you may expand a use of your Dragoon's Trance in order to cast the Dragon's Breath spell on yourself at the 2nd level. At 9th level you cast this spell at the 3rd level, and at the 17th level you cast this spell at the 4th level. Strength is your spell casting ability for this spell.
+
+#### Dragon Sense
+Beginning at the 7th level, you've gained the senses which are akin to a dragon. You've gained 30ft. of blindsight and 60ft. of darksight. Additionally during battle as a bonus action you may make a perception check.
+
+#### Blood of the Dragon
+Beginning at the 11th level, you fight with the ferocity of a dragon now. When you use your Dragoon's Trance ability, you gain 10 temporary hit points and the spell casting and concentration restriction of Dragoon's Trance is lifted from the Dragon's Breath spell. The temporary hit points fade when your trance ends.
+
+#### Life of the Dragon
+Beginning at the 15th level, while you are under the effect of both Dragoon's Trance and Breath of the Dragon, you are able to combine these powers to fight like a legendary dragon. You may use the effect of the Dragon Breath spell as a bonus action on your turn.

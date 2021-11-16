@@ -1,0 +1,37 @@
+### Prophecy Domain
+[**Source:** *The Complete Devout Handbook*](https://drive.google.com/file/d/1TEY7P4FVWD_-Ky5YrrK92__yYOwTY3w-/view)
+
+Clerics of the prophecy domain may worship any god or no god at all. Their oracular burden isn't tied to the portfolio of a specific deity. Instead their faith in the divine order of the universe manifests as prophetic vision. This blessing is intertwined with a curse. All oracles and prophets labor under an affliction that debilitates them physically in some way even as it empowers them spiritually.
+
+##### Prophecy Domain Spells
+| Cleric Level | Spells |
+| :-: | :-- |
+| 1st | <em>embrace destiny<sup>CDH</sup>, guiding bolt</em> |
+| 3rd | <em>detect thoughts, see invisibility</em> |
+| 5th | <em>bestow curse, clairvoyance</em> |
+| 7th | <em>arcane eye, divination</em> |
+| 9th | <em>commune, dream</em> |
+
+#### Bonus Cantrip
+When you choose this domain at 1st level, you gain the guidance cantrip if you don't already know it.
+
+#### Oracle's Burden
+Starting at 1st level, you gain one of the following burdens.
+
+***Clouded Eyes.*** Your eyes are clouded and milky. You are permanently blind, but have blindsight to a distance of 30 feet. At 11th level, the distance of your blindsight increases to 60 feet.
+
+***Venerable.*** Your oracular visions only came with advanced old age. Your hit point maximum decreases by 1 and decreases by 1 again whenever you gain a level in this class. Your spell save DC and spell attack modifier for cleric spells each increase by 1.
+
+***Withered Hand.*** You have a withered hand. You have disadvantage on any weapon attacks made with that hand and cannot carry a shield with it. When you roll a 1 on a damage die for a spell attack with a cleric spell, you can reroll the die. You must use the new roll, even if the new roll is a 1.
+
+#### Channel Divinity: Prophetic Vision
+Starting at 2nd level, you can use your Channel Divinity to look into the near future and see the shape of things to come. As a bonus action, you roll a d20 and record the result. Within the next hour, you can replace any attack roll, saving throw, or ability check made by you or a creature that you can see with this foretold roll. You must choose to do this before the affected roll is made. Once the foretold roll is used, it is lost.
+
+#### Cryptic Advice
+Starting at 6th level, as a bonus action you can give a piece of cryptic advice to a creature you share a language with. Once within the next hour, after that creature makes an attack roll, ability check, or saving throw, they can recall your cryptic advice to reroll the die, using the second result instead. They must choose to do this after they roll but before the DM declares whether the result is a success or a failure. You can use this feature a number of times equal to your Wisdom modifier (minimum 1), and you regain all of your expended uses when you finish a long rest.
+
+#### Potent Spellcasting
+Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
+
+#### Soothsaying
+Starting at 17th level, when you cast the guidance cantrip, the casting time is 1 bonus action and the range is 30 feet.
