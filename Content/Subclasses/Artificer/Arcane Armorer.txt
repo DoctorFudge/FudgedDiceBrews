@@ -1,0 +1,54 @@
+### Arcane Armorer
+[**Source:** *Expanded Artificer: Additional Specialist and Infusion Options*](https://drive.google.com/file/d/1_vQkVogd65ZhGopNk-ddEK_7lvbzfWXV/view)
+
+Though some use their skill in artifice towards destructive ends, you much prefer using it to fortify those around you, shielding them from harm. An Arcane Armorer knows that proper defense is of the utmost importance, and that only the well-protected stand a chance of achieving their ends.
+
+#### Tool Proficiency
+When you adopt this specialization at 3rd level, you gain proficiency with smith's tools. If you already have this proficiency, you gain proficiency with one other type of artisan's tools of your choice.
+
+#### Arcane Armorer Spells
+Starting at 3rd level, you always have certain spells prepared after you reach particular levels in this class, as shown in the Arcane Armorer Spells table. These spells count as artificer spells for you, but they don't count against the number of artificer spells you prepare.
+
+##### Arcane Armorer Spells
+| Artificer Level | Spells |
+|:-:|:-|
+| 3rd | *armor of Agathys, mage armor* |
+| 5th | *shatter, warding bond* |
+| 9th | *magic circle, Leomund's tiny hut* |
+| 13th | *death ward, fire shield* |
+| 17th | *circle of power, wall of force* |
+
+#### Armorsmith
+When you reach 3rd level, your experience in creating armor and shields has granted you a few benefits:
+- You gain proficiency with heavy armor, and you do not suffer penalties for being below the required Strength score for a set of heavy armor.
+- When you wear heavy armor, you have a +1 bonus to AC. This is not cumulative with the bonus to AC conferred by a shield.
+
+#### Shield Battery
+Also at 3rd level, you can create a shield battery to defend your allies. While holding your smith's tools, you can use an action to magically summon a Small shield battery in an unoccupied space on a horizontal surface within 5 feet of you.
+
+You can summon your shield battery once for free and must finish a long rest before doing so again. You can also summon a shield battery by expending a spell slot of 1st level or higher. If you summon a second shield battery, the first disappears.
+
+The shield battery is a magical object. It has an AC of 18, hit points equal to 5 × your artificer level, and its ability scores for the purposes of making saves are considered to be 10 (+0). It is immune to poison damage, psychic damage, diseases, and all conditions. While your shield battery is active and you are within 120 feet of it, you can use a bonus action to teleport your shield battery to an unoccupied space on a horizontal surface within 5 feet of you.
+
+Casting the *mending* cantrip with the shield battery as its target restores 2d6 hit points. The shield battery lasts for up to 10 minutes, until you use an action to dismiss it, or until it is reduced to 0 hit points, whereupon it disappears.
+
+While the shield battery is active, you can take the following actions:
+
+***Defending.*** At the start of each of your turns while the shield battery is active, you can use a bonus action to choose a creature you can see within 30 feet of the shield battery. A creature chosen with this ability gains temporary hit points equal to your Intelligence modifier + your artificer level, which last until the start of your next turn. At 9th level, you can instead choose up to 2 creatures to receive temporary hit points. At 15th level, this radius increases to 60 feet, and you can instead choose 3 creatures.
+
+***Shielding.*** If any creature within this radius is the target of an attack, you can use your reaction to grant that creature +3 to its AC until the start of its next turn. This operates in a similar manner to the shield spell, and is not cumulative with the bonuses that spell provides. You can use a reaction in this way three times, and you regain all expended uses when you finish a short or long rest.
+
+***Overload.*** You can also use an action to cause your shield battery to overload, if you are within 60 feet of it. This destroys the shield battery and forces each creature within 10 feet of it to make a Dexterity saving throw against your spell save DC, taking force damage equal to 2d6 + your artificer level on a failed save, or half as much damage on a successful one.
+
+#### Defensive Syphon
+At 5th level, when you hit a creature with an attack, you can choose to magically syphon away some of its defensive power to one of your allies. Until the start of your next turn, attacks made against the creature you hit have advantage. Choose a second creature within 30 feet of you, and until the start of your next turn, attacks made against this second creature have disadvantage.
+
+You can use this feature a number of times equal to your Intelligence modifier, and you regain all expended uses when you finish a long rest.
+
+#### Emergency Barrier
+Beginning at 9th level, you can use an action instead of the normal cast time to cast the spell Leomund's tiny hut, without expending a spell slot. Cast in this way, the spell's duration is instead concentration, up to 1 minute, and you must use your action each turn to maintain the spell. If you fail to do so, if the duration expires, or if you move outside the hemisphere conjured by the spell, the spell ends.
+
+Once you use this ability, you must finish a long rest before you can use it again.
+
+#### Ultimate Shield
+Starting at 15th level, you can use a bonus action to cause a creature you choose within the radius of your shield battery to become immune to all damage until the start of your next turn. Once you use this ability, you must finish a short or long rest before you can use it again.
