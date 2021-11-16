@@ -1,0 +1,313 @@
+# Astrologian
+##### Masters of astromancy and altering fate, astrologians divine the truth that lies within the heavens. These scholars not only look to the stars but track their movements as well. By attuning their aetherial energies to that of constellations, they weave magic in a unique manner. Wielding a star globe and a divining deck, fortune always seems to follow these mages of the stars.
+
+### Creating an Astrologian
+As you create an astrologian, ask yourself how your character views destiny and fate. Do they believe them to be redundant, or do they have separate meanings? Are our lives all predetermined, or can you fight against these celestial forces?
+
+Once you've chosen your views on the matter, consider how your astrologian acts on these beliefs. How have these beliefs served you so far? Are they what brought you to learning astromancy, or was that just the life forced upon you? What are your ultimate goals? Did you start adventuring to spread your esoteric knowledge, or did you simply tire of being cooped up in the observatorium?
+
+#### Quick Build
+You can make an astrologian quickly by following these suggestions. First, make Wisdom your highest ability score, followed by Dexterity or Constitution. Second, choose the sage background. Third, choose the *guidance*, *light*, *sacred flame*, and *true strike* cantrips, along with the 1st-level spells *bless* and *cure wounds*.
+
+##### The Astrologian
+| Level | Proficiency Bonus | Features | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1st | +2 | Spellcasting, Major Arcana | 4 | 2 | 2 | — | — | — | — | — | — | — | — |
+| 2nd | +2 | Sect | 4 | 3 | 3 | — | — | — | — | — | — | — | — |
+| 3rd | +2 | ─ | 4 | 4 | 4 | 2 | — | — | — | — | — | — | — |
+| 4th | +2 | Ability Score Improvement | 5 | 5 | 4 | 3 | — | — | — | — | — | — | — |
+| 5th | +3 | Divine Inspiration | 5 | 6 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th | +3 | Sect Feature | 5 | 7 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th | +3 | — | 5 | 8 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8th | +3 | Ability Score Improvement, Major Arcana Improvement | 5 | 9 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th | +4 | ─ | 5 | 10 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | +4 | Redraw | 6 | 11 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11th | +4 | — | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12th | +4 | Ability Score Improvement | 6 | 12 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | +5 | — | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | +5 | Sect Feature | 6 | 13 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | +5 | Major Arcana Improvement | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | +5 | Ability Score Improvement | 6 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | +6 | — | 6 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | +6 | Sleeve Draw | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th | +6 | Ability Score Improvement | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th | +6 | Sect Feature | 6 | 15 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
+## Class Features
+As an astrologian, you have the following class features.
+
+#### Hit Points
+**Hit Dice:** 1d6 per astrologian level
+**Hit Points at 1st Level:** 6 + your Constitution modifier
+**Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution
+
+modifier per astrologian level after 1st
+
+#### Proficiencies
+___
+- **Armor:** None
+- **Weapons:** Simple weapons
+- **Tools:** Deck of Sixty
+___
+- **Saving Throws:** Intelligence, Wisdom
+- **Skills:** Choose two skills from Arcana, Insight, Medicine, Nature, Perception, or Religion
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a quarterstaff or *(b)* a dagger
+- *(a)* a light crossbow and 20 bolts or *(b)* any simple weapon
+- *(a)* an explorer's pack or *(b)* a scholar's pack
+- A Deck of Sixty and a star globe focus
+
+### Spellcasting
+By attuning your aether to the movement of the celestial bodies, you can cast spells to take control of fate. See chapter 10 for the general rules of spellcasting and the end of the class entry for the astrologian spell list.
+
+#### Cantrips
+At 1st level, you know four cantrips of your choice from the astrologian spell list. You learn additional astrologian cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Astrologian table.
+
+#### Spell Slots
+The Astrologian table shows how many spell slots you have to cast your astrologian spells of 1st level and higher. To cast one of these astrologian spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+
+For example, if you know the 1st-level spell *cure wounds* and have a 1st-level and a 2nd-level spell slot available, you can cast *cure wounds* using either slot.
+
+#### Spells Known of 1st-Level and Higher
+You know two 1st-level spells of your choice from the astrologian spell list.
+
+The Spells Known column of the Astrologian table shows when you learn more astrologian spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
+
+Additionally, when you gain a level in this class, you can choose one of the astrologian spells you know and replace it with another spell from the astrologian spell list, which also must be of a level for which you have spell slots.
+
+#### Spellcasting Ability
+Wisdom is your spellcasting ability for your astrologian spells. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for an astrologian spell you cast and when making an attack roll with one.
+
+<div style="text-align: center">
+**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+</div>
+
+#### Ritual Casting
+You can cast an astrologian spell as a ritual if that spell has the ritual tag and you know the spell.
+
+#### Spellcasting Focus
+You can use a star globe as a spellcasting focus for your astrologian spells.
+
+### Major Arcana
+At 1st level, you can read your or an ally's fortune, granting one of various benefits. As a bonus action, you summon a magical Deck of Sixty and draw a major arcana card from it. Roll a d6 to determine which card you draw using the Major Arcana Overview table. Once drawn, you may place the effect of the card on yourself or an ally within 30 feet as a reaction. The effect lasts for 1 round. You may only hold on to one card at a time. An unused card will disappear after a long rest.
+
+Your major arcana feature improves at 8th and 15th level. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once), and you regain any expended uses when you finish a long rest. The following describes the major arcana and their effects.
+
+##### Major Arcana Overview
+| Number on D6 | Major Arcana | Effect |
+|:----:|:----:|:----|
+| 1 | The Arrow | Speed bonuses |
+| 2 | The Balance | Damage bonuses |
+| 3 | The Bole | Defense bonuses |
+| 4 | The Ewer | Spellcasting bonuses |
+| 5 | The Spear | Attack bonuses |
+| 6 | The Spire | Additional actions |
+
+#### The Arrow
+The Arrow belongs to the knives suit, which is associated with cognition. Through this knowledge, one can navigate through the battlefield more effectively.
+- **1st Level.** The target gains a 10-foot bonus to movement speed and is not affected by difficult terrain.
+- **8th Level.**The target gains the above bonus, and their movement does not provoke opportunity attacks.
+- **15th Level.** The target gains both of the above bonuses.
+
+Additionally, the target can immediately move up to their movement speed as a reaction.
+
+#### The Balance
+The Balance belongs to the staves suit, which is associated with volition. Through its will one is empowered.
+- **1st Level.** The target's next successful attack this round deals additional damage equal to their proficiency bonus.
+- **8th Level.**All attacks the target makes this round deal additional damage equal to their proficiency bonus.
+- **15th Level.** In addition to the above bonus, the target may reroll any number of damage dice this round. They must use the second result.
+
+#### The Bole
+The Bole belongs to the rings suit, which is associated with possession. One can borrow from its many resources to bolster their defenses.
+- **1st Level.** The target gains a +2 bonus to AC and saving throws against one attack made against them.
+- **8th Level.** Attacks made against the target are done so with disadvantage, and the target gains advantage on all saving throws.
+- **15th Level.** In addition to the above bonus, the target gains resistance to one damage type of their choice as a reaction.
+
+#### The Ewer
+The Ewer belongs to the cups suit, which is associated with emotion. Drawing from this pool of energy increases one's magical stamina.
+- **1st Level.** The target adds a +2 bonus to their next spell attack, or their spell save DC increases by 2 (their choice).
+- **8th Level.** The target makes their next spell attack with advantage, or saving throws against the target's spells are made with disadvantage (their choice). If the spell attack would already be made with advantage, they instead add a +2 bonus to the attack.
+- **15th Level.** In addition to the above bonus, the target may cast a 3rd-level spell or lower without expending a spell slot as a reaction. The spell must have a casting time of no more than 1 action. The target may cast other spells as normal on their turn.
+
+#### The Spear
+The Spear belongs to the irons suit, which is associated with contrition. One can utilize this power to bring remorse to their enemies.
+- **1st Level.**The target gains a +2 bonus to their next weapon attack roll.
+- **8th Level.** The target makes their next weapon attack with advantage. If they already have advantage on this attack, they instead add a +2 bonus to the attack.
+- **15th Level.** The target gains the above bonus, but it applies to all weapon attacks made this round.
+
+#### The Spire
+The Spire belongs to the crowns suit, which is associated with dominion. With its power one can enforce their will more quickly upon the world.
+- **1st Level.** The target gains an additional bonus action that has no restrictions.
+- **8th Level.** The target gains an additional action that can be used only to take the Attack (one weapon attack only), Dash, Disengage, Hide, or Use an Object action, or they may take an additional bonus action.
+- **15th Level.** The target gains an additional action that may be used as normal.
+
+### Sect
+At 2nd level, you choose the sect of astromancy that best represents your beliefs. Choose Aetherial Sect, Diurnal Sect, or Nocturnal Sect, all detailed at the end of the class description. The sect you choose grants you features at 2nd level and again at 6th, 14th, and 20th level.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+
+### Divine Inspiration
+Beginning when you reach 5th level, you regain all of your expended uses of Major Arcana when you finish a short or long rest.
+
+### Redraw
+At 10th level, you better understand the intricacies of divination. Whenever you draw a card using your Major Arcana class feature, you may immediately "shuffle" the deck and draw again. You have two uses of this ability, and you regain all expended uses of it when you finish a long rest.
+
+### Sleeve Draw
+At 18th level, you can quickly divine the future for a small group as per your Major Arcana class feature. As an action, draw a number of cards equal to your Wisdom modifier (minimum 1, maximum 5) one at a time. With each card drawn, choose yourself or one ally within range to apply the effect to. You may also use your Redraw feature if you choose. A creature can have mutliple effects on them at once, but no more than one of each card. You can use this feature once before needing to finish a long rest to use it again.
+
+## New Items
+##### Adventuring Gear
+| Astrologian Focus | Cost | Weight |
+|:-----|:----:|:----:|
+| Star Globe (Brass) | 50 gp | 5 lbs. |
+| Star Globe (Iron) | 40 gp | 4 lbs. |
+
+##### Tools
+| Gaming Set | Cost | Weight |
+|:-----|:----:|:----:|
+| Deck of Sixty| 1 gp | — |
+
+**Deck of Sixty.** This game of 60 cards (10 per suit) has long been popular with children, but it has also been used by fortune tellers in more recent times.
+
+**Star Globe.** Similar in design to navigator's tools with a crystal focus, this object floats and its rings twirl when one imbues just a bit of their aether into it. It is used by scholars to study the movement of the celestial bodies.
+
+# Astrologian Spell List
+##### **Cantrips (0 Level)**
+- Blade Ward
+- Chill Touch
+- Druidcraft
+- Guidance
+- Gust
+- Light
+- Mage Hand
+- Mending
+- Mold Earth
+- Sacred Flame
+- Shape Water
+- Spare the Dying
+- True Strike
+
+##### **1st Level**
+- Bane
+- Bless
+- Chaos Bolt
+- Chromatic Orb
+- Command
+- Comprehend Languages
+- Create or Destroy Water
+- Cure Wounds
+- Detect Evil and Good
+- Detect Magic
+- Detect Poison and Disease
+- Earth Tremor
+- False Life
+- Fog Cloud
+- Healing Word
+- Identify
+- Inflict Wounds
+- Mage Armor
+
+##### **2nd Level**
+- Aid
+- Augury
+- Detect Thoughts
+- Enhance Ability
+- Find Traps
+- Gentle Repose
+- Gust of Wind
+- Lesser Restoration
+- Locate Object
+- Mind Spike
+- Moonbeam
+- Prayer of Healing
+- See Invisibility
+
+##### **3rd Level**
+- Aura of Vitality
+- Call Lightning
+- Clairvoyance
+- Counterspell
+- Daylight
+- Dispel Magic
+- Haste
+- Life Transference
+- Mass Healing Word
+- Melf's Minute Meteors
+- Nondetection
+- Remove Curse
+- Revivify
+- Slow
+- Tongues
+- Vampiric Touch
+
+##### **4th Level**
+- Arcane Eye
+- Aura of Life
+- Banishment
+- Control Water
+- Death Ward
+- Divination
+- Grasping Vine
+- Ice Storm
+- Locate Creature
+
+##### **5th Level**
+- Commune
+- Dawn
+- Greater Restoration
+- Legend Lore
+- Maelstrom
+- Mass Cure Wounds
+- Raise Dead
+- Scrying
+- Skill Empowerment
+- Telepathic Bond
+- Wrath of Nature
+
+##### **6th Level**
+- Circle of Death
+- Contingency
+- Find the Path
+- Harm
+- Heal
+- Primordial Ward
+- Sunbeam
+- True Seeing
+- Wall of Thorns
+
+##### **7th Level**
+- Crown of Stars
+- Divine Word
+- Finger of Death
+- Power Word Pain
+- Regenerate
+- Resurrection
+- Reverse Gravity
+- Whirlwind
+
+##### **8th Level**
+- Antimagic Field
+- Control Weather
+- Earthquake
+- Holy Aura
+- Mind Blank
+- Power Word Stun
+- Sunburst
+- Telepathy
+- Tsunami
+
+##### **9th Level**
+- Astral Projection
+- Foresight
+- Invulnerability
+- Mass Heal
+- Meteor Swarm
+- Power Word Heal
+- Power Word Kill
+- Psychic Scream
+- Time Stop
+- True Resurrection
