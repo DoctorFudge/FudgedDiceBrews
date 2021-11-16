@@ -1,0 +1,151 @@
+## Adept
+[**Source:** *Adept*](https://drive.google.com/file/d/1rlQIJXBwkS-JgtME_mVYvoLVWNLmhd42/view)
+
+A human general clad in gleaming armor studies the map on the table in front of him, filled with figurines that represent units of his soldiers and the invading ores. He consults a leather journal filled with notes he's made on the enemy's tribe, their customs and battle tactics, and he moves two pieces confidently forward.
+
+A wild-haired dwarf stands at the head of a long caravan. She surveys the valley below and plots their course through the untamed wilds. She sketches a map and motions for the caravan to follow, leading them deeper into unknown territory in search of treasure and knowledge.
+
+Kneeling at the side of a fallen comrade, a gnome hastily applies a tincture and bandage. Her ally's eyes flutter open and she helps him back to his feet before turning her attention to a nearby troll. An elaborate twirl of her quarterstaff befuddles her foe, and a sharp, unseen blow to the back of its head leaves it stunned.
+
+A smirk pulls at the comer of the half-elf's mouth as he surveys the overgrown ruins on the hilltop. Though no doubt filled with traps and dangerous beasts, the promise of lost treasure and forgotten knowledge pulls him onward. No trinket or secret, no matter how old, could evade his thorough investigation.
+
+### Experts in the Ordinary
+Where many scholars and academics dedicate their great minds to unraveling the mysteries of the divine or the arcane, adepts focus their intellectual efforts on the mundane, the physical world around them and all the wonders it holds.
+
+This curiosity manifest in different ways, Some adepts am most interested in the workings of the body, learning how every part serves the whole so that they can better understand and heal it. Others become life-long students of the art of war, devising ways to dominate the battlefield with superior tactics rather than superior brawn. And some are more concerned with the world itself, keen to seek out every corner of every min, to commune with foreign peoples, and discover exotic beasts and the wild lands that hold them.
+
+### Worldy Scholars
+For the truly curious, the adventuring life is the only way to expand ones horizons of knowledge and build ones skills. Any adept worth his salt will quickly agree that books and laboratories make excellent avenues for learning, but no book and no beaker contains the knowledge still waiting to be discovered beyond the frontier or in the crucible of battle.
+
+The adept believes that every scholar reaches a point where the most effective path to higher learning is hands on experience. The world is full of discoveries waiting to be made.
+
+### Creating an Adept
+As you create your adept character, consider your motivation for becoming a scholar of the world as opposed to a student of the so-called higher mysteries. Did you grow up hearing tales of explorers charting the unknown? Perhaps a skilled healer managed to cure a family member of a terrible disease when the local priest could not? Were youraised the child of great warriors and lacked the brawn to follow in their footsteps, but had the brains to make up the difference?
+
+Where did your path to learning begin? Did you have a brilliant mentor who passed along his knowledge? Did you sneak into the royal library to pore over thick tomes recounting ancient history? Maybe you became a student at a prestigious university devoted to expanding knowledge of all kinds?
+
+What prompted you to leave your old life behind and become an adventurer? Are you have trouble adjusting after a life in academia? Or do you finally feel a sense of freedom? What kind of knowledge are you hoping to discover in your travels?
+
+#### Quick Build
+You can make an adept quickly by following these suggestions. First, make Intelligence your highest ability score, followed by Dexterity. (Some adepts who focus on melee combat make Strength higher than Dexterity.) Second, choose the sage background.
+
+## Class Features
+As an adept, you gain the following class features
+#### Hit Points
+___
+- **Hit Dice:** 1d8 per adept level
+- **Hit Points at 1st Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per adept level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Light armor, medium armor, and shields
+- **Weapons:** Simple weapons, hand crossbows, and heavy crossbows
+- **Tools:** Choose any two
+
+___
+- **Saving Throws:** Intelligence, Dexterity
+- **Skills:** Choose four from Animal Handling, History, Insight, Investigation, Medicine, Nature, Perception, and Survival
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* scale mail or *(b)* leather armor
+- *(a)* a simple weapon and a shield or *(b)* two simple weapons
+- *(a)* a scholar's pack or *(b)* an explorer's pack
+- A light crossbow and 20 bolts
+
+##### The Adept
+| Level | Proficiency Bonus | Features | Insight Die|
+|:---:|:---:|:---|:---:|
+| 1st | +2 | Expertise, Combat Insight | d4 |
+| 2nd | +2 | Field Research, Pursuit | d4 |
+| 3rd | +2 | Study Foe | d4 |
+| 4th | +2 | Ability Score Improvement | d4 |
+| 5th | +3 | Extra Attack, Pursuit Feature | d4 |
+| 6th | +3 | Ability Score Improvement | d6 |
+| 7th | +3 | Expertise | d6 |
+| 8th | +3 | Ability Score Improvement | d6 |
+| 9th | +4 | Pursuit Feature | d6 |
+| 10th | +4 | Shrewd Improviser | d6 |
+| 11th | +4 | Psychological Profile | d8 |
+| 12th | +4 | Ability Score Improvement | d8 |
+| 13th | +5 | Pursuit Feature | d8 |
+| 14th | +5 | Ability Score Improvement | d8 |
+| 15th | +5 | Analytical Mind | d8 |
+| 16th | +5 | Ability Score Improvement | d10 |
+| 17th | +6 | Words of Wisdom | d10 |
+| 18th | +6 | Pursuit Feature | d10 |
+| 19th | +6 | Ability Score Improvement | d10 |
+| 20th | +6 | True Genius | d10 |
+
+### Expertise
+At 1st level, you choose two of your skill proficiencies. Your proficiency bonus is doubled for any ability check you make that uses any of the chosen proficiencies.
+
+At 7th level, you can choose another two skill proficiencies to gain this benefit.
+
+### Combat Insight
+Beginning at 1st level, you know how to use your intellect to adapt to the battlefield and exploit your enemies' weaknesses. When you roll for initiative, you gain a number of insight points equal to your Intelligence modifier.
+
+You can spend these points to fuel various adept features. You start knowing five such features: Agitating Attack, Defensive Posture, Exotic Technique, Foiling Strike, and 11nsticky the Situation. You team more features fueled by insight points as you gain levels in this class.
+
+You gain one additional insight point at the end of each of your turns, unless you are surprised or incapacitated. Other clam features provide additional opportunities to gain insight points in combat.
+
+Some combat insight features will have you roll an insight die. The type of die you use is determined by your adept level as shown in the Insight Die column of the Adept table.
+
+Some of your combat insight features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:
+
+<center>
+
+**Combat Insight Save DC** = 8 + your proficiency bonus + your Intelligence modifier
+
+</center>
+
+#### Agitating Attack
+When you his a creature with a weapon attack, you can spend 2 insight points to attempt to force the creature to lose focus. You roll an insight die and add it to the attack's damage roll, and the target most make a Wisdom saving throw. On a failed save, the target has disadvantage on its next Intelligence, Wisdom, or Charisma saving throw.
+#### Defensive Posture
+You can spend 1 insight point and take the Dodge action. If a creature misses you with an attack before the start of your next turn, you can use your reaction to make a weapon attack against an enemy in range. If you have extra attacks, you can forgo one of them to use the Dodge action.
+#### Exotic Technique
+You can attempt to stun a creature with something it's never seen before. Make a weapon attack. If the attack hits, you may spend 2 insight points to force the target to make a Constitution saving throw. On a failed save, the target is stunned until the end of your next turn.
+#### Foiling Strike
+When an ally takes an action that forces a creature to make a Strength, Dexterity, or Constitution saving throw, you can spend 2 insight point and use your reaction to make a weapon attack against the creature if it is in range. Add an insight die to the attack roll. If the attack hits, the target has disdvantage on the saving throw.
+#### Unsticky the Situation
+When you fail a saving throw, you can spend 2 insight points to roll an insight die and add it the saving throw, potentially turning it into a success.
+
+### Field Research
+Starting at 2nd level, if you spend at least 1 minute observing or interacting with another creature outside combat, you can learn certain information about its capabilities. Choose a reference creature of the same type that you have seen, and the DM tells you if the creature you are researching is equal, superior, or inferior to the reference creature in regard to two of the following characteristics of your choice:
+- Strength score
+- Dexterity score
+- Constitution score
+- Intelligence score
+- Armor Class
+- Maximum hit points
+- Total class levels (if any)
+
+### Study Foe
+At 3rd level, you can spend 2 insight points and use a bonus action to begin closely studying an enemy You analyze its movements, demeanor, and fighting style in order to avoid their attacks. The studied creature has disadvantage on attack rolls that target only you. You must be able to see the enemy to take advantage of this feature.
+
+This effect ends if you are incapacitated, when the creature dies or falls unconscious, or if you use this feature on a different enemy You can use this feature to study only one enemy at a time.
+
+### Pursuit
+Also at 2nd level, you choose your intellecaral pursuit on which you will focus your efforts. Choose Tactician, Physician, or Explore, detailed at the end of the class description. The discipline you choose grants you features at 2nd level and again at 5th, 9th, 13th, and 18th level.
+
+### Ability Score Improvement
+When you mach 4th level and again at 6th, 8th, 12th, 14th, 16th, and 19th level, you can increase on ability more of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't incr.se an ability scum above 20 using this feature.
+
+### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+### Shrewd Improviser
+By 10th level, you are always analyzing all aspects of your surroundings, finding ways to use your environment and whatever is close at hand in combat. You gain proficiency with improvised weapons and half cover functions as well for you as three-quarters cover.
+
+### Psychological Profile
+At 11th level, you can analyze a creature's speech and body language to determine how best to interact with it in order to achieve your aims. If you spend at least one minute conversing with the creature or observing it in a social situation, the DM tells you whether Deception, Intimidation, or Persuasion will give you the best chance at a favorable outcome. You are considered proficient with the designated skill while speaking with the creature, and it must pass a Wisdom saving throw equal to a roll of your insight die + your Intelligence modifier or you have advantage on the checks as well. This effect ends if you go 24 hours without speaking to the creature, or you use the ability on a different creature.
+
+### Analytical Mind
+At 15th level, you can substitute your Intelligence score and modifier for your Wisdom score and modifier for purposes of saving throws and ability checks. If you are proficient in Intelligence saving throws, you are considered proficient in Wisdom saving throws.
+
+### Words of Wisdom
+Beginning at 17th level, when an ally is preparing to make a skill check you can use your action to analyze the situation and advise him based on your observations. Roll an insight die and add half the number of the die (or the full amount of the die if it's a skill check you are proficient in) and add it to his roll. If multiple allies will be attempting the same feat (for example, a party preparing to scale a cliff face), they may each add this bonus to their skill checks without using additional actions.
+
+### True Genius
+At 20th level, you embody true genius. Your Intelligence score increases by 4 and your maximum Intelligence increases to 24. You are also capable of moments of perfect insight, wherein the path to success becomes clear even when the odds are stacked against you. On a failed ability check, you can treat the d20 as a 20. Once you use this feature, you can't use it again until you finish a long rest.
