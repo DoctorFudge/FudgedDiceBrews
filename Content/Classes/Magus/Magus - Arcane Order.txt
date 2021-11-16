@@ -1,0 +1,130 @@
+### The Arcane Order
+The Arcane Order is an eldritch society built on mentor-student relationships. While the Order is unified in name, each member tends to operate alone or with only their mentor or apprentice—though in times of extreme circumstance, members will come together to face grave, large scale threats. Each magus of the Arcane Order takes a unique philosophical approach to their teachings, often adopting or adapting the ideals of their mentor. All scholars of the Arcane Order, however, emphasize exceptional technique and approach magic as an art to be mastered.
+
+#### Arcane Order Initiate
+When you choose this eldritch society at 1st level, you augment your martial prowess with the ability to cast cantrips.
+
+***Cantrips.*** You learn two cantrips of your choice from the Arcane Order's spell list. You learn an additional Arcane Order cantrip of your choice at 4th level and again at 10th. These cantrips count as magus spells for you.
+
+***Spellcasting Focus.*** You can use an arcane focus (found in chapter 5 of the Player's Handbook) as a spellcasting focus for your magus spells.
+
+***Spellcasting Ability.*** Intelligence is your spellcasting ability for your Arcane Order spells, since you learn your spells through rote study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a magus spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
+
+**Spell attack modifier** = your proficiency bonus + your Intelligence modifier
+
+</center>
+
+#### Bonus Proficiencies
+At 1st level, you gain proficiency with the Arcana skill and one set of artisan's tools of your choice.
+
+#### Amethyst Mark
+Starting at 3rd level, the effects of your mystic marks are enhanced by your greater understanding of the Arcane Order's esoteric knowledge. When you place your mystic mark on an object or creature, a faint purple, crystalline aura surrounds it.
+
+***Arcane Enspell.*** When you deal damage with your enspelled weapon, you can choose to deal force damage instead of its normal damage type.
+
+When you deal damage to a creature with your enspelled weapon, you can choose to remove your enspell from the weapon to unleash a wave of magical energy. When you do so, the target must succeed on a Strength saving throw against your spell save DC or be pushed up to 15 feet away and knocked prone.
+
+***Arcane Aegis.*** When a target protected by your aegis takes damage from a creature you can use your reaction to remove the aegis from that ally. When you do, you may teleport up to 30 feet and make a weapon attack against the attacking creature.
+
+#### Occult Savant
+By 7th level, through diplomacy, espionage, or occult experimentation you have gleaned how to use spells normally used by other eldritch societies. Alternatively, you've spent time further deciphering the obscure teachings of the Arcane Order. You learn two spells of your choice from any eldritch society's spell list. These spells must be of a level you can cast, as shown on the Magus table, or cantrips. The chosen spells count as Arcane Order magus spells for you and do not count towards the Spells Known column of the Magus table.
+
+#### Arcane Recovery
+Starting at 14th level, you have learned to regain some of your magical energy by reflecting on esoteric truths and formulae. Once per day when you finish a short rest, you can choose to recover some of your expended spell slots. The spell slots can have a combined level that is equal to or less than half your magus level (rounded up), and none of the slots can be 6th level or higher.
+
+### The Arcane Order Spell List
+##### Cantrips (0 Level)
+- Arcing Arrow
+- Blade Ward
+- Dancing Lights
+- Green-Flame Blade
+- Mage Hand
+- Message
+- Minor Illusion
+- Prestidigitation
+- Spell-Shattering Strike
+- Sword Burst
+- True Strike
+- Vortex Dart
+
+##### 1st Level
+- Alarm
+- Color Spray
+- Comprehend Languages
+- Detect Magic
+- False Life
+- Feather Fall
+- Find Familiar
+- Grease
+- Identify
+- Magic Missile
+- Shield
+- Sleep
+- Tenser's Floating Disk
+
+##### 2nd Level
+- Blur
+- Cloud of Daggers
+- Crown of Madness
+- Darkness
+- Darkvision
+- Enlarge/Reduce
+- Hold Person
+- Invisibility
+- Levitate
+- Misty Step
+- Nystul's Magic Aura
+- Phantasmal Force
+- Rope Trick
+- See Invisibility
+
+##### 3rd Level
+- Blink
+- Clairvoyance
+- Counterspell
+- Dispel Magic
+- Fireball
+- Fly
+- Haste
+- Hypnotic Pattern
+- Leomund's Tiny Hut
+- Magic Circle
+- Slow
+- Tiny Servant
+- Tongues
+
+##### 4th Level
+- Arcane Eye
+- Banishment
+- Confusion
+- Dimension Door
+- Evard's Black Tentacles
+- Fabricate
+- Hallucinatory Terrain
+- Leomund's Secret Chest
+- Locate Creature
+
+##### 5th Level
+- Animate Objects
+- Bigby's Hand
+- Contact Other Plane
+- Creation
+- Far Step
+- Hold Monster
+- Passwall
+- Scrying
+- Teleportation Circle
+
+##### 6th Level
+- Arcane Gate
+- Contingency
+- Create Homunculus
+- Disintegrate
+- Drawmij's Instant Summons
+- Magic Jar
+- Scatter
+- True Seeing

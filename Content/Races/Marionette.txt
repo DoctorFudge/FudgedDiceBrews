@@ -1,0 +1,63 @@
+## Marionette
+*"I’ve carved the puppet, and I manipulate the strings, but while it’s on stage, the show belongs to the puppet."*
+
+<div style="text-align: right">
+— Pierrot Piedmont, Peerless Puppeteer
+</div>
+
+Every actor has their time in the limelight, every toy has its time out of the toy chest, and every artist has their muse. But time passes, and interest wanes, and things are often left behind, in the dark corners to collect dust and be forgotten. Marionettes, from those used in theaters to simple childrens toys, are often subjected to this. 
+  
+A Marionette is a puppet or doll that, through some means, acquired a life of its own, letting it move around freely. Since being given life, they have become quite fond of their freedom, often making light of their neglect and abandonment.
+
+### Fetchingly Festooned
+Despite often being crafted from wood or porcelain, Marionettes are hard to tell apart from humans at a glance. Only their loose, jerky movements and unchanging faces would give them away from a distance. Their clothing, often bright and colorful to dazzle and entertain. is frquently attached directly to their bodies, although it can be replaced with minimal discomfort.
+  
+### Performers and Paramours
+For a Marionette, all the world is a stage. They are natural performers and entertainers, and have a natural affinity for both the tragic and comedic sides of theater. They adore a good joke or prank, while often knowing just how to pull at ones heartstrings. They also often enjoy games, owing to their origin as toys.
+
+Though some may find them unsettling and uncanny, they enjoy living among other races, and are often welcomed for their ability to put a smile on any face.
+<BR>
+### Colorful Communities   
+It is hard to call Marionettes a unified people. Their love of freedom and independence, combined with a tendency to travel means they do not often group together. Rarely, when they are shunned by a society, they may come together in a group referred to as a *Troupe*.
+
+> ##### Relations with other races
+> Marionette mix themselves into any society that will let them, and have garnered a number of opinions about themselves.
+>  
+> ***Humans.*** *"Honestly I find them a little creepy, but they try so hard."*
+>  
+> ***Elves.*** *"I recognized one that I used to play with a hundred years prior, and found myself apologizing to an old friend."*
+>  
+> ***Dwarves.*** *"You'd be daft if you think any old Bard can make a man laugh or cry the way they do."*
+ 
+### Talented Travelers
+Once they gain their independance Marionette don't stay in one place for long, so becoming adventurers is frequent, albeit incidental for them. They often seek new friends, new stages, or simply new fun things to try.
+  
+### Marvelous Monickers
+Marionettes usually keep the names their former owners gave them, which vary wildly depending on their origin from simple names given to them by children that played with them to more dramatic ones from their old puppeteers. Given that a Marionette may have been a family heirloom before their awakening, those who take family names often look to theater, or use the ones of their old owners.
+___
+* **Male Adult Names:** Bingo, Bozo, Chester, Gracioso, Harpo, Jingles, Milo, Noodles, Pagliacci, Tipsy, Waldo
+* **Female Adult Names:** Buttercup, Cookie, Dimples, Flower, Koko, Lala, Loonette, Molly, Rosa, Snuggles, Tickles, Yoyo 
+* **Family Names:** Arlecchino, Bagatino, Fool, Harlequin, Pedrolino, Pierrot, Trivelin
+
+### Marionette Traits
+Your Marionette character shares the following traits with all other varieties of Marionette. 
+  
+**Ability Score Increase.** Your Charisma ability score increases by 2, and your Dexterity ability score increases by 1.
+
+**Age.** As a construct, you may remain alive as long as your body does not degrade.
+
+**Alignment.** Owing to their childish demeanor, Marionette are often Chaotic alignments.
+
+**Size.** As a Marionette your size is Medium.
+
+**Speed.** Your base walking speed is 30ft.
+
+**Living Construct.** In addition to the creature type "Humanoid", you have the creature type "Construct". Spells and effects that affect either type affect you. You don’t need to eat, drink, or breathe, and are immune to poison and disease.
+
+**All Part of the Show.** When you make an attack, as a bonus action you can make a Deception, Sleight of Hand, or Performance check to attempt to distract your opponent. The DC is equal to your targets Passive Perception. On a success, you gain advantage on the attack. You may use this feature twice. You regain all uses of this feature when you complete a short or long rest.
+
+**Got No Strings.** When taking bludgeoning, piercing, or slashing damage while you are standing, you can choose to be knocked 10 feet away from the source of the damage and fall prone, taking half of the damage instead.
+
+**Painted Face.** Your face is merely decorative and as such, Insight checks made to discern your motivations are made with disadvantage.
+
+**Languages.** You can speak, read, and write Common, and one language of your choice, usually the one of your former owner.

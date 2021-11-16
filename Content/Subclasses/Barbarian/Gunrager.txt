@@ -1,0 +1,25 @@
+### Path of the Gunrager
+[**Source:** *The Gunpowder Codex*](https://drive.google.com/file/d/1jjhLL1aeWVp2AsoOIwJJ-0BvO6dvPedk/view)
+
+Although some barbarians are baffled by the technology of firearms, others see these new weapons as tools to enhance their abilities to a new level. Specialists with big two-handed guns, these barbarians are called gunragers, and for good reason. They charge through the battlefield with abandon, unleashing lead on all who stand in their way and sowing fear in their wake.
+
+#### Proficiency
+Starting when you choose this primal path at 3rd level, you gain proficiency with firearms, allowing you to add your proficiency bonus to attacks made with firearms.
+
+#### Gunsmith
+Upon choosing this primal path at 3rd level, you gain proficiency with Tinker's Tools. You may use them to craft ammunition, repair damaged firearms, or even draft and create new ones (DM's discretion). Some extremely intricate and experimental firearms are only available through crafting.
+
+#### Gunner's Rage
+Starting when you choose this path at 3rd level, you can channel your anger to deadly effect when fighting with a two- handed firearm by entering a gunner's rage. If you do so, for the duration of your rage you can use the butt of your firearm make a single melee weapon attack as a bonus action on each of your turns after this one. A successful attack with the butt of a two-handed firearm deals 1d8 bludgeoning damage plus your Strength modifier. Additionally, you don't make attack rolls at disadvantage when discharging your firearm at point- blank range (5 feet or less).
+
+#### Stalwart Defense
+Beginning at 6th level, you may use your reaction to turn a critical hit against you into a normal hit while raging. You may use this feature once, and regain expended uses after a short rest. At Level 10, you gain a second use of Stalwart Defense, and at Level 14 you gain a third use.
+
+#### Startling Kill
+At 10th level, you are adept at using your firearm to instill fear in others. Whenever you reduce a creature to 0 hit points, you may attempt a Charisma (Intimidate) check with advantage as a free action.
+
+#### Steelskinned
+Gunragers are notoriously hard to take down. Starting at 14th level, you may use your reaction to add your Constitution modifier (minimum +1) as a bonus to AC for one round. You may use this ability twice, and regain all expended uses when you finish a long rest.
+
+#### Domino Shot
+Starting at 14th level, you may use your attack action to attempt a domino shot. You discharge your firearm, using only a single bullet, but you may make attack rolls against every creature in range in a 60 ft. line. Disadvantage from your weapon's range categories do not apply to this ability, but the maximum range of your weapon still applies. Make attack rolls in order, from the nearest to the furthest target. Should any attack roll miss, the progress of your domino shot is halted. You may use this ability twice. You regain expended uses of it when you finish a long rest.

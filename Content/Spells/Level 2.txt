@@ -1,0 +1,67 @@
+## Level 2
+
+#### Cold Snap
+*Evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 90 ft (5 ft radius)
+- **Components:** V, S
+- **Duration:**  Instantaneous.
+- **Classes:** Sorcerer, Wizard
+___
+A swirling burst of freeze wind erupts at a point you choose within range. Each creature in a 5-foot-radius sphere centered on that point must make a Constitution saving throw. A creature takes 3d8 cold damage on a failed save, or half as much on a successful one. 
+
+The ground in the area is covered with slick ice, making it difficult terrain until the start of your next turn.
+
+**At Higher Levels**: When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
+
+#### Heat Swell
+*Transmutation*
+___
+- **Casting Time:** Action
+- **Range:** 150 ft.
+- **Components:** V, S, M (a vial of water)
+- **Duration:**  Concentration, up to 10 minutes
+- **Classes:** Druid, Ranger, Sorcerer
+___
+The air in a 10-foot tall, 15-foot radius cylinder centered on a point within 5 feet of the ground becomes dangerously hot and humid. The area becomes difficult terrain for the duration. When a creature moves into or within the area, it takes 2d4 fire damage for every 5 feet it travels.
+
+The transformation of the air is subtle, and difficult to see. Any creature that can't see the area at the time the spell is cast must make a Wisdom (Perception) check against your spell save DC to recognize the area as hazardous before entering it.
+
+#### Kevin's Goodberry Ale
+*Conjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:**  Instantaneous
+- **Classes:** Druid, Cleric, Bard
+___
+You conjure forth 3 tankards of ale made from Goodberries. When a tankard is ingested, they grant the creature that consumed it 2d8 temporary hit points.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd leveI or higher, the amount of temporary hit points increases by an additional 1d8 for each slot level above 2nd.
+
+#### Olympus' Blessings
+*Evocation*
+___
+- **Casting Time:** 1 Action
+- **Range:** Touch
+- **Components:** V, S, M (a bit of lion's fur)
+- **Duration:** Concentration, up to 1 hour
+- **Classes:** Paladin, Warlock
+___
+You touch a creature and bestow upon it a blessing from the gods. Choose one of the following effects; the target gains that effect until the spell ends.
+
+**Atlas' Fortitude.** The target has advantage on Constitution checks. It also gains 2d6 temporary hit points, which are lost when the spell ends.
+
+**Hercules' Might.** The target has advantage on Strength checks, and his or her carrying capacity doubles.
+
+**Hermes' Wings.** The target has advantage on Dexterity checks. It also doesn't take damage from falling 20 feet or less if it isn't incapacitated.
+
+**Aphrodite's Grace.** The target has advantage on Charisma checks.
+
+**Coeus' Brilliance.** The target has advantage on Intelligence checks.
+
+**Athena's Acuity.** The target has advantage on Wisdom checks.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, you can target one additional creature for each slot level above 2nd.

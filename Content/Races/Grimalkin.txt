@@ -1,0 +1,46 @@
+## Grimalkin
+[**Source:** *Old Gus' Errata: Beastfolk*](https://drive.google.com/file/d/12PE02rLX8fM072__CFZJhVvMeKOcsvIo/view)
+
+### Cunning Catfolk
+Grimalkin are cousins to the tabaxi, but are significantly smaller.
+
+### Grimalkin Racial Traits
+***Ability Scores.*** Your Dexterity score increases by 2.
+
+***Age.*** Grimalkin mature at 5 years, and live up to three decades.
+
+***Alignment.*** Their dedication to individuality and personal freedom makes most grimalkin chaotic.
+
+***Size.*** Grimalkin average about 3 tall, and weigh about 40 pounds. Your size is Small.
+
+***Speed.*** You have a base walking speed of 25 feet.
+
+***Languages.*** You can speak, read and write Common and Grimalkin.
+
+***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+***Climbing Claws.*** Your claws grant you a climbing speed of 20 feet.
+
+***Ancestry.*** Choose one of following ancestries: Wild Grimalkin or Urban Grimalkin.
+
+### Wild Grimalkin
+Wild grimalkin live in colonies of anywhere from five to five dozen members. Their loose governing structures tend to be matriarchal, with disagreements are settled through non-lethal play-combat. Resources and duties are shared equally but unevenly among its members. Each member’s individual skills and interests are put to use, from hunting to child-rearing to guard duty. They display a staggering variety of coats, from stripes, spots, tortoiseshell patterns, or solid colors.
+
+Most wild grimalkin worship Ai-Apaec, a trickster archfey who favored the form of a cat, and from whom they believe they are descended.
+
+***Ability Scores.*** Your Wisdom score increases by 1.
+
+***Feline Agility.*** Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns.
+
+***Wild Savvy.*** You are proficient in two of the following skills of your choice: acrobatics, insight, perception, or survival.
+
+### Urban Grimalkin
+City grimalkin tend to follow one of two paths. Some take to a life of living on the streets, where their fierce independence makes them a loner living by their wits in a loose network of regular haunts. Harsh street living takes its toll, however, and their coats can become matted and mangy.
+
+Others find a surrogate family to substitute for their colonies, seeking out a life of pampering by ingratiating themselves to a wealthy patron in exchange for the pleasure of their company. Some city grimalkin can become fussy and stuck in their ways. Their coats tend to be solid colors, or to have splendidly refined patterns in their fur, which can grow quite long (a product of selective breeding among their own kind). Others lose their hair entirely, displaying their loose, wrinkled skin with regal pride.
+
+***Ability Scores.*** Your Charisma score increases by 1.
+
+***Street Smart.*** Accustomed to being underfoot in city streets, you can move through the space of any creature that is of a size larger than yours.
+
+***Urban Savvy.*** You are proficient in two of the following skills of your choice: deception, sleight of hand, performance, or persuasion.

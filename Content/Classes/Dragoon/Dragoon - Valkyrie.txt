@@ -1,0 +1,14 @@
+### Valkyrie
+Valkyries have chosen to distance themselves from the Dragoon's roots and instead seek to be masters of the skies themselves. Using swift movements and the power of flight, Valkyires are able to move quickly in and out of battle with power and a certain grace.
+
+#### Crescent Moon Strikes
+Beginning at the 3rd level, when you make the Attack action, if there is a creature directly beside your target, you may roll a second attack roll against that creature as a bonus action. You do not receive an ability modifier bonus on the damage roll for this attack.
+
+#### Flight of the Dragon
+Beginning at the 7th level, you are able to expend two uses of Dragoon's Trance to gain 60ft. of flying speed for the duration of the Trance. When you do so, an ethereal pair of dragon's wings sprout from your back. You may use your Jump and High Jump features while in flight, using your place in the air as your starting position.
+
+#### Valkyrie Strike
+Beginning at the 11th level, you don't provoke opportunity attacks when you fly out of enemies reach.
+
+#### Stardiver
+Beginning at the 15th level, while under the effects of Flight of the Dragon, as an action you use your High Jump feature, but may complete the attack in the same turn you start your dive. If you do so, you expend one use of Dragoon Trance.

@@ -1,0 +1,109 @@
+### Corsair
+[**Source:** *Corsair*](https://drive.google.com/file/d/1onGp3JbVYZ_exZ3ieIxi_6QpYhpllz6X/view)
+
+A female human clad in light, padded armor holds her dagger and rapier at the ready. prepared to do battle with a cadre of guards cutting off her and her crew from reaching their ship at the docks nearby. Though outnum- bered and out-armored. she bellows out an order with a confldent, powerful voice. and her fearless crew rallies to her side.
+
+A cutlass in each hand. a fearsome and markedly shirtless male half-orc stares down a group of rowdy thugs that have interrupted his drinking at a weathered, seaside tavern. Though the group of men at flrst favor their chances. their lackadaisical attitude changes abruptly to abject horror when one of their number spies a nearby wanted poster. realizes that they are meeting a true pirate king in the flesh. and that they have caused him the greatest of offenses.
+
+With a small cutlass in her teeth and a spyglass to her eye, a female haltiing wearing a loose shirt clings aloft to the thick. coarse rigging on her swaying caravel. Cresting against the billowing ocean clouds on the horizon's edge, her sharp eyes catch the tip of a mast - undoubtedly a mercantile tallship. flying the king's colors. With a manic giggle. the haIfling jumps from the rigging. grabs a nearby line. and in a fluid motion slides down the side of the mast as the black flag rises rises ominously over her vesseL
+
+Scourges or saviors of seaside towns, peoples, and ships. corsairs are practitioners of piracy on the high seas. Whether they are free-spirited or follow a hard-and-fast pirate's code. a corsair lives a life of pillaging and high adventure. leading a crew of scoundrels and scallywags to the ends of the world and back seeking treasure and tales worth telling.
+
+Corsairs are almost universally chaotic. but there can be found a handful of lawful comairs that have retired from piracy and dedicated themselves to a life of service.
+
+Corsairs can be evil or good depending on their motivations and methods. Behind these motivations, most corsairs have a formative moment that led them to a life at sea. Consider with your DM what this moment could be, or roll on the Life at Sea table, below:
+
+| d10 | Life at Sea |
+|:-:|:-|
+| 1 | I seek to build wealth and reknown to eventually become worthy of my true love. |
+| 2 | When I was young, pirates raided a vessel I was on and took me for their crew. |
+| 3 | I quest after rumors ofa famed pirate's legendary hidden treasure. |
+| 4 | I took to the sea to escape my criminal history, only to have it follow me there. |
+| 5 | I partake of piracy to restore my family's once-great riches, and thus their nobility. |
+| 6 | I was betrayed by my kingdom, and became a pirate to find revenge. |
+
+| d10 | Life at Sea |
+|:-:|:-|
+| 7 | My birth culture was too constrained, ltook to the seas seeking freedom. |
+| 8 | I seek a lost family member, and piracy finances my journey. |
+| 9 | The bastard of a wealthy family, my only choice was to make my own name at sea. |
+| 10 | Roll again twice, both are true. |
+
+#### Scallywag's Tricks
+At 3rd level, you gain a better understanding of how to move about and survive at sea, from climbing through riggings to swimming through waves. While you are either wearing light armor or no armor and not holding a shield, you gain both a swimming and a Climbing speed equal to your normal movement speed. You can also hold your breath for twice as long.
+
+Additionally, you gain pro?ciency With two of the following: carpenter's tools, cartographer's tools, cook's utensils, navigator's tools, vehicles (air), vehicles (land), vehicles (water), or woodcarver's tools.
+
+#### Dirty Fighting
+When you choose this archetype at 3rd level, you master the art of using shipborne debris, a well-timecl bluff, or even a simple pocketful of sand to turn the tide of combat in your favor. When you take the Disengage action, you may cause one enemy Within 5 feet of you to suffer disadvantage on the first attack they make before the end of their next turn.
+
+Additionally, you may as a bonus action attempt to bluff, feint, or otherwise trick your foes. Choose one creature within 5 feet of you. That creature must roll a Wisdom saving throw against a DC of your Charisma modifier plus your proficiency bonus plus 8. If the creature fails, the next attack made against that creature before the beginning of your next turn has advantage. Creatures that are immune to charm effects automatically succeed on this saving throw.
+
+#### Lockout
+Starting at 9th level, you have developed keen eyes while scouring the seas. You gain advantage on all Perception or Investigation checks to find treasure or enemy creatures and vessels.
+
+Further, if you spend an hour watching a vessel, structure, or encampment, you can tell the exact number and type of creatures present, What they are armed with, and their approximate positions within the area in which they are located.
+
+#### Infamy
+At 13th level, your name is well known, and your reputation often precedes you. Choose one of the following options, based on the reputation you have accrued:
+- ***Captain's Command.*** As a bonus action on your turn, you can inspire a creature friendly to you (besides yourself) that can hear you and shares a language With you. The inspired creature gains double your Charisma modifier in temporary hit points (minimum 0), which last for up to a minute, and the creature immediately loses the frightened condition if the creature is subject to it. A creature cannot gain temporary hit points more than once from this ability before having to complete a short or long rest in order to be affected again. However, a previously affected creature may still have the frightened condition removed through subsequent uses of this ability.
+- ***Dread Pirate.*** As a bonus action on your turn you may attempt to frighten a creature Within 30 feet of you, if it can hear you and it shares a language with you, by revealing your identity and one or two of your infamous deeds. The creature must make a Wisdom saving throw against a DC of 8 plus your Charisma modifier and proficiency bonus. If it fails, the creature becomes frightened of you until the end of its next turn. A creature that succeeds on this saving throw may not be affected by this ability for the next 24 hours. The creature may make this saving throw With advantage or disadvantage depending on how well it knows or cares of you or your deeds, at the DM's discretion.
+
+Regardless of Which ability you choose, you may use the ability a number of times equal to your Charisma modifier (minimum once) before you require a long rest to refresh its uses.
+
+#### Avast, Ye Scurvy Dogs!
+Once you reach 17th level, you have become one of the greatest pirates that the world has ever known, and men at sea (and on land) are honored to have you lead them in battle. When initiative is rolled, choose a number of friendly creatures equal to your Charisma modifier (minimum one) that can see and hear you and share a language With you. You may designate yourself as one of these creatures. Each of these creatures may choose to deal an extra 2d6 damage with one attack that hits during the first round of combat. 
+
+#### Optional Rule: Corsair's Familiar
+Pirates are no strangers to magic, and encounter much of the wild, untamed arcane While they travel the world's seas. Some pirates dabble in magic themselves, learning handy tricks to aid them in the perils of clay-to-day piracy.
+
+If your Corsair finds themselves able to cast the spell *find familiar*, your DM may allow you to choose a monkey or parrot, included here, instead of the other familiar options the spell provides.
+
+An easy way for a Corsair to acquire this spell is to take the Magic Initiate feat, found on page 168 of the *Player's Handbook*. This feat also provides two cantrips and, while any cantrip available to the feat's chosen class may be selected, the following cantrips may be thematically suited for a Corsair: *blade ward*, *druidcraft*, *guidance*, *gust*, *spare the dying*, *true strike*, or *vicious mockery*.
+
+___
+___
+> ## Parrot
+>*Tiny beast, unaligned*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 1 (1d4-1)
+> - **Speed** 10 ft., fly 50 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|3 (-4)|14 (+2)|8 (-1)|2 (-4)|12 (+1)|8 (-1)|
+>___
+> - **Skills** Deception +1, Perception +3
+> - **Senses** passive Perception 13
+> - **Languages** understands Common, but can only speak organic sentences in Common of up to three words
+> - **Challenge** 0 (10 xp)
+> ___
+> ***Flyby*** The parrot doesn't provoke opportunity attacks when it flies out of an enemy's reach.
+>
+> ***Parroting*** The parrot can mimic speech and simple sounds it has heard, such as a phrase up to 10 words long, an ax striking wood, a baby crying, or an animal chittering. A creature that hears the sound can tell they are imitations with a successful DC 10 Wisdom (Insight) check.
+> ### Actions
+> ***Beak.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 1 piercing damage.
+
+___
+___
+> ## Monkey
+>*Tiny beast, unaligned*
+> ___
+> - **Armor Class** 12
+> - **Hit Points** 1 (1d4-1)
+> - **Speed** 25 ft., climb 25 ft.
+>___
+>|STR|DEX|CON|INT|WIS|CHA|
+>|:---:|:---:|:---:|:---:|:---:|:---:|
+>|6 (-2)|14 (+2)|8 (-1)|5 (-3)|12 (+1)|13 (+1)|
+>___
+> - **Skills** Acrobatics +4, Performance +3, Sleight of hand +4
+> - **Senses** passive Perception 11
+> - **Languages** understands Common and Thieves' cant, but can only sign sentences in Thieves' cant of up to three words
+> - **Challenge** 0 (10 xp)
+> ___
+> ### Actions
+> ***Bite.*** *Melee Weapon Attack:* +4 to hit, reach 5ft., one target. *Hit* 1 piercing damage.
+>
+> ***Throw.*** *Ranged Weapon Attack:* +4 to hit, range 25/50 ft., one target. *Hit* 1 bludgeoning or poison damage.

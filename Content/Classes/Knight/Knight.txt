@@ -1,0 +1,118 @@
+## Knight
+[**Source:** *Shovel Knight: Shovels and Shields*](https://drive.google.com/file/d/1OXB9NNp_BjDG5M0k7KZnfOcsAkbolqD3/view)
+
+Long have tales been told of brave knights that wander the earth in search of riches and glory. Whether they wield an arsenal of arcane items or a modest shovel, these brave warriors wielded legendary weapons and relics against foe, undead, and dragon alike. From the shield guardian to the strangely shovel'd champion, these knights hope to make a name for themselves.
+
+### Adventurers At Heart
+At the dawn of the new age, when the wilds were still untamed, the lands were roamed by knights. To this day, they are often found in the wilderness or deep in the heart of dungeons, looking for their next big adventure with seldom a worry for their own safety. A forest full of monsters and long- forgotten temples is but another location for them to plunder, and add to their growing legend.
+
+Knights are a breed of adventurer unmatched in their unwavering loyalty to their cause. Similar to a paladin's devotion to spreading the good of a deity, a knight is born for adventure and glory. Often found with an arsenal of gadgetry at their side, these dungeon delvers won't rest in their pursuit of unending discovery. Despite their appearance, they rarely wear armor that is truly heavy, knowing that balancing movement and sturdiness is important.
+
+## Becoming a Knight
+Knights of this class are not simply ordained by Royalty, but are driven by higher purpose. Recognized by their strength and deeds from town to town and spoken of in title more than in name. Their hopeful spirit keeps them sprinting into the heat of battle, whether to defend allies, or meet foes. While some are made for the battle of words, knights often shine in dextrous physical combat, and are rarely skilled with the arcane. With the sacred magic of Ichor, some are imbued with powers that awaken artifacts at their disposal or expand their own abilities.
+
+When deciding to play as a knight, think about what sort of legend your knight seeks. Are they questing to find a holy relic for a kingdom in peril? Perhaps saving their beloved from a wicked enchantment? Or could they be hoping to garner a collection of similarly powerful adventurers, and establish their own order of knights? It's important to establish a purpose for a knight as it can be central to the theme of the character.
+
+#### Glory and Purpose Everlasting
+Knights are often full of conviction but vary in all other traits: Many have a strong sense of honor and justice; others are errant, greedy, or troubled. Knighthood is a calling not suited to the weak of heart and great tragedy has befallen those who have refused the call, or abandoned it when things became bleak. Though not holy in their magical origin, knights may be a beacon of hope for the weak. A symbol of purpose for the lost. And a shovel for those in need of a shovel. I'm not one to judge.
+
+##### The Knight
+| Level | Proficiency Bonus | Features | Ichor | Relics |
+|:-:|:-:|-|:-:|:-:|
+| 1st | +2 | Code Of Honor | ─ | ─ |
+| 2nd | +2 | Ichor Bottle, Relic Keeper | 2 | 1 |
+| 3rd | +2 | Knight's Code Feature | 2 | 2 |
+| 4th | +2 | Ability Score Improvement | 4 | 2 |
+| 5th | +3 | Hopeful Soul | 4 | 3 |
+| 6th | +3 | Knight's Code Feature | 6 | 3 |
+| 7th | +3 | Campfire Craftsman | 6 | 4 |
+| 8th | +3 | Ability Score Improvement | 8 | 4 |
+| 9th | +4 | Unwavering Spirit | 8 | 5 |
+| 10th | +4 | ─ | 10 | 5 |
+| 11th | +4 | Knight's Code Feature | 10 | 6 |
+| 12th | +4 | Ability Score Improvement | 12 | 6 |
+| 13th | +5 | ─ | 12 | 7 |
+| 14th | +5 | Treasure Tracker | 14 | 7 |
+| 15th | +5 | Knight's Code Feature | 14 | 8 |
+| 16th | +5 | ─ | 16 | 8 |
+| 17th | +6 | Knight's Code Feature | 16 | 9 |
+| 18th | +6 | ─ | 18 | 9 |
+| 19th | +6 | Ability Score Improvement | 18 | 10 |
+| 20th | +6 | Legend of the Realm | 20 | 10 |
+
+### Creating a Knight
+When designing a knight, try to take an object, concept or theme and associated it with the word "Knight". For example, an undead character who once served a powerful count and is now cursed to stalk the shadows until the day they're laid to rest might be known as Endless Knight. Were they given their title by a king? Maybe they're known simply as the Royal Knight? Perhaps it's Goblin Knight? Roaming the lands in search of that most foul creature that burdens the good folk of the land. The Flower Knight may be known for a dandelion attached to their breastplate at all times. Finally, should they complete their quest, will they return to the world they once knew, or seek out new adventures in the wider world?
+
+#### Quick Build
+You can establish a Knight quickly by following these suggestions. First, put your highest ability score into Dexterity, as most knights have learned quickly that a heavy knight is only as safe as they are quick. Your next highest ability should be Wisdom in order to empower relics and secondary abilities. Then, choose the Code of Shovelry. Finally, take the Retired Adventurer background.
+
+## Class Features
+As a Knight, you gain the following class features. Additional features will be granted by your subclass.
+
+#### Hit Points
+___
+- **Hit Dice:** 1d10 per Knight level
+- **Hit Points at 1st Level:** 10 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d10 (or 7) + your Constitution modifier per Knight level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Shields, Light armor, Medium armor
+- **Weapons:** None
+- **Tools:** Blacksmith's Tools, Gaming Set (Joustus)
+___
+- **Saving Throws:** Strength, Dexterity
+- **Skills:** Choose one from Athletics, Acrobatics, Investigation, Nature, Survival
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a martial weapon, *(b)* one simple weapon or *(c)* one buckler
+- *(a)* Leather Armor or *(b)* Chain Mail
+- A dungeoneer's pack
+
+### Ichor Bottle
+At 2nd level, Knights are granted the secrets of ancient treasure magic. They recieve an Ichor Bottle with 2 Ichor points, which increases in quantity as listed in the Knight table. When you spend an Ichor point, it is unavailable until you finish a short or long rest. You must spend at least one hour of the rest replenishing your Ichor Bottle in order to regain your Ichor Points.
+
+Some of your abilities will require your target to make a saving throw to resist effects. The Saving Throw DC is calculated as follows:
+
+<center>
+
+**Ichor Save DC** = 8 + your Proficiency Bonus + your Wisdom Modifier
+
+</center>
+
+### Relic Keeper
+Relics are ancient treasure empowered with a liquid known as Ichor that flows through the wielder. Starting at 2nd level, you gain the favor of a shop owner, patron, or powerful being known as a benefactor. While your benefactor can be wildly different to fit your knight's story, we've assembled a few of them for your convenience.
+
+As you gain levels, you can borrow relics equal to the Relic Column of the Knights table from this benefactor. Upon reaching subsequent levels or completing a long rest, you may change out any or all of your relics for new ones, on the condition that you have the points to account for all relics in your possession.
+
+You may only use one Relic per round but may receive the benefit of multiple relics at once unless otherwise noted.
+
+### Items of Ichor
+Unlike typical magical items, Relics are ancient devices that must be powered by Ichor, and cannot be used by those without a bottle of Ichor. If you lose your bottle of Ichor you must spend 24 hours crafting a new one. Finding an appropriate smith or alchemist may reduce the time needed.
+
+While Relics may be powered by Ichor, so are your Weapons of Devotion. Some of your weapons may also require Ichor to reach their full potential in combat.
+
+> ##### Weapons of Devotion
+> In future sections of this class, the term may be used and will always refer to the main weapon of your chosen class. For example, The Code of Shovelry's Weapon of Devotion is the Shovel Blade.
+>
+> Knights who lose their Weapons of Devotion have grown accustomed to improvising new weapons and may spend 8 hours with Blacksmith's Tools in order to recraft a basic version of their Weapon of Devotion. For example, a longsword being crafted into a Shovel Blade.
+
+### Hopeful Soul
+At 5th level, when faced with hardship, you can steel your soul to stay in the fight. On your turn, you can use your Bonus Action to regain Hit Points equal to 1d8 + your Knight level.
+
+Once you use this feature, you must finish a Short or Long Rest before you can use it again.
+
+### Campfire Craftsman
+At 7th Level, when taking a Short Rest, you can attempt to create a comforting campfire. On a success you and your allies heal an additional amount equal to 1d6 + your Relic score in Hit Points. Attempting this during a long rest grants temporary Hit Points equal to 1d4 + your Relic score.
+
+### Unwavering Spirit
+Upon reaching 9th level, a wealth of experience has strengthened your resolve against the creatures of the dark. You are immune to the *Frightened* condition, regardless of its source.
+
+### Treasure Tracker
+When you reach 14th Level, your benefactor grants you a Relic to reward your continued efforts, *The Ring Of Treasure Sight*. This shimmering ring grants advantage on checks related to finding hidden treasure and incurs disadvantage on Mimics attempting to hide in plain sight.
+
+Also, once per day you may cast the *Identify* spell without expending a spell slot.
+
+### Legend of the Realm
+Upon reaching 20th Level, you have garnered experience that rivals that of any adventurer. Your base movement speed doubles. Your Dexterity score increases by 4. The maximum for this score is now 24.

@@ -1,0 +1,58 @@
+## Tyrant
+[**Source:** *Tyrant*](https://homebrewery.naturalcrit.com/share/HMGCsvtxhgfJ)
+
+*The lure of creating the ultimate demon was too enticing to pass up.*
+
+<div style="text-align: right">
+– Zogthoth, the First Tyrant
+</div>
+
+Tyrants are a race of marauding demons, originally hailing from one of the many layers of the Abyss. While every fiend seeks to increase their own power, typically through violent means, Tyrants rely primarily on artifice and science, acquired through their brute force or bartery with other planes. Their hulking bodies are lined with technology combined with strange Abyssal magics.
+
+### From the Pit
+Tyrants have long served as wardens and slavers of the infernal pits, but due to their greater intellect and understanding of artifice, are seemingly more amicable than other demons.
+
+Many Tyrants find themselves living in other planes as merchants or adventurers. They are always keen to barter and can be easily bribed with new technologies and relics, espescially those that may increase their standing in the Abyss.
+
+### Flesh and Metal
+Tyrants could be called more social than other demons. If nothing else they understand that a weaker Tyrant sets a bad example, and thus many of their pilfered technologies are reverse engineered for the improvement of all Tyrants. This pragmatism drives them ever onward in pursuit of power, avoiding infighting in favor of strengthening their overall presence. 
+
+### Tyrant Names
+Tyrants use similar naming contentions to other demons, often having grim meanings in Abyssal.
+
+**Names:** Argath, Balvomo, Gornenad, Hastur, Istral, Kilgith, Melromun, Ollmonuuth, Rorgiug, Seggellog, Urmeth, Xol'gomaz.
+
+### Tyrant Traits
+***Ability Score Increase.*** Your Strength score increases by 2.
+
+***Age.*** Tyrants reach maturity in under ten years, and can live for over a thousand if they don't die in battle first.
+
+***Alignment.*** As fiends, Tyrants lean towards Evil alignments.
+
+***Size.***	Tyrants have towering, muscular bodies ranging from 7 to 8 feet tall. Your already impressive bulk is augmented by technology. Your size is Medium. 
+
+***Speed.*** Your great bulk doesn't lend itself to swiftness. Your base walking speed is 25 feet.
+
+***Hellish Arsenal.*** Your body is fitted with weapons created by mixing the arcane knowledge of the Abyss with advanced artifice, which are considered natural weapons for you. Your weapon has a number of charges equal to twice your proficency bonus, and you regain all charges after a long rest. You can expend one charge to make a ranged weapon attack *(1d10 Piercing, 30/90)*.
+
+***Iron-fisted Ruler.*** Due to the hellish arsenal afforded to you, you have only one free hand. You may not wield weapons with the Two-Handed or Heavy property, and can only equip a single one-handed weapon, shield, or handheld spellcasting focus.
+
+***Darkvision*** You originally hail from the Abyss, a lightless netherplane. You can see in dim light within 60 feet of you as if it were bright light, and in Darkness as if it were dim light. You can’t discern color in Darkness, only Shades of Gray.
+
+***Languages.*** You can speak, read and write Common and Abyssal.
+
+***Subrace.*** There are two main tribes of Tyrant: the Malchidael and the Nekravol.
+
+#### Nekravol
+The Tyrants of Nekravol are warriors and pillagers, prefering to take by force than bother with trade. More heavily armed than other Tyrants, they love to fight and test themselves.
+
+***Ability score increase.*** Your Constitution score increases by 1.
+
+***Double Lock-on.*** When you roll a 1 on a ranged attack roll, you can re-roll the die and must use the new roll.
+
+#### Malchidael
+The Malchidael make up the merchants, leaders, and recordkeepers of the Tyrants. They are more commonly seen among other races than others of their kind.
+
+***Ability score increase.*** Your Intelligence score increases by 1.
+
+***Instrument of Destruction.*** You deal double damage to objects and structues when using spells.

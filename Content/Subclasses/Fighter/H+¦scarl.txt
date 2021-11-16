@@ -1,0 +1,31 @@
+### Huscarl
+[**Source:** *Martial Archetype: Húscarls*](https://homebrewery.naturalcrit.com/share/H19drmae8)
+
+The Vikings were reknowned for their combat prowess and relentless ferocity on the battlefield, be it on land or sea. Highest among them was the Húscarl, the elite guard of the Chieftans.
+
+#### Wolves of the Sea
+When you choose this archetype at level 3, you gain proficiency with waterborne vehicles. If you already had proficiency with waterborne vehicles, you gain expertise instead.
+
+In addition, you gain advantage on Dexterity saving throws to avoid being knocked prone while aboard a waterborne vehicle.
+
+#### Warrior Fugue
+At level 3, the Húscarl can go into a berserker state as a bonus action. In this state, you do not trigger enemy reactions, you ignore difficult terrain. Additionally, as a reaction, you can reduce the damage of an attack made on you by 1d4 + Your fighter level. This reaction must be made before the damage roll of the attack is made.
+
+It ends early if you are knocked unconscious or if your turn ends and you haven't attacked a hostile creature since your last turn or taken damage since then. You can also end this effect on your turn as a Bonus Action. When the effect ends, you gain one level of exhaustion. You may use this feature once per short or long rest. Additional uses are gained at level 10 and 18.
+
+#### Ferocious Valor
+At level 3, the Húscarl can channel his ferocity in battle into his speech, gaining advantage on intimidation checks. You may use this feature a number of times equal to your Charisma modifier (minimum of 1), and you regain all uses of this feature after a short or long rest.
+
+#### Shield Breaker
+Starting at level 7, when you make a melee weapon attack on an enemy that is wearing armor or a shield and score a critical hit, their AC is reduced by 2 until the start of their next turn. Scoring two critical hits on the same enemy on the same turn causes the reduction to become a permanent aspect of their armor or shield. The permanent effect can be applied to both the armor and the shield if it is triggered a second time, but it may only be applied once per item. The item must be repaired with approriate tools by succeeding on a DC12 check, or replaced.
+
+#### Berzerkergang
+Starting at level 10, Warrior Fugue no longer applies exhaustion, and will no longer end early if your turn ends without you having attacked or taken damage on your turn. In addition, the effect now lasts two minutes, and during Warrior Fugue you gain a +10 bonus to movement speed. This bonus increases by 5 at level 15 and 18.
+
+#### Sunderer
+Starting at level 15, when you roll a natural 20 to attack a non-armored enemy that doesn't have a shield, their AC is reduced by 2 until the start of their next turn. Scoring two critical hits on the same enemy on the same turn causes this reduction to become a permanent effect. It can only be applied once, and it can be reversed with a Lesser Restoration spell.
+
+#### Ragnarok
+Starting at level 18, when you make at least three melee weapon attacks against the same creature on the same turn, regardless of whether they successfully hit or not, the target must make a Constitution saving throw. The DC is equal to your Charisma score. On a failed save, the damage you did to the target is doubled.
+
+Additionally, when the target fails their save, you must also make the same Constitution save, with the same DC. On a failed save, you gain two levels of Exhaustion.

@@ -1,0 +1,42 @@
+### Decree of Conviction
+The Decree of Conviction grants masked heroes the inability to accept defeat, and the resolve to turn the tide of any battle. Wielding flames conjured by their unmatched determination, these heroes decimate their enemies with both sword and fist. Retreat is never an option for these heroes, only triumph.
+
+#### Decree Magic
+Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Conviction Spells table. The spell counts as a masked hero
+spell for you, but it doesn't count against the number of masked hero spells you know.
+
+##### Conviction Spells
+| Masked Hero level | Spell |
+|:----:|:-------------|
+| 3rd  | *hellish rebuke* |
+| 5th  | *heat metal* |
+| 9th | *Melf's minute meteors* |
+| 13th | *fire shield (warm shield only)* |
+| 17th | *immolation* |
+
+#### Decree Enhancements
+When you select this decree at 3rd level, you can manifest magical gauntlets to turn your unarmed strikes into heroic armaments. You gain the following benefit for your Masked Transformation:
+
+***Scorching Gauntlets.*** Your unarmed strikes count as melee weapon attacks made with a heroic armament. In addition, whenever you take the Attack action on your turn with either an unarmed strike, or a melee weapon that you are wielding in one hand, you can make one unarmed strike as a bonus action. Your unarmed strikes also deal fire damage equal to a d6 in place of the normal damage of your unarmed strikes.
+
+The fire damage increases when you reach certain levels in this class, increasing to 1d8 at 11th level, and 1d10 at 15th level.
+
+#### Blazing Step
+At 3rd level, after using Deflective Strike, you can use your reaction to teleport up to 10 feet to an unoccupied space that you can see, interrupting the current turn. That space must also be within 5 feet of an enemy creature that you can see.
+
+After teleporting, you can either make one unarmed strike against that creature as part of the same action, or you can instead present your bonded device if it is on your person.
+
+If you choose to do this, all enemy creatures that you can see within 5 feet of you must make a Dexterity saving throw against your masked hero spell save DC or take fire damage equal to 1d6 + your Constitution modifier on a failed saving throw, and half as much on a successful one.
+
+You may expend one masked hero spell slot to deal an extra 1d6 fire damage after presenting your device, plus additional 1d6 for each spell slot level used higher than 1st, to a maximum of 5d6.
+
+#### Debilitating Impact
+At 7th level, fire damage dealt by your unarmed strikes and Blazing Step feature ignore resistance and immunity to fire damage. In addition, whenever you use Blazing Step, and your unarmed strike hits your target, that creature suffers a penalty to the next saving throw it makes. This penalty lasts for 1 minute, and equals to half your Wisdom modifier.
+
+#### Decree Enhancements
+Starting at 11th level, you gain the following benefit for your Masked Transformation:
+
+***Burning Resolve.*** You gain a bonus to your Strength checks and Strength saving throws equal to your Charisma modifier (minimum of one).
+
+#### Transferral Flames
+At 15th level, when you hit an enemy creature with an unarmed strike - and deal force damage to it - you can deal fire damage to another creature of your choice that you can see within 5 feet of your original target. This fire damage can be dealt only once on each of your turns, and equals to your unarmed strike damage die.

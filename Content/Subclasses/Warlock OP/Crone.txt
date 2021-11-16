@@ -1,0 +1,41 @@
+### The Crone
+[**Source:** *The Complete Arcanist Handbook*](https://drive.google.com/file/d/1ucl27lI0dMWi0BDsolHBB-ZgW4CSPhdP/view)
+
+Your patron is an elder force of the Feywild that veers capriciously between her maternal and destructive instincts. Such a creature smothers those she holds dear with doting attention and rejects those set against her with ruthless cruelty, often vacillating between these extremes seemingly without prompt. You have chosen a spiteful and suffocating patron, one whose nature you find yourself mimicking more and more. Beings of this sort include; Aradia, mother of witchcraft, Baba Yaga, the evil woman, and Hecate, queen of witches.
+
+#### Expanded Spell List
+The Crone lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+##### Crone Expanded Spells
+| Spell Level | Spell |
+|:-:|:--|
+| 1st | <em>cure wounds, sleep</em> |
+| 2nd | <em>blindness/deafness, enhance ability</em> |
+| 3rd | <em>bestow blessing, bestow curse</em> |
+| 4th | <em>conjure woodland beings, locate creature</em> |
+| 5th | <em>contagion, hallow</em> |
+
+#### Bind Coven
+Starting at 1st level, you learn a ritual that allows you to create a coven by mystically binding you and up to 12 other willing creatures of your choice within 30 feet together. This ritual takes 1 hour to complete.
+
+When you cast a warlock spell, you can choose a willing member of your coven within 120 feet. That member of your coven can use their reaction to deliver the spell as if they had cast the spell, targeting themself if the range of the spell is Self. If the spell requires an attack roll or saving throw, it uses your spell attack or spell save DC. If the spell requires concentration, you must maintain concentration on the spell.
+
+If you perform the ritual again, the bonds of your previous coven are destroyed.
+
+#### Mother Tongue
+At 1st level, you have the ability to comprehend and verbally communicate with hags and members of your coven even if you don’t share a language.
+
+#### Bond of Blood
+At 6th level, when you deliver a spell that causes a creature to regain hit points or that deals damage through a member of your coven, that creature can choose to sacrifice their own lifeblood to empower the spell. When they do, the creature rolls and expends a Hit Die, adding the result to the hit points regained or to the damage dealt to one target of the spell.
+
+At 10th level, a member of your coven that isn’t you can also use this ability when they cast a spell by expending your coven spell slot.
+
+#### Bond of Spirit
+At 10th level, you gain a special coven spell slot. A creature in your coven within 120 feet of you can cast a spell you know of a level equal to or less than the coven spell slot, expending the coven spell slot to do so. The creature does not need to provide material components for the spell unless those material components have a cost associated with them. They use your warlock spell save DC and spell attack modifier if relevant and they must maintain concentration on the spell if the spell requires concentration.
+
+If you expended your coven spell slot to cast a spell, you regain it when you finish a long rest. If any other member of your coven expended your coven spell slot to cast a spell, you regain it when you finish a short or long rest.
+
+#### Bond of Flesh
+Beginning at 14th level, you can use a bonus action on your turn to chain the resilience of your coven to one another. When you do, you and each member of your coven within 120 feet of you that has at least 1 hit point share a pool of common hit points for 1 minute. This pool of hit points equals the total of all affected coven members’ current hit points with maximum hit points equal to the total of all affected coven members’ maximum hit points.
+
+At the end of the minute, or when the common current hit point pool is reduced to 0 hit points, this effect ends. When the effect ends, each affected coven member’s current hit points equals 1 + the remaining current hit points in the pool divided evenly between all coven members.

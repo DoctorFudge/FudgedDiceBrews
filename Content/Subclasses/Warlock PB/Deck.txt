@@ -1,0 +1,31 @@
+#### Pact of the Deck
+[**Source:** *Pact of the Deck*](https://homebrewery.naturalcrit.com/share/h6CFUM6UtJ7Y)
+
+> ##### Imaginary deck needed
+> This pact requires the use of a full deck of 52 playing cards and 2 jokers, 54 cards total. However, that's too restrictive for online play. So just use the !deck alias on avrae.
+
+You gain the ability to summon a magical deck of cards. This deck acts as an arcane focus for your spellcasting. You can summon and dismiss the deck at will and it automatically dismisses itself if it is 5 ft away from you for a minute.
+
+Whenever you cast a warlock spell targetting a hostile creature, you draw a card from your deck. The suit and tier of the card determines the effects of the cards, which are summarized in the tables below.
+
+| Card type       | Effect |
+|:---------------:|:-----------|
+|  Ace            | The spell automatically hits the target|
+|  Number (2-10)  | Deal additional damage equal to value of card of the type associated with the suit |
+|  Jack           | The target is must make a saving throw of the type of suie or be afflicted with the suit condition until the end of their next turn. |
+|  Queen          | The target is must make a saving throw of the type of suit or be afflicted with the suit condition for 1 minute. |
+|  King           | The target automatically fails the first saving throw against the suit condition and is afflicted by it for 1 minute.|
+|  Joker          | The spell that triggers this card flips to target you. |
+
+| Suit       | Damage Type | Condition | Save type |
+|:---------------:|:--------:|:---:|:-:|
+| Hearts | Fire | Charm | Intelligence |
+| Diamond | Radiant | Stunned | Constitution |
+| Club | Force | Silenced | Wisdom |
+| Spade | Necrotic | Slowed (Half-Speed)| Strength |
+
+When the spell hits a target or the target fails the save at the time of casting, they suffer the effects of the cards drawn. If multiple targets are hit or fail the save of the spell, you chose one target for the card to hit.
+
+Targets affected by a Jack or Queen must make a saving throw of the correlated type of a DC equal to your warlock spell save DC or become impaired with the correlated condition for the amount of time listed in the table. Targets affected by a Queen or King can make saving throws at the end of their turn, ending the effect on themselves upon succeeding. Creatures cannot be affected by a card's status effect if they are already being affected by another card's status effect
+
+The deck is reshuffled whenever all the cards are drawn and discarded or after finishing a long rest.

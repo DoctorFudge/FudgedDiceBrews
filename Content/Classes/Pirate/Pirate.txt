@@ -1,0 +1,166 @@
+## Pirate
+[**Source:** *The Pirate*](https://drive.google.com/file/d/1e7N2czQdna2HEM_cPqI_RZFoBaQSjuvN/view)
+
+Taking a swig from his bottle of rum, the human begins bellowing orders ripe with obscenities from the top deck, screaming into the whirling winds as he strains hard against the ship's wheel.
+
+A beautiful, teal skinned tiefling stands upon the rail, one hand holding onto the rigging for dear life, her other hand weaving sigils and signs amongst the salt and spray that harries her every action.
+
+Atop the mast stands a kenku of black beak and feather, his clawed feet gripping tightly to the wet planks of the crows' nest. His keen eyes follow the ghoulish figures below and with every crack of thunder, he fires.
+
+Towards the forward bow of the ship, an elf elegantly patrols the rails with his twin scimitars, cutting down the seafallen scourge that slowly scales the sides of the vessel.
+
+Flanking him, a hulking goliath wielding a pair of rusty anchors like pick-axes, goring and crushing those unlucky enough to evade his elven companion.
+
+In an explosion of splinters and shrapnel, the doors to the lower deck smash open and exiting through them is a dwarf holding a great cannon-like blunderbuss. A grin splits the red hair of his smoking beard as he blasts a seafallen into a puff of red mist.
+
+Lumbering behind, a half-orc holding a swivel cannon begins raining scattershot over the starboard rail. A small shape darts across her figure reloading each shot the moment the weapon is fired, it lets out a simian squeak as it touches the burning metal, but otherwise ignores the pain as if well aware of what may happen if it stops.
+
+### Raiders of Reef and Cove
+Pirates are masters of shot, sea and sword! These charming, deceptive, and dangerous ocean dwellers plunder and pillage the waters of this realm, sailing from reef to cove to cay, always in search of the next adventure that lies just over the horizon. With steeled hearts and silver tongues they are able to charm their way through almost any situation. Whether by the tip of a sword or the flick of a coin, a pirate"s desire is almost always satisfied, then immediately replaced by another.
+
+### Daring Duelists
+Adept with a blade and swindlers by trade, pirates are unmatched when it comes to a duel of steel. The challenges provided by the heave and hurl of the ever-changing seas alters a pirate's fighting style, allowing them to fight on slippery planks in the wettest of storms. As a result, these swashbuckling sailors have incredible balance, able to run the oars or guns of a galleon just like the legends of old, their step and sway perfectly in balance with their ship. Woe be upon anyone who winds up on the wrong side of a pirate. If they are lucky, they might escape with a few scratches and some bruised pride, but if they cross a particularly mean pirate, they might end up cut to ribbons and fed to the sharks.
+
+### Treasure Fleets
+Although pirates sail under different flags, there is one thing that they all have in common, their lust for treasure, that one horde of loot that will set them up for life. Some pirates make their fortune in treasure and gold, others by soliciting their fighting prowess and skill for pay. A pirate"s lust for treasure can be their greatest gift and their most detrimental flaw.
+
+### Comrades in arms
+Pirates like to live free, unburdened by law or levy. For a pirate, being confined or forced to do something against their will or interests is tantamount to torture. A pirate's whims are fanciful and fleeting, their desires, passions and goals as changeable as the winds. To a pirate, their only loyalties are to their ship, crew and captain, whom many would call their family under the flag. The captain is the head of this family, anything the captain says, goes. If a pirate is lucky enough to find themselves a great captain and crew then nothing can stop them.
+
+### Creating a Pirate
+To start making your pirate character, first, think about when you fell in love with the sea. Perhaps you were born into the sailing life? Or did you visit a port city one day and marvel at the tall masts along the pier? Perhaps you were a young street urchin living in squalor and were saved by a kind pirate captain who offered you work.
+
+The second love of almost all pirates is gold. Did you hear about a great trove of treasure once in a story or shanty? Did you win a treasure map in a game of dice or cards? Maybe the treasure you seek is not gold or riches but a powerful magical item, legendary and ancient. Perhaps what you seek is not treasure, but a legacy above all others, to be the king of pirates, to be famous or infamous all throughout the world.
+
+#### Quick Build
+You can make a pirate quickly by following these suggestions. Firstly, a pirate spends a lot of time fighting on the high seas, thusly, Dexterity should be your highest ability score, to be better suited to the rocking, swaying, swashbuckling style of the high seas. Secondly, Charisma should be your next highest ability score, which you will need to build yourself a fearsome reputation, spreading tales of your triumph and terrifying adventures. Finally, choose the sailor background or the pirate variant if your DM allows it.
+
+##### The Pirate
+| Level | Proficiency Bonus | Features | Swagger Points | Swashbuckling Maneuvers Known |
+|:---:|:---:|:---|:---:|:---:|
+| 1st | +2 | Fighting Style, Pirate Jargon, Powder Maniac | ─ | ─ |
+| 2nd | +2 | Swagger & Swashbuckling Maneuvers | 2 | 2 |
+| 3rd | +2 | Pirate Reputation | 3 | 2 |
+| 4th | +2 | Ability Score Improvement | 4 | 3 |
+| 5th | +3 | Extra Attack | 5 | 3 |
+| 6th | +3 | Ability Score Improvement | 6 | 4 |
+| 7th | +3 | Pirate Reputation Feature | 7 | 4 |
+| 8th | +3 | Ability Score Improvement | 8 | 5 |
+| 9th | +4 | Nimble Nuisance | 9 | 5 |
+| 10th | +4 | Pirate Reputation feature | 10 | 6 |
+| 11th | +4 | Extra Attack | 11 | 6 |
+| 12th | +4 | Ability Score Improvement | 12 | 7 |
+| 13th | +5 | Pieces of Eight | 13 | 7 |
+| 14th | +5 | Ability Score Improvement | 14 | 8 |
+| 15th | +5 | Pirate Reputation feature | 15 | 8 |
+| 16th | +5 | Ability Score Improvement | 16 | 9 |
+| 17th | +6 | Sea Legs | 17 | 9 |
+| 18th | +6 | Pirate Reputation feature | 18 | 10 |
+| 19th | +6 | Ability Score Improvement | 19 | 10 |
+| 20th | +6 | Extra Attack | 20 | 10 |
+
+## Class Features
+As a Pirate, you gain the following class features.
+
+#### Hit Points
+- **Hit Dice:** 1d8 per pirate level
+- **Hit Points at 1st Level:** 8 + Constitution modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + Constitution modifier per pirate level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Light armor, medium armor, shields
+- **Weapons:** Simple weapons, crossbows, firearms, scimitars, shortswords
+- **Tools:** Tinker's tools, thieves' tools
+- **Vehicles:** Waterborne Vehicles
+___
+- **Saving Throws:** Dexterity, charisma
+- **Skills:** Choose three from acrobatics, deception, intimidation, insight, perception, sleight of hand, stealth, survival
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a scimitar, or *(b)* a shotgun and 20 buckshot rounds, or *(c)* a pepperbox and 20 cartridges
+- *(a)* two simple weapons, or *(b)* two flintlock pistols and 20 musketballs
+- *(a)* a dungeoneer's pack or *(b)* an explorer's pack
+- Leather armor and common clothes, tinker's tools, thieve's tools and a dagger
+
+If you are using starting wealth, you have 5d4×10gp in funds.
+
+#### Fighting Style
+At 1st level, you adopt a particular style of fighting as your speciality. Choose one of the following options. You can"t take a Fighting Style option more than once, even if you later get to choose again.
+
+##### Deadeye
+You gain a +2 bonus to attack rolls you make with martial and simple ranged weapons and firearms.
+
+##### Dueling
+When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+
+##### Mariner
+As long as you are not wearing heavy armor or using a shield, you double your swimming speed, have a climbing speed equal to your normal speed, and you gain a +1 bonus to AC.
+
+##### Two-Weapon Fighting
+When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+
+### Pirate Jargon
+Starting at 1st level, you learn the spoken language and codex of pirates, known as "Jargon", a confident and informal bluster consisting of various slang pirate words, phrases, and terminology. You may use this language and code to communicate with other pirates who know it without any arrogant land lubbers understanding your true intentions.
+
+This ability allows you to hide messages in a seemingly normal conversation. Only another creature that knows pirate jargon understands such messages. It takes four times longer to convey such a message than it does to speak the same idea plainly.
+
+In addition, you understand a set of secret signs and symbols used to convey short, simple messages, such as whether an island has a smugglers cove, whether it is on a privateer patrol route, whether the island is owned by a specific pirate lord, or perhaps even if there is treasure abound for those who know where to look.
+
+### Powder Maniac
+Also at 1st level, you gain proficiency with tinker's tools, allowing you to craft ammunition and bombs, repair damaged firearms, or even create new ones (DM's discretion).
+
+### Swagger & Swashbuckling Maneuvers
+Pirates have a unique set of skills that set pirates aside from other fighters, a certain swagger and unpredictability that makes them so incredibly infuriating to fight against, and so very dependable to fight alongside.
+
+#### Swagger
+Starting at 2nd level, you have begun to make a name for yourself as a pirate. You have begun to master the art of trickery and guile, using your words as weapons when required, as well as honing your skills with both shot and sword, for when words fail, steel shall succeed. You gain 2 swagger points at 2nd level and 1 additional swagger point for every level thereafter. You regain your swagger points after either a short or long rest.
+
+#### Swashbuckling Maneuvers
+Your swagger points can be spent on a variety of swashbuckling maneuvers, a series of abilities to aid you on your adventures. At 2nd level you may learn two swashbuckling maneuvers; you learn 1 additional swashbuckling maneuver after every second level when you reach 4th, 6th, 8th, 10th, 12th, 14th, 16th and 18th level. Your maneuver options are detailed at the end of the class.
+
+Some of your swashbuckling maneuvers require your target to make a saving throw to resist the effects. The saving throw DC is calculated as follows:
+
+<center>
+
+**Swashbuckler Save DC** = 8 + proficiency bonus + your Dexterity modifier
+
+</center>
+
+### Pirate Reputation
+At 3rd level, you get to choose your pirate reputation, one that embodies the very essence of who you are as a pirate. Choose from the Fool, the Dread Pirate, the Seafallen, and the Powder Keg, all of which are detailed at the end of this class description. The reputation you choose grants you features at 3rd level and again at 7th, 10th, 15th and 18th levels.
+
+### Ability Score Increase
+When you reach 4th level, and again at 6th, 8th, 12th, 16th and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+Alternatively, if your DM will allow it, you may request to take a feat instead of an ability score improvement. For the best chance of gaining a feat, try and use some of your downtime activity to train or learn something related to the feat you want to take, this helps add plausibility to the new feat rather than simply attaining an ability out of nowhere.
+
+### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+The number of attacks increases to three when you reach 11th level in this class and to four when you reach 20th level in this class.
+
+### Nimble Nuisance
+At 9th level, you gain a climbing and swimming speed equal to your base walking speed, and gain expertise on Strength (athletics) and Dexterity (acrobatics) checks made to climb and swim. Such difficult tasks might include leaping between rope and rigging, swimming against a current, or climbing an island cliffside in search of treasure.
+
+### Pieces of Eight
+At 13th level, you gain access to a legendary Piece of Eight, a magical relic of legendary renown coveted amongst all pirate captains. The piece of eight grants both a passive boon and has the option of activating a secondary more powerful spell effect once per long rest. After the piece of eight has been activated you no longer benefit from the passive effect until you complete a long rest. Pieces of eight do not require attunement.
+
+##### Pieces of Eight
+| Piece of Eight | Passive Boon | Activated Effect |
+|:---:|:--|:--|
+| Calypso's Ring | Enables the wearer to walk on water whenever they wish to | Enables the wearer to cast the *water breathing* spell once when activated |
+| Nemo's Hat | Grants the wearer +2 on all Charisma (persuasion, deception and intimidation) checks | Enables the wearer to cast the *suggestion* spell once when activated |
+| Message in a Bottle | Enables the innate use of the *message* cantrip | Enables the wearer to cast the *sending* spell once when activated |
+| Tritons Tuning Fork | A tuning fork that allows the wielder to control any water vehicle they stand on from any point as if they were at its helm | Enables the wearer to cast the *tidal wave* spell once when activated |
+| Telchines Eyepatch | Grants the wearer darkvision up to 120 feet | Enables the wearer to cast either the *darkness* spell or the *daylight* spells once when activated |
+
+| Piece of Eight | Passive Boon | Activated Effect |
+|:---:|:--|:--|
+| Sash of the Siren | The wearer gains immunity to all Charm and Fear effects | Enables the wearer to cast the *fear* spell once when activated |
+| Deep King's Conch | While held, the user can speak with aquatic animals at will | Enables the wearer to cast the *tounges* spell once when activated |
+| Bell of Boneyard Parley | Allows the holder to innately use the *toll the dead* cantrip | Enables the wearer to cast the *speak with dead* spell once when activated |
+
+### Sea Legs
+At 17th level, you have spent enough time at sea and have gained yourself some sturdy sea legs. This ability grants you advantage on all saving throws and ability checks made against being knocked prone by an enemy creature, spell, or environmental effect.

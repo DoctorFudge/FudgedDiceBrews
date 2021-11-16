@@ -1,0 +1,37 @@
+### College of Pantomime
+[**Source:** *The Complete Arcanist Handbook*](https://drive.google.com/file/d/1ucl27lI0dMWi0BDsolHBB-ZgW4CSPhdP/view)
+
+Bards of the College of Pantomime, called mimes, are performers who believe that the purest form of entertainment does not require sound, but only immaculate use of facial expressions and body language. Mimes train to perfect this art of silent performance, and most take oaths to speak as little as possible and thereby make their craft and their life indistinguishable. A sufficiently skilled mime can even ascend their pantomime into minor reality warping, whether it be to eschew the verbal components of spells or to create invisible magical constructs with which they and others can interact.
+
+As such a mime, other bards may consider your artform strange, but they cannot help but recognize and respect your skill, understanding just how difficult it is to master your craft and the extraordinary commitment it takes. Those who do not dedicate their lives to performance, however, will often view you as a distracting and somewhat silly oddity, though the novelty of your craft in comparison to other bards will likely turn some heads.
+
+#### Silent Treatment
+Starting when you join the College of Pantomime at 3rd level, you are able to communicate your meaning through gestures, facial expressions, and body language. As long as a creature can see you, you can communicate simple ideas and phrases to it without speaking. You do not need to share a language with the creature for it to understand you this way, but it must understand at least one language.
+
+Additionally, you can ignore your Bardic Inspiration’s requirement that a creature must be able to hear you as long as it can see you, and you can ignore the verbal components of your bard spells. If a bard spell you cast would normally require you to speak for its effect, such as the *suggestion* spell, a target can still be affected by the spell as long as it can see you, it speaks at least one language, and you add a somatic component to the spell in the form of gestures, facial expressions, and body language.
+
+#### Pantomime Tricks
+Also at 3rd level, you learn pantomime tricks that are given substance by your bardic magic. You learn two pantomime tricks of your choice, which are detailed below. You learn one additional trick of your choice at 6th and 14th level. Each time you gain a level in this class, you can replace one pantomime trick you know with a different one.
+
+Some of your pantomime tricks require your target to make a saving throw to resist the trick’s effects. The saving throw DC is equal to your spell save DC.
+
+***Box Trap.*** As an action, you can expend one use of your Bardic Inspiration and mime creating a box with your hands to magically trap a Large or smaller creature you can see within 30 feet of you in an invisible box until the start of your next turn. The box is a cube large enough to encapsulate each space the target occupies, and its sides are solid planes of force. When a creature attempts to pass through one of the cube’s sides, it must succeed on a Strength saving throw or take force damage equal to a roll of your Bardic Inspiration die. A creature’s speed becomes 0 until the start of your next turn if it takes force damage from this trick.
+
+***Empty Calories.*** Over the course of 1 minute, you can expend a use of your Bardic Inspiration and mime cooking and serving a meal to magically create invisible food. Roll your Bardic Inspiration die. A single creature can eat the meal, which has no taste but grants the creature temporary hit points equal to the result and enough nourishment to sustain it for a single day. If the meal isn’t consumed within 10 minutes, it is lost.
+
+***Invisible Weapon.*** As a bonus action, you can expend one use of your Bardic Inspiration and mime holding a fearsome weapon to magically create an invisible simple melee weapon in your hand that lasts for 1 minute or until it leaves your hand. You are proficient with the weapon, which has the light property, deals force damage, and uses your Bardic Inspiration die as its damage die. You use your Charisma for the invisible weapon’s attack and damage rolls, instead of your Strength.
+
+***Rope Pull.*** As an action, you can expend one use of your Bardic Inspiration and mime twirling and throwing a rope to attempt to magically lasso a creature or object you can see within 60 feet of you with an invisible rope. If the target is Large or smaller, it must make a Strength saving throw. On a failure, roll your Bardic Inspiration die and the target is knocked prone and pulled a number of feet straight toward you up to 5 times the result.
+
+If the target is Huge or larger or affixed to a creature or object of that size, roll your Bardic Inspiration die. You pull yourself a number of feet straight toward it up to 5 times the result.
+
+***Slippery Terrain.*** As an action, you can expend one use of your Bardic Inspiration and mime slipping around on ice to magically make the ground in a 10-foot radius around you incredibly slick for 1 minute or until you lose concentration (as though concentrating on a spell). The ground in the area becomes difficult terrain, and whenever a creature other than you walks into a space in the area for the first time each turn, it must succeed on a Dexterity saving throw or take bludgeoning damage equal to your Bardic Inspiration die and be knocked prone. The area does not follow you as you move.
+
+***Unseen Shield.*** When you are hit by an attack, you can use your reaction and expend one use of your Bardic Inspiration to place your hands out in front of you and magically block the attack with an invisible plane of force. Roll your Bardic Inspiration die and add the result to your AC until the start of your next turn, including against the triggering attack.
+
+***Trust Bridge.*** As an action on your turn, you can expend a use of your Bardic Inspiration and mime the construction of one end of a rope bridge to magically extend an invisible plane of force that is 5 feet wide straight out in front of you for 1 minute. The bridge’s length can be a number of feet up to 5 x your bard level. Both ends of the bridge must connect to solid ground, otherwise the trick fails. For the duration, the bridge can be walked on as though it were flat ground, though it can only support a single creature at a time. Roll your Bardic Inspiration die. Once that number of creatures crosses the bridge, the bridge disappears.
+
+***Windy Day.*** As an action on your turn, you can expend a use of your Bardic Inspiration and mime walking against a strong wind to magically create an immense current of invisible wind in your space for 1 minute or until you lose concentration (as though concentrating on a spell). As you move, the wind accompanies you. When you make a ranged attack or a creature makes a ranged attack against you, you roll your Bardic Inspiration die and subtract the result from the attack roll. The wind also hedges out vapor, gas, and fog that can be dispersed by a strong wind.
+
+#### Master Mime
+Starting at 14th level, whenever you roll your Bardic Inspiration die for a pantomime trick, you can roll the die twice and use either result.

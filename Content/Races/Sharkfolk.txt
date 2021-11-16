@@ -1,0 +1,54 @@
+## Sharkfolk
+[**Source:** *Sharkfolk*](https://homebrewery.naturalcrit.com/share/-jwllwkqb)
+
+The sharkfolk live in the ocean where they move in packs together. Many decide to live on land or ship after spending most of their lives beneath the waves. Sharkfolk have a tendency of becoming pirates due to their whimsical nature and need for power and dominance over other creatures.
+
+### Sharkfolk Traits
+Ability Score Increase. Your strength score increases by 1.
+
+***Age.*** Sharkfolk mature at the same rate as humans do and reach adulthood around the age of 20. They live considerably longer than humans, often reaching well over 100 years.
+
+***Alignment.*** Most sharkfolk are chaotic in nature, living in close harmony with nature.
+
+***Size.*** Ranging from 6 to 8 feet tall, your size is is medium
+
+***Speed.*** Your base walking speed is 30 feet. You also have a swim speed of 30 feet.
+
+***Amphibious.*** You can breath both air and water
+
+***Natural Weapon.*** Sharkfolk can attempt to bite opponents. If you hit with your bite, you deal piercing damage equal to 1d6 + your strength modifier.
+
+***Born of the Deep.*** Adapted to even the most extreme ocean depths, you have resistance to cold damage, and you ignore any of the drawbacks caused by a deep, underwater environment.
+
+***Languages.*** You can speak, read, and write Common and Aquan
+
+***Subraces.*** Sharkfolk are actually three separate subspecies. The Hammerhead Sharkfolk are the most aggresive. Socially they are the big dumb ones of the group. Sawtooth Sharkfolk tend to be the more personable of the group, allowing their personalities (and long rostrums) to lead the way. Meanwhile, the Great White Sharkfolk are the true natural born leaders.
+
+#### Hammerhead Sharkfolk
+Hammerhead sharkfolk are followers. They tend to do as they're told and do not venture outside of the group on their own. They also tend to be the bullies and "enforcers" of the group.
+
+***Ability Score Increase.*** Your constituion score increases by 2.
+
+***Natural Bullies.*** You gain proficiency in the intimidation skill, and may use your strength bonus for intimidation checks instead of charisma.
+
+***Feeding Frenzy.*** On your turn, as a free action, you may enter into a feeding frenzy. During this state, you can use your Natural Weapon attack as a bonus action, and you must make such an attack on every turn for the duration of this state or the state will end, otherwise the state lasts for one minute. You may not enter this state again until you have completed a long rest.
+
+#### Sawtooth Sharkfolk
+Full of bravado and swagger, Sawtooth Sharkfolk see themselves as the most powerful of the group (whether it be true or not).
+
+***Ability Score Increase.*** Your dexterity score increases by 2
+
+***Natural Weapon.*** Rostrum (replaces bite). You use your rostrum as a finesse weapon . On a hit, you deal slashing damage equal to 1d6 + your Strength or Dexterity modifier.
+
+***Blood Affinity.*** When your target is in the water and you use your Rostrum as your attack action, you have advantage on attack rolls against them if they are wounded.
+
+***Blood Sensitivity.*** Creatures with less than half health have disadvantage when trying to hide from you.
+
+#### Great White Sharkfolk
+The leaders of the pack, the Great White Sharkfolk are the alphas of their societies. They are natural leaders and they command the respect of their allies
+
+***Ability Score Increase.*** Your charisma score increases by 1, and your strength score increases by an additional 1.
+
+***Dead Eyes.*** You gain proficiency in the intimidation skill.
+
+***Blood in the Water.*** When you score a critical hit with a melee weapon attack, you can roll one of the weapon's damage dice one additional time and add it to the extra damage of the critical hit.

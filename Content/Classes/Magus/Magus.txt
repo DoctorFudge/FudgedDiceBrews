@@ -1,0 +1,160 @@
+## Magus
+[**Source:** *Sterling Vermin Adventuring Co. Anthology*](https://drive.google.com/file/d/1Ny8dWiwZ57q6lGtbyQUp_xOwmlx4Ty_m/view)
+
+A human confronted by two orcs draws his rapier and, as he does, violet runes illuminate the air around the weapon. One of the orcs rushes towards the man, swinging its weapon wildly. As the man parries the orc's reckless attacks, he delivers a riposte that causes the air around the orc to burst into green flames. Seeing its ally sent sprawling to the ground, the second orc becomes decidedly less enthusiastic about the fight.
+
+A dwarf looks down from the mountain peak she calls home and sees the rampant destruction of the woods she has sworn to protect. As she approaches the hunting encampment responsible for the fire, she calls her woodland allies to her side and her skin hardens to resemble bark.
+
+Looking over ancient hieroglyphs, a saurian frantically searches for details of a ritual that will fortify the mystic seal that protects his ancestral home. The impossibly heavy doors swing open behind him and he turns to face the temple's guardians as his sword erupts with flames.
+
+Magi are mystical warriors who blend martial prowess with esoteric knowledge and spellcasting. Magi balance the pursuit of personal goals and relationships with their obligations to pursue the goals and ideals of the eldritch societies they belong to. Although their backgrounds may sometimes set them at odds against one another, magi are united by their commitment to a cause greater than themselves and a drive to master their magical abilities.
+
+### Martial Magicians
+Every magus is a warrior. Magi train with arms and armor to protect what they hold dear, fight for what they believe in, and get themselves into or out of trouble. For magi, though violence may not be their preferred solution to a given problem, it is always a valid backup plan.
+
+Every magus is a magician. Magi use their hard-earned spellcasting abilities to explore the multiverse, empower their companions, and decimate their enemies. For a magus, magic is a tool that expands their horizons and their options.
+
+### Warriors with a Purpose
+All magi learn their abilities in order to fulfill their obligations to their eldritch society. On a mystical level, every magus' spellcasting style is shaped by their eldritch society. On a personal level, every magus must deal with the demands and ideology of their eldritch society in their own way. Regardless of whether a magus embraces their eldritch society's traditions and politics, no magus can deny the influence it has on their magic and outlook.
+
+Eldritch societies are not monolithic entities, but they do have beliefs and goals that the majority of the magi within them believe in and fight for. Magi in the Arcane Order observe a tradition of honoring the requests and wisdom of their mentors and, subsequently, striving to train an apprentice to become an even greater magus then they are. Members of the Primordial Seal believe that the material planes are constantly under threat of incursion from the elemental planes and they must remain on guard to ensure the world's safety. Magi in the Sylvan Circle seek to protect the wilderness of the world from destruction and defilement, although what exactly that entails varies from magus to magus.
+
+### Creating a Magus
+As you create your magus character, consider the relationship your character has to their eldritch society. Does your character feel indebted to the society for the lessons it taught them? Does your character actively pursue the goals of their society? Has your character had a falling out with their society and, if so, why? While training to be a magus did you make any rivals? Who are they?
+
+Fighting may have come naturally to you and your mentor struggled to impart you with the basics of spellcasting. Or maybe the spellcasting came easily but you lacked a talent for combat. You might have spent years in training with a mentor before being left to your own devices or you may have only met your mentor informally on a handful of momentous occasions. You might report back to your society contacts regularly or keep a safe distance from other magi.
+
+#### Quick Build
+You can make a magus quickly by following these suggestions. First, Strength or Dexterity should be your highest ability score, followed by Intelligence (Arcane Order, Shadow Court, Sidereal Cabal), Wisdom (Sylvan Circle), or Charisma (Knights Stygian, Primordial Seal) based on your eldritch society. Second, choose the Sage or Soldier background.
+
+##### The Magus
+| Level | Proficiency | Bonus Features | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th |
+|:-:|:-:|:--|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1st | +2 | Eldritch Society, Esoteric Eye | 2 | — | — | — | — | — | — |
+| 2nd | +2 | Mystic Mark, Spellcasting | 2 | 3 | 2 | — | — | — | — |
+| 3rd | +2 | Eldritch Armament, Eldritch Society feature | 2 | 3 | 3 | — | — | — | — |
+| 4th | +2 | Ability Score Increase | 3 | 4 | 3 | — | — | — | — |
+| 5th | +3 | — | 3 | 5 | 4 | 2 | — | — | — |
+| 6th | +3 | Mystic Meditation | 3 | 5 | 4 | 2 | — | — | — |
+| 7th | +3 | Eldritch Society feature, War Magic | 3 | 6 | 4 | 3 | — | — | — |
+| 8th | +3 | Ability Score improvement | 3 | 7 | 4 | 3 | — | — | — |
+| 9th | +4 | Aegis and Enspell improvements | 3 | 8 | 4 | 3 | 2 | — | — |
+| 10th | +4 | Spell Surge | 4 | 8 | 4 | 3 | 2 | — | — |
+| 11th | +4 | Improved War Magic | 4 | 9 | 4 | 3 | 3 | — | — |
+| 12th | +4 | Ability Score Improvement | 4 | 10 | 4 | 3 | 3 | — | — |
+| 13th | +5 | Aegis and Enspell improvements | 4 | 11 | 4 | 3 | 3 | 1 | — |
+| 14th | +5 | Eldritch Society feature | 4 | 11 | 4 | 3 | 3 | 1 | — |
+| 15th | +5 | Spell Ward | 4 | 12 | 4 | 3 | 3 | 2 | — |
+| 16th | +5 | Ability Score Improvement | 4 | 13 | 4 | 3 | 3 | 2 | — |
+| 17th | +6 | — | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 18th | +6 | Greater Spell Surge | 4 | 14 | 4 | 3 | 3 | 3 | 1 |
+| 19th | +6 | Ability Score Improvement | 4 | 15 | 4 | 3 | 3 | 3 | 2 |
+| 20th | +6 | Spell Surge and Greater Spell Surge improvements | 4 | 16 | 4 | 3 | 3 | 3 | 2 |
+
+## Class Features
+As a magus, you gain the following class features.
+
+#### Hit Points
+___
+- **Hit Dice:** 1d8 per magus level
+- **Hit Points at 1st Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per magus level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Light armor, medium armor, shields
+- **Weapons:** Simple weapons, martial weapons
+- **Tools:** None
+___
+- **Saving Throws:** Constitution, Intelligence
+- **Skills:** Choose one from Acrobatics, Arcana, Athletics, History, Insight, Investigation, and Perception.
+
+#### Equipment
+You start with the following equipment in addition to the equipment gained by your background.
+- *(a)* a simple weapon and a shield or *(b)* a martial weapon or *(c)* a longbow and 20 arrows
+- *(a)* leather armor or *(b)* scale mail
+- *(a)* an arcane focus or *(b)* a druidic focus or *(c)* a component pouch
+- An explorer's pack
+
+### Eldritch Society
+At 1st level, you choose an eldritch society that trained you in the ways of the magus: the Arcane Order, the Knights Stygian, the Primordial Seal, the Shadow Court, Sidereal Cabal, or the Sylvan Circle. Your choice grants you features at 1st level and again at 3rd, 7th, and 14th level. Your choice also determines your spell list.
+
+### Esoteric Eye
+At 1st level, you can detect the arcane abilities of others. As an action, your eyes visibly flash with magic as your senses wake to the mystical energies of the multiverse. Until the end of your next turn, you know if each creature you can see within 60 feet of you has the Spellcasting or Innate Spellcasting feature or trait. Additionally, you learn each of those creatures' spellcasting ability, if they have one.
+
+You can use this feature a number of times equal to 1 + your magus spellcasting modifier. You regain all expended uses when you finish a long rest.
+
+### Mystic Mark
+Starting at 2nd level, you learn to place a mystic mark. You can use this mark to enspell a weapon or to grant a creature an aegis. You can use your mystic mark a number of times equal to your magus spellcasting ability modifier. You regain all expended uses when you finish a long rest.
+
+#### Aegis
+As a bonus action you can project your mystic mark onto a creature you can see within 30 feet of you. For the next minute the target is under the protection of your aegis and receives a bonus to its armor class. This bonus increases their AC by +1. If the target is wearing armor that grants a magical bonus to AC, use whichever bonus is higher. The aegis ends if you or your target end a turn more than 120 feet away from one another. A creature can only benefit from one aegis at a time.
+
+This bonus to AC increases to +2 when you reach 9th level and increases to +3 when you reach 13th level.
+
+#### Enspell
+As a bonus action, you surround a weapon you're holding with your mystic mark. This weapon is enspelled and counts as a spellcasting focus for you for the next minute. While enspelled, the weapon is considered magical and adds a +1 bonus to attack rolls and damage rolls. If the weapon already grants a magical bonus to attack and damage, use whichever bonus is higher. The enspell ends if you lose possession of the weapon. A weapon can only benefit from one enspell at a time.
+
+These bonuses to hit and damage increase to +2 when you reach 9th level and +3 when you reach 13th.
+
+### Spellcasting
+Starting at 2nd level, you gain the ability to cast spells of 1st level and higher. See chapter 10 of the Player's Handbook for the general rules of spellcasting.
+
+#### Spell Slots
+The Magus table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+For example, if you know the 1st-level spell find familiar and have a 1st-level and a 2nd-level spell slot available, you can cast find familiar using either slot.
+
+#### Spells Known of 1st-Level and Higher
+You know three 1st-level magus spells of your choice from your eldritch society's spell list. You learn additional spells chosen from your eldritch society's spell list as indicated in the Spells Known column of the Magus table.
+
+Additionally, when you gain a level in this class, you can choose one of the magus spells you know and replace it with another spell from your eldritch society's spell list, which also must be of a level for which you have spell slots.
+
+#### Spellcasting Ability
+Your spellcasting ability is determined by your eldritch society. See the Initiate feature of your eldritch society for your spellcasting ability.
+
+#### Ritual Casting
+You can cast a magus spell as a ritual if that spell has the ritual tag and you know the spell.
+
+#### Spellcasting Focus
+Your spellcasting focus, if any, is determined by your eldritch society. See the Initiate feature of your eldritch society to see what, if any, spellcasting focus you may use for your magus spells.
+
+### Eldritch Armament
+Starting at 3rd level, you learn to infuse your preferred weapon or shield with magical power. Choose one of the following options.
+
+#### Eldritch Archer
+When you hit a creature with a ranged weapon under the effect of your Enspell feature you can cause the ammunition to explode with mystical energy, dealing the same damage type the attack would normally cause to all creatures within 10 feet of the target. When you do so, expend a spell slot and the creature and each other creature within 10 feet must succeed on a Dexterity saving throw or take 2d4 + 1d4 damage for each spell level higher than 1st, to a maximum of 6d4. On a success, they take half damage.
+
+#### Mystic Marauder
+When you hit a creature with a melee weapon attack with a weapon you are wielding with two hands that is under the effect of your Enspell feature, you can expend a spell slot to deal additional damage to the target. The extra damage is 2d6 for a 1st-level spell slot. The damage increases by 1d6 for each slot level above 1st, to a maximum of 6d6. The weapon must have the two-handed or versatile property for you to use this feature.
+
+#### Sorcerous Sentinel
+While you are wielding a shield, when a creature under the effect of your Aegis feature is attacked you can use your reaction to expend a spell slot and strengthen the target's defenses. The target gains a bonus to AC equivalent to the spell slot expended. This bonus is only applied against the triggering attack. Additionally, the target gains temporary hit points equal to your spellcasting modifier + twice the level of the spell slot expended.
+
+#### Spell Sword
+When you hit a creature with a one-handed melee weapon under the effect of your Enspell feature you may expend a spell slot to deal additional damage and render the creature vulnerable to magical attacks. The extra damage is 1d4 for a 1st-level spell slot. The damage increases by 1d4 for each slot level above 1st, to a maximum of 5d4. Additionally, the creature has disadvantage on saving throws against spells you cast until the end of your next turn.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Mystic Meditation
+Starting at 6th level, when you take a short rest you can choose to recover all expended uses of your Mystic Mark. You must complete a long rest before you can use this feature again.
+
+### War Magic
+Beginning at 7th level, when you use your action to cast a cantrip, you can make one weapon attack as a bonus action.
+
+### Spell Surge
+Starting at 10th level, you can cast any magus spell you know without expending a spell slot. The spell is cast as if you had used a spell slot equal to the highest spell slot you have.
+
+Once you use this feature, you must finish a long rest before you can use it again. You can use this feature twice between long rests starting at 20th level.
+
+### Improved War Magic
+Starting at 11th level, when you use your action to cast a spell, you can make one weapon attack as a bonus action.
+
+### Spell Ward
+Starting at 15th level, the magical attacks of your enemies unravel around you. You and friendly creatures within 15 feet of you have advantage on saving throws against spells.
+
+### Greater Spell Surge
+At 18th level, choose one 6th-level spell from your eldritch society's spell list. You can cast this spell once without expending a spell slot.
+
+Once you use this feature, you must finish a long rest before you can use it again. You can use this feature twice between long rests starting at 20th level.

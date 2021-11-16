@@ -1,0 +1,317 @@
+## Lich
+[**Source:** *Cursed Classes*](https://drive.google.com/file/d/1gtnEGPCDIanjcGDm1iby_i6ztDaX01Gb/view)
+
+"You'll never settle down and find a husband if you spend all day in the library," they said. She tired of hearing about how late nights studying would give her wrinkles. Now her desiccated face is creased with laugh lines, and the cackle of her voice echoes throughout the halls of the abandoned university. While they threw their lives away to the pursuit of shallow mortal joys, she dedicated her life to cracking open the mysteries of the universe. His funeral was a warm and pleasant affair. His children thanked him for all he had done, and his grandchildren laid flowers at his feet before he left them. The daffodil from his great-granddaughter has since turned to dust between the pages of his favorite magic tome but he still watches over her descendants from the tower up on the mountain. Fortune favors the bold they say, and she was never one to turn away from risk. Tucking her phylactery into the rogue's bag of holding was typically her way of saying, "You go on ahead, I'll see you next week." When she did this the party knew to flee to a safe distance because things were about to get very, very explosive.
+
+### Not Enough Hours In A Day
+The world is filled with so much knowledge, more than most mortals could ever hope to absorb in a single lifetime. When one life is not enough powerful magic users pursue dark arts to extend their own existence into undeath. Many liches are believed to be consumed by the madness that drives them to such extremes, but some are all too clear of mind. Selfishly focusing on their goals by any means necessary. That being said, not all liches are self-centered and some devote their near-endless lives to helping others.
+
+### Be Still My Heart
+With their desiccated, hollowed body carrying no heartbeat, the "life" of a lich is maintained within another mechanism. A phylactery is the heart of a lich, containing the souls that fuel them, as well as the magic runes that preserve their existence. While some liches may be tempted to hide their phylacteries away, adventuring liches must struggle with the balance of protecting the trinket that preserves their unlife while also needing it as both their functioning spellbook and their magical focus.
+
+| Level | Proficiency Bonus | Features | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|:-:|:-:|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1st | +2 | Phylactery | 3 | 2 | — | — | — | — | — | — | — | — |
+| 2nd | +2 | Soul Consumption | 3 | 3 | — | — | — | — | — | — | — | — |
+| 3rd | +2 | Immortal Pathway | 3 | 4 | 2 | — | — | — | — | — | — | — |
+| 4th | +2 | Ability Score Improvement | 4 | 4 | 3 | — | — | — | — | — | — | — |
+| 5th | +3 | Reaper's Greed | 4 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th | +3 | Immortal Pathway Feature | 4 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th | +3 | — | 4 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8th | +3 | Ability Score Improvement | 4 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th | +4 | — | 4 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | +4 | — | 5 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11th | +4 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12th | +4 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | +5 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | +5 | Immortal Pathway Feature | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | +5 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | +5 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | +6 | — | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | +6 | — | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th | +6 | Ability Score Improvement | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th | +6 | Demilich | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
+### Creating a Lich
+When creating your lich consider what drove them to the pursuit of undeath. What events brought them face to face with the fear of their own mortality? Did they choose to become a lich, or was the curse accidentally inflicted upon them? What goals will they pursue with potentially unlimited time? Will boredom become an issue?
+
+Liches need to regularly consume the souls of reasonably intelligent creatures to preserve themselves. How do they feel about taking the souls of others in order to preserve their own lives? Are they picky about the souls they take, or will anyone do? How do they treat their phylactery, and how do they regard others who might get close to it?
+
+#### Quick Build
+You can make a lich quickly by following these suggestions. First, make Intelligence your highest ability score so you can better cast spells. Your next-highest score should be either Dexterity or Constitution to increase your chances of survival. Next, choose the sage background. Third, choose the mage hand, light, and chill touch cantrips along with the following 1st-level spells for your spellbook: dissonant whispers, cause fear, feather fall, mage armor, and detect magic.
+
+## Class Features
+As a lich, you gain the following class features:
+
+#### Hit Points
+- **Hit Dice:** 1d6 per lich level
+- **Hit Points at 1st Level:** 6 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per lich level after the 1st
+
+#### Proficiencies
+___
+- **Armor:** None
+- **Weapons:** Daggers, darts, quarterstaffs, light crossbows
+- **Tools:** None
+___
+- **Saving Throws:** Intelligence, Constitution
+- **Skills:** Choose two from Arcana, History, Investigation, Medicine, Nature, Perception, and Religion
+
+#### Equipment
+You start with the following equipment, in addition
+- to the equipment granted by your background:
+- (a) a quarterstaff or (b) a dagger
+- (a) a dungeoneer's pack, (b) an explorer's pack or (c) a scholar's pack
+- A phylactery, which acts as your arcane focus and spellbook (see feature)
+
+### Phylactery
+Your soul is tied to an object that allows you to live forever so long as you keep it supplied with the life-force of others. While you have at least 1 soul in the phylactery, any spell whose sole purpose is to return you to life can substitute your phylactery as the sole material component required to cast the spell. Your phylactery acts as the arcane focus for your lich spells.
+
+When you die and your phylactery contains at least 1 soul charge, your body reforms next to your phylactery within 1d8 days. If you die and your phylactery is either destroyed or doesn't contain any soul charges you can only be returned to life through the normal use of such spells.
+
+As a reaction when you see a suitable creature die within 60 feet of you, you can capture its soul charge and feed it to your phylactery. Your phylactery can hold a maximum number of soul charges equal to 1 + your lich level. Suitable creatures for your phylactery must meet all of the following requirements:
+- The creature is not an undead or construct.
+- The creature has a Challenge Rating 1/2 or higher.
+- The creature can understand at least one language.
+
+When you finish a long rest, your phylactery regains 1 soul charge. When you finish a short rest where you expended at least 1 of your Hit Dice to regain hit points, your phylactery gains 1 soul charge if it's below its maximum capacity.
+
+### Spellcasting
+You have learned how to weave magic into your phylactery much as you would a spellbook. If you once had a spellbook you may siphon the magical inscriptions from the book into your phylactery. See chapter 10 of the Player's Handbook "for the general rules of spellcasting and the "Spells List" section below for the lich spell list.
+
+#### Cantrips
+At 1st level, you know three cantrips of your choice from the lich spell list. You learn additional lich cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Lich table.
+
+#### Phylactery Storage
+At 1st level, your phylactery may contain 4 1st-level lich spells of your choice. Your phylactery is the record of the lich spells you know, except your cantrips, which are fixed in your mind.
+
+#### Preparing and Casting Spells
+The Lich table shows how many spell slots you have to cast your lich spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+You prepare the list of lich spells that are available for you to cast. To do so, choose a number of lich spells from your phylactery equal to your Intelligence modifier + your lich level (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+For example, if you're a 3rd-level lich, you have four 1st-level and two 2nd-level spell slots. With an Intelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination chosen from your phylactery. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of lich spells requires time spent aligning with your phylactery and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
+
+#### Spellcasting Ability
+Intelligence is your spellcasting ability for your lich spells since you learn your spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a lich spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
+
+**Spell attack modifier** = your proficiency bonus + your Intelligence modifier
+
+</center>
+
+#### Ritual Casting
+You can cast a lich spell as a ritual if that spell has the ritual tag and you have the spell within your phylactery. You don't need to have the spell prepared.
+
+#### Learning Spells of 1st Level and Higher
+Each time you gain a lich level, you can add one lich spell of your choice into your phylactery for free. Each of these spells must be of a level for which you have spell slots, as shown on the Lich table. On your adventures, you might find other spells that you can add to your phylactery (see the "Your Phylactery" sidebar).
+
+### Soul Consumption
+Starting at 2nd level, you can consume the soul charges stored within your phylactery to regain power. As a bonus action while your phylactery is on your person, you can consume 1 soul charge in your phylactery and choose one of the following effects:
+- Regain hit points equal to 1d4 + your Intelligence modifier.
+- Recover an expended 1st-level spell slot.
+
+### Immortal Pathway
+At 3rd level, you choose a pathway that will define your unending immortal existence: the Pathway of the Baelnorn, the Pathway of the Omniscient, or the Pathway of the Wastes. The pathway you choose grants you features at 3rd level and again at 6th and 14th level.
+
+### Ability Score Improvement
+When you reach 4th, 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.
+
+> ##### Your Phylactery
+> The phylactery is a mirror of your soul, instilling knowledge into your very essence is one of the reasons you have taken up this path as a lich. You have learned to record raw magical information into the phylactery so it may better serve you in the future. You may record new magic into your phylactery when you come across a spellbook, scroll, tome or even the phylactery of another lich.
+>
+> When you find a spell on the lich spell list that is of 1st level or higher, you can add it to your phylactery if it is of a spell level you can prepare, and if you can spare the time to decipher and copy it.
+>
+> Copying that spell into your phylactery involves reproducing the basic form of the spell, then deciphering the unique system of notation used by those who wrote it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your phylactery using your own notation.
+>
+> For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money you can prepare the spell just like your other spells.
+>
+> A traditional phylactery is an amulet in the shape of a small box. However, a phylactery can take on any form as long as the inside of the amulet can be inscribed with silver-etched arcane sigils of naming, binding, immortality, and dark magic. Some phylacteries are boxes, while others are lockets (on necklaces or rings), bottles, hollow crystal orbs, or other creative containers.
+
+### Reaper's Greed
+Beginning at 5th level, when multiple creatures capable of feeding your phylactery die simultaneously (such as from the same area of effect spell), you can use your reaction to capture a number of souls up to 1 + your Intelligence modifier (minimum 2).
+
+### Demilich
+At 20th level, if you're reduced to 0 hit points or as an Action on your turn, you can consume all but 1 of the soul charges in your phylactery to take on a demilich form. Your body disintegrates into a Tiny floating skull and swirling cloud of dust. Your phylactery is carried within the dust cloud of your form; your other possessions are left behind in your space. Your demilich form has the following additional features:
+- Your hit points and hit point maximum are equal to 4 x your lich level.
+- Your walking speed is replaced by an equal flying speed (hover).
+- You are resistant to bludgeoning, piercing, and slashing damage.
+- If you are subjected to an effect that allows you to make a saving throw to take only half damage, you instead take no damage if you succeed on the saving throw and only half damage if you fail.
+- You regain a number of expended spell slots of a combined level equal to the number of soul charges expended.
+- You don't need to perform somatic or verbal components for your lich spells, and your phylactery continues to act as your arcane focus.
+
+Your transformation lasts 10 minutes or until you are reduced to 0 hit points. Soul charges you accumulate during this transformation must be immediately spent as part of the same reaction used to acquire them. When the transformation ends, you die. When you are returned to life, you can't use this feature for 7 days from the point at which you were revived.
+
+## Lich Spell List
+This section includes all spells available to the lich class.
+
+##### Cantrips (0 Level)
+- Chill Touch
+- Control Flames
+- Dancing Lights
+- Fire Bolt
+- Frostbite
+- Infestation
+- Light
+- Mage Hand
+- Mending
+- Message
+- Minor Illusion
+- Poison Spray
+- Prestidigitation
+- Ray of Frost
+- Shocking Grasp
+- Spare the Dying
+- Toll the Dead
+
+##### 1st Level
+- Absorb Elements
+- Alarm
+- Armor of Agathys
+- Arms of Hadar
+- Bane
+- Burning Hands
+- Cause Fear
+- Chromatic Orb
+- Color Spray
+- Command
+- Comprehend Languages
+- Detect Magic
+- Disguise Self
+- Dissonant Whispers
+- Earth Tremor
+- Expeditious Retreat
+- False Life
+- Feather Fall
+- Find Familiar
+- Fog Cloud
+- Ice Knife
+- Identify
+- Jump
+- Mage Armor
+- Magic Missile
+- Protection from Evil and Good
+- Ray ofSickness
+- Shield
+- Silent Image
+- Tasha's Hideous Laughter
+- Witch Bolt
+
+##### 2nd Level
+- Arcane Lock
+- Blindness/Deafness
+- Blur
+- Cloud of Daggers
+- Crown of Madness
+- Darkness
+- Darkvision
+- Detect Thoughts
+- Earthbind
+- Enlarge/Reduce
+- Flaming Sphere
+- Gentle Repose
+- Hold Person
+- Knock
+- Levitate
+- Melf's Acid Arrow
+- Mind Spike
+- Mirror Image
+- Misty Step
+- Phantasmal Force
+- Ray of Enfeeblement
+- Scorching Ray
+- See Invisibility
+- Shadow Blade
+- Spider Climb
+- Web
+
+##### 3rd Level
+- Animate Dead
+- Bestow Curse
+- Clairvoyance
+- Dispel Magic
+- Enemies Abound
+- Erupting Earth
+- Fear
+- Feign Death
+- Fireball
+- Fly
+- Gaseous Form
+- Life Transference
+- Magic Circle
+- Melf's Minute Meteors
+- Speak with Dead
+- Stinking Cloud
+- Tongues
+- Vampiric Touch
+
+##### 4th Level
+- Arcane Eye
+- Banishment
+- Blight
+- Compulsion
+- Death Ward
+- Dimension Door
+- Otiluke's Resilient Sphere
+- Shadow of Moil
+- Stoneskin
+
+##### 5th Level
+- Antilife Shell
+- Cloudkill
+- Danse Macabre
+- Dominate Person
+- Enervation
+- Hold Monster
+- Legend Lore
+- Negative Energy Flood
+- Planar Binding
+- Scrying
+- Seeming
+- Synaptic Static
+- Teleportation Circle
+- Wall of Force
+
+##### 6th Level
+- Arcane Gate
+- Circle of Death
+- Create Undead
+- Disintegrate
+- Eyebite
+- Harm
+- Scatter
+- Soul Cage
+
+##### 7th Level
+- Crown of Stars
+- Delayed Blast Fireball
+- Etherealness
+- Finger of Death
+- Mirage Arcane
+- Plane Shift
+- Power Word Pain
+- Prismatic Spray
+- Reverse Gravity
+- Teleport
+
+##### 8th Level
+- Antimagic Field
+- Earthquake
+- Feeblemind
+- Maddening Darkness
+- Power Word Stun
+
+##### 9th Level
+- Gate
+- Power Word Kill
+- Psychic Scream
+- Time Stop
+- Weird
+- Wish

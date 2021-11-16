@@ -1,0 +1,35 @@
+### Coven of the Crescent Moon
+Witches are practical and pragmatic by nature, and many know full well the limits of spellcraft. The green witches of the Coven of the Crescent Moon train with both blade and spell, and style themselves as the protectors of witchcraft, both within and without, and tend to be lawful in nature. Should a witch-hunter make too much headway or a spellcaster delve too deeply into the darkest secrets of magic, the green witches will be there, fighting to restore the balance.
+
+#### Crescent Moon Spells
+You gain advanced tutelage into specific spells important to your coven. You learn each of the spells on the following list at the witch level associated with them. These spells count as witch spells for you and do not count against the total spells you can know.
+
+##### Crescent Moon Spells
+| Witch Level | Spells |
+|:-:|:--|
+| 2nd | <em>false life, shield</em> |
+| 3rd | <em>cloud of daggers, shadow blade\*</em> |
+| 5th | <em>elemental weapon, protection from energy</em> |
+| 7th | <em>fire shield, stoneskin</em> |
+| 9th | <em>destructive wave, steel wind strike\*</em> |
+
+\* these spells are found in Xanathar’s Guide to Everything
+
+#### Battle Witchcraft
+When you join this coven at 2nd level, you are trained to be more adept at melee combat. You gain proficiency with the scimitar, shortsword, and rapier. When you hold a sickle, it has the finesse property in addition to its regular properties and deals 1d6 slashing damage on a hit.
+
+Further, you add your Intelligence modifier as a bonus to rolls for initiative and on any Constitution saving throws you make to maintain concentration on a spell. In addition, add half your Intelligence modifier (round up) to your Armor Class when you are not wearing armor or using an Unarmored Defense class feature (or similar).
+
+#### Crescent Strike
+Also at 2nd level, once on your turn when you hit a target with a melee attack while you are holding a weapon, you can choose to have your familiar use its reaction to roll a melee weapon attack against a creature within 5 feet of it, adding your proficiency bonus and your choice of either your Strength modifier or Dexterity modifier in place of its own statistics. On a hit, this attack deals 1d6 bludgeoning, piercing, or slashing damage (your choice). This damage dealt by your familiar is magical for the purposes of overcoming resistance and immunity.
+
+The damage this feature deals increases by 1d6 at 6th level (2d6), 10th level (3d6), 14th level (4d6), and 18th level (5d6).
+
+#### Extra Attack
+Beginning at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+#### Walk the Crescent Path
+At 10th level, you and your familiar know well the twisting dance of battle. Once on your turn, immediately before or after any attack taken as a part of the Attack action, you or your familiar can teleport up to 10 feet.
+
+#### Hastened Arcana
+Starting at 14th level, you are able to channel your magical ability even as you strike. On a turn in which you use the Attack action, you can use a bonus action to cast one witch cantrip you know that would normally require an action.

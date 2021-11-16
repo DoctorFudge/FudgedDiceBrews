@@ -1,0 +1,79 @@
+### Path of the Sylvan Warrior
+[**Source:** *The Complete Martialist Handbook*](https://drive.google.com/file/d/1oGWtJWYIL63dUACooColfDVhX6MllXji/view)
+
+Some barbarians are not marked by their loyalty to kin or tribe but by their loyalty to land and beast. These barbarians take up the role of stewards and protectors of the natural world, fighting against those who would despoil it. Their admiration and emulation of the mysteries of nature allow them the ability to transform their rage into quietude and cast druidic spells.
+
+#### Spellcasting
+When you choose this path at 3rd level, you gain the ability to cast spells. See chapter 10 of the Player's Handbook for the general rules of spellcasting and chapter 11 for the druid spell list.
+
+***Cantrips.*** You learn two cantrips of your choice from the druid spell list. You learn an additional druid cantrip of your choice at 10th level.
+
+***Spell Slots.*** The Sylvan Warden Spellcasting table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+For example, if you know the 1st-level spell entangle and have a 1st-level and a 2nd-level spell slot available, you can cast entangle using either slot.
+
+| Barbarian Level | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th |
+|:---------------:|:--------------:|:------------:|:---:|:---:|:---:|:-:|
+|       3rd       |        2       |       3      |  2  |  —  |  —  | — |
+|       4th       |        2       |       4      |  3  |  —  |  —  | — |
+|       5th       |        2       |       4      |  3  |  —  |  —  | — |
+|       6th       |        2       |       4      |  3  |  —  |  —  | — |
+|       7th       |        2       |       5      |  4  |  2  |  —  | — |
+|       8th       |        2       |       6      |  4  |  2  |  —  | — |
+|       9th       |        3       |       6      |  4  |  2  |  —  | — |
+|       10th      |        3       |       7      |  4  |  3  |  —  | — |
+|       11th      |        3       |       8      |  4  |  3  |  —  | — |
+|       12th      |        3       |       8      |  4  |  3  |  —  | — |
+|       13th      |        3       |       9      |  4  |  3  |  2  | — |
+|       14th      |        3       |      10      |  4  |  3  |  2  | — |
+|       15th      |        3       |      10      |  4  |  3  |  2  | — |
+|       16th      |        3       |      11      |  4  |  3  |  3  | — |
+|       17th      |        3       |      11      |  4  |  3  |  3  | — |
+|       18th      |        3       |      11      |  4  |  3  |  3  | — |
+|       19th      |        3       |      12      |  4  |  3  |  3  | 1 |
+|       20th      |        3       |      13      |  4  |  3  |  3  | 1 |
+
+***Spells Known of 1st-Level and Higher.*** You know three 1st-level druid spells of your choice, two of which you must choose from the conjuration and transmutation spells on the druid spell list.
+
+The Spells Known column of the Sylvan Warden Spellcasting table shows when you learn more druid spells of 1st level or higher. Each of these spells must be a conjuration or transmutation spell of your choice and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.
+
+The spells you learn at 8th, 14th, and 20th level can come from any school of magic.
+
+Whenever you gain a level in this class, you can replace one of the druid spells you know with another spell of your choice from the druid spell list. The new spell must be of a level for which you have spell slots, and it must be a conjuration or transmutation spell, unless you're replacing the spell you gained at 8th, 14th, or 20th level.
+
+***Spellcasting Ability.*** Wisdom is your spellcasting ability for your druid spells since you learn your spells through observation and emulation of the natural world. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a druid spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+
+</center>
+
+<center>
+
+**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+
+</center>
+
+#### Quietude
+Starting at 3rd level, you have learned to transmute your furious rage into unshakeable calm. Using a bonus action and expending a use of your rage, you enter quietude. While in quietude, you gain the following benefits if you aren't wearing heavy armor:
+- You have advantage on saving throws you make to maintain concentration on spells.
+- When you make a spell attack with a druid spell, you gain a bonus to the damage roll that increases as you gain levels as a barbarian, as shown in the Rage Damage column of the Barbarian table.
+- You have resistance to damage from spells.
+
+Your quietude ends after 1 minute. It ends early if you are knocked unconscious, or if you haven't cast a spell or maintained concentration on a spell since your last turn. You can also end your quietude on your turn as a bonus action.
+
+Barbarian class features that apply while you are raging also apply while you are in quietude.
+
+#### The Calm in the Fury
+Starting at 6th level, while in a rage or quietude, you can use a bonus action to switch to the other without expending an additional use of your rage. When you use this feature, your rage or quietude still ends 1 minute after you expended the use of your rage, if it doesn't end earlier.
+
+#### Warden's Respite
+Starting at 10th level, you gain the ability to lend a piece of your resilience to your allies. When you enter a rage or quietude, you create an aura that remains for 1 minute and extends 10 feet from you in every direction, but not through total cover. While within your aura, each creature of your choice gains resistance to bludgeoning, piercing, and slashing damage if you are in a rage or resistance to damage from spells if you are in quietude.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+#### Font of Life
+Starting at 14th level, you can channel your magic while in a rage or quietude to reinvigorate your allies. As an action, you can expend a spell slot to cast a curative magic over creatures within 15 feet of you. Choose one creature per level of spell slot expended. Each chosen creature ends one effect of its choice that blinded, deafened, paralyzed, or poisoned it, and either regains hit points equal to 1d12 + your Wisdom modifier (minimum 1) if you are in quietude, or gains temporary hit points equal to 1d12 + your Wisdom modifier (minimum 1) if you are in a rage.
+
+Using this feature counts as making an attack for the purpose of maintaining your rage, and as casting a spell for the purpose of maintaining your queitude.

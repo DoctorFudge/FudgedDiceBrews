@@ -1,0 +1,15 @@
+## Level 6
+
+#### Kevin's Vine Cocoon
+*Conjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** V, S
+- **Duration:** Concentration, up to 10 minutes
+- **Classes:** Druid, Cleric, Bard
+___
+
+You call forth a cocoon of interweaving vines to burst forth from the ground and surround you. You gain the following benefits:
+
+Ranged attacks made against you have disadvantage. Creatures that come within 5 feet of you take 1d6 bludgeoning damage as they are thrashed by vines. You gain a + 3 bonus to your armor class. Your movement speed becomes 0 for the duration.

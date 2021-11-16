@@ -1,0 +1,22 @@
+### Desperado
+Few gunsmiths can match the natural ability and panache of the Desperado. To a Desperado, combat is a roll of the dice, a gamble, and that is what draws them to it. Desperados are pistoleers and rely on their innate swagger to survive.
+
+#### Lucky Punk
+At 3rd level, you gain the ability to sidestep and evade your enemies' attacks. As a reaction, you can choose one attack roll that hits you, and force it to miss instead. You can use this after the attack roll, but before any effects of the roll have been applied. Once you have used this ability, you must finish a long rest before using it again.
+
+#### Iron Duster
+Starting at 3rd level, you gain +1 bonus to AC while you are dual wielding two light firearms and wearing light armor.
+
+#### On the Run
+Beginning at 7th level, your tendency to take risks has taught you to always have an escape ready. You gain proficiency with the disguise kit, if you do not already possess it, and have advantage on any Charisma checks you make to hide your identity. Additionally, you gain proficiency with the Charisma (Deception) skill, and may double your proficiency bonus if it is already known.
+
+#### Relentless
+Starting at 10th level you can move faster than your opponents for short period of time. On your turn, you can take an additional action on top of your regular action and bonus action. You cannot use this ability on the same turn as another feature that allows you to take an additional action.
+
+Once you use this ability, you must complete short or long rest before using it again. At 18th level, you can use this feature twice before resting, but only once per turn.
+
+#### Little Old Me?
+At 13th level, your natural charm allows you to convince your enemies that you are less of threat, lowering their defenses. You can add your Charisma modifier to damage rolls you make with light firearms.
+
+#### Bullet Time
+By 18th level, you know combat like few others and are always one step ahead of your adversaries. You can predict your enemies' moves, even before they have thought of them. At the start of your turn you can choose to gain a +10 to attack rolls and your AC until the start of your next turn. Once you use this ability, you must finish a long rest before using it again.

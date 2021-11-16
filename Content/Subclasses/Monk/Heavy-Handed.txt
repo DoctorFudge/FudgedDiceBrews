@@ -1,0 +1,29 @@
+### Way of the Heavy-Handed
+[**Source:** *The Tome of Forgotten Heroes*](https://drive.google.com/file/d/15i1n7JlEh5c7WEvVoljGD1hEblKc0pQy/view)
+
+The monastic tradition of the heavy handed is a fighting style designed to bolster one's own body and strengthen the monk's bonds with the earth they walk on.
+
+Standing flatfooted on the ground, an immovable mountain, these monks collide with threats head-on, becoming the anchor about which, all enemies must act.
+
+A heavy-handed monk is a master of grappling and throwing enemies into unfavourable situations and is such a formidable and immovable force on the battlefield that they cannot be ignored.
+
+#### Grounded Stance
+When you choose this tradition at 3rd level, you learn to adopt a low, grounded stance when you are close to enemies. As a bonus action on your turn, you can adjust your stance. You can use another bonus action on a subsequent turn to end the stance. While in this stance, your speed is reduced to 10 feet, but you gain the following benefits:
+- Whenever you attempt to grapple or shove a creature, they take damage equal to your Martial Arts die + your Strength modifier when you are successful.
+- Whenever you make a Strength (Athletics) check as a part of a grapple or shove, you can spend a Ki point to gain advantage on the roll.
+- You gain advantage on Strength saving throws made to avoid being forcibly moved or knocked prone.
+
+#### Grapple Techniques
+Also, at 3rd level, you can make various special attack actions against a creature you have grappled. Each of these special attack actions deal bludgeoning damage equal to your Martial Arts Damage dice + your Strength modifier, which will be referred to as Martial Arts Damage. These special attack actions are listed below.
+- ***Choke Hold.*** Spend 1 Ki point to make an opposed Athletics check against a Large or smaller creature you are grappling. On a success, the creature takes Martial Arts Damage, and is restrained in your grasp. While you are restraining a creature in this way, you can't make attacks against any other creatures.
+- ***Takedown.*** Spend 1 Ki point to make an opposed Athletics check against a Large or smaller creature you are grappling. On a success, the creature takes Martial Arts Damage, and is knocked prone. A creature knocked prone by this attack is winded and cannot stand up on its next turn.
+- ***Throw.*** Spend 2 Ki points to make an opposed Athletics check against a Medium or smaller creature you are grappling. On a success, the creature is tossed up to 10 feet in any direction, falls prone, and then takes Martial Arts Damage. If the creature collides with another creature, that creature must make a Dexterity saving throw or take damage also.
+
+#### Grasping Hands
+When you reach 6th level, you become a force that enemies can no longer ignore. If a creature within 5 feet of you makes an attack against any creature other than you while you are in your grounded stance, you can use your reaction to attempt to grapple or shove that creature.
+
+#### Against the Tide
+At 11th level, you become more formidable as the situation gets increasingly dire. For every creature within 5 feet of you at the end of your turn, you gain temporary hit points equal to your Wisdom modifier. These hit points cannot surpass 2 x your monk level, and fade at the start of your next turn.
+
+#### Ki Shockwave
+At 17th level, you can let loose an intense shockwave of Ki from your body. As an action, you spend 3 Ki points. Every creature within 10 feet of you must make a Constitution saving throw or take 5d10 thunder damage and have their speed fall to 0 until the end of their next turn.

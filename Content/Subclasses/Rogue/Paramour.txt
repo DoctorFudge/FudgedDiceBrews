@@ -1,0 +1,30 @@
+### Paramour
+[**Source:** *The Complete Martialist Handbook*](https://drive.google.com/file/d/1oGWtJWYIL63dUACooColfDVhX6MllXji/view)
+
+You're more interested in stealing hearts than gold pieces. Paramours wander from town to town and port to port having great love affairs and boisterous all-nighters, leaving a river of ex-lover's tears in their wake. The charms of these rogues are so great they verge on supernatural.
+
+#### Romantic
+When you choose this archetype at 3rd level, you gain proficiency in the Insight and Persuasion skills if you don't already have them. Your proficiency bonus is doubled for any ability check you make that uses either of those proficiencies.
+
+#### Thief of Hearts
+Starting at 3rd level, you can cast the charm person spell as a 1st-level spell. When you do, the duration increases to a number of hours equal to your rogue level, the saving throw DC is equal to 8 + your proficiency bonus + your Charisma modifier, and the creature may regard you as a romantic interest, in addition to a friendly acquaintance, at the DM's discretion.
+
+You can use this feature a number of times equal to your Charisma modifier (a minimum of once). You regain any expended uses when you finish a long rest.
+
+#### Token of Affection
+At 3rd level, you can give a token of affection to a creature charmed by you. This token of affection can be any physical gift. The duration of the charmed effect on the creature becomes indefinite, ending early if you or your companions do anything harmful to it or you use this feature again.
+
+#### Language of Love
+Starting at 9th level, you can communicate non-verbally, using body language, eye contact, and gestures, with any humanoid who speaks at least one language and can see you.
+
+In addition, if you share a language with a humanoid who can hear you, you can use a bonus action to shower the creature with flattery and honeyed words. That creature has disadvantage on saving throws it makes to resist being charmed by you until the end of its next turn.
+
+#### Inspire Harem
+Starting at 13th level, when you use your Thief of Hearts, you can target a number of humanoids up to your rogue level.
+
+Once you use this feature, you can't use it again until you finish a long rest.
+
+#### Jaded Jilter
+Starting at 17th level, you can use your bonus action to jilt a creature who is charmed by you. This spurn wounds them so deeply that you deal psychic damage to the creature equal to your Sneak Attack damage and the charmed effect ends.
+
+In addition, your years of heartbreaks and heartbreaking have left you jaded. You are immune to being charmed.

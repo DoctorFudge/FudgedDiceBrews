@@ -1,0 +1,137 @@
+## Ignoble
+[**Source:** *The Ignoble*](https://docs.google.com/document/d/1kA-TEzxS9Fv6pibgQBa9KU3dEw2cQcU8tqhcKD3LbrA/edit)
+
+The archdevils who rule the Seven Cities of Hell scheme and plot endlessly, eternally. Each seeks to bring the others to heel. To ascend to the Throne of Hell, unite the seven cities and every infernal thing that lives there, and lead an infinite army of devils across the timescape until all worlds burn.
+Their elite shock troops, the terror-commandos of Hell, are the ignobles. Knights of Hell, they are charismatic counter-paladins who master devils, disrupt enemy organizations, and command Hell’s armies.
+
+### The Order of Desolation
+Millennia ago, the Lords of Hell did something remarkable: they cooperated. They came together to create the Order of Desolation, knights sworn to serve Hell first, their patron archdevil second.
+
+Acceptance into the Order of Desolation makes you a comrade with every other ignoble, regardless of which archdevil you serve. Each archdevil has churches, underground fanes, secret societies, cults. All with leaders manically devoted to the archdevil who grants them their power. But this association of ignobles consider themselves above the petty political squabbles that divide the seven cities.
+
+Members of the Order of Desolation, also known as the Desolate, are expected to be intelligent, resourceful, tactical, manipulative. A temple or cult might conclude that the presence of an ignoble in their midst is a sign that their archdevil approves of their actions, but the ignobles are independent. The order was founded to give the Lords of Hell agents capable of acting across the timescape, free from the direct control of their patron. An ignoble has many powerful abilities granted by their archdevil, but more precious is their patron’s trust. Left to their own devices, the ignoble is expected to sow discord, pain, strife, deceit, and fear without instruction or supervision.
+
+It is not unusual, therefore, for a member of the Order of Desolation to rely on other members of the order first, even from ignobles who serve other archdevils, before going to any church, cult, or temple devoted to their own archdevil.
+
+### Multiclassing
+
+An existing character choosing to multiclass into ignoble must meet the following prerequisites:
+- Charisma 13
+- Strength 13 or Dexterity 13
+
+| Level | Proficiency Bonus | Features | Infernal Conduit Dice |
+|:-:|:-:|-|:-:|
+| 1st | +2 | Forked Tongue, Infernal Conduit | 1 |
+| 2nd | +2 | Fighting Style, Baleful Interdict | 1 |
+| 3rd | +2 | Hellsight, Diabolic Contract | 2 |
+| 4th | +2 | Ability Score Improvement | 2 |
+| 5th | +3 | Extra Attack | 3 |
+| 6th | +3 | Baleful Interdict Improvement | 3 |
+| 7th | +3 | Diabolic Contract Improvement | 4 |
+| 8th | +3 | Ability Score Improvement | 4 |
+| 9th | +4 | Diabolic Contract Improvement | 5 |
+| 10th | +4 | Baleful Interdict Improvement | 5 |
+| 11th | +4 | Improved Infernal Conduit | 6 |
+| 12th | +4 | Ability Score Improvement | 6 |
+| 13th | +5 | Diabolic Contract Improvement | 7 |
+| 14th | +5 | Aura of Despair | 7 |
+| 15th | +5 | Summon Hell | 8 |
+| 16th | +5 | Ability Score Improvement | 8 |
+| 17th | +6 | Diabolic Contract Improvement | 9 |
+| 18th | +6 | Baleful Interdict Improvement | 9 |
+| 19th | +6 | Ability Score Improvement | 10 |
+| 20th | +6 | Infernal Contract Improvement | 10 |
+
+You gain the following proficiencies when you choose ignoble as a new class: light armor, medium armor, shields, simple weapons, and martial weapons.
+
+Multiclass characters divide their ignoble levels by three for the purposes of determining how many spell slots they get. This may result in an Architect of Ruin losing a spell level, but Asmodeus takes a dim view of ignobles who stray from strict commitment to the path of Hell.
+
+## Class Features
+As an ignoble, you gain the following class features.
+#### Hit Points
+**Hit Dice:** 1d10 per ignoble level
+**Hit Points at 1st Level:** 10 + your Constitution modifier
+**Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per ignoble level after 1st
+#### Proficiencies
+___
+- **Armor:** Light armor, medium armor, shields
+- **Weapons:** Simple weapons, martial weapons
+- **Tools:** None
+___
+- **Saving Throws:** Constitution, Charisma
+- **Skills:** Choose two from Arcana, Athletics, Deception, Insight, Intimidation, Investigation, Persuasion, and Religion
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a martial weapon and a shield or *(b)* two martial weapons
+- *(a)* chain shirt or *(b)* leather armor, longbow, and 20 arrows
+- *(a)* a priest’s pack or *(b)* a dungeoneer’s pack
+- An unholy symbol, two daggers, and five javelins
+
+### Forked Tongue
+You have a facility with speech and know how to manipulate an audience. Whenever you make an ability check to persuade, deceive, or intimidate, you can treat a d20 roll of 7 or lower as an 8. Additionally you learn the Infernal language.
+
+### Infernal Conduit
+There is a pool of infernal power within you that replenishes after you take a long rest. This pool is represented by dice, starting with 1d10 at 1st level. Your pool gains dice as shown on the ignoble table. With these dice you can transfer hit points between your ignoble and other targets, healing allies at the expense of your own health or draining the life force of enemies to rejuvenate your own vitality.
+
+As an action, choose a number of dice from your remaining pool and touch another creature. If they are unwilling, this is a melee spell attack with which you are proficient, using Charisma as your spellcasting ability. If you miss, nothing happens—you do not roll or lose dice from your pool. If you hit, or if you’re targeting a willing creature, roll the chosen dice.
+
+The result of your roll is the number of hit points you transfer. If you’re touching an ally, they gain that many hit points, ignoring any hit points in excess of their maximum. You lose hit points equal to the number of hit points they gained. If your sacrifice reduces you to 0 hit points, you fall unconscious.
+
+If you’re touching an enemy, they take necrotic damage equal to your roll, and you gain that many hit points. If you would gain hit points in excess of your maximum, you gain that number of temporary hit points instead.
+
+Beginning at 11th level, in addition to draining the life force of an enemy, you can also inflict one level of exhaustion on them. They may recover this exhaustion normally. This ability does not work if the target already has three or more levels of exhaustion, or if you have no dice left in your pool, and you cannot choose to inflict exhaustion instead of draining life.
+
+### Fighting Style
+At 2nd level, you choose an ignoble fighting style:
+
+##### Treachery
+When you attack an enemy who has none of your allies adjacent to it, you gain a +3 bonus to damage rolls.
+
+##### Bravado
+While you are not wearing any armor, your Armor Class equals 10 + your Dexterity modifier + your Charisma modifier. You can use a shield and still gain this benefit.
+
+##### Schemes
+While you wield a melee weapon in one hand and no other weapons, you can use your reaction after an adjacent enemy attacks you to move into any other unoccupied space within five feet of the attacking enemy. This movement does not provoke an opportunity attack.
+
+##### Lies
+When you attack with a two-handed melee weapon, you can use your Charisma modifier, instead of your Strength modifier, for both the attack and damage rolls.
+
+### Baleful Interdict
+When you reach 2nd level, you learn to use the power of Hell to censure other creatures. As a bonus action, you can place a seal on a target you can see within 30 feet. You can do this a number of times equal to your Charisma modifier. When you finish a short or long rest, you regain all your seals.
+
+When you or an ally hits a target you can see with any seals on it, you can consume the seals to make the attack deal an extra 2d6 necrotic damage to the target per seal consumed. (This is not a reaction, it’s free.) If you are within 30 feet of the target, you regain 2 hit points for each die of damage your seals deals.
+
+A creature with a seal on them is an **interdicted creature.**
+
+Seals evaporate if not used after 1 minute. Only the ignoble who placed the seal knows it’s there; it appears to the ignoble as a glowing glyph on the creature’s forehead. If a creature with any of your seals on it dies, you can move all of its seals to another creature within range.
+
+When you reach 10th level, you feel your connection to your archdevil increase. Your seals deal an extra 1d6 damage.
+
+Your seals improve differently based on which contract you choose. These improvements are listed under “Diabolic Contract,” below.
+
+### Hellsight
+When you reach 3rd level, your mastery of deception makes it easy for you to recognize the use of concealing sorcery. As an action, you extend your awareness out from you. Until the end of your next turn, you know the location of creatures within 60 feet using magic to hide or disguise themselves.
+
+You can use this feature a number of times equal to your Charisma modifier. When you finish a long rest, you regain your expended uses.
+
+### Diabolic Contract
+When you reach 3rd level, you sign a diabolic contract with your archdevil who welcomes you into the Order of Desolation. You gain the Invoke Authority ability and choose either Painkiller (Dispater), Shadowmaster (Moloch), or Architect of Ruin (Asmodeus) as your archdevil.
+
+Furthermore, you are a noble knight in the lists of Hell and will be accorded fine treatment and hospitality anywhere in Hell you travel, even to cities ruled by enemy archdevils. More cosmopolitan cities in the timescape—like Alloy, the City of Brass—will also respect your noble rank.
+
+#### Invoke Authority
+You invoke the authority granted you by your archdevil, channelling baleful energy to fuel magical effects. Each Invoke Authority option provided by your archdevil explains how to use it.
+
+When you use your Invoke Authority, you choose which option to use. Once you use this feature, you must finish a long rest to use it again.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can’t increase an ability score above 20 using this feature.
+
+### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+### Aura of Despair
+Beginning at 14th level, you radiate a magical aura of evil. Whenever a hostile creature within 15 feet of you makes an attack roll or a saving throw, it must roll a d4 and subtract the number rolled from the result.
+
+### Summon Hell
+Beginning at 15th level, as an action, you can summon a bone devil to serve you for 1 minute. The devil appears in an unoccupied space within 30 feet. It is bound to you and must obey your commands to the best of its ability. It acts on the same initiative that you act on, and may both act and move on the turn you summon it. If you die or fall unconscious, the devil returns to Hell. Once you use this feature, you must wait 1 week before you can use it again.

@@ -1,0 +1,83 @@
+## Corn
+[**Source:** *Corn*](https://homebrewery.naturalcrit.com/share/utN7VFU08)
+
+*"One year when the orcs came to pillage, it seemed like the harvest itself had had enough. They say potatoes have eyes, but it seems it was the corn watching us till the fields all along, learning to use our tools. The orcs didn't come back next year. Didn't like it when the crops bit back."*
+
+<div style="text-align: right">
+— Johnathan of Deerswood, Farmer
+</div>
+
+Magic is an unpredictable thing. Sometimes a wizard gets embroiled in a war seven centuries ago and it seeps into the soil. Sometimes unseelie fey curse a land just for fun. Sometimes druids go a bit mad and get run off of sacred grounds, and run screaming into the woods never to be seen again. One way or another, magic gets into the dirt and normal nonmagical farmers see nothing more than fertile land to grow something in
+ 
+Often times this results in an unusually large pumpkin, such that one may mistake it for a horsedrawn carriage. Other times a beanstalk can sprout and cause great aggravation to local Storm Giants, or mushrooms that tiny folk build villages out of. But once in a great while, a Corn is born.
+
+### Against the Grain
+Corn, sometimes called Maizers or Gritmen, are magical vegetation, resembling small humanoid ears of corn. They often stand only a few feet tall, and wear clothes made of their own discarded husks. Their wispy silken hair comes in various shades of blonde and red, though other colors are rarely spotted as well. Their bodies are covered in numerous kernels, which if removed can regrow much like a humans teeth.
+
+### Roots Running Deep
+Corn are born from nature, and so they often live among it, and often serve as protectors of farmlands and wild fields. Corn are simple folk who prefer a simple life, content to work fields for many years. Hardy and stubborn, they can spend generations in one place, and so long as crops continue to grow they are happy.
+
+Like all plants however, they seek to spread their seed across the land, and so later in life they often take to wandering and adventure.
+
+### From the Field so Fallow   
+Being of rare birth, Corn have no real society of their own. They live among farmers, tending to their breatheren and protecting villages from wandering threats. They will often stay close to where they are born, so long as no one there tries to eat them.
+ 
+A family of Corn is called a *Stalk*, and can be anywhere from two to a hundred, as they consider all corn from the same field to be family. Hierarchy in the Stalk is determined by age, with the eldest Corn being called a rooter. The rooter keeps record through collected stories.
+
+### Unstoppable and Unpoppable.
+In spite of their beguiling appearance, Corn often find careers as adventurers if they grow weary of farm life. Their fearless and stubborn nature allows them to delve deep into the darkest of dungeons, and their abilities put them on par with any human warrior.
+
+A corn may take up adventuring to protect their fields, find new lands, spread their seeds for the next generation, or simply out of boredom.
+
+### Corn Names
+Corn are often named for the variety from which they sprouted from. Being plants their names do not follow gendered structure.
+
+**Corn Names:** Aces, Anthem, Applause, Bantam, Cabo, Cameo, Cobb, Colorow, Honey, Hopi, Hudson, Iochief, Jubilee, Kandy, Kettle, Latte, Merit, Montauk, Picasso, Ranier, Stowell, Su, Sundance.
+
+### Corn Racial Traits
+Corn grow uniformly, so your Corn character shares the following traits with all other varieties of Corn.
+ 
+**Ability Score Increase.** Your Constitution ability score increases by 2
+
+**Age.** Born from magic, Corn lasts much longer than normal produce. They reach adulthood at 60 days old, and can live to be almost 100 years old.
+
+**Alignment.** Corn tend to be bullheaded and independant, leaning towards Chaotic alignments.
+
+**Size.** You are a vegetable of prodigeous size, often around 2 feet tall and weighing approximately 15 pounds. Your size is Small.
+
+**Speed.** Your base walking speed is 25ft.
+
+**Sunlight Dependance.** If you fail to sun yourself for at least 1 hour during a day, you suffer 1 level of exhaustion at the end of that day. You can recover from this exhaustion only through magic or by standing in sunlight for at least 1 hour.
+
+**Natural Disguise.** You have advantage on Stealth (Dexterity) checks made while hiding among foodstuffs or unharvested crops.
+
+**Languages.** You can speak, read, and write Common, and can speak with Plants at will.
+
+**Subraces.** There are many variety of corn grown all over the world, but among Corn there are only three which tend to take up the mantle of adventure. Conflict among Corn is uncommon, and the three tend to live together easily. Choose from True Gold, Bloody Butcher, or Glass Gem as your Subrace.
+
+#### True Gold Corn
+The most garden variety of Corn, True Gold have bright yellow kernels and pale silk. As a True Gold you are inclined to a more social nature, living easily among any race and avoiding unnecessary conflict. True Golds are the most attuned to nature of the Corn, living just as easily in wild fields as they do in the villages of other races.  
+
+**Ability score increase.** Your Wisdom ability score increases by 1.
+
+**Hand of the Land.** You are naturally profienct with Animal Handling and Survival.
+
+**Rootset.** You have advantage against attempts made to move you against your will.
+
+#### Bloody Butcher Corn
+Bloody Butchers are a less seen breed of Corn, with vibrant red kernels and dark silk. They are more stoutly grown, and make fine warriors and protectors, prefering to live near other races. As a Bloody Butcher you often charge headlong into a fight, even if it's just to break things up.  You're probably a bit bigger than other Corns, and your silk catches the wind like a barbarian hero.
+
+**Ability score increase.** Your Strength *or* Dexterity ability score increases by 1.
+
+**Mean Prank.** When you hit with an opportunity attack, the target must succeed on a Dexterity saving throw (DC 8 + your proficiency bonus + your Dexterity modifier) or be knocked prone.
+
+**Hard Core Corn.** You have advantage on Saving Throws against poison, and you have Resistance against poison damage.
+
+#### Glass Gem Corn
+Glass Gems are the rarest of all Corns, with shiny kernels in a variety of colors, often purple and blue, but usually a mix. They are the most scholarly of Corn, often becoming rooters and teachers among Stalks. As a Glass Gem you may be on the smaller side, but you are a born leader.
+
+**Ability score increase.** Your Intelligence *or* Charisma ability score increases by 1.
+
+**Jewel of the Field.** Your shimmering kernels endear people to you. Once per day, you may gain advantage on any Charisma check or saving throw.
+
+**Arcane Affinity.** You can cast the detect magic spell without using a spell slot or components. Intelligence is your spellcasting ability for this spell. You can only use this ability once, and then must finish a Long Rest to do so again.

@@ -1,0 +1,24 @@
+### Path of the Unbreakable
+[**Source:** *Path of the Unbreakable*](https://www.gmbinder.com/share/-MMaKqeBUVnnTtdSDSyO)
+
+At the fore of the battle, an esteemed soldier is charged upon by a crazed warrior. With his wits on his side, he manages to evade the charging fool's onslaught and land a devastating blow, sinking his blade into the warrior's flesh. Attention shifting to the rest of the battle, he is shocked when the warrior grabs his arm, dragging the blade deeper into his body. Their eyes lock, and the soldier knows, there and then, that he is lost, for in those eyes burns an unbreakable fury.
+
+#### Fury
+Starting at 3rd level when you choose this primal path, when you take damage that reduces you to half your maximum hit points or less, you can use your reaction to enter a state of unbreakable fury for one minute.
+
+While in a state of fury, you gain all of the benefits and limitations of a normal rage, without consuming a use of your rage. In addition to this, you have advantage on the next attack made on the creature that did the damage that drove you into a state of fury. For every turn you spend attacking this creature, the creature has disadvantage on attacks made against you.
+
+You may enter this state once before needing to take a long rest. At 10th level, you may do this twice between long rests, but must be healed above half of your maximum hit points before being able to do it again.
+
+#### Extreme Fortress
+Beginning at 6th level, you can use your reaction to bolster yourself against damage when you are hit by a melee weapon attack. When you do so, the damage you take from the attack is reduced by 1d10 + your Constitution modifier + your Barbarian level.
+
+If you reduce the damage to 0 while you are in a state of Fury, you may make one melee weapon attack against the creature that tried to hit you.
+
+#### Barrier's Rush
+Beginning at 10th level, when you or a teammate within 10 feet of you is targeted for an attack, you may use your reaction to rush in front of them and use your Extreme Fortress feature as part of the same reaction.
+
+#### Glorious Victory
+Beginning at 14th level, when you kill or incapacitate the creature that drove you into a state of fury while you are still in a state of fury, you let out a victory cry. All creatures within line of sight that are friendly to the creature that you defeated must make a Wisdom saving throw, with the DC being equal to 8 + your proficiency bonus + your Strength modifier.
+
+Creatures that fail this saving throw become Frightened of you for one minute.

@@ -1,0 +1,56 @@
+### Practitioner of the Flesh
+Biomancers of this Practice hypothesize that maladies lie within the flesh itself. Only by removing tainted and maligned flesh can a persons health be restored. Those who study in the Practice of the Flesh hone their abilities to be used where it is needed most: upon the field of battle. Severed limbs must be re-attached, bones must be mended, eyes replaced. All of these fall under the perview of this Practice.
+
+#### Bonus Proficiencies
+When you enter this Practice at 1st level, you gain proficiency with all Martial weapons and Medium armor.
+
+#### Battlefield Inflictions
+When you choose this practice at 1st level, you learn to perform operations that are fueled by special dice called Surgeons Dice. Your history of healing various injuries has given you insight into inflicting them. At the start of each day, you may choose up to three Inflictions to prepare for the days work, detailed later in this section. You can change your list of prepared Operations when you finish a Long Rest.
+___
+- **Surgeons Dice.** You have four surgeons dice, which are d6s. A surgeons dice is expended when you use it. You regain all your expended surgeons dice when you finish a short or long rest. You gain another surgeons die at 11th level and another one at 18th level.
+- **Saving Throws.** Some of your operations require your target to make a saving throw to resist the effects. The saving throw DC is the same as your spell save DC.
+
+##### Inflictions
+___
+- ***Concussion.*** You strike at a creatures head, and expend one of your Surgeons Dice. The creature must make a constitution saving throw or have Disadvantage on all attempts to maintain concentration on a spell for 1 minute.
+- ***Contusion.*** You can forgo piercing your enemy's flesh to instead cause them subdermal bleeding. Expend one of your Surgeons Dice, and force the target to make a Constitution saving throw. On a failed save, the creature gains vulnerability to physical damage for 1 minute.
+- ***Dislocation.*** When you make a melee weapon attack, you may expend one of your Surgeons Dice, and strike at a creatures joints. On a hit, the target must make a Constitution saving throw or have its limb dislocated, giving it Disadvantage on all melee attacks for 1 minute.
+- ***Hamstring.*** You drop low, striking at your enemies legs. When you make a melee weapon attack you can expend one of your Surgeons Dice and reduce the targets speed by 15 feet for 1 minute or until they succeed on a Constitution saving throw made at the end of each of their turns.
+- ***Lacerations.*** When you make a melee weapon attack, you may expend one of your Surgeons Dice, adding the roll to your damage on a success. The target must make a Constitution saving throw or begin to Bleed for 1 minute.
+- ***Edema.*** *(Prerequisite: 6th Level)* You can target a creature within 5 feet and expend one of your Surgeons Dice. The creature must make a Constitution saving throw. On a failed save, if the target uses its intelligence as its spellcasting ability score, it cannot cast spells for 1 minute. The target can repeat this save at the end of each of its turns.
+- ***Hyphema.*** *(Prerequisite: 6th Level)* When you make a melee weapon attack, you may expend one of your Surgeons Dice, adding the roll to your damage on a success and causing the target to Bleed. Additionally, the target must succeed in a Constitution saving throw or be Blinded. Both conditions last for 1 minute, or until the target succeeds on a Constitution saving throw at the end of each of its turns.
+- ***Organ Rupture.*** *(Prerequisite: 6th Level)* When you make a melee weapon attack you can expend one of your Surgeons Dice to crush your enemies organs and cripple them. The target must succeed on a Constitution saving throw or the attack is considered a Critical Hit.
+- ***Phneumothorax.*** *(Prerequisite: 6th Level)* You can target a creature within 5 feet and expend one of your Surgeons Dice. The creature must make a Constitution saving throw. On a failed save, the target suffers one level of Exhaustion.
+- ***Tendinopathy.*** *(Prerequisite: 6th Level)* When you make a melee weapon attack, you may expend one of your Surgeons Dice, adding the roll to your damage on a success. The target must succeed in a Constitution saving throw or be knocked prone. Additionally, its movement speed becomes 0 for 1 minute or until it succeeds on a Constitution saving throw at the end of each of its turns.
+
+> #### Unique Conditions
+>
+> ##### Cancerous
+> Creatures subjected to the Cancerous condition are infested by virtulent growths throughout their body.
+> * A cancerous creature has disadvantage on attack rolls and ability checks.
+> * The creatures speed is reduced by 10
+>
+> ##### Bleeding
+> A creature that is bleeding takes 1d4 Necrotic damage at the start of each of its turns. At the end of each turn a creature can make a Constitution saving throw to end the effect.
+
+#### Hungering Miasma
+Your miasma takes the form of a flesh consuming bacteria. At 2nd level as an action you can activate your Miasmatic Organ to create a cloud around your body extending 5 feet in every direction. The first time a creature enters the miasma, or starts its turn there, it takes 1d4 necrotic damage.
+
+The miasma lasts for 1 minute. Once you use this feature, you cannot use it again until you finish a Long Rest. At 11th level, the damage increases by 1d4 (2d4), and again at 18th level (3d4).
+
+#### Mend the Flesh
+At 6th level you have become extremely familar with assembling and disassembling bodies. when you cast a Biomancer spell that restores hit points, you may expend one of your Surgeons Dice and add the total to the number of hit points restored.
+
+Starting at 11th level, you may expend an additional Surgeons Dice when you use this feature. Once you use this feature you must finish a short or long rest before you can do so again.
+
+#### Malignant Growth
+By 14th level, the flesh itself has become a tool for you to use. When you strike an enemy with a melee weapon attack, you can expend one or more of your Surgeons Dice to cause painful tumors to sprout within their flesh. You add the roll of each Surgeons Die to your damage, and the target is considered Cancerous for 1 minute.
+
+Additionally, as an action you can target one creature within 30 feet that has the Cancerous condition. The creature, as well as all creatures within 10 feet of it take 6d6 necrotic damage as the turmors rupture into a shower of pestilent fluids. Once you use this effect, the Cancerous condition ends on the creature.
+
+#### Limit of Vigor
+You have attained true mastery over the flesh, and have learned to force a body to destroy itself. Starting at 18th level, as an action, you can target a creature within 30 feet that isn't behind total cover and expend two of your Surgeons Dice to force the target to make a Constitution saving throw or suffer one level of exhaustion. With a rhythmic crushing gesture, you tune into the targets's body, flexing their heart muscles to accelerate their pulse. This continues until their heart explodes. As long as the creature is within 30 feet of you and not behind total cover at the end of its turn, it suffers an additional level of exhaustion. You can maintain this ability for 1 minute, or until the target dies or you lose Concentration (as if you were concentrating on a spell).
+
+Constructs and creatures without hearts have advantage on the saves made for this feature, but can still be effected as long as they have some fluid within their body such as oil or magma (your DM decides if this is applicable). Undead are immune to this ability.
+
+Once you use this feature, you must finish a short or long rest before you may do so again.

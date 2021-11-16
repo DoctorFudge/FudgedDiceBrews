@@ -1,0 +1,162 @@
+## Blood Hunter
+[**Source:** *Blood Hunter (2020)*](https://drive.google.com/file/d/1MF4z_3e5bxuwKnxbdj9-tgxKoaz5M8yE/view?usp=sharing)
+
+Marred but resolute, his grimacing face dripping with sweat, a half-orc reddens a finger across his wounds to draw a glowing, ruby glyph in the air. He grips the weightless, completed sigil, twisting it to unleash dark magical energies that fire forward, cursing the stalking behemoth from within its own veins to better even the odds.
+
+A mysterious half-elf swathed in a worn cloak and rugged leather armor carefully investigates a grizzly scene off the roadway, her eyes flashing with recognition as she meditates on the remnants of the massacre.The survivor who warily hired her with draws with a jump as the half-elf suddenly shoots to her feet, sure in the knowledge of the culprit, where it calls home, and how little time there is to find it.
+
+Stepping into the lightless chambers of ancient dust and lingering whispers, the halfling's nose picks up the pungent smell of imminent danger as she hears the scraping of bone and claw on nearby stone. She winces as she runs her blade across her palm, the steel transmuting her blood into glowing runes of powerful magic, her sword suddenly engulfed in arcane flames, eager to brand and burn the flesh of her enemies.
+
+Often feared or misunderstood, and driven by an unending drive to destroy the wicked, blood hunters are clever, arcane warriors who have bound their essence to the dark creatures they hunt to better stalk and survive their prey. Armed with the rites of forbidden blood magic and a willingness to sacrifice their own vitality and humanity for the cause, they protect the realms from the shadows, ever vigilant to avoid becoming the same monsters they choose to hunt.
+
+### Sacrifice to Preserve Life
+While most of the classic schools of magical study are well known and widely respected, the less refined and macabre incantations of Hemocraft have long been forbidden and lost to most of the civilized world. Blood Hunters have reclaimed these techniques away from the judging eyes of society, finding blood magic's esoteric nature effective against the evils that often defy the divine powers that historically hold the line.
+
+Through careful study and practice, blood hunters have honed the rites of hemocraft into their combat prowess, forfeiting a facet of their health to infuse their weapons with powerful blood magic and summoning the elements to envelop their strikes.
+
+They can sear an arcane brand into the body of their quarry that hinders their foe's abilities and punishes their aggression, or call blood curses upon their enemies, manipulating their bodies from the inside. Willing to suffer whatever it takes to achieve victory, these adept warriors have forged themselves into a potent force against the terrors that threaten the innocent.
+
+### A Monster to Fight Monsters
+Whether driven by the wish to make a difference in a dangerous world, the need to take vengeance for a great wrong they have suffered, being inspired by witnessing the strange and powerful techniques of another blood hunter in person, or just seeking a place to belong in an uncaring world, the reasons one may take up the Hunter's Bane and choose this life are many and varied. In joining an order of blood hunters, one is also joining a tight family bound by service to each other and the common cause. For many, this is the only family they have known or have left, so the kinship felt between members of an order is a bond neigh unbreakable.
+
+Beyond the boundaries of the order, however, the life of a blood hunter is often not an easy one. The rituals of the Hunter's Bane regularly leave one visibly changed and prone to unsettle common folk, and the witnessing of hemocraft can invoke a superstitious fear from even the most learned scholar. While some societies have come to accept the good deeds of the orders, many blood hunters publicly hide their nature unless absolutely necessary, feeling more comfortable in the wilds and wastes of the world where the Orders commonly train. Even so, the best work a blood hunter can do usually involves the poor and defenseless on the outskirts of society, those prone to the corrupting touch of fiends and dark intension. Braving the threat of vilification, these dark protectors wade through civilization, earning coin as mercenaries or bounty hunters, ever watching for the signs of something more nefarious beneath the surface.
+
+In choosing this path, a blood hunter has irrevocably given a part of themselves to their cause, physically, emotionally, and sometimes morally. The orders of blood hunters practice their own unique ideals and methods, often employing techniques with dark origins that test the strength and will of these guardians. Many wrestle with the fear of losing this struggle, so a life of discipline and vigilance drives their travels as they wander the country side in search of like-minded adventurers and whispers of dark deeds afoot.
+
+### Creating a Blood Hunter
+As you create a blood hunter, the most important aspects of your character are why you were driven to this lifestyle, and why do you seek to give up everything to wallow in the dark with the evils you hunt? Did you lose a loved one to a fiendish beast and now wish to prevent others from suffering the same fate? Do you seek a sense of purpose and security, and found this among the order that has taken you in? Have you always carried a seed of darkness within you, and seek kin to watch over you and prevent you succumbing to it? Were you once a holy warrior who strayed from his faith and was cast out, but still seek to give yourself to the cause of protecting the innocent? Or are you a criminal with a dark past seeking to make amends, taking this life as a path of penance?
+
+##### The Blood Hunter
+| Level | Proficiency Bonus | Features | Hemocraft Die | Blood Curses Known |
+|:-:|:-:|-|:-:|:-:|
+| 1st | +2 | Hunter's Bane,Blood Maledict | 1d4 | 1 |
+| 2nd | +2 | Fighting Style,Crimson Rite | 1d4 | 1 |
+| 3rd | +2 | Blood Hunter Order | 1d4 | 1 |
+| 4th | +2 | Ability Score Improvement | 1d4 | 1 |
+| 5th | +3 | Extra Attack | 1d6 | 1 |
+| 6th | +3 | Brand of Castigation,Blood Maledict Improvement | 1d6 | 2 |
+| 7th | +3 | Order feature,Primal Rite | 1d6 | 2 |
+| 8th | +3 | Ability Score Improvement | 1d6 | 2 |
+| 9th | +4 | Grim Psychometry | 1d6 | 2 |
+| 10th | +4 | Dark Augmentation | 1d6 | 3 |
+| 11th | +4 | Order feature | 1d8 | 3 |
+| 12th | +4 | Ability Score Improvement | 1d8 | 3 |
+| 13th | +5 | Brand of Tethering,Blood Maledict Improvement | 1d8 | 4 |
+| 14th | +5 | Hardened Soul,Esoteric Rite | 1d8 | 4 |
+| 15th | +5 | Order feature | 1d8 | 4 |
+| 16th | +5 | Ability Score Improvement | 1d8 | 4 |
+| 17th | +6 | Blood Maledict Improvement | 1d10 | 4 |
+| 18th | +6 | Order feature | 1d10 | 5 |
+| 19th | +6 | Ability Score Improvement | 1d10 | 5 |
+| 20th | +6 | Sanguine Mastery | 1d10 | 5 |
+
+What is your relationship with the powers of hemocraft and the abilities it promises to grant you as you step closer to its mastery? Do you respect and fear the ancient power that surges through your veins, using them only when necessary? Do you relish in the strength it offers you, embracing your gifts and using them freely? Are you worried the superstitions are right, and this power will eventually turn you into one of the monsters you hunt? Or has your study instilled you with the confident control of mind over matter, certain you can bend these gifts to bring a brighter dawn?
+
+Consider too that while a blood hunter belongs to an order, many strike out on their own to do their best work. What made you leave the comfort of your order? Do you intend to return, or have you decided you have more to learn in the world beyond? What do you seek in other adventurers that can help you meet your goals?
+
+While most blood hunters follow a path of good or neutrality in their pursuits, some have fallen to the dark, seductive side of hemo craft and use their abilities for selfish and evil purposes. These deviants are always thrown from the order, and often hunted along with the creatures they once trained to fell.
+
+#### Quick Build
+You can make a blood hunter quickly by following these suggestions. First, make Strength or Dexterity your highest ability score, depending on whether you want to focus on melee weapons, or archery (or finesse weapons). Make Intelligence your next highest if you plan to focus on the potency of blood curses and mystical power. Choose a higher Constitution next, as you want to have extra hit points to burn on your crimson rite or amplifying blood curses. Then, select the urchin or soldier background.
+
+## Class Features
+As a blood hunter, you gain the following class features.
+#### Hit Points
+- **Hit Dice:** 1d10
+- **Hit Points at 1st Level:** 10 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per Blood Hunter level after 1st
+#### Proficiencies
+___
+- **Armor:** light armor, medium armor, shields
+- **Weapons:** simple weapons, martial weapons
+- **Tools:** alchemical supplies
+___
+- **Saving Throws:** Dexterity, Intelligence
+- **Skills:** Choose 3 from Athletics, Acrobatics, Arcana, History, Insight, Investigation, Religion, and Survival.
+#### Starting Equipment
+You start with the following items, plus anything provided by your background.
+- *(a)* a martial weapon or *(b)* two simple weapons
+- *(a)* a light crossbow and 20 bolts or *(b)* hand crossbow and 20 bolts
+- *(a)* studded leather armor or *(b)* scale mail armor an explorer's pack
+
+Alternatively, you may start with 4d4 × 10 gp to buy your own equipment.
+
+### Hunter's Bane
+Beginning at 1st level, you have survived the Hunter's Bane, a dangerous, long-guarded ritual that alters your life's blood, forever binding you to the darkness and honing your senses against it. You have advantage on Wisdom (Survival) checks to track fey, fiends, or undead, as well as on Intelligence ability checks to recall information about them.
+
+The Hunter's Bane also empowers your body to control and shape hemocraft magic, using your own blood and life essence to fuel your abilities. Some of your features require your target to make a saving throw to resist the feature's effects. The saving throw DC is calculated as follows:
+
+<center>
+
+**Hemocraft save DC** = 8 + your proficiency bonus + your Intelligence modifier
+
+</center>
+
+### Blood Maledict
+At 1st level, you gain the ability to channel, and sometimes sacrifice, a part of your vital essence to curse and manipulate creatures through hemocraft magic. You gain one blood curse of your choice, detailed in the "Blood Curses" section at the end of the class description. You learn one additional blood curse of your choice, and you can choose one of the blood curses you know and replace it with another blood curse, at 6th, 10th, 14th, and 18th level.
+
+When you use your Blood Maledict, you choose which curse to invoke. While invoking a blood curse, but before it affects the target, you can choose to amplify the curse by losing a number of hit points equal to one roll of your hemocraft die, as shown in the Hemocraft Die column of the Blood Hunter table. An amplified curse gains an additional effect, noted in the curse's description. Creatures that do not have blood in their bodies are immune to blood curses, unless you have amplified the curse.
+
+You can use this feature once. Beginning at 6th level, you can use your Blood Maledict feature twice, at 13th level you can use it three times between rests, and at 17th level, you can use it four times between rests. You regain all expended uses when you finish a short or long rest.
+
+### Fighting Style
+At 2nd level, you adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take the same Fighting Style option more than once, even if you get to choose again.
+___
+- **Archery.** You gain a +2 bonus to attack rolls you make with ranged weapons.
+- **Dueling.** When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+- **Great Weapon Fighting.** When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the two-handed or versatile property for you to gain this benefit.
+- **Two-Weapon Fighting.** When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+
+### Crimson Rite
+At 2nd level, you learn to invoke a rite of hemocraft within your weapon at the cost of your own vitality. Choose one rite from the Primal Rites list be low to learn.
+
+As a bonus action, you activate a crimson rite on a single weapon with the elemental energy of a known rite of your choice that lasts until you finish a short or long rest, or if you aren't holding the weapon at the end of your turn. When you activate a rite , you lose a number of hit points equal to one roll of your hemocraft die,as shown in the Hemocraft Die column of the Blood Hunter table.
+
+While active, attacks from this weapon deal an additional 1d4 damage of the chosen rite's type. This damage is magical, and increases as you gain levels as a blood hunter, as shown in the Hemocraft Die column of the Blood Hunter table.
+
+You learn an additional Primal Rite of your choice at 7th level, and choose an Esoteric Rite to learn at 14th level.
+
+#### Primal Rites
+Choose from the following:
+___
+- ***Rite of the Flame.*** Your rite damage is fire damage.
+- ***Rite of the Frozen.*** Your rite damage is cold damage.
+- ***Rite of the Storm.*** Your rite damage is lightning damage.
+
+#### Esoteric Rites
+Choose from the following:
+___
+- ***Rite of the Dead.*** Your rite damage is necrotic damage.
+- ***Rite of the Oracle.*** Your rite damage is psychic damage.
+- ***Rite of the Roar.*** Your rite damage is thunder damage.
+
+### Blood Hunter Order
+At 3rd level, you commit to an order of blood hunter martial focus. Choose Order of the Ghostslayer, Order of the Profane Soul, Order of the Mutant, or Order of the Lycan, all detailed at the end of the class description. The order you choose grants you features at 3rd level, and again at 7th, 11th, 15th, and 18th level.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+### Brand of Castigation
+At 6th level, whenever you damage a creature with your Crimson Rite feature, you can choose to sear an arcane brand of hemocraft magic into it (requires no action). You always know the direction to the branded creature, and each time the branded creature deals damage to you or a creature you can see within 5 feet of you, the branded creature suffers psychic damage equal to your Intelligence modifier (minimum of 1 damage).
+
+Your brand lasts until you dismiss it, or you apply a brand to another creature. Your brand counts as a spell for the purposes of dispel magic, and the spell level is equal to half of your blood hunter level (maximum of 9th level spell).
+
+### Grim Psychometry
+When you reach 9th level, you have a supernatural talent for discerning the history surrounding mysterious objects or places touched by evil. When making an Intelligence (History) check to recall information about a darker past surrounding an object you are touching, or a location you are present in, you have advantage on the roll. The information gleaned often leans towards the more sinister influences of the past, and sometimes conveys visions of things previously unknown to the character on higher rolls.
+
+### Dark Augmentation
+Upon reaching 10th level, arcane blood magic suffuses your body, permanently reinforcing your resilience. Your speed increases by 5 feet, and whenever you make a Strength, Dexterity, or Constitution saving throw, you gain a bonus to the saving throw equal to your Intelligence modifier (minimum of one).
+
+### Brand of Tethering
+Starting at 13th level, the psychic damage from your Brand of Castigation feature increases to twice your Intelligence modifier (minimum of 2). In addition, a branded creature can't take the Dash action, and if a creature branded by you attempts to teleport or leave their current plane via ability, spell, or portal, they take 4d6 psychic damage and must make a Wisdom saving throw. On a failure, the teleport or plane shift fails.
+
+### Hardened Soul
+When you reach 14th level, you have advantage on saving throws against being charmed and frightened.
+
+### Sanguine Mastery
+Upon becoming 20th level, you honed your control over blood magic, mitigating your sacrifice and empowering your capability. Once per turn, whenever a blood hunter feature requires you to roll a hemocraft die, you can choose to reroll the die and choose which result to use.
+
+In addition, whenever you score a critical hit with a weapon attack empowered by your Crimson Rite, you regain one expended use of your Blood Maledict feature.

@@ -1,0 +1,236 @@
+## Avenger
+[**Source:** *The Avenger*](https://drive.google.com/file/d/1zOg7piKxGrNgVNaGHVXgXzKFN5QLAwYP/view)
+
+An elf strides through a forest after dark, hood drawn and weapon ready, and lays his eyes upon his target. He mutters a prayer to the Raven Queen and all blurs around him, only the necromancer remains in focus. As he moves and fights his actions aren't his own, but instead guided by the dark Queen herself.
+
+Dressed in naught but darkened robes the woman peers from atop a tree out over the orcish encampment, looking for the one responsible for the tragedy those long years ago. The orc notices something moving through the leaves and tries to run, but it's too late. He's been marked and now there's no place left to hide.
+
+An axe bites deep into the flesh of a dwarf, but the pain only strengthens his resolve. He turns to the man responsible, a bandit involved in the attack on town. With righteous fury burning in his eyes, he raises his hammer high and shouts the name of Moradin before bringing his hammer down in blinding flash of holy vengeance.
+
+Avengers are as diverse as the gods that they serve, but it is their wrath that unites them. Whether sworn to forever pursue those who would run from their god, or to seek retribution for wrongs done to the church an avenger is driven by a sense of divine wrath.
+
+#### Forgotten Rites
+Hidden from the rest of the world, in temples or monasteries secret covenants meet to train their initiates in traditions long forgotten, or forbidden, by the rest of their church. Those who complete this training are avengers, deadly avatars of their god's wrath.
+
+Avengers spend their years of training studying ancient and long forgotten texts of their religions and memorizing sacred prayers which they recite in the midst of battle. Upon the completion of their training an avenger goes through a ceremony of investiture which culminates in a manifestation of their deity.
+
+With their investiture complete an avenger is granted the ability to wield divine power, channeling their god's essence to create magical effects or to increase their prowess in battle. By doing so they honor their god and bring an end to any who would oppose them.
+
+### Justice and Exaltation
+Not many know of the orders which train these esoteric warriors, or why they would choose to live their entire lives in service to a single deity. Few priests of even the most vengeful of gods have ever heard of the avengers that worship besides them, the groups which recruit and train these avengers are secretive and deal with those who would spill their secrets in their own fashion. Even fewer are the recruits that make it to their investiture, either passing on the way or being “silenced” due to a slip in tongue.
+
+After the completion of their training, even fewer then are the avengers who do not take to the adventuring life. None are the treacherous beings who will turn themselves into the church, and so it is the avengers duty the seek out these individuals and bring the wrath of their god to them.
+
+### Creating an Avenger
+As you create your avenger think about the reasons that drove you to become a holy warrior and undergo the hellish training that led to your divine powers. Did you spend your years mourning the loss of a loved one until a group reached out and offered the ability to right that wrong? Do you belong to a race in which every member shares a special connection to a certain god or deity? Or were you a simple farmer until tragedy struck and a voice in the back of your mind told you of somewhere you can go to prepare for the fight ahead?
+
+One of the most important parts of your avenger is the god you worship, appendix B in the Player's Handbook lists the deities worshiped by avengers across the multiverse. While any god could have an avenger in their service it is more likely that a vengeful god or one who presides over war or death would have more avengers in their service, some such gods include: Bane, Kelemvor, Torm, Erythnul, Nerull, Sargonnas, The Raven Queen, Ares, Bast, and Hel.
+
+Next consider why your avenger is adventuring. Did you catch wind of a man in a distant land who has done wrong by your god? Did one of your god's long time priests renounce his religion and run from the church? Does your god seek the extermination of a particular type of creature? Perhaps you are out for revenge against a certain individual or group that has left a dark mark on your past.
+
+#### Quick Build
+You can make an avenger quickly by following these suggestions. First Dexterity should be your highest ability score, followed by Wisdom. Second, choose the acolyte background.
+
+##### The Avenger
+| Level Proficiency Bonus | Features | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 4th | 5th |
+|:-:|:-:|-|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1st | +2 | Unarmored Defense, Supple Strength | — | — | — | — | — | — | — |
+| 2nd | +2 | Sacred Studies, Spellcasting | 2 | 2 | — | — | — | — | — |
+| 3rd | +2 | Censure, Oath of Enmity | 3 | 3 | — | — | — | — | — |
+| 4th | +2 | Ability Score Increase | 3 | 3 | — | — | — | — | — |
+| 5th | +3 | Extra Attack | 4 | 4 | 2 | — | — | — | — |
+| 6th | +3 | Blade of the Zealot, Blessing of Vengeance | 4 | 4 | 2 | — | — | — | — |
+| 7th | +3 | Censure feature, Evasion | 5 | 4 | 3 | — | — | — | — |
+| 8th | +3 | Ability Score Improvement | 5 | 4 | 3 | — | — | — | — |
+| 9th | +4 | — | 6 | 4 | 3 | 2 | — | — | — |
+| 10th | +4 | Clarity of Soul, True Conviction | 6 | 4 | 3 | 2 | — | — | — |
+| 11th | +4 | Oath of Enmity improvement, Wrath of the Divine | 7 | 4 | 3 | 3 | — | — | — |
+| 12th | +4 | Ability Score Improvement | 7 | 4 | 3 | 3 | — | — | — |
+| 13th | +5 | — | 8 | 4 | 3 | 3 | 1 | — | — |
+| 14th | +5 | Censure feature | 8 | 4 | 3 | 3 | 1 | — | — |
+| 15th | +5 | Eye of Justice | 9 | 4 | 3 | 3 | 2 | — | — |
+| 16th | +5 | Ability Score Improvement | 9 | 4 | 3 | 3 | 2 | — | — |
+| 17th | +6 | — | 10 | 4 | 3 | 3 | 3 | 1 | 1 |
+| 18th | +6 | Censure feature | 10 | 4 | 3 | 3 | 3 | 1 | 1 |
+| 19th | +6 | Ability Score Improvement | 11 | 4 | 3 | 3 | 3 | 2 | 2 |
+| 20th | +6 | Spirit of Vengeance | 11 | 4 | 3 | 3 | 3 | 2 | 2 |
+
+## Class Features
+As an avenger, you gain the following class features.
+#### Hit Points
+___
+- **Hit Dice:** 1d10 per avenger level
+- **Hit Points at 1st Level:** 10 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d10 *(or 6)* + your Constitution modifier per avenger level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Light armor
+- **Weapons:** All simple weapons, melee martial weapons
+- **Tools:** None
+___
+- **Saving Throws:** Strength, Wisdom
+- **Skills:** Choose three from Acrobatics, Athletics, Insight, Intimidate, Investigation, Medicine, Perception, Religion, and Stealth.
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a simple melee weapon and any simple weapon or *(b)* a martial weapon
+- *(a)* an explorer's pack or *(b)* a priest's pack
+- A holy symbol
+
+### Unarmored Defense
+When you are not wearing any armor or using a shield, your Armor Class equals 10 + your Dexterity modifier + your Wisdom modifier.
+
+### Supple Strength
+You wield heavy weapons with an ease and grace that terrifies your foes. You can use Dexterity instead of Strength for the attack and damage rolls of all melee weapons.
+
+### Sacred Studies
+At 2nd level, choose up to two of the following skills that you are proficient in: Insight, Intimidate, Investigation, and Religion. Your proficiency bonus is doubled for any ability check that uses either of the chosen proficiencies.
+
+In addition, your study of esoteric texts required you to learn an unusual language. You learn your choice of one of the following languages: Celestial, Infernal, or Sylvan.
+
+### Spellcasting
+When you reach 2nd level, you have learned to channel the righteous power of your god, allowing you to cast avenger spells. See chapter 10 of the Player's Handbook for the general rules of spellcasting and this document for the avenger spell list.
+
+#### Spell Slots
+The Avenger table shows how many spell slots you have to cast your spells. To cast one of your avenger spells of 1st level or higher, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+For example, if you know the 1st-level spell sanctuary and have a 1st-level and a 2nd-level spell slot available, you can cast sanctuary using either slot.
+
+#### Spells Known of 1st Level and Higher
+You know two 1st-level spells of your choice from the avenger spell list.
+
+The Spells Known column of the Avenger table shows when you learn more avenger spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 5th level in this class, you can learn one new spell of 1st or 2nd level.
+
+Additionally, when you gain a level in this class, you can choose one of the avenger spells you know and replace it with another spell from the avenger spell list, which also must be of a level for which you have spell slots.
+
+#### Spellcasting Ability
+Wisdom is your spellcasting ability for avenger spells. The power of your spells comes from your dedication to carrying out the will of your god in the material realm. You use your Wisdom whenever a avenger spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a avenger spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+
+</center>
+
+<center>
+
+**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+
+</center>
+
+#### Spellcasting Focus
+You can use a holy symbol (found in chapter 5 of the Player's Handbook) as a spellcasting focus for your avenger spells.
+
+### Censure
+At 3rd level, you choose a censure: the Censure of Pursuit or the Censure of Retribution. Your choice grants you features at 3rd level and again at 7th, 14th, and 18th level.
+
+### Oath of Enmity
+Starting at 3rd level, you can use a bonus action on your turn to swear an oath of enmity against a creature you can see within 30 feet. For the next minute, you gain advantage on all melee weapon attack rolls against the target. This ability ends immediately if you use it again to target a new creature.
+
+You may use this feature a number of times equal to half your levels in the avenger class + your Wisdom modifier (a minimum of once). You regain any expended uses when you complete a long rest.
+
+Starting at 11th level, when you deal damage with a weapon attack to a creature under your oath of enmity you deal an additional 1d6 radiant damage.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+### Blade of the Zealot
+Starting at 6th level, when you make an attack roll with advantage and both dice show the same result of 2 or higher, the attack is a critical hit.
+
+### Blessing of Vengeance
+Starting at 6th level, when you reduce a creature under the effect of your oath of enmity to 0 hit points you regain an expended use of that feature.
+
+### Evasion
+Beginning at 7th level, your effortless grace allows you to dodge out of the way of certain area effects, such as a red dragon's fiery breath or an ice storm spell. When you are subjected to an effect that allows you to make a Dexterity saving throw to take only half damage, you instead take no damage if you succeed on the saving throw, and only half damage if you fail.
+
+### Clarity of Soul
+Starting at 10th level, you are constantly under the effect of the zone of truth centered on yourself. This effect ends if you knowingly tell a lie and resumes when you finish a long rest.
+
+### True Conviction
+At 10th level, you are immune to being charmed or frightened by the target of your oath of enmity.
+
+### Wrath of the Divine
+Starting at 11th level, the first time you score a critical hit with a weapon attack each turn you may immediately make an additional weapon attack.
+
+### Eye of Justice
+Starting at 15th level, you can cast the spell true seeing on yourself without spending a spell slot. You can use this feature again after you complete a short or long rest.
+
+### Spirit of Vengeance
+At 20th level, you can use your oath of enmity feature an unlimited number of times. Additionally, when you deal damage to a creature under your oath of enmity the creature loses any damage resistances it has. If it would be immune to a damage type you deal, it takes half damage instead.
+
+## Avenger Spell List
+This section includes all spells available to the avenger class.
+	
+##### 1st Level
+- Alarm
+- Bane
+- Bless
+- Command
+- Compelled Duel
+- Detect Evil and Good
+- Detect Magic
+- Dissonant Whispers
+- Executioner's Eye
+- Faerie Fire
+- Forsaken Chains
+- Guiding Bolt
+- Inflict Wounds
+- Inquisitor's Eye
+- Oath-Sealing Covenant
+- Protection from Evil and
+- Good
+- Sanctuary
+- Scornful Glare
+- Zephyr's Strike
+
+##### 2nd Level
+- Blindness/Deafness
+- Detect Thoughts
+- Enhance Ability
+- Hate
+- Hold Person
+- Lesser Restoration
+- Locate Object
+- Misty Step
+- See Invisibility
+- Silence
+- Spectral Form
+- Zone of Truth
+
+##### 3rd Level
+- Bestow Curse
+- Blinding Smite
+- Dispel Magic
+- Fear
+- Feign Death
+- Haste
+- Inexorable Pursuit
+- Nondetection
+- Protection from Energy
+- Reaping Smite
+- Remove Curse
+- Speak with Dead
+
+##### 4th Level
+- Banishment
+- Death Ward
+- Divination
+- Freedom of Movement
+- Greater Invisibility
+- Locate Creature
+- Phantasmal Killer
+- Shadow of Moil
+
+##### 5th Level
+- Banishing Smite
+- Commune
+- Contagion
+- Dawn
+- Dispel Evil and Good
+- Hold Monster
+- Holy Weapon
+- Mislead

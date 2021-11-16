@@ -1,0 +1,24 @@
+### Rotisseur
+The Rotisseur excels at cooking large and nourishing meals. These chefs strive to bake as much magical potency into their food as possible, letting nothing go to waste.
+
+#### Special Recipes: Main Courses
+Main Course Recipes are much larger, and thus require an action to consume, instead of a bonus action.
+
+| Chef Level | Recipes |
+|:----:|:-------------|
+| 3rd  | Chicken Breast |
+| 7th  | Rump Steak |
+| 13th  | Roast Pork |
+| 18th | Salmon Fillet |
+
+#### Hearty Meals
+Starting at 3rd level when you choose this specialty, you include protein-rich ingredients in all of your recipes to make them extra filling. Whenever a creature consumes a recipe you have created, it gains temporary hit points equal to your wisdom modifier, in addition to the recipe's benefits.
+
+#### Pan Mastery
+At 7th level, you've accustomed yourself to the unique shape and form of the pan, allowing you to strike with increased brutality. Any attack roll you make with a pan is a critical hit on a roll of 19 or 20. Additionally, when you score a critical hit with a pan, the target must make a constitution saving throw against your recipe save DC or be stunned until the end of it's next turn.
+
+#### Combat Cook
+at 13th level, you're always on the offensive, even while devouring food. When you use your action to consume a main course or feed it to a willing creature, you can make one weapon attack as a bonus action.
+
+#### Superior Hearty Meals
+at 18th level, whenever a creature gains temporary hit points from your Hearty Meals feature, they also regain an equal amount of hit points.

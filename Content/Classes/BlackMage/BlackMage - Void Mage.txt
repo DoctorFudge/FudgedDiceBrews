@@ -1,0 +1,26 @@
+### Void Mage
+A Void mage is a Black Mage who has focused their research on harnessing the power of The Void and the dark creatures who live within it. This has granted the Black Mage proficiency over dark magic which they wield with authority.
+
+#### Expanded Spell List
+Your specialization as a Void Mage lets you choose from an expanded list of spells when you learn a blackmage spell. The following spells are added to the blackmage spell list for you.
+
+##### Expanded Spell List
+| Spell Level | Spell |
+|:----:|:-------------|
+| 1st  | *Armor of Agathys, Arms of Hadar* |
+| 2nd  | *Ray of Enfeeblement, Shadow Blade* |
+| 3rd | *Hunger of Hadar, Summon Lesser Demon* |
+| 4th | *Banishment, Summon Greater Demon* |
+| 5th | *Contact Other Plane (Ritual), Negative Energy Flood* |
+
+#### Void Casting
+Beginning at 2nd level, when you cast a spell, you may spend one mana point to change the damage type of the spell to necrotic. When you change the damage type of your spell in this way it does additional damage equal to your Intelligence ability modifier. This bonus applies to your spell once.
+
+#### Void Sense
+Beginning at 6th level, you have learned to borrow power from the void to improve your senses and causing your eyes to glow with dim red light. You may spend 1 mana point to gain darkvision out to 60ft. for one hour. If you already have darkvision, the range is increased by 60ft. Additionally, you gain advantage on perception checks that use your eyes while under this effect.
+
+#### Ebony Offense
+At 11th level, necrotic damage you deal is unaffected by resistances. As a bonus action, you may spend a mana point to overcome necrotic damage immunity for your next spell.
+
+#### Bloody Veil
+Beginning at the 14th level, when you kill a creature with a spell of first level or higher with necrotic damage, you gain temporary hit points equal to the spell's level multiplied by your Intelligence ability modifier.

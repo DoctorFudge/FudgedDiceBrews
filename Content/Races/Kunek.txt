@@ -1,0 +1,39 @@
+## Kunek
+[**Source:** *Old Gus' Errata: Beastfolk*](https://drive.google.com/file/d/12PE02rLX8fM072__CFZJhVvMeKOcsvIo/view)
+
+### El-ahrairah's Quickling Children
+Kunek are small humanoids about the size of a gnome with the heads, tails and feet of rabbits. They have long, sensitive ears and their eyesight detects motion almost reflexively. They are careful, intentional and cautious beings, but make excellent and loyal friends to those they come to know and love.
+
+On their own, kunek live in underground warrens much like halfling dwellings. They regularly have as many as five children at once. Their infants are tiny and helpless for about a year, but quickly grow and reach adulthood in just a few short years, mastering language and their bodies at an incredible rate.
+
+Kunek are very social, but prefer to have a few feet of personal space and do not like to be touched or jostled by strangers. Kunek will go to great lengths to avoid a crowd. Most of them also dislike temperature extremes. When they are happy, they will hop or dance with joy.
+
+Most kunek are fastidious, and keep themselves immaculately clean. Other races think of them, as flighty busybodies because of their predilection to take on more than one task at a time, but they have short lives and only so long to accomplish their goals.
+
+#### Kunek Religion
+Most kunek worship El-ahrairah, an archfey who favors the form of a rabbit, and from whom they claim ancestry. Their religion prizes wisdom, cunning and caution as virtues, believing if one uses their gifts to the utmost, they will leave a lasting legacy upon the world in the form of friendships and children that will echo throughout the ages.
+
+### Kunek Racial Traits
+***Ability Scores.*** Your Wisdom score increases by 2, and your Dexterity score increases by 1.
+
+***Age.*** Kunek mature at 5 years, and live up to 30 years.
+
+***Alignment.*** Kunek are lawful almost without exception, and most are good.
+
+***Size.*** Kunek are between 3 and 4 feet tall, and weigh an average of 35 pounds. Your size is Small.
+
+***Speed.*** You have a base walking speed of 30 feet.
+
+***Languages.*** You can speak, read and write Common and Kunek.
+
+***Dimvision.*** You can see in dim light within 30 feet of you as if it were bright light, and in darkness as if it were dim light.
+
+***Keen Hearing.*** You are proficient in the Perception skill, and have advantage on checks you make with it that rely on hearing.
+
+***Kunek Agility.*** Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can dash as a bonus action. Once you use this trait, you can't use it again until you move 0 feet on one of your turns.
+
+***Nimble Hop.*** You can move through the space of any creature at least one size category larger than yours.
+
+***Swift Warning.*** You receive a bonus to your initiative rolls equal to half your Wisdom modifier (minimum: 1).
+
+***El-ahrairah’s Favored.*** You are proficient in the Insight skill.

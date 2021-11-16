@@ -1,0 +1,29 @@
+### Piss & Vinegar
+Pugilists in the Piss & Vinegar fight club revel in their reputations as heels. Widely despised for their obscene curses and dirty tricks, these pugilists take pride in their ability to provoke and fight to win at all costs.
+
+#### Bonus Proficiency
+Starting when you choose this fight club at 3rd level, you gain proficiency with the Intimidation skill if you don't have it already.
+
+#### Salty Salute
+Also at 3rd level, you have mastered the art of the enraging insult. You can use a bonus action on your turn to provoke a creature within 60 feet who can see or hear you. That creature must make a Wisdom saving throw. On a failure, the creature takes your fisticuff's damage die + your Charisma modifier in psychic damage and has disadvantage on any attack rolls it makes that do not include you as a target before the start of your next turn. For any of your Piss & Vinegar features that require your opponent to make a saving throw, the saving DC is calculated as follows:
+
+<center>
+
+**Piss & Vinegar save DC** = 8 + your proficiency bonus + your Charisma modifier
+
+</center>
+
+#### Dirty Tricks
+Starting at 6th level, you have a few tricks up your sleeve to even the odds when the going gets rough. You can each of these dirty tricks once and regain their use when you finish a short or long rest.
+
+***Heelstomper.*** When you deal damage with an unarmed attack, you attempt to slow the creature you hit. The creature must make a Dexterity saving throw. On a failure, you gain 1 moxie point (up to your maximum) and its movement speed is halved for one minute.
+
+***Low Blow.*** When you deal damage with an unarmed attack you can choose to hit them below the belt. The creature must make a Strength saving throw. On a failure, you gain 1 moxie point (up to your maximum) and it is knocked prone.
+
+***Pocket Sand.*** You can use a bonus action to attempt to blind a creature within 5 feet. The creature must make a Constitution saving throw. On a failure, you gain 1 moxie point (up to your maximum) and it is blinded until the end of its next turn.
+
+#### Mean Old Cuss
+At 11th level, your threats and mean spirited tricks pack an extra punch. When you make a Charisma (Intimidation) ability check, you can use your reaction and spend 1 moxie to give yourself advantage on the roll. When a creature makes a saving throw against one of your Piss & Vinegar features, you can use your reaction and spend 1 moxie to give that roll disadvantage.
+
+#### The Uncouth Art
+Starting at 17th level, you gain the ability to offend every creature in the room with minimal effort. When you use your Salty Salute feature, you can choose to target a number of creatures within 60 feet who can see or hear you up to your level in this class instead of a single creature. You gain 1 moxie point (up to your maximum) the first time each creature targeted in this way hits you with an attack before the start of your next turn. You can use this feature again after you finish a long rest.

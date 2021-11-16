@@ -1,0 +1,33 @@
+### Celebration Domain
+[**Source:** *The Compendium of Sacred Mysteries*](https://drive.google.com/file/d/1tTqyFnVUbOLDjPcOZU41RLCf3TJ0gywP/view)
+
+Your god is an awesome god, and one who loves to throw excellent parties. Bacchus, Dionysus, Shezu, and any god known for alcohol or other intoxicants, wild behavior, and good cheer could have celebration as one of their domains. While the obvious goals of fun and ensuring everyone can have a good time apply, there's no reason that a god of celebration can't also pursue other ends - bringing peace to a war-torn land, freeing the hearts and minds of others from doubt and distress, and other noble ends that are always met with a good celebration!
+
+#### Celebration Domain Spells
+| Cleric level | Spells |
+| :-: | :-- |
+| 1st | <em>color spray, faerie fire</em> |
+| 3rd | <em>enthrall, pyrotechnics</em> |
+| 5th | <em>hypnotic pattern, major image</em> |
+| 7th | <em>confusion, fabricate</em> |
+| 9th | <em>animate objects, seeming</em> |
+
+#### Bonus Cantrip
+When you choose this domain at 1st level, you gain the *dancing lights* cantrip if you don't already know it. You do not need to maintain concentration on this cantrip, and you can create a number of lights equal to the normal value plus half your cleric level rounded up.
+
+#### Life of the Party
+Also at 1st level, you gain proficiency in one of the following skills: Deception, Performance, or Persuasion.
+
+Whenever you cast either the *dancing lights* cantrip or a spell from the Celebration Domain spell list, you gain temporary hit points equal to your Wisdom modifier that last for one minute.
+
+#### Channel Divinity: Water and Wine
+At 2nd level, your god smiles on your party. You can use your Channel Divinity feature to transform up to fifty gallons of water into a magical ambrosia for one hour. Creatures that drink from the font must make a Wisdom saving throw against your cleric spell save DC or be charmed for one minute. Either way, the subject gains temporary hit points equal to your cleric level. This liquid can be bottled, but fades back into water after one hour.
+
+#### Channel Divinity: Cheerful Assistance
+At 6th level, you can protect your friends from bad decisions. Whenever a creature within 60 feet of you that you can see makes a roll with disadvantage, you can use your reaction and Channel Divinity feature to enable them to roll with advantage instead.
+
+#### Potent Spellcasting
+Starting at 8th level, you can add your Wisdom modifier to the damage you deal with any cleric cantrip.
+
+#### Grand Parade
+At 17th level, your god brightens the world through you. Whenever you cast dancing lights, you and allies within 60 feet can move up to 30 feet as a reaction and also gain immunity to the frightened condition for 1 minute.

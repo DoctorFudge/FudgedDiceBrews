@@ -1,0 +1,57 @@
+### Oath of Resolve
+[**Source:** *The Gunpowder Codex*](https://drive.google.com/file/d/1jjhLL1aeWVp2AsoOIwJJ-0BvO6dvPedk/view)
+
+Often hailing from lawless lands, paladins who take the Oath of Resolve know better than anyone that righteousness is hard to attain. These paladins know that life is rough, and that is impossible to truly live without getting dust on your boots. They hold that righteousness is not a state of being, but rather a choice that must be made and a struggle that must be won every day. Paladins who take the Oath of Resolve do not idealize perfect, heroic figures. Instead, they hold up as examples ordinary people struggling to improve their lives, and strike down any who would prey on such folk.
+
+#### Tenets of Resolve
+Though the exact words and strictures of Oath of Resolve vary, paladins of this Oath share these tenets.
+
+Strive Always. Character shows up best when tested. The greater the struggle, the greater value there is to find in the result. No cause is truly lost so long as someone strives after it.
+
+Only You Can Save Yourself. No matter your lot in life, you determine your own actions. If you find yourself in a hole, first thing to do is stop digging. The second thing to do is start climbing. Always be willing to throw the climbers some rope.
+
+Charity to the Weak. Not everyone has the stones to strive for righteousness. Lead by example, and those that can will follow. Be kind to those that cannot strive, and care for them when possible.
+
+Examples Must be Made. There are those who take advantage of life's adversity and strive against righteousness. The people must be shown that such villains will always be overcome in the end.
+
+##### Oath of Resolve Spells
+**Paladin Level**|**Spells**
+:-----:|:-----
+3rd|<em>guiding bolt, ensnaring strike</em>
+5th|<em>knock, enhance ability</em>
+9th|<em>conjure barrage, protection from energy</em>
+13th|<em>freedom of movement, stoneskin</em>
+17th|<em>conjure volley, swift quiver</em>
+
+#### Proficiencies
+Starting when you choose this oath at 3rd level, you gain proficiency with firearms, allowing you to add your proficiency bonus to attacks made with firearms.
+
+#### Gunsmith
+Upon choosing this oath at 3rd level, you gain proficiency with Tinker's Tools. You may use them to craft ammunition, repair damaged firearms, or even draft and create new ones (DM's discretion). Some extremely intricate and experimental firearms are only available through crafting.
+
+#### Sacred Piece
+At 3rd level, you gain the ability to bond your oath with a firearm to create a sacred piece. Any time you hit a creature with an attack using your sacred piece, you may apply your divine smite feature. After you reach 11th level, you may also apply your improved divine smite feature to attacks made with your sacred piece. Additionally, any paladin spell you cast that applies to melee weapon attacks also applies to attacks with your sacred piece.
+
+Creating a sacred piece is a holy ritual requiring one hour of uninterrupted concentration. If your bonded firearm is destroyed or lost, you may bond to a new firearm by spending another hour and paladin spell slot to repeat the ritual.
+
+When you take this Oath at 3rd level, you gain the following two Channel Divinity options.
+
+#### Channel Divinity: Empower the Weak
+You can use your Channel Divinity to strengthen your allies. As an action, you may select one ally within 30 feet of you. The selected ally gains temporary hit points equal to double your paladin level, and advantage on its next attack roll or ability check.
+
+#### Channel Divinity: Gunhand
+At 3rd level, you can use your Channel Divinity on your turn after you have used the attack action to instantly reload your firearm and make one additional attack with it, on top of your regular action and any possible bonus action. You still require sufficient ammunition, as normal.
+
+#### Aura of Perseverance
+At 7th level, you and friendly creatures within ten feet of you can't be stunned while you are conscious. At 18th level, the range of this aura increases to 30 feet.
+
+#### Unstoppable
+At 15th level, your stubbornness makes you an implacable force. Your speed may not be reduced by magic, and difficult terrain does not cost you extra movement. If you are grappled by a creature, your speed is halved instead of reduced to 0. All creatures in grapple are pulled along with you when you move.
+
+#### Enduring Champion
+At 20th level, you gain the ability to harness your resolve. Using your action, you may draw upon your stubbornness as a form of magical protection. For one minute, you gain the following benefits:
+- Ranged attacks have disadvantage against you.
+- If you are reduced to 0 hit points, you may continue to take the Attack, Help, or Use an Object action, but you may not move and you continue to make death saving throws. Taking damage still causes you to fail death saving throws automatically, and if you would die from failing three death saving throws, you die as normal.
+- When you make an attack with a firearm, you may add your charisma modifier (minimum of +1) to your attack and damage rolls.
+
+Once you use this feature, you can't use it again until you finish a long rest.

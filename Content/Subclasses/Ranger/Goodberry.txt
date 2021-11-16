@@ -1,0 +1,28 @@
+### Goodberry Conclave
+[**Source:** *Praise Be The Goodberry! Compendium*](https://www.gmbinder.com/share/-LZeyRZtzKZLu2cjiglX)
+
+Rangers of this conclave seek to utilize the Goodberry's command of nature in their pursuit of safeguarding the balance between the world of man and the natural world.
+
+#### Goodberry Magic
+Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Divine Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
+
+##### Goodberry Spells
+| Ranger Level | Spells |
+| :-: | :-- |
+| 3rd | <em>Goodberry (Improved)</em> |
+| 5th | <em>Kevin's Goodberry Ale</em> |
+| 9th | <em>Kevin's Goodberry Fireball</em> |
+| 13th | <em>Kevin's Goodberry Swarm</em> |
+| 17th | <em>Kevin's Goodberry Feast</em> |
+
+#### Brambleshot
+At 3rd level, you can infuse your ranged attacks with the natural energies of the Goodberry. Once per turn you can as a reaction whenever you succeed on a ranged attack cause the target creature to have to make a Dexterity saving throw. On a failed save they become wrapped in thorny vines and take 1d6 magical piercing damage at the start of each turn for 1 minute or until you use this feature again.
+
+#### Vine Grasp
+At 7th level, whenever you have a creature affected by Brambleshot that creature has disadvantage on all attack rolls made against you and their movement is reduced by 10 feet.
+
+#### Vine Pull and Push
+At 11th level, whenever a creature becomes affected by Brambleshot you can as a bonus action move towards them up to your total movement speed or pull them towards you up to your total movement speed.
+
+#### Thornpiercer
+At 15th level, whenever a creature becomes affected by Brambleshot you can instantly choose to make another ranged attack against the same creature. When you do so the ranged attack deals an additional 3d4 piercing damage.

@@ -1,0 +1,31 @@
+### Circle of the Goodberry
+[**Source:** *Praise Be The Goodberry! Compendium*](https://www.gmbinder.com/share/-LZeyRZtzKZLu2cjiglX)
+
+The Circle of the Goodberry is taken by those who wish to dedicate themselves to the righteous path that is the Goodberry. They must praise the goodberry, and treat it as an attachment of themselves. Those who walk this path gain their power from the Goodberry. The Goodberry is a separate entity from the player, and gains its power from the prayers, praises of others, and The Great Goodberry.
+
+#### Berry Preparation
+When choosing this circle at 2nd level, you acquire bush that is usually carried on the back in a pack full of dirt, and requires little nourishment as it shares a bond with its disciple. The bush produces a number of berries equal to your Wisdom modifier when you roll initiative. These berries become disappear whenever combat ends.
+
+#### Berry Mastery
+Also at 2nd Level your time spent with the Goodberry has granted you a better understanding of it and you gain the ability to control what effects each individual berry on the bush has. From these three choices:
+
+***Corrosive Berry.*** You grabs one berry, and throw it at a target within 30 feet. Make a ranged weapon attack against the target. On a hit the target takes 1d6 acid damage.
+
+You can expend more berries to increase the damage by 1d6 for each berry expended.
+
+***Soul Berry.*** You expend 3 berries and consume them to gain advantage on three saving throws of your choice for 1 minute.
+
+***Heal Berry.*** You pull from your bush one berry filled with healing light, and eat it or feed it to another creature.
+
+The berry heals 1d6 and you can expend more berries to increase the amount by 1d6 for each berry expended.
+
+#### Land of the Goodberry
+Starting at 6th level you can change a 10 foot radius of ground within 120 feet of you into the Goodberry terrain as a bonus action. The Goodberry terrain acts as magical rough terrain, and any enemies who start their turn in the terrain or move into the terrain on their turn must make a Dexterity saving throw, on a failed saving throw taking 3d6 magical bludgeoning damage from the goodberry vines and half as much on a successful save.
+
+You can use Land of the Goodberry a number of times equal to you Wisdom modifier before needing to take a long rest to regain all your uses of it. You can only have one Land of the Goodberry active at a time, and creating a new one dissipates the current one
+
+#### The Goodberry's Blessing
+When you reach 10th level, the Goodberry extends more of its magic toward you. You are granted resistance to acid damage and your devotion to the Goodberry blinds you to the sway of other gods this grants you immunity to the charmed condition and all Charisma checks made against you have disadvantage.
+
+#### Boon of the Goodberry
+Upon reaching 14th level you gain one additional use of Land of the Goodberry, and whenever you gain berries as a part of Berry Preparation you gain a number of berries equal to double your Wisdom modifier.

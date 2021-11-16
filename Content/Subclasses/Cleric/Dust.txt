@@ -1,0 +1,45 @@
+### Dust Domain
+[**Source:** *The Gunpowder Codex*](https://drive.google.com/file/d/1jjhLL1aeWVp2AsoOIwJJ-0BvO6dvPedk/view)
+
+The Dust domain is most often espoused by clerics that are surrounded by it, who have lived most of their lives in deserts, badlands, plains, prairies, or similar areas. In addition to their command of the earth, they expand their definition of dust to include gunpowder, and make formidable foes. Many different gods can claim influence over this domain, but it finds particular favor with Chauntea, Ilmater, Silvanus, Fharlanghn, Incabulos, Obad-Hai, Ulaa, The Devourer, Moradin, and Semuanya.
+
+##### Dust Domain Spells
+**Cleric Level**|**Spells**
+:-----:|:-----
+1st|<em>earth tremor, thunderwave</em>
+3rd|<em>bullet scry, dust devil</em>
+5th|<em>erupting earth, dust storm</em>
+7th|<em>hallucinatory terrain, stone shape</em>
+9th|<em>immolation, wall of stone</em>
+
+#### Proficiency
+Starting when you choose this domain at 1st level, you gain proficiency with firearms, allowing you to add your proficiency bonus to attacks made with firearms.
+
+#### Gunsmith
+Upon choosing this domain at 1st level, you gain proficiency with Tinker's Tools. You may use them to craft ammunition, repair damaged firearms, or even draft and create new ones (DM's discretion). Some extremely intricate and experimental firearms are only available through crafting.
+
+#### Spellcasting Focus
+At 1st level, you gain the ability to bond with one firearm and thereafter use it as a spellcasting focus. This process takes an hour. If your bonded firearm is destroyed or lost, you may bond to a new firearm by spending another hour to repeat the ritual.
+
+#### Gust of Dust
+At 1st level, you can cause dust to rise up and distract your foes. When a creature within 30 feet that you can see makes an attack against you or an ally, you can use your reaction to impose disadvantage on the attack roll, causing gusts of wind to throw dust at the attacker's eyes before it hits or misses. An attacker that can't be blinded is immune to this feature. You can use this feature a number of times equal to your Wisdom modifier (a minimum of once). You regain all expended uses when you finish a long rest.
+
+#### Channel Divinity: Gunhand
+At 2nd level, you can use your Channel Divinity on your turn to instantly reload your firearm and make one additional attack with it, on top of your regular action and any possible bonus action. You still require sufficient ammunition, as normal.
+
+#### Channel Divinity: Fire Seeds
+At 6th level, you can use your Channel Divinity to transform dust or dirt in an area into gunpowder.
+
+As an action, choose a point you can see within 60 feet of you. There must be dirt or dust in the area, and it must be relatively dry. You transmute particles of the dirt or dust within a 20-foot-radius of the point you choose into gunpowder. This powder is thoroughly intermingled with the soil and impossible to extract.
+
+If the area is covered in grass, underbrush, or is otherwise obscured, the change is unnoticeable and is only revealed by a DC 20 Intelligence (Investigate) check. If the area is exposed, the change in soil color is noticeable with a DC 12 Wisdom (Perception) check.
+
+Any time after seeding an area with gunpowder, it may be ignited as normal by fire, an explosion, or additionally by any spell or effect that touches it with radiant damage. When ignited, the gunpowder explodes, dealing fire damage equal to 7d6 + your cleric level to any creature within the area. A successful DC 15 Dexterity saving throw halves the damage. It's possible that this explosion might set flammable things in the area on fire, but the gunpowder itself is instantly consumed by the explosion.
+
+If the seeded area is dampened by rain or another source of water, the powder is inert until it dries (which takes two days). If only part of the area is doused, the dampened areas are safe from any explosion, but creatures in the non-dampened sections are damaged as normal.
+
+#### Divine Strike
+At 8th level, you gain the ability to infuse your weapon strikes with divine energy. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 radiant, necrotic, or thunder damage (your choice) to the target. When you reach 14th level, the extra damage increases to 2d8.
+
+#### Dustborn
+At 17th level, you have a burrow speed equal to your current walking speed. You can burrow through sand, earth, mud, or ice, but not through solid rock.

@@ -1,0 +1,22 @@
+### Country Music
+[**Source:** *Country Music Conclave*](https://drive.google.com/file/d/10ks9M_munf-BRcabCo9detH159dDZMuy/view)
+
+The rangers of the Country Music Conclave are, by and large, rustic sorts, most at home on the farm or in the woods. They value honesty and hard work, having dedicated their lives to protecting the land they love, and this attitude is reflected too in their traditional music. In country music, authenticity is king: songs are written from the heart with lyrics that focus on the hard realities of everyday life and rhythms that are easy to dance to.
+
+#### Bonus Proficiencies
+When you choose this conclave at 3rd level, you gain proficiency with brewer's supplies and one musical instrument of your choice.
+
+#### Ring of Fire
+Also at 3rd level, you gain the ability to imbue your strikes with magical fire. Once on each of your turns when you hit a creature with a weapon attack, you can inflict fire damage equal to your Wisdom modifier on all hostile creatures within 5 feet of the original target.
+
+#### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+#### Hoedown
+At 7th level, you begin to take advantage of you quick footwork in the melee of combat. When there are two or more hostile creatures within 5 feet of you, you gain a +2 bonus to your AC.
+
+#### Outlaw Country
+When you reach 11th level, you decide to get back to basics and focus on fighting your favored enemies. Whenever you use your action to attack one of your favored enemies, you can make another weapon attack against the same target as a bonus action.
+
+#### Tough as Old Snake Leather
+By 15th level, when you are subjected to an effect, such as a green dragon's poisonous breath or a blight spell, that allows you to make a Constitution saving throw to take only half damage, you instead take no damage if you succeed on a saving throw, and only half damage if you fail. Furthermore, you are immune to the poisoned condition.

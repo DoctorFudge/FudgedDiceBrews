@@ -1,0 +1,550 @@
+## Witch
+[**Source:** *The Witch*](https://drive.google.com/file/d/1S_KreKdK6BeCjwY1_yzitUNqxo31S7GW/view)
+
+Holding a wand in a loose grip, a young human with tousled red hair and a sheepish grin faces down a furious orc warrior nearly three times his size. With a word and a gesture, the boy’s red hair suddenly erupts into a flurry of long, vicious, living tendrils that wrap themselves around the legs and throat of the orc, dragging the shocked warrior off his feet and holding him aloft.
+
+Sitting atop a floating broom, a wood elf with glowing green eyes gently directs it to pass by the royal palace and idle next to an open window overlooking the throne room. She spies, through the window, the king of all the realm holding court on his throne. The elf gingerly reaches into her sleeve and retrieves a rudimentary straw doll, fashioned with a tiny gold crown upon its head, and a gleaming silver pin. A single pinprick strikes through the heart of the doll, and the king doubles over clutching his chest in pain, sending his courtiers into a blind panic. The wood elf watches, satisfied.
+
+Pounding a handful of herbs into powder with her trusty mortar and pestle, an elderly tiefling in a flowing grey robe tosses them into her cauldron, already raised to a boil over an open flame. As she does so, the cauldron exudes a noxious green cloud and begins to froth wildly. In just a handful of days, the tiefling will begin the distillation process, creating a new vial of eldritch poison to seep life from the world.
+
+Witches are learned practitioners of the earliest of magics, from a time when the arcane and the natural were studied as one. Eschewing the more esoteric magics studied by some of their peers, witches prefer practical magic with a variety of potential uses. Witches draw upon the power inherent in the night and the land to breathe life into fallen comrades, brew mystical potions and poisons mighty enough to fell a dragon, and weave terrible curses that may plague an individual for the rest of their life.
+
+### Acolytes of the First Magic
+When the world was young and the mortal races existed entirely at the mercy of primordials, gods, and monsters, there were beings in the darkness that took a surprising mercy on those lesser creatures struggling to survive.
+
+Whether these beings were spirits, specific gods, or something more sinister, no two tales agree, but the bargains they struck ushered the first inklings of mortal magic into the world. Witches hold as tradition that it was these magics that gave mortals a fighting chance, while others more suspicious of witchcraft tell that this was the first interference of malicious entities into mortal affairs, and an affront to the pure will of the gods.
+
+Witches are always deeply individualistic, and in the present era have been divided by coven and practice. Though all witches learn from the writings of and words spoken by their elders, some study the ancient ways as an evolving historical and scholastic pursuit, while others practice their magics wild and with full communion of the old beings who laid the path of natural arcana before them. An endlessly diverse group of practitioners, witches rarely agree how best to use their magic, even within the same coven.
+
+### Devoted to the Craft
+Though not all witches wander far and wide, no witch lives what could be considered a normal life. The reputation of witches as curse-binders and worse often precedes them, and even the best of witches often face at least an inkling of suspicion or fear from those they attempt to help.
+
+Nevertheless, witches are always dedicated to learning the intricacies of their craft, though many witches do dabble. The specifics of the craft a witch learns are usually the product of the life that witch has led. A witch that knows how to bind wounds has likely done so on many occasions, while a witch skilled in the arts of cursing may have lived a life full of revenge and spite.
+
+### Creating a Witch
+When you create your witch character, consider strongly their morals and personal leanings. Witches always hold opinions of the world that they are willing to act upon, making them a dynamic and decisive force. How do these attitudes shape your magic, and how has your magic shaped them, in turn?
+
+Who was the witch that introduced you to magic? Did you stumble upon an occult ritual deep in the woods, or did you enroll in a prestigious institute of witchcraft? What values do those witches close to you hold, and how have they colored your personality and ideals?
+
+Finally, what has made you choose the life of a wandering witch? Are you searching for untold secrets, running from your status as a pariah, or seeking a land and place to call your own? In any case, your motivations are your own, and very little will stop you from achieving them.
+
+#### Quick Build
+You can make a witch quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Constitution or Dexterity. Second, select the hermit background. Third, select the Coven of the Dark Moon as your Witch’s Coven. Fourth, choose the *acid splash*, *druidcraft*, and *poison spray* cantrips, along with the following 1st-level spells: *animal friendship*, *detect magic*, and *witch bolt*. Finally, add the spells *rite* and *speak with animals* to your ritual book.
+
+##### The Witch
+| Level | Proficiency Bonus | Jinxes Known | Features | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|:---:|:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1st | +2 | — | Spellcasting, Occult Familiar | 3 | 3 | 2 | — | — | — | — | — | — | — | — |
+| 2nd | +2 | 2 | Jinx (1/rest), Witch’s Coven | 3 | 4 | 3 | — | — | — | — | — | — | — | — |
+| 3rd | +2 | 2 | Brewcraft, Imbue Potion | 3 | 5 | 4 | 2 | — | — | — | — | — | — | — |
+| 4th | +2 | 2 | Ability Score Increase | 4 | 6 | 4 | 3 | — | — | — | — | — | — | — |
+| 5th | +3 | 2 | Jinx (2/rest) | 4 | 7 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th | +3 | 2 | Witch’s Coven feature | 4 | 8 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th | +3 | 3 | Enchant Broom | 4 | 9 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8th | +3 | 3 | Ability Score Improvement | 4 | 10 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th | +4 | 3 | — | 4 | 11 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | +4 | 3 | Witch’s Coven feature | 5 | 12 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11th | +4 | 3 | Fine Fettle | 5 | 13 | 4 | 3 | 3 | 3 | 3 | 1 | — | — | — |
+| 12th | +4 | 3 | Ability Score Improvement | 5 | 14 | 4 | 3 | 3 | 3 | 3 | 1 | — | — | — |
+| 13th | +5 | 4 | — | 5 | 15 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | — | — |
+| 14th | +5 | 4 | Witch’s Coven feature | 5 | 16 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | — | — |
+| 15th | +5 | 4 | Jinx (3/rest) | 5 | 17 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | — |
+| 16th | +5 | 4 | Ability Score Improvement | 5 | 18 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | — |
+| 17th | +6 | 4 | — | 5 | 19 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 18th | +6 | 5 | — | 5 | 19 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th | +6 | 5 | Ability Score Improvement | 5 | 20 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th | +6 | 5 | Grand Old Wytch | 5 | 20 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
+## Class Features
+As a witch, you gain the following class features.
+
+#### Hit Points
+___
+**Hit Dice:** 1d6 per witch level
+**Hit Points at 1st Level:** 6 + your Constitution modifier
+**Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per witch level after 1st
+
+#### Proficiencies
+___
+- **Armor:** None
+- **Weapons:** Blowguns, daggers, quarterstaffs, sickles
+- **Tools:** Alchemist’s supplies, the herbalism kit, and the poisoner’s kit
+___
+- **Saving Throws:** Intelligence, Wisdom
+- **Skills:** Choose two from Animal Handling, Arcana, History, Insight, Medicine, Nature, Religion, Stealth, and Survival
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a dagger or *(b)* a sickle
+- *(a)* a component pouch, *(b)* an arcane focus, or *(c)* a druidic focus
+- a set of alchemist’s supplies, an herbalism kit, and a poisoner’s kit
+- *(a)* a scholar’s pack or *(b)* an explorer’s pack
+- A spellbook
+
+If you forgo this starting equipment, as well as the items offered by your background, you start with 2d4 × 10 gp to buy your equipment.
+
+### Spellcasting
+Whichever magical tradition you hail from, you have an innate talent for spellcraft. Some attribute this to birthright, others to practice, but only with training and dedication will it grow stronger. See chapter 10 in the Player’s Handbook for the general rules of spellcasting. The witch spell list is included here, at the end of this supplement.
+
+#### Cantrips
+At 1st level, you know three cantrips of your choice from the witch spell list. You learn additional witch cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Witch table.
+
+#### Spell Slots
+The Witch table shows how many spell slots you have to cast your witch spells of 1st level and higher. To cast one of these witch spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+
+For example, if you know the 1st-level spell *witch bolt* and have a 1st-level and a 2nd-level spell slot available, you can cast *witch bolt* using either slot.
+
+#### Spells Known of 1st Level and Higher
+You know three 1st-level spells of your choice from the witch spell list.
+
+You learn an additional witch spell of your choice at each level. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
+
+Additionally, when you gain a level in this class, you can choose one of the witch spells you know and replace it with another spell from the witch spell list, which also must be of a level for which you have spell slots.
+
+#### Spellcasting Ability
+Intelligence is your spellcasting ability for witch spells, representing the deep study of natural arcana required for witchcraft. You use Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a witch spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
+
+**Spell attack modifier** = your proficiency bonus + your Intelligence modifier
+
+</center>
+
+#### Ritual Casting
+You also have a spellbook known as a ritual book. Your ritual book does not contain the witch spells you know, which are instead fixed in your memory. Rather, the ritual book contains your choice of two 1st-level spells that have the ritual tag from the witch spell list. The spells that are in your ritual book don’t count against the number of spells you know. You can’t cast the witch spells in your ritual book except as rituals, unless you’ve learned them by some other means. You can also cast any witch spell you know as a ritual if it has the ritual tag.
+
+***Adding Ritual Spells.*** On your adventures, you can add other witch ritual spells to your ritual book. When you find such a spell, you can add it to your ritual book if the spell’s level is equal to or less than half your witch level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
+
+***Replacing the Book.*** You can copy a ritual spell from your ritual book into another book — for example, if you want to make a backup copy of your ritual book. This is just like copying a new ritual spell into your ritual book, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied ritual spell.
+
+If you lose your ritual book and do not have a replacement, you can instead attempt to replicate each ritual spell in the lost book, writing each spell in turn into a new book. This has the same cost in time and currency as duplicating a book, above, but after scribing a spell you must roll an Intelligence (Arcana) check with a DC of 8 + twice the ritual spell’s level, to determine whether or not you have recalled it correctly. On a success, the ritual spell is added to your book, but on a failure the spell is incorrect and forgotten, and must be found again. To avoid this, most witches keep an extra ritual book hidden away in a secure location.
+
+#### Spellcasting Focus
+You can use an arcane focus or a druidic focus as a spellcasting focus for your witch spells.
+
+### Occult Familiar
+Since time immemorial, witches have formed bonds with familiar spirits, which stand as symbols and sources of their magical power. Historically, familiars have acted as messengers between witches and the unknowable entities that taught them the ways of the arcane, but in modern times familiars mostly serve as companions and foils to their chosen witch.
+
+You know the spell find familiar, which counts as a witch spell and does not count against the total spells you can know. You are able to cast find familiar without expending a spell slot or any materials costs. Familiars you conjure with find familiar gain a number of additional benefits:
+The familiar’s Charisma and Intelligence scores become 12, unless they are already higher.
+The familiar can speak, read, and understand all languages you know.
+The familiar’s movement does not provoke opportunity attacks.
+The familiar adds your witch level to its hit point maximum.
+If the familiar succeeds on a saving throw and would take half damage, it instead takes no damage.
+
+| d8 | Personality Trait |
+|:---:|:---|
+| 1 | I’m endlessly optimistic, and determined to find the best in everything! |
+| 2 | I’m polite, refined, and distinguished at all times. |
+| 3 | I show my love through relentless sarcasm. |
+| 4 | Magic fascinates me. My master must learn more of it! |
+| 5 | I’m very shy. Strangers must first earn my trust. |
+| 6 | I have a voracious appetite, and am always looking for new snacks. |
+| 7 | I worry that my master isn’t good enough, so I constantly nudge them towards greatness. |
+| 8 | I’m frustrated with my lack of thumbs and often try new techniques to compensate for this. |
+
+| d6 | Ideal |
+|:---:|:---|
+| 1 | **Knowledge.** We must know everything there is to know! (Neutral) |
+| 2 | **Secrets.** The more hidden something is, the greater its worth. (Neutral) |
+| 3 | **Obedience.** Like it or not, my master makes the rules here. (Lawful) |
+| 4 | **Freedom.** I do what I want, and I may or may not apologise later. (Chaotic) |
+| 5 | **Greed.** When I find something I want, I have to have it! (Chaotic) |
+| 6 | **Respect.** All should respect my master’s ability, and by extension myself. (Lawful) |
+
+| d6 | Flaw |
+|:---:|:---|
+| 1 | I always watch my master to see what they are doing wrong. I voice my disapproval in little, subtle ways. |
+| 2 | My curiosity is completely out of check. |
+| 3 | I feel as if I’m four sizes greater than I am, and am bold to a fault. |
+| 4 | I’m an unrepentant coward. Let my master fight for me, I’m staying out of it! |
+| 5 | I hoard shiny objects in all my master’s pockets when they’re asleep. |
+| 6 | Everyone except my master is expendable to me, and I make sure they know. |
+
+### Jinx
+At 2nd level, you harness the power of jinxes, which are subtle ways to twist your spellcraft, derived from the blending of natural and arcane magics. Learn two jinxes of your choice from the following list. You learn one additional jinx of your choice at 7th, 13th, and 18th level.
+
+Once on each of your turns in which a creature within 120 feet of you that you can see has failed a saving throw against one of your spells or has been hit by one of your attacks, you can use a bonus action to target one such creature of your choice with a jinx of your choice, out of those jinxes that you know. If multiple such creatures exist, still target only one of them. A jinx’s effects last until the start of your next turn, unless the effects would end earlier. Jinxes are inherently magical, and do not function in the area of an antimagic field spell or similar effects.
+
+You can use this feature once before you must finish a short or long rest to regain its usage. At 5th level, you can use this feature twice between rests. At 15th, this increases to three times between rests.
+
+The jinxes you can learn are as follows. If a jinx has prerequisites, you must meet them before you can learn the jinx. Whenever you gain a witch level, you can replace one jinx you know with a different jinx on this list that you meet the prerequisites for.
+
+***Beguiling.*** Pull the creature 15 feet towards you in a straight line. This movement does not provoke opportunity attacks.
+
+***Crippling.*** The creature’s movement speeds are reduced by 20 feet.
+
+***Draining (Requires 7th Level).*** The creature cannot regain hit points.
+
+***Dulled Reflexes.*** The creature cannot take opportunity attacks.
+
+***Fumbling (Requires 7th Level).*** The creature drops one item it is holding, of your choice. The item lands at the creature’s feet.
+
+***Misfortune.*** The next attack the creature makes is made with disadvantage.
+
+***Repelling.*** Push the creature 15 feet directly away from you in a straight line. This movement does not provoke opportunity attacks.
+
+***Silenced (Requires 7th Level).*** The creature cannot talk and is unable to cast spells.
+
+***Supplication (Requires 7th Level).*** The creature must make a Strength saving throw against your spell save DC. If it fails, it becomes prone, and can recover from this condition as normal.
+
+***Wytchfire.*** The creature casts dim light in a 10-foot radius. The next attack made against the creature has advantage.
+
+### Witch’s Coven
+Also at 2nd level, you align yourself with a witch’s coven, a secretive society of witches that closely guards their magical secrets from those outside.
+
+Select a coven from one of the following options: Coven of the Dark Moon, Coven of the Full Moon, Coven of the Half Moon, Coven of the Crescent Moon, Coven of the Eclipse, Coven of the Gibbous Moon, or Coven of the Lost Moon. These are detailed later in this class option.
+
+### Brewcraft
+Natural magic and arcane magic are not separate entities to a witch. Because of this, witches are masters of unlocking the arcane potential hidden in common herbs and plants.
+
+Starting at 3rd level, if you craft a magic item in the potion category, it takes you a quarter of the normal time, and it costs you half as much of the usual gold. These bonuses also apply to any mundane items you could create with alchemist’s supplies or the poisoner’s kit, such as antitoxin, acid, alchemist’s fire, ale, basic poison, or any of the poisons listed in the Dungeon Master’s Guide (p. 257-258).
+
+Your DM may decide that certain potions or poisons (purple worm poison, as an example) are uncraftable to you unless you uncover specific rare ingredients first. Should you acquire them, subtract the price of these rare ingredients from the crafting cost accordingly.
+
+##### Herbal Foraging
+| Result | Item | Worth | Examples |
+|:---:|:---|:---:|:---|
+| 10-14 | 3d4 lb. of common herbs | 5 sp / lb. | mint, sage |
+| 15-24 | 2d4 lb. of uncommon herbs | 5 gp / lb. | horsetail, comfrey |
+| 25-29 | 1d4 lb. of rare herbs | 50 gp / lb. | devilroot, embertear |
+| 30+ | 1 lb. of very rare herbs | 500 gp / lb. | starspine, voidweave |
+
+### Imbue Potion
+When witches are unable to spend great amounts of time brewing potions, they can imbue a tincture directly with their arcane power. The result is a potion that is easier and less costly to make, but less stable and with little longevity.
+
+Beginning at 3rd level, when you take a short or long rest and have an empty vial on your person, you can choose one of the following spells you know and can cast with available spell slots:
+
+##### Imbue Potion
+| Spell <br> Level | Spells |
+|:-:|:--|
+| 1st | <em>animate hair †, charm person, command, cure wounds, disguise self, detect magic, false life, feather fall, mage armor, sleep, speak with animals</em> |
+| 2nd | <em>alter self, barkskin, blindness/deafness, detect thoughts, dragon’s breath\*, enhance ability, enlarge/reduce, invisibility, lesser restoration, protection from poison, see invisibility, spider climb</em> |
+| 3rd | <em>catnap\*, dispel magic, feign death, gaseous form, nondetection, protection from energy, remove curse, revivify, tongues, vampiric touch, water breathing, water walk</em> |
+| 4th | <em>charm monster\*, death ward, fire shield, freedom of movement, greater invisibility, stoneskin</em> |
+| 5th | <em>awaken, commune with nature, contact other plane, dominate person, greater restoration, legend lore, reincarnate, skill empowerment\*, tree stride</em> |
+| 6th | <em>curse of craving†, find the path, investiture of flame\*, investiture of ice\*, investiture of stone\*, investiture of wind\*, true seeing</em> |
+___
+- <em>\* this spell is found in Xanathar’s Guide to Everything</em>
+- <em><sup>†</sup> this spell is found later in this supplement</em>
+
+Immediately choose any details this spell would have you select and expend that spell’s material components and a spell slot equal to the spell level you intend the spell to function at. Instead of any targets specified by the spell, the spell’s target becomes the creature that drinks the potion. If a creature must have certain attributes to be subject to the spell (such as a specific creature type), the potion only works on creatures with those attributes.
+
+At the end of the rest, you then create a potion that is able to impart the spell you selected, with the details you have chosen. The spell slot you have used in the creation of the potion does not refresh as long as the potion exists. Once the potion (or an item it is applied to) has been used, is destroyed, or otherwise ceases to exist, the spell slot can refresh as it would normally, but does not automatically do so.
+
+**Using an Imbued Potion.** As an action, a creature can drink the entire potion, administer it to another willing creature, or apply it to an item of food or drink. The potion only confers effects on a creature that drinks it entirely, or that consumes in entirety the item of food or drink to which it is applied. Such a creature immediately gains the effects of the spell you selected, with the specific details you chose when you first created the potion. An applied potion on a consumable item can be detected by a creature holding the item with a successful Intelligence (Arcana) or Wisdom (Survival) check made against your spell save DC.
+
+Spells imparted by this potion last for their normal durations, listed within the text of the spells themselves. If a spell conferred by this feature requires concentration, the creature that drank the potion must maintain concentration on the effect as if they cast the spell themselves. If a potion would require the creature drinking it to make a saving throw, that saving throw is made against your spell save DC.
+
+**Active Potions.** At any time, you can have a number of active potions from this feature equal to your witch level divided by 3, rounded down. You can also cause any of your potions from this feature to no longer retain their potency with a bonus action, regardless of how far away from you they may be.
+
+### Enchant Broom
+At 7th level, you’ve learned the secret ritual required to make a witch’s broom, the flying conveyance of any true witch. You can undertake an hour-long ritual that prepares one broom (or, with your DM’s permission, any sufficiently broom-like object) to become your witch’s broom.
+
+After this ritual is complete, this broom counts as a *broom of flying* (*Dungeon Master’s Guide*, p. 156), and you choose the command word needed to activate it. This broom responds only to your use of its command word, and will refuse to move if anyone else tries to ride it while you are not already on it. The broom is still able to move about unoccupied as normal, however.
+
+If you perform this ritual on a second broom while you already have a witch’s broom benefiting from this feature, the first witch’s broom returns to its initial mundane state, and the new broom becomes your witch’s broom.
+
+### Fine Fettle
+At 11th level, you are perpetually healthy and resistant to conditions that could be the death of others. You have resistance to poison damage and are immune to disease and the poisoned condition.
+
+Additionally, you age only 1 year for every 5 years you grow older, are immune to the negative effects of aging, and cannot unwillingly die from old age.
+
+### Grand Olde Wytch
+Once you reach 20th level, you have been honored with the title of Grand Olde Wytch, bestowed on only the greatest practitioners of witchcraft. After you roll initiative, you can choose to be able to use your Jinx feature freely for the next one minute without expending any of its uses. All other restrictions on using Jinx still apply.
+
+## Witch Spells
+This section includes all spells available to the witch class, other than those determined by choice of Witch’s Coven. Spells found in a location other than the Player’s Handbook carry a symbol denoting their source. An index for these symbols can be found below.
+
+| Symbol | Source |
+|:-:|-|
+| *None* | *Player’s Handbook* |
+| \* | Elemental Evil Player’s Companion |
+| † | Xanathar’s Guide to Everything |
+| ‡ | Codex of Waves (DM’s Guild) |
+| § | Acquisitions Incorporated |
+| % | Lost Laboratory of Kwalish |
+| ¶ | Codex of Technomancy |
+| ◊ | The Witch |
+
+##### Cantrips (0 Level)
+___
+- Acid Splash
+- Chill Touch
+- Control Flames\*<sup>†</sup>
+- Create Bonfire\*<sup>†</sup>
+- Dancing Lights
+- Druidcraft
+- Friends
+- Frostbite\*<sup>†</sup>
+- Guidance
+- Gust\*<sup>†</sup>
+- Infestation<sup>†<sup>
+- Mage Hand
+- Magic Stone\*<sup>†</sup>
+- Mending
+- Message
+- Minor Illusion
+- Mold Earth\*<sup>†</sup>
+- Poison Spray
+- Prestidigitation
+- Primal Savagery<sup>†<sup>
+- Produce Flame
+- Ray of Frost
+- Ripple<sup>‡</sup>
+- Shape Water\*
+- Spare the Dying
+- Thaumaturgy
+- Thorn Whip
+- Toll the Dead<sup>†<sup>
+- Watch Totem<sup>◊<sup>
+
+##### 1st Level
+___
+- Alarm *(Ritual)*
+- Animal Friendship
+- Animate Hair<sup>◊<sup>
+- Beast Bond\*<sup>†</sup>
+- Cackle<sup>◊</sup>
+- Catapult\*<sup>†</sup>
+- Cause Fear<sup>†<sup>
+- Charm Person
+- Command
+- Comprehend Languages
+- Create or Destroy Water
+- Detect Evil and Good
+- Detect Magic *(Ritual)*
+- Detect Poison and Disease *(Ritual)*
+- Distort Value<sup>§</sup>
+- Earth Tremor\*<sup>†</sup>
+- Entangle
+- Faerie Fire
+- Feather Fall
+- Fog Cloud
+- Goodberry
+- Guiding Light<sup>◊</sup>
+- Ice Knife\*<sup>†</sup>
+- Identify *(Ritual)*
+- Illusory Script *(Ritual)*
+- Luck of the Sea *(Ritual)*<sup>‡</sup>
+- Mage Armor
+- Protection from Evil and Good
+- Purify Food and Drink *(Ritual)*
+- Ray of Sickness
+- Rite *(Ritual)*<sup>◊</sup>
+- Sleep
+- Snare<sup>†<sup>
+- Speak with Animals *(Ritual)*
+- Unseen Servant *(Ritual)*
+- Witch Bolt
+
+##### 2nd Level
+___
+- Alter Self
+- Animal Messenger *(Ritual)*
+- Augury *(Ritual)*
+- Awaken Machine Spirit *(Ritual)*<sup>¶</sup>
+- Barkskin
+- Beast Sense *(Ritual)*
+- Bigby’s Blistering Barnacles<sup>‡</sup>
+- Conjure Trap<sup>¶</sup>
+- Detect Thoughts
+- Dragon’s Breath<sup>†<sup>
+- Dust Devil\*<sup>†</sup>
+- Earthbind\*<sup>†</sup>
+- Enhance Ability
+- Enlarge/Reduce
+- Enthrall
+- Flowsight<sup>‡</sup>
+- Gentle Repose *(Ritual)*
+- Gift of Gab<sup>§</sup>
+- Gust of Wind
+- Hold Person
+- Invisibility
+- Knock
+- Locate Animals or Plants *(Ritual)*
+- Locate Object
+- Magic Mouth *(Ritual)*
+- Melf’s Acid Arrow
+- Misty Step
+- Moonbeam
+- Nystul’s Magic Aura
+- Protection from Poison
+- Ray of Enfeeblement
+- See Invisibility
+- Silence *(Ritual)*
+- Sink<sup>‡</sup>
+- Skywrite *(Ritual)*\*<sup>†</sup>
+- Snilloc’s Snowball Swarm\*<sup>†</sup>
+- Spider Climb
+- Spike Growth
+- Suggestion
+- Urchin’s Spines<sup>‡</sup>
+- Warding Wind\*<sup>†</sup>
+- Web
+- Zone of Truth
+
+##### 3rd Level
+___
+- Catnap<sup>†<sup>
+- Clairvoyance
+- Conjure Animals
+- Conjure Effigy<sup>◊</sup>
+- Counterspell
+- Create Food and Water
+- Dispel Magic
+- Enemies Abound<sup>†<sup>
+- Enlarge Familiar<sup>◊</sup>
+- Erupting Earth
+- Fast Friends<sup>§</sup>
+- Fear
+- Feign Death *(Ritual)*
+- Gaseous Form
+- Glyph of Warding
+- Incite Greed<sup>§</sup>
+- Leomund’s Tiny Hut *(Ritual)*
+- Life Transference
+- Magic Circle
+- Meld into Stone *(Ritual)*
+- Nondetection
+- Phantom Steed *(Ritual)*
+- Plant Growth
+- Sending
+- Sleet Storm
+- Slow
+- Speak with Dead
+- Speak with Plants
+- Stinking Cloud
+- Tidal Wave
+- Tiny Servant<sup>†<sup>
+- Tongues
+- Vampiric Touch
+- Water Breathing *(Ritual)*
+- Water Walk *(Ritual)*
+
+##### 4th Level
+___
+- Arcane Eye
+- Banishment
+- Charm Monster<sup>†<sup>
+- Compulsion
+- Confusion
+- Conjure Minor Elementals
+- Conjure Woodland Beings
+- Control Water
+- Deconstruct<sup>¶</sup>
+- Dominate Beast
+- Fabricate
+- Freedom of Movement
+- Galder’s Speedy Courier<sup>%</sup>
+- Giant Insect
+- Grasping Vine
+- Guardian of Nature<sup>†<sup>
+- Ice Storm
+- Locate Creature
+- Polymorph
+- Share Pain<sup>◊</sup>
+- Stone Shape
+
+##### 5th Level
+___
+- Animate Objects
+- Awaken
+- Combine Potions<sup>◊</sup>
+- Commune with Nature *(Ritual)*
+- Conjure Elemental
+- Contact Other Plane *(Ritual)*
+- Control Winds\*
+- Dominate Person
+- Dream
+- Geas
+- Glyph of Misfortune<sup>◊</sup>
+- Hallow
+- Hold Monster
+- Legend Lore
+- Modify Memory
+- Passwall
+- Planar Binding
+- Reincarnate
+- Scrying
+- Skill Empowerment<sup>†<sup>
+- Telekinesis
+- Teleportation Circle
+- Transmute Rock
+- Tree Stride
+- Wall of Stone
+- Wrath of Nature<sup>†<sup>
+
+##### 6th Level
+___
+- Animate Hut<sup>◊</sup>
+- Bones of the Earth\*<sup>†</sup>
+- Circle of Death
+- Conjure Fey
+- Create Homunculus<sup>†<sup>
+- Create Undead
+- Curse of Craving<sup>◊</sup>
+- Eyebite
+- Find the Path
+- Flesh to Stone
+- Guards and Wards
+- Investiture of Flame\*<sup>†</sup>
+- Investiture of Ice\*<sup>†</sup>
+- Investiture of Stone\*<sup>†</sup>
+- Investiture of Wind\*<sup>†</sup>
+- Magic Jar
+- Mass Suggestion
+- Mental Prison<sup>†<sup>
+- Mordenkainen’s Capable Caravel *(Ritual)*<sup>‡</sup>
+- Move Earth
+- Otto’s Irresistible Dance
+- Planar Ally
+- Soul Cage<sup>†<sup>
+- Transport via Plants
+- True Seeing
+- Wall of Thorns
+
+##### 7th Level
+___
+- Etherealness
+- Finger of Death
+- Forcecage
+- Mirage Arcane
+- Plane Shift
+- Power Word Pain<sup>†<sup>
+- Project Image
+- Sequester
+- Simulacrum
+- Symbol
+- Whirlwind\*<sup>†</sup>
+
+##### 8th Level
+___
+- Abi-Dalzim’s Horrid Wilting\*<sup>†</sup>
+- Animal Shapes
+- Antimagic Field
+- Antipathy/Sympathy
+- Control Weather
+- Dominate Monster
+- Earthquake
+- Feeblemind
+- Illusory Dragon<sup>†<sup>
+- Maddening Darkness<sup>†<sup>
+- Mind Blank
+- Power Word Stun
+
+##### 9th Level
+___
+- Astral Projection
+- Foresight
+- Gate
+- Imprisonment
+- Mass Polymorph<sup>†<sup>
+- Power Word Kill
+- Psychic Scream
+- Shapechange
+- Storm of Vengeance
+- True Polymorph
+- Weird

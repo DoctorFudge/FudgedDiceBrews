@@ -1,0 +1,36 @@
+### Love Domain
+[**Source:** *The Complete Devout Handbook*](https://drive.google.com/file/d/1TEY7P4FVWD_-Ky5YrrK92__yYOwTY3w-/view)
+
+Gods of love represent the concept in all its varied forms; altruism, family, fertility, passion, and romance. Some gods, such as Chauntea, Eldath, Arawai, and Dionysus place an emphasis on one of these facets over others. Other gods, including Lliira, Sune, Boldrei, Aphrodite, and Hathor, give all of these concepts equal importance. Followers of these gods serve as matchmakers and midwives for their communities. Some are called to serve as diplomats or peacekeepers, believing that love really can conquer all. It is rare for the clergy of gods of love to take vows of celibacy as part of their initiation.
+
+##### Love Domain Spells
+| Cleric Level | Spells |
+| :-: | :-- |
+| 1st | <em>charm person, cure wounds</em> |
+| 3rd | <em>calm emotions, enthrall</em> |
+| 5th | <em>sending, tongues</em> |
+| 7th | <em>compulsion, locate creature</em> |
+| 9th | <em>dream, rary's telepathic bond</em> |
+
+#### Blessings of Love
+When you choose this domain at 1st level, you become proficient in your choice of two of the following skills: Insight, Performance, or Persuasion. Your proficiency bonus is doubled for any ability check you make that uses either of those skills.
+
+In addition, you gain the *friends* cantrip if you don't already have it. This cantrip does not count against your cantrips known.
+
+#### Channel Divinity: Amorous Armor
+Starting at 2nd level, you can use your Channel Divinity to exude an aura of goodwill and love.
+
+As an action, you project respect and admiration for 1 minute. All creatures within 30 feet of you who can see and hear you have disadvantage on attack rolls against you. A creature is not subject to this effect if it is immune to being charmed. This effect ends early on a creature if you make an attack against it, deal it damage, or force it to make an ability check or saving throw.
+
+#### Channel Divinity: Change of Heart
+Starting at 6th level, you can use your Channel Divinity to woo others even when it seems your charms are failing. It can be used in two circumstances.
+
+When a creature succeeds on a saving throw against a charm effect caused by you, you can use your reaction to force the creature to reroll the saving throw and use the second result.
+
+Alternatively, when you make a Charisma ability check you can use your reaction to reroll the ability check. You may wait until after the DM declares whether the original result was a success or not and you must use the second result, even if it is lower.
+
+#### Potent Spellcasting
+Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
+
+#### Sermon of Love
+At 17th level, you can channel pure passion when you speak. As an action, you can command each creature within 60 feet who can hear you and shares any language with you to treat others kindly. When you do, each target must succeed on a Wisdom saving throw or be charmed by you and all other creatures targeted by this ability. This charmed effect lasts for 8 hours or until the creature takes damage from you or any of your allies.

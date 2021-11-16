@@ -1,0 +1,89 @@
+### The Seafallen
+Sometimes called "Hanged Men" or "Salt Risen", these seafallen pirates are those who fear death to such an extent that they make a deal with a Patron of the Depth's to escape deaths cold embrace. These patrons act much like eldritch patrons and other more divine sources of magic. However, many pirates view the Seafallen gifts as a curse rather than a blessing and will refuse to work alongside them, or outright condemn them and their damned souls. After agreeing to a price, the seafallen are given the very power of the sea itself. They use this power to either rule the oceans or serve whatever foul purpose their patrons see fit.
+
+#### Patron of the Depths
+Beginning at 3rd level, you strike a deal with a Patron of the Depths in exchange for powers that one could only dream of. You gain the ability to cast spells from the warlock spell list as well as an expanded spell list unique to the seafallen.
+
+##### Seafallen Expanded Spell List
+| Spell Level | Spells |
+|:---:|:--|
+| 1st | *fog cloud, thunderwave* |
+| 2nd | *gust of wind, warding wind* |
+| 3rd | *call lightning, tidal wave* |
+| 4th | *control water, evard's black tentacles* |
+
+##### Patron Examples
+| D8 | Patron | Description |
+|:---:|:---:|:---|
+| 1 | Calypso | A cunning goddess bound to human form, her emotions as changing, harsh, and untamable as the sea. |
+| 2 | Davy Jones | Captain of the Flying Dutchman, cursed to ferry those who died at sea to the worlds beyond our own. |
+| 3 | The Kraken | A legendary monster of the seas that is said to haunt doomed sailors in their dreams. |
+| 4 | The Leviathan | A legendary monster of the seas, whose hunger knows no end. |
+| 5 | The Drowned God | An ancient god betrayed by another, doomed to settle their domain at the bottom of the sea. |
+| 6 | The Salted One | An ancient, still living titan submerged and chained in the darkest depths of the sea. |
+| 7 | The Siren Queen | The Queen of Sirens, a powerful, beautiful, and enslaving dirgesinger of the high seas. |
+| 8 | The Great Maw | A great and powerful maw creature or wyrm that creates maelstroms at sea, only surfacing when it is hungry. |
+
+#### Spellcasting
+As a result of the blessing or curse placed upon you by your patron, you gain access to spellcasting when you choose this reputation. You refer to the warlock spell list when it comes to choosing spells and the seafallen spellcasting table for information on the number of cantrips known, spells known, and which spell slots you have available per pirate level.
+
+***Cantrips.*** You learn three cantrips; vicious mockery and two other cantrips of your choice from the warlock spell list. You learn another warlock cantrip of your choice at 10th level.
+
+***Spell Slots.*** The Seafallen Pirate Spellcasting table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell"s level or higher. You regain all expended spell slots when you finish a short or long rest.
+
+For example, if you know the 1st level spell charm person and have a 1st level and a 2nd level spell slot available, you can cast charm person using either slot.
+
+##### Seafallen Spellcasting
+| Pirate Level | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th |
+|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 3rd | 3 | 3 | 2 | — | — | — |
+| 4th | 3 | 4 | 3 | — | — | — |
+| 5th | 3 | 4 | 3 | — | — | — |
+| 6th | 3 | 4 | 3 | — | — | — |
+| 7th | 3 | 5 | 4 | 2 | — | — |
+| 8th | 3 | 6 | 4 | 2 | — | — |
+| 9th | 3 | 6 | 4 | 2 | — | — |
+| 10th | 4 | 7 | 4 | 3 | — | — |
+| 11th | 4 | 8 | 4 | 3 | — | — |
+| 12th | 4 | 8 | 4 | 3 | — | — |
+| 13th | 4 | 9 | 4 | 3 | 2 | — |
+| 14th | 4 | 10 | 4 | 3 | 2 | — |
+| 15th | 4 | 10 | 4 | 3 | 3 | — |
+| 16th | 4 | 11 | 4 | 3 | 3 | — |
+| 17th | 4 | 11 | 4 | 3 | 3 | — |
+| 18th | 4 | 11 | 4 | 3 | 3 | — |
+| 19th | 4 | 12 | 4 | 3 | 3 | 1 |
+| 20th | 4 | 13 | 4 | 3 | 3 | 1 |
+
+***Spells Known of 1st level and Higher.*** You learn three 1st level warlock spells of your choice when you choose this subclass. The Spells Known column of the Seafallen spellcasting table shows when you learn more warlock spells of 1st level or higher. Each of these spells must be of a level for which you have spell slots. For instance, when you reach the 7th level in this class, you can learn one new spell of 1st or 2nd level.
+
+Whenever you gain a level in this class, you can replace one of the warlock spells you know with another spell of your choice from the warlock spell list. The new spell must be of a level for which you have spell slots.
+
+***Spellcasting Ability.*** Charisma is your spellcasting ability for your warlock spells, since you have made a deal with your patron. You use your Charisma modifier whenever a spell refers to your spellcasting ability.
+
+<center>
+
+**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
+
+**Spell attack modifier** = your proficiency bonus + your Charisma modifier
+
+</center>
+
+***Spellcasting Focus.*** You can use an arcane focus as a spellcasting focus for your spells.
+
+#### The Black Spot
+Finally, when you choose this reputation at 3rd level, you gain the ability to curse a target with the black spot. As a bonus action, you may mark a single creature within 60 feet; while marked like this, the creature takes an additional 1d6 force damage from your attacks and spells. This ability does not require a spell slot to cast. The mark lasts until you release it, recast the mark on a different creature, or until you or the marked creature are incapacitated or dies. You can use this feature a number of times equal to your Charisma modifier (a minimum of 1). You regain all expended uses when you finish a long rest.
+
+#### Raging Tempest
+Starting at 7th level you learn to manipulate the natural magic of sea and storm. You gain resistance to thunder and lightning damage and as a reaction to taking thunder or lightning damage from a creature within 60 feet of you, you can expend a spell slot of any level and up to 5 swagger points to deal 1d10 thunder or lightning damage per swagger point spent. The creature must then make a Dexterity saving throw versus your spell save DC. On a failure, the creature takes full damage. On a successful save, the creature takes half damage.
+
+#### Conjure Briny Being
+At 10th level, you gain the ability to cast the conjure elemental spell once per long rest without requiring any material components in order to bring the briney being into existence. However, you are limited to summoning only water elementals and must follow all other rules that apply to the spell.
+
+#### Stormcaller
+At 15th level, you are granted the power to control the storms. You can cast the 'Control Weather' spell once per long rest without having to expend a spell slot.
+
+#### Maelstrom
+Finally, at 18th level, you are granted the roiling power of the sea and storm. As a result, you are able to conjure a miniature maelstrom of magical power that pulls in nearby enemies whilst it remains active. In order to accomplish this, you must spend 5 swagger points and a spell slot of any level.
+
+Select an area you can see within 60 feet of you. From this space, a 15 foot radius swirling maelstrom emanates for 1 minute, sucking in everything within the radius of the maelstrom at a rate of 5 feet per round in combat. Creatures trapped within the radius of this maelstrom take 1d10 bludgeoning damage for every 5 feet they are within the maelstrom. At the start of each of their turns, creatures within the maelstrom must make a Strength saving throw versus your spell save DC to attempt to escape. On a failure, they slide 5 foot further into the maelstrom, taking an additional 1d10 bludgeoning damage for every 5 feet they are inside the maelstrom. On a success, the creature pulls themselves free of the maelstrom. Creatures who can fly naturally or magically have advantage on all Strength saving throws to escape this maelstrom. However, if the maelstrom is conjured within a sizeable body of water, all creatures within the maelstrom without a swimming speed have disadvantage on checks to escape the maelstrom.

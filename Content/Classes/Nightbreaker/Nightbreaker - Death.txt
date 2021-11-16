@@ -1,0 +1,17 @@
+### Spirit of Death
+Nightbreakers whose lanterns harbor Spirits of Death are generally individuals with single-minded vengeance, deep- seeded hatred for monsters, or seek to make the creatures suffer before their deaths. While by no means shunned by the Order of Nightbreakers, wielders of death lanterns are often treated with a cautionary approach, as their desire for suffering and vengeance can be dangerous to both the nightbreaker and those around them.
+
+To this end, these lanterns bless the wielder with a number of spells themed around controlling life essence, debilitation, and causing suffering to the quarry before they are finally eliminated.
+
+**Lantern Power:** At level 2, you gain the ability to speak a harrowing curse upon your enemies. When one of your allies casts a spell upon a creature within 30 feet that you can see, you can use your reaction to give the target disadvantage on the saving throw. If the attacker cannot hear, then they are immune to this ability. You can use this ability a number of times equal to your Wisdom modifier. You regain all expended uses when you finish a long rest.
+
+#### Spell List
+**1st Level Spells:** *Bane, Cause Fear, Command, Dissonant Whispers, False Life, Ray of Sickness, Sleep, Tasha’s Hideous Laughter*
+
+**2nd Level Spells:** *Blindness/Deafness, Crown of Madness, Gentle Repose, Hold Person, Ray of Enfeeblement, Shadow Blade, Silence*
+
+**3rd Level Spells:** *Animate Dead, Bestow Curse, Hunger of Hadar, Life Transference, Speak With Dead, Spirit Guardians, Slow*
+
+**4th Level Spells:** *Blight, Confusion, Evard’s Black Tentacles, Phantasmal Killer, Shadow of Moil, Sickening Radiance*
+
+**5th Level Spells:** *Contagion, Danse Macabre, Enervation, Hold Monster, Reincarnate*

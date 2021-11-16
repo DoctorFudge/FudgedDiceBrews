@@ -1,0 +1,46 @@
+### Pharmacist
+Healing potions are a daily necessity to the common adventurer, so it shouldn't be surprising to find a doctor dedicated to producing them. The pharmacist spends their time not only producing potions, but improving them, always attempting to create more powerful concoctions.
+
+#### Potioneer's Kit
+When you choose this profession at 3rd level your doctor's bag has been modified to accommodate your specialization. It functions as normal, but also replaces the need for Alchemist's Supplies, an Herbalism Kit, or a Poisoner's Kit.
+
+#### Routine Brewer
+By 3rd level you have made crafting healing potions a daily part of your life and it takes considerably less time and effort. Use the chart below to craft potions.
+
+| Potion | Crafting Time | Cost |
+|-|:-:|-|
+| Antitoxin | 1 Hour | 25gp |
+| Potion of Healing | 2 Hours | 25gp |
+| Potion of Greater Healing | 6 Hours | 125gp |
+| Potion of Superior Healing | 12 Hours | 2,500gp |
+| Potion of Supreme Healing | 24 Hours | 25,000gp |
+
+#### Healing Cloud
+Once you have reached 7th level you have experimented with enough healing potions to discover a new delivery method. You have the option to use an action to inject a healing potion With a chemical agent Which instantly transforms it into a gas. Instead of consuming the potion you immediately smash the bottle, releasing a mist. You and all living creatures adjacent to you benefit from the potions healing.
+
+#### Enhanced Elixier
+By 11th level after countless hours of work you have found a way to increase the potency of your potions of healing. Any potion you create that provides healing now utilize d6's rather than d4's.
+
+#### Refined Replication
+At 15th level you have mastered the art of crafting potions you are familiar With, allowing you to focus more on potions you are unfamiliar With. You take a potion in your possession and attempt to learn its formula by researching its components.
+
+The rarity of the potion determines the time it takes to study, at the end of Which you must make a Medicine check. On a success you gain the ability to craft that potion, however the original potion is destroyed regardless of your success or failure. Crafting the potion costs half the potions value in materials and a certain amount of time determined by its rarity, listed below.
+
+Your DM decides the potions value.
+
+| Rarity | Difficulty | Crafting Time |
+|-|:-:|-|
+| Common Potion | DC15 | 2 Hours |
+| Uncommon Potion | DC20 | 6 Hours |
+| Rare Potion | DC25 | 12 Hours |
+| Very Rare Potion | DC30 | 24 Hours |
+| Legendary Potion | DC40 | 48 Hours |
+
+#### Master Alchemist
+At 18th level you gain one of the following features of your choice.
+
+**Quantity Over Quality.** Whenever you would create one potion, you instead create two.
+
+**Potent Potables.** Potions you craft that involve rolling dice now automatically produce the maximum effect.
+
+**Reliable Replicator.** You no longer need to make Medicine checks When creating or replicating potions, you simply succeed.

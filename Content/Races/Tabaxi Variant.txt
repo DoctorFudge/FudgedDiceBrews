@@ -1,0 +1,97 @@
+## Tabaxi Variant
+[**Source:** *Tabaxi Variants*](https://drive.google.com/file/d/1E9KZAlllf1HZ9aLSXdTXo-VX_3wjCC8N/view)
+
+Though folklore and common sense made sure most avoided the dungeon under the mountain, someone had been here recently. Indeed, winding through the corridors of forlorn masonry, a trail of deftly disarmed traps and skillfully picked locks leads to a small feline adventurer, a singular torch, anda large sack of loot. This diminutive figure, covered in white and orange fur with a long trailing green cloak, fully understands they should turn back, that they've found enough. But one final locked door confronts them, alongside their pressing, implacable curiosity, driving them to discover whatlies behind it.
+
+Beset by ravening gnolls that seek to make the savannah their own lifeless hunting ground, a powerful  leonine warrior hefts his mace in a large paw, bringing it down in a brutal blow directly into the skull of one of his adversaries. The warrior wheels around with cat-like grace, striking with his claws at the eyes of a second gnoll in one single, fluid motion.
+
+Pondering a tome forgotten to time, a tufted and wizened tabaxi gingerly uses a claw to turn an aged page. Beside the open tome sits a length of chain and an opened lock, formerly used to secure the book shut. Though the secrets contained within were considered forbidden for good reason, the tabaxi pouring throughits pages needed answers, and, of course, to sate her unrelenting search for knowledge.
+
+Though everyone knows that no two cats are alike, few account for the dramatic variance between breeds of tabaxi. Even the tabaxi themselves do not differentiate culturally between themselves and their kin of other ancestry, considering all tabaxi to be different manifestations of the same race. Nevertheless, such differences do exist, and create pronounced traits that lend each tabaxi certain aptitudes not found in others of their species.
+
+#### Tabaxi Variant Racial Traits
+
+***Ability Score Increase.*** Your Dexterity score increases by 1.
+
+***Age.*** Tabaxi have lifespans equivalent to humans.
+
+***Alignment.*** Tabaxi tend toward chaotic alignments, as they let impulse and fancy guide their decisions. They are rarely evil, with most of them driven by curiosity rather than greed or other dark impulses.
+
+***Darkvision.*** You have a cat's keen senses, especially in the dark. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+***Cat's Claws.*** Because of your claws, you have a climbing speed of 20 feet. When you use your unarmed strike, you can choose to deal slashing instead of bludgeoning damage.
+
+***Languages.*** You can speak, read, and write Common and one other language of your choice.
+
+***Subrace.*** Choose a subrace.
+
+#### Felinid
+The smallest variety of tabaxi, felinid tabaxi are crafty and charming, and can commonly be found living amongst other races. Felinid tabaxi are quick to make friends, but are still free spirits in pursuit of their own agendas.
+
+***Ability Score Increase.*** Your Charisma score increases by 2.
+
+***Size.*** Felinid tabaxi are sleight, short, and lightweight, most being slightly over 3 feet in height. Your size is Small.
+
+***Speed.*** Your base walking speed is 25 feet.
+
+***Sly Friend.*** You have proficiency in Stealth and your choice of either Persuasion or Deception.
+
+***Nimble Claws.*** You have proficiency in thieves' tools, and can treat the claws of one of your unoccupied hands as if they were a Set of thieves' tools.
+
+***Nine Lives.*** You have an uncanny ability to survive what should kill you, through agility, absurd coincidence, or luck. When you are reduced to 0 hit points but not killed outright, you can drop to 1 hit point instead. You can't use this feature again until you finish a long rest.
+
+#### Half-Tabaxi
+The exceptionally rare result of a pairing between a tabaxi and a non-tabaxi parent, or two half-tabaxi. A half-tabaxi carries features of both their parents, combining feline characteristics with more a traditional humanoid facial shape. Half-tabaxi are curious and capricious, but contemplative and cunning, tending to rebel against expectations almost by instinct.
+
+***Ability Score Increase.*** Your Charisma score and one other score of your choice increase by 1.
+
+***Size.*** You are approximately the height of a human. Your size is Medium.
+
+***Speed.*** Your base walking speedis 30 feet.
+
+***Curiosity.*** You have proficiency in Investigation, one other skill of your choice, and one set of artisan's tools of your choice.
+
+***Cat's Tongue.*** You gain knowledge of one language of your choice.
+
+***Swiftstep.*** You are a master of slipping away from pursuers. When you move on your turn in combat, you can choose not to provoke opportunity attacks. Once you use this ability, you can't use it again until you move 0 feet on one of your turns.
+
+#### Leonine
+Large, powerful, and imposing, leonine tabaxi hunt and travel in packs across arid savannas, grasslands, and mountain ranges. The males can grow immense manes andoften act as distinguished leaders, but the females are markedly better at hunting and tracking down their prey.
+
+***Ability Score Increase.*** Your Strength score increases by 2.
+
+***Size.*** You are significantly larger than a human, and can be up to 8 feet tall. Nevertheless, your size is Medium.
+
+***Speed.*** Your base walking speed is 30 feet.
+
+***Natural Predator.*** You have proficiency in the Intimidation and Survival skills.
+
+***Hunting Claws.*** Your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you can choose to deal slashing damage equal to 1d6 + your Strength modifier, instead of the damage normal for an unarmed strike.
+
+***Terrifying Roar.*** You can use a bonus action on your turn to unleash a mighty roar, requiring every creature within 5 feet of you to succeed on a Wisdom saving throw against a DC of 8 + your proficiency bonus + your Strength modifier or become frightened of you until the end of your next turn. Once you use this ability, you require a short or long rest before you can use it again.
+
+#### Lyncean
+The lyncean tabaxi are wise and aloof, with long tufted ears and shaggy coats, and prefer monastic and scholarly lives studying any number of fascinating secrets. These tabaxi are prone to fixating on their interests, chasing their curiosity to the ends of the world in search of answers to the unanswerable.
+
+***Ability Score Increase.*** Your choice of your Wisdom or Intelligence score increases by 2.
+
+***Size.*** You are roughly the same size as a human. Your size is Medium.
+
+***Fields of Study.*** You have proficiency in two skills out of Arcana, History, Medicine, or Religion.
+
+***Nose for the Arcane.*** You can cast the spell *detect magic* without expending spell slots or components. Once the spell has been cast in this way, you cannot use this ability again until you take a short or long rest.
+
+***Magical Secret.*** You know one cantrip of your choice from the Wizard spell list. Choose either Wisdom or Intelligence as your spellcasting ability for it.
+
+#### Panthrine
+Svelte and limber, panthrine tabaxi buildtheir settlements, cities, and mighty temples deep in jungles. They are elusive, mysterious, but not unpersonable, andare prone to wandering the wider world in search of whatever catches their capricious fancy.
+
+***Ability Score Increase.*** Your Dexterity and Charisma scores increase by 1.
+
+***Size.*** You are slightly taller than a human. Your size is Medium.
+
+***Cat's Talent.*** You have proficiency in the Perception and Stealth skills.
+
+***Keen Claws.*** Your claws are natural weapons, which you can use to make unarmed strikes. Attacks you make with them can use your choice of your Strength or Dexterity modifier on the roll to hit. If they hit, your claws deal slashing damage equal to 1d4 + your choice of either your Strength or Dexterity modifier instead of the damage normal for an unarmed strike.
+
+***Feline Agility.*** Your reflexes and agility allow you to move with a burst of speed. When you move on your turn in combat, you can double your speed until the end of the turn. Once you use this trait, you can't use it again until you move 0 feet on one of your turns.

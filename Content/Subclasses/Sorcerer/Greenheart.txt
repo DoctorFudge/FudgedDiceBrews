@@ -1,0 +1,21 @@
+### Greenheart
+[**Source:** *The Complete Arcanist Handbook*](https://drive.google.com/file/d/1ucl27lI0dMWi0BDsolHBB-ZgW4CSPhdP/view)
+
+Born to a dryad parent, infused with the eldritch power of an enchanted forest you were raised in, or influenced by a primal enchantment in your mother’s womb, the magic of the natural world runs through you. Unlike druids, you did not choose your connection to the natural world; the natural world chose its connection to you. Greenheart sorcerers often have dark brown and bright green features and smell of the native flora of their homelands. Sorcerers of this origin are exceptionally resilient and observant of their surroundings.
+
+#### Druidic Sorcery
+At 1st level, your link to the natural world allows you to learn spells normally associated with the druid class. When your Spellcasting feature lets you learn or replace a sorcerer cantrip or a sorcerer spell of 1st level or higher, you can choose the new spell from the druid spell list or the sorcerer spell list. You must otherwise obey all the restrictions for selecting the spell, and it becomes a sorcerer spell for you.
+
+#### Verdant Soul
+Starting at 1st level, your hit point maximum increases by 2 and increases by 2 again whenever you gain a level in this class. Whenever you spend one or more sorcery points, you regain 2 hit points for every sorcery point you spent.
+
+#### Strength of Oak
+At 6th level, you can tap the endless resilience of the natural world to shake off debilitating effects. After you make a saving throw, but before the DM declares whether it's successful or not, you can use your reaction and spend 1 sorcery point to roll 1d4 and add it to the result.
+
+#### Root & Leaf Speech
+At 14th level, you learn the *speak with plants* spell. It is a sorcerer spell for you, but it doesn’t count against your number of sorcerer spells known.
+
+Additionally, you can use an action and spend 3 sorcery points to cast the *speak with plants* spell. When you cast the spell in this way, moving through difficult terrain does not cost you extra movement for the duration of the spell.
+
+#### Greenblood
+Starting at 18th level, you can use a bonus action on each of your turns to convert vitality into sorcery points. When you do, reduce your current hit points by 6 and regain 1 expended sorcery point.

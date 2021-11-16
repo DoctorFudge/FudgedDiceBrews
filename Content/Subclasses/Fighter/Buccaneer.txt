@@ -1,0 +1,49 @@
+### Buccaneer
+[**Source:** *Blackpowder Pirates*](https://drive.google.com/file/d/19rjjWUopA215r-r1NFVm-oVj1BUkLwhK/view)
+
+The archetypal Buccaneer is at home on any ship. Buccaneers remain chillingly calm in the face of danger and relish any and every opportunity to show off their considerable skill. Those that seek to emulate this archetype cultivate a flashy style of fighting that sees them taking many risks, and learning to reap the rewards of pushing themselves to their limits.
+
+> ##### Fighting Style
+> Heavy armor fashioned of metal might provide excellent protection to those fighters that engage in combat upon land, but for the Buccaneer such armor is a liability. The extra weight makes swimming difficult and risks drowning. Salty spray accelerates the rust and deterioration of such armor as well. The Mariner fighting style, first shown in the Unearthed Arcana series from Wizards of the Coast, is recommended for those characters planning to emulate the Buccaneer martial archetype and for any campaigns that are planned to spend much of their time aboard ships on the open seas.
+>
+> #### Mariner
+> As long as you are not wearing heavy armor or using a shield, you have a swimming speed and a climbing speed equal to your normal speed, and you gain a +1 bonus to AC.
+
+#### Combat Superiority
+When you choose this archetype at 3level, you learn maneuvers that are fueled by special dice called superiority dice.
+
+***Maneuvers.*** You learn one maneuver of your choice from a subset of the maneuvers presented in the “Maneuvers” section of the Battle Master martial archetypein the fighter section of the Player's Handbook. Many maneuvers enhance an attack in some way. You can use only one maneuver per attack.
+
+You learn one additional maneuver of your choice at 7th, 10th, and 15th level. Each time you learn new maneuvers, you can also replace one maneuveryou know with a different one.
+
+When you learn a maneuver, you may choose from the following options: Disarming Attack, Evasive Footwork, Feinting Attack, Menacing Attack, Parry, Pushing Attack, and Trip Attack.
+
+***Superiority Dice.*** You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all of your expended superiority dice when youfinish a short or longreset.
+
+You gain another superiority die at 7th level and one moreat 15th level.
+
+***Using Superiority Dice.*** In addition to fueling your maneuvers, you can expend superiority dice to gain one of the following benefits:
+- When you make a weapon attack against a creature, you can expend one superiority die to make an attack with a firearm you are holding against any creature you can see within range of your firearm.
+- When you make an attack with a firearm, you can expend one superiority die to add it to the damage you deal with the attack.
+
+***Saving Throws.*** Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects. The saving throw DC is calculated as follows:
+
+<center>
+
+**Maneuver save DC** = 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice)
+
+</center>
+
+#### Shoot First
+At 3rd level, you gain proficiency with firearms. When you roll initiative you can draw one firearm in your possession. If you are not surprised, you can also make one attack with that firearm against any creature that you can see and whose initiative result is lower than your own.
+
+#### Old Salt
+When you reach 7th level, your time aboard oceanfaring vessels has turned you into one of the finest sailors to board a vessel in living memory. You are counted as two members of any ship's crew and are able to fulfill all the required duties without unduly exhausting yourself, and you are able to push the efforts of other crew members to further heights. The effective crew of any ship you sail on is increased by 50% and you can use your downtime to increase the loyalty score of the crew by 1d4. Additionally, you are never at risk of losing your sea legs due to prolonged activity on dry land.
+
+#### Improved Combat Superiority
+At 10th level, your superiority dice turn into dl0s. At 18th level, they turn into d12s.
+
+#### Reckless Daring
+Starting at 15th level, you can spur yourself to greater action when you throw yourself recklessly into daring situations. On your turn, you can take one additional action on top of your regular action and a possible bonus action. You can only use this action to Dash or to perform any action that requires an athletics or acrobatics check or that would provoke an opportunity attack. Until the start of your next turn, attacks against you have advantage.
+
+Once you use this feature, you must finish a short or long rest before using it again.

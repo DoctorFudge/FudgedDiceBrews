@@ -1,0 +1,52 @@
+### Oath of Ancestors
+[**Source:** *The Complete Devout Handbook*](https://drive.google.com/file/d/1TEY7P4FVWD_-Ky5YrrK92__yYOwTY3w-/view)
+
+The Oath of Ancestors is a commitment to those who came before you to carry their legacies into the future. Dwarven paladins who take this oath do so to honor the founders of their clan while elven paladins channel their grief for those who passed on. When communities abandon long held traditions, paladins who've sworn this oath remind them of the examples their honorable ancestors left behind. Sometimes called spectral knights, tomb guardians, or sin-eaters, paladins who swear this oath commune with their ancestors and pursue their ancestors' ideals in the material realm.
+
+#### Tenets of the Ancestors
+The exact tenets of the Ancestors changes based on the ancestors being honored but all who swear the oath abide by these core principles.
+
+***Remember the Dead.*** Remember those who have gone before you and passed on. Carry their memory in your mind and let those memories guide you.
+
+***Respect the Dead.*** Show deference to the resting places of the dead and follow the wishes of the departed.
+
+***Honor the Dead.*** Honor the dead with your actions. Let your righteousness be a reminder to others of their virtue and strength.
+
+***Death is Peace.*** The undead are an affront to the serenity of true death. Show the undead the mercy of ushering them into the next world as quickly as possible.
+
+#### Oath Spells
+You gain Oath spells at the paladin levels listed.
+
+##### Oath of the Ancestors Spells
+| Paladin Level | Spells |
+| :-: | :-- |
+| 3rd | <em>unseen servant, false life</em> |
+| 5th | <em>gentle repose, see invisibility</em> |
+| 9th | <em>reaping smite<sup>CDH</sup>, speak with dead</em> |
+| 13th | <em>revivify, death ward</em> |
+| 17th | <em>contact other plane, raise dead</em> |
+
+#### Channel Divinity
+When you take this oath at 3rd level, you gain the following two Channel Divinity options.
+
+***Ancestral Guidance.*** As a bonus action, you open your heart to the wisdom of your ancestors, using your Channel Divinity. Once within the next hour, you can heed the advice of your ancestors, adding a bonus to an ability check, attack roll, or saving throw. This bonus equals your Charisma modifier (minimum 1). You may choose to wait until after you roll the d20 to gain this benefit, but must decide before the DM says whether the roll succeeds or fails.
+
+***Peace with the Dead.*** As an action, you can call out to the undead and the dying and plead with your ancestors to bring them peace, using your Channel Divinity. Every creature with 0 hit points within 30 feet of you is automatically stabilized, and each undead that can see or hear you within 30 feet must make a Wisdom saving throw. If the creature fails its saving throw, it is pacified for 1 minute or until it takes damage.
+
+While pacified, the undead can't take reactions and will only take its action to Help (if it has 3 or less Intelligence) or Dodge (if it has Intelligence 4 or more). While pacified, the undead see you as a friend and will seek to interpose themselves between your foes and you or, in the case of the less intelligent undead, spend their turn aiding you in whatever way they can. If an undead who would normally attempt to take the Help action cannot reach you to do so, it instead takes the Dodge action.
+
+#### Aura of Quietus
+Starting at 7th level, you project an aura of finality. You know the current hit points of all creatures within 10 feet of you. Additionally, you and friendly creatures within this range have resistance to necrotic damage.
+
+At 18th level, the range of this aura increases to 30 feet.
+
+#### Peaceful Passage
+At 15th level, when a creature within your Aura of Quietus is reduced to 0 hit points, you can use your reaction to usher its spirit into the next world. That creature cannot be raised as undead. Additionally, choose a creature within the aura and roll a d10. Add your Charisma modifier to the result, and the chosen creature regains that many hit points.
+
+#### Ghostwalker
+At 20th level you can spend your action to call your ancestors to manifest in your presence. For the next minute the spirits of you and your allies' ancestors heed the call, appearing around you and joining you in battle. While they do you gain the following benefits:
+- Your flesh turns to spirit. You gain resistance to bludgeoning, piercing, and slashing damage, and can move through objects and creatures. If you end your movement inside an object or creature, you take 1d8 force damage and are pushed to the nearest unoccupied space.
+- Enemy creatures within 30 feet of you count all terrain as difficult terrain, as spectres clutch at them from the beyond.
+- You deal an additional 1d6 necrotic damage when you deal damage to the enemy with the least remaining hit points within 30 feet of you.
+
+Once you use this feature you can't use it again until you complete a long rest.

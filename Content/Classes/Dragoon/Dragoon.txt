@@ -1,0 +1,148 @@
+## Dragoon
+[**Source:** *Final Fantasy XIV Class Compendium*](https://www.gmbinder.com/share/-LsDqsNbupzeLhkTIcPv)
+
+An Elezen man stands before a fierce dragon, it roars out and begins to take off in order to gain the advantage. With a massive leap the man lands atop the dragon and forces it back to the ground, creating an opening for his allies.
+
+A Hyur cloaked in scale mail whirl's their spear around a cluster of enemies keeping them at bay. When the time is right they unleash a plume of fiery breath from beneath their helm, singing their targets.
+
+A Viera woman runs and leaps high into the sky, magical wings forming on her body. With grace, she travels the currents of the wind, happily flying about as she exercises her new found freedom.
+
+These fearless warriors stand against dragons, demons, fiends and any other threats who would raise a hand against their homelands. Dragoons use their command of both the sky and ground to strike down their foes with deadly strikes.
+
+### Dragonbane
+The Dragoon was a soldier born out of need in a distant land. Their homeland has been locked in a war against dragon kind for hundreds of years, leading to their soldiers to specialize in battling back against dragons. Their most notable ability is the Dragoon Jump, which is powered by a magical gem each Dragoon receives upon completing their basic training.
+
+### Masters of the Sky
+The Dragoons have been blessed with the ability to soar high into the air like those they have taken up arms to destroy. These warriors are able to crash down from the sky using their weapons and body weight to drive any skyborn into the ground, or cause great damage to those already on land. Wings will not grant you safety from a Dragoon.
+
+### Creating a Dragoon
+When creating a Dragoon, consider what brought them down the path of a specialized knight. They may have shown a certain aptitude which allowed them to become a dragoon with ease, or perhaps were born into the role due to the history of their homeland. A dragoon may have decided upon this path due to the stories of famed dragoons of legends, hoping to become as powerful and respected as the knights they had heard about while they were growing up. You must consider as well how the Dragoon came to possess the blessed gem in their possession granting them their jumping prowess.
+
+Consider why a Dragoon would choose to head out on an adventure. Are they seeking a specific dragon, hoping to slay an enemy of their nation? Could your dragoon have unfinished business with a dragon from their past? Sometimes a dragoon may set out for the sake of journeying around the land.
+
+##### The Dragoon
+| Level | Proficiency Bonus | Features | Trances |
+|:-----:|:--:|:----------------------------------|:-:|
+|  1st  | +2 | Dragoon Trance, Jump              | 2 |
+|  2nd  | +2 | Fighting Style, Lancet            | 2 |
+|  3rd  | +2 | Dragoon Archetype                 | 3 |
+|  4th  | +2 | Ability Score Improvement         | 3 |
+|  5th  | +3 | Heavy Thrust, True Thrust         | 3 |
+|  6th  | +3 | Stall                             | 4 |
+|  7th  | +3 | Archetype Feature                 | 4 |
+|  8th  | +3 | Ability Score Improvement         | 4 |
+|  9th  | +4 | High Jump                         | 4 |
+|  10th | +4 | Crash Landing                     | 4 |
+|  11th | +4 | Archetype Feature                 | 4 |
+|  12th | +4 | Ability Score Improvement         | 5 |
+|  13th | +5 | Chaos Thrust                      | 5 |
+|  14th | +5 | Invigorate                        | 5 |
+|  15th | +5 | Archeytpe Feature                 | 5 |
+|  16th | +5 | Ability Score Improvement         | 5 |
+|  17th | +6 | Dragonfire Dive                   | 6 |
+|  18th | +6 | Battle Litany                     | 6 |
+|  19th | +6 | Ability Score Improvement         | 6 |
+|  20th | +6 | One with the Sky                  | 6 |
+
+### Quick Build
+You can make a Dragoon quickly by following these suggestions. First, make Strength your highest ability score, following with Dexterity. Second take the Soldier background.
+
+## Class Features
+As a Dragoon, you gain the following class features
+#### Hit Points
+___
+- **Hit Dice:** 1d10 per Dragoon level
+- **Hit Points at 1st Level:** 10 + your Constitution modifier.
+- **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per Dragoon level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Light and Medium armour, shields.
+- **Weapons:** Simple weapons and Martial weapons
+- **Tools:** None
+
+___
+- **Saving Throws:** Strength, Dexterity
+- **Skills:** Choose two from Animal Handling, Athletics, Acrobatics, History, Nature, Perception, Religion, Survival.
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* scale mail or *(b)* leather armor
+- *(a)* a martial weapon or *(b)* two spears
+- *(a)* a short bow and 20 arrows or *(b)* two hand axes
+- *(a)* an explorer's pack or *(b)* a dungeoneer's pack
+- a blessed Dragoon's Stone
+
+### Dragoon's Trance
+Beginning at the 1st level, you are able to fall into a special trance as a bonus action. Your soul is filled with power from your Dragoon forebears. While under the effects of this trance, your jump height becomes a minimum of 30ft. and your jump distance becomes a minimum of 15ft.
+
+Your trance lasts for 1 minute. It ends early if you are knocked unconscious or you may end your trance as a bonus action. Some Dragoon abilities may cause your trance to end early. Once you have entered a trance a number of times shown for your dragoon level in the trances column for your dragoon table you must finish a long rest before you can enter a trance again.
+
+### Jump
+Also beginning at the 1st level, as an action you are able to perform a jump attack. Through the power of your Dragoon Trance you leap up to 30ft. into the air and land on a creature within 15ft. of your starting position. The creature makes a Dexterity saving throw against your Dive DC as calculated below, taking your weapon damage and bonus damage equal to 1d6 on a failure, and half as much on a success. This bonus damage is increased to 2d6 at the 5th level, 3d6 at the 11th level and 4d6 at the 18th level.
+
+<center>
+
+**Dive DC** = 8 + your proficiency modifier + your Strength modifier.
+
+</center>
+
+You may not use Jump on a creature who is higher than 30ft. nor does not have at least 5ft. of space above their head. After finishing your Jump, select an empty space adjacent to the target creature to land on. If the creature's size is Huge or larger, you may choose to attempt to land on the creature instead by making a Dexterity saving throw of a difficulty decided by the DM. You do not take fall damage as a result of using the Jump feature.
+
+### Fighting Style
+Beginning at the 2nd level, you adopt a particular style of fighting as your specialty, Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
+
+##### Defense
+While you are wearing armor, you gain a +1 bonus to AC.
+
+##### Dueling
+When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+
+##### Great Weapon Fighting
+When you roll a 1 or 2 on a damage die for an attack you make with a melee weapon that you are wielding with two hands, you can reroll the die and must use the new roll, even if the new roll is a 1 or a 2. The weapon must have the twohanded or versatile property for you to gain this benefit.
+
+##### Two-Weapon Fighting
+When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+
+### Lancet
+Also beginning at 2nd level, while under the effects of Dragoon's Trance, as an action you may make a melee weapon attack that drains your target's vitality. You recover hit points equal to half the damage of your weapon attack rounded up. You can use this feature a number of times equal to your Strength modifier (a minimum of once). You regain any expended uses when you finish a short rest.
+
+### Dragoon Archetype
+At 3rd level, you select the focus of your training as a dragoon. Some Dragoon's stick to their roots and fight as Dragon Slayers, while some attempt to harness the power of Dragons and combine it with their unique martial abilities becoming Dragon Hearts. Some Dragoon's decide to break away from their dragon hunting roots and attempt to master the skies as Valkyries.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Heavy Thrust
+Beginning at the 5th level, as an action you make a melee weapon attack. This attack deals additional damage equal to the weapon die and the relevant ability modifier. You may choose to reroll the result of the additional damage die, but must use the new result. Critical hits only apply to the weapon attack, not the bonus damage.
+
+### True Thrust
+Also beginning at the 5th level, as an action you make a melee weapon attack, doubling the proficiency bonus of the attack roll.
+
+### Stall
+Beginning at the 6th level, while under the effects of Dragoon Trance, as a bonus action when you reach the peak of any jump, you may pause in place for a moment. At the end of your next turn you continue your fall, allowing you to perform an action while suspended in the air.
+
+### High Jump
+Beginning at the 9th level, while under the effects of Dragoon Trance, as an action you leap up to 80ft. into the air. At the start of your next turn, you land on a creature within 30ft. of your starting position. The creature makes a Dexterity saving throw against your Dive DC, taking twice your weapon damage and bonus damage equal to 4d6.
+
+This bonus damage is increased to 6d6 at the 11th level and 8d6 at the 18th level.
+
+You may not use Jump on a creature who is higher than 80ft. nor has at least 5ft. of space above their head. After finishing your Jump, select an empty space adjacent to the target creature to land on. If the creature's size is Huge or larger, you may choose to attempt to land on the creature instead by making a Dexterity saving throw of a difficulty decided by the DM. You do not take fall damage as a result of the High Jump ability.
+
+### Crash Landing
+Beginning at the 10th level, when you complete a successful Spineshatter Dive or High Jump, if the target creature has a flying speed, it is reduced to 0ft. for a number of rounds equal to your Strength modifier.
+
+### Chaos Thrust
+Beginning at the 13th level, as an action you make a melee weapon attack. If your attack is successful, the creature must make a Constitution saving throw against your Dive DC, beginning to bleed on a failure, taking 1d8 piercing damage at the start of their turn. As an action, the creature may reattempt to pass the saving throw to stop the bleeding. A creature will bleed for a number of rounds equal to your Strength modifier.
+
+### Invigorate
+Beginning at the 14th level, when you fail a saving throw you may choose to reroll the saving throw. You must use the new number. You can use this feature twice. You regain any expended uses when you finish a long rest.
+
+### Dragonfire Dive
+Beginning at the 17th level, when you use your Jump or High Jump action, you can empower the attack with fiery fury. The bonus damage on the dive is increased to 8d8 fire damage. All creatures within 20ft. of the target creature take this bonus damage and must make a Dexterity saving throw against the Dive DC, taking the full bonus damage on a failure and half as much on a success. Your Dragoon Trance ends after performing a Dragonfire Dive.
+
+### Battle Litany
+Beginning at the 18th level, while you are under the effects of Dragoon's Trance, as a bonus action you can inspire the ferocity of yourself and your allies. Your melee weapon attacks and those of your allies who are within 10ft. of you land critical hits on die results 19 or 20 for a number of rounds equal to half your Strength modifier. This does not overwrite or add to already present critical hit range increases. This effect may be activated once each time you enter a new Dragoon's Trance.
+
+### One with the Sky
+Beginning at the 20th level, when you roll initiative, you gain two uses of Dragoon's Trance.

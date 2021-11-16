@@ -1,0 +1,74 @@
+## Level 5
+
+#### Blood Sacrifice
+*Necromancy*
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S, M (a drop of the target's blood, which the spell consumed)
+- **Duration:** Instantaneous
+- **Classes:** Cleric, Sorcerer, Wizard
+___
+You harm a creature with a fiendish force fueled by your own life. You take 6d10 piercing damage, and one creature of your choice that you can see within range takes necrotic damage equal to twice the piercing damage you take. This piercing damage cannot be reduced in any way and ignores resistances and immunities. If this damage knocks you down to 0 hit points, you fall unconscious and start with a failed death save. Once stabilized, you immediately gain a point of exhaustion.
+
+**At higher level:** When you cast this spell using a spell slot of 6th level or higher, the damage increases by 1d10 for each slot level above 5th. 
+
+#### Field of Stars
+*Evocation*
+___
+- **Classes:**  Druid, Occultist, Sorcerer, Wizard
+- **Casting Time:** 1 Action
+- **Range:** Self (60 feet radius)
+- **Components:** V, S
+- **Duration:** Concentration, up to 1 minute.
+___
+You cause 5 star-like motes of light to spring forth at points you can see within range. Each mote of light must be at least 10 feet from any other mote of light. Each mote of light sheds bright light in a 10 foot radius and dim light for an additional 10 feet. If a creature moves within a 5-foot radius of a mote of light or ends their turn within 5 feet of one, the mote explodes in a brilliant flash, dealing 4d12 radiant damage to all creatures within 5-feet of that mote before fading away.
+
+For the duration of the spell, while you have any motes of light remaining, as an action you can rearrange the remaining motes, placing them anywhere within range (this movement cannot cause them to detonate).
+
+**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the range increases by 10 feet and you create an additional star-like mote of light for each slot level about 5th.
+
+#### Find Ancient Steed
+*Conjuration*
+___
+- **Casting Time:** 10 minutes
+- **Range:** 30 feet
+- **Components:** V, S
+- **Duration:**  Instantaneous
+- **Classes:** Paladin
+___
+You summon a spirit that assumes the form of a loyal, majestic mount. Appearing in an unoccupied space within range, the spirit takes on a form you choose: a tyrannosaurus rex, a huge giant crab, a mammoth, a triceratops, a giant shark, or a winged lion. (Your DM might allow other creatures to be summoned as steeds.)The creature has the statistics provided in the Monster Manual* for the chosen form, though it is a celestial, a fey, or a fiend (your choice) instead of its normal creature type. Additionally, if it has an Intelligence score of 5 or lower, its Intelligence becomes 6, and it gains the ability to understand one language of your choice that you speak.
+
+You control the mount in combat. While the mount is within 1 mile of you, you can communicate with it telepathically. While mounted on it, you can make any spell you cast that targets only you also target the mount.
+
+The mount disappears temporarily when it drops to 0 hit points or when you dismiss it as an action. Casting this spell again re-summons the bonded mount, with all its hit points restored and any conditions removed.
+
+You can't have more than one mount bonded by this spell or any find steed variant at the same time. As an action, you can release a mount from its bond, causing it to disappear permanently.
+
+Whenever the mount disappears, it leaves behind any objects it was wearing or carrying.
+
+#### Kevin's Goodberry Feast
+*Conjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** V, S, M (one goodberry)
+- **Duration:**  Instantaneous
+- **Classes:** Druid, Cleric, Witch
+___
+You conjure 6 goodberries into your hand. These goodberries have unique properties for 24 hours. When consumed it grants the creature that consumed it 4d8 temporary hit points. A creature can only receive this benefit once per instance of this spell.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 6th level or higher, the temporary hit points received increases by 1d8 for each slot level above the 5th.
+
+#### Skyburst
+*Evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 120 feet
+- **Components:** V, S
+- **Duration:**  Instantaneous.
+- **Classes:** Druid, Sorcerer, Wizard
+___
+Five bolts of lightning strike five points of your choice that you can see within range. Each point must be at least 10 feet from all other selected points. Each creature within 5 feet of the chosen points must make a Dexterity saving throw. A creature takes 4d12 damage on a failed save, or half as much on a successful one.
+
+**At Higher Levels**: When you cast this spell using a spell slot of 6yj level or higher, you can call down an additional bolt of lightning targeting another point within range for each slot level above 5th.

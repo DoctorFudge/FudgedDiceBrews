@@ -1,0 +1,34 @@
+### The Grey Guild
+[**Source:** *The Complete Arcanist Handbook*](https://drive.google.com/file/d/1ucl27lI0dMWi0BDsolHBB-ZgW4CSPhdP/view)
+
+Wizards of the Grey Guild arcane tradition eschew a focus on one specific school of magic in favor of an arcane specialty in duplicity and espionage. In some worlds, all wizards of this tradition belong to one organization with its own overarching goals and schemes while in others, the Grey Guild is a methodology used by individual wizards and arcane organizations in competition with one another. Regardless of which is the case in your world, wizards of the Grey Guild have a bad reputation amongst wizards of other traditions given their proclivity for hoarding magical secrets from other spellcasters.
+
+#### Grimoire Codex
+Beginning when you select this school at 2nd level, you translate your spellbook into a code only you can understand. When you add additional spells to your spellbook, they are encoded as well. Other wizards cannot copy spells from your spellbook unless you assist them by translating your writing out of this coded language.
+
+#### Bonus Proficiencies
+At 2nd level, you gain proficiency in two of the following skills of your choice: Deception, Insight, Investigation, Perception, Sleight of Hand, or Stealth.
+
+#### Encoded Speech
+Also at 2nd level, you can use a bonus action on your turn to magically encode your speech for 10 minutes. When you do, choose a number of creatures you can see up to your intelligence modifier + your wizard level. Chosen creatures understand the encoded messages within your speech.
+
+All other creatures hear you speaking about a subject of your choice and may make a Wisdom saving throw. On a success, they suspect you are speaking code but don’t understand the message. On a failure, they are clueless to your subterfuge.
+
+One you use this feature, you must finish a short or long rest to use it again.
+
+#### Arcane Occultation
+At 6th level, the Weave intervenes in the minds of others to obscure your comings and goings. When you interact with a humanoid for ten minutes or less, you can choose to force the creature to make an Intelligence saving throw against your spell save DC. Creatures who already know you personally have advantage on this saving throw. On a failure, the creature forgets all the details of the interaction as soon as it is over, including your identity and any of your identifying characteristics.
+
+#### Conspiracy of One
+At 10th level, you have learned to trust no one but yourself. That would pose a problem for the agents of the Grey Guild except that they learn to form a conspiracy of one. As an action, you can expend a spell slot to create a number of conspirators equal to the level of the spell slot expended. Each conspirator appears in its own unoccupied space within 30 feet of you.
+
+Conspirators are indistinguishable from one another and from you. Each conspirator has your Armor Class, saving throw proficiencies, and other attributes but evaporates into shadows and spiderwebs when it takes any damage. It is immune to all conditions. When you take an action, you can choose to take it as if you occupied the same space as any one of your conspirators.
+
+While you have one or more conspirators, you can use a bonus action to swap places via teleportation with a conspirator of your choice who is on the same plane as you. As an action, you can sense through a chosen conspirator’s senses indefinitely until you choose to end the ability or the conspirator is destroyed. Your conspirators have the same senses as you. While you are sensing through a conspirator, you are blind and deaf in regard to your own senses.
+
+After an hour, or 8 hours if you expended a spell slot of 6th level or higher to create your conspirators, all remaining conspirators are destroyed. Whenever a conspirator is destroyed or evaporates into shadows and spiderwebs, you can use a reaction immediately after to teleport to the nearest unoccupied space closest to where the conspirator was.
+
+Once you use this feature, you must finish a long rest before you can do so again.
+
+#### Ethereal Infiltrator
+Starting at 14th level, while you are in dim light or darkness you can move through creatures and objects. If you end your turn inside a creature or object, you take 1d10 force damage for each 5 feet between you and the nearest unoccupied space, then you teleport to that space.

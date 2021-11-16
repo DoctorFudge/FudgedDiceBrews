@@ -1,0 +1,170 @@
+### Architect of Ruin
+*Hell’s Architects are cool and calculating arcane knights who deploy spell, steel, and subterfuge to win the battle at any cost.*
+
+Asmodeus is the Lord of Acheron, the City of Fear. His ignobles scour the timescape collecting secrets and spells designed to deceive and terrify his opponents. The war he fights against the other Lords of Hell is one of deception and propaganda.
+
+Acheron’s ignobles work to make Hell’s enemies seem outnumbered and outmaneuvered. Half their strategy involves research and infiltration, the other half illusion and propaganda. When an Architect of Ruin finally confronts an enemy, the foe sees the ignoble’s forces as impossibly powerful, while their own allies betray them and their armies flee in fear.
+
+##### Architect of Ruin Spellcasting
+| Ignoble Level | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 3rd | 2 | 2 |  |  |  |  |  |
+| 4th | 2 | 3 |  |  |  |  |  |
+| 5th | 2 | 3 | 2 |  |  |  |  |
+| 6th | 2 | 3 | 2 |  |  |  |  |
+| 7th | 2 | 4 | 2 | 2 |  |  |  |
+| 8th | 3 | 4 | 3 | 2 |  |  |  |
+| 9th | 3 | 4 | 3 | 2 | 1 |  |  |
+| 10th | 3 | 4 | 3 | 3 | 2 |  |  |
+| 11th | 3 | 4 | 3 | 3 | 3 | 1 |  |
+| 12th | 3 | 4 | 3 | 3 | 3 | 1 |  |
+| 13th | 3 | 4 | 3 | 3 | 3 | 1 |  |
+| 14th | 3 | 4 | 3 | 3 | 3 | 1 |  |
+| 15th | 3 | 4 | 3 | 3 | 3 | 1 | 1 |
+| 16th | 3 | 4 | 3 | 3 | 3 | 1 | 1 |
+| 17th | 3 | 4 | 3 | 3 | 3 | 1 | 1 |
+| 18th | 3 | 4 | 3 | 3 | 3 | 1 | 1 |
+| 19th | 3 | 4 | 3 | 3 | 3 | 2 | 1 |
+| 20th | 3 | 4 | 3 | 3 | 3 | 2 | 1 |
+
+#### Tenets of Ruin
+Hell’s Architects swear an oath to Asmodeus when they join the Order of Desolation. The oath commits them to destroy Asmodeus’ enemies by causing fear and sowing distrust.
+
+***The Battlefield of the Mind.*** By the time my armies meet yours, you will be filled with terror and doubt your own strength. I won’t have to lift a finger to defeat you.
+
+***The Proper Secret.*** Once I know your secrets, I know what you fear.
+
+***Knowledge Is Power.*** Lore is as powerful as steel. I will learn every detail about my enemy so that, when I strike, I will know their every move. They will be checkmated before the game even begins.
+
+***Perception Is Reality.*** Illusion is also as powerful as steel. I will spread so many rumors about my own powers, your friends will desert you, your soldiers will quake. So what if none of it’s true? And some of it is…
+
+#### Contract with Asmodeus
+Asmodeus’ fighting mages must be able to thwart an enemy’s spells as well as their plans.
+
+**Invoke Authority: Veteran of Sorcery.** As a reaction to failing a saving throw against a spell, you can choose to succeed instead.
+
+**Invoke Authority: Spellbreaker.** You call on Asmodeus’ authority to protect you from enemy magic. Any time you are targeted by a magic missile spell, a line spell, or a spell that requires a ranged attack roll, roll a d6. On a 1 to 5, you are unaffected. On a 6, your are unaffected and the effect is reflected back at the caster as though it originated from you, turning the caster into the target.
+
+#### Spellcasting
+When Asmodeus accepts you as an Architect of Ruin, you gain access to his infernal power and learn to access divine magic to cast ignoble spells.
+
+***Cantrips.*** You learn two cantrips of your choice from the ignoble spell list. At 8th level, you learn an additional cantrip.
+
+***Spell Slots.*** The Architect of Ruin Spellcasting table shows how many spell slots you have. To cast one of these spells, you must expend a slot of the spell’s level or higher. When you finish a long rest, you regain all expended spell slots.
+
+***Spells Known of 1st Level and Higher.*** You prepare the list of ignoble spells that are available for you to cast, choosing from the ignoble spell list. When you do so, choose a number of ignoble spells equal to your Charisma modifier + half your ignoble level (rounded down), minimum of one spell. The spells must be of a level for which you have spell slots.
+
+For example, if you are a 5th-level ignoble, you have three 1st-level and two 2nd-level spell slots. With a Charisma of 14, your list of prepared spells can include four spells of 1st or 2nd level in any combination. If you prepare the 1st-level spell Hell’s lash, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn’t remove it from your list of prepared spells.
+
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of ignoble spells requires time spent in prayer and meditation: at least 1 minute per spell level for each spell on your list.
+
+***Spellcasting Ability.*** Charisma is your spellcasting ability for your ignoble spells, since your power derives from your ability to command the attention of your patron archdevil. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for an ignoble spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell save DC** = 8 + your proficiency bonus your Charisma modifier
+
+**Spell attack modifier** = your proficiency bonus your Charisma modifier
+
+</center>
+
+#### Spellmaster
+Starting at 7th level, you have advantage on Constitution saving throws that you make to maintain your concentration on a spell.
+
+#### Instant Illusion
+Starting at 9th level, when you place a seal on an enemy, you can, as a reaction, cast an illusion spell that normally has a casting time of 1 action.
+
+#### By Will Alone
+At 13th level, your illusion spells no longer require any components. When casting an illusion spell, there is no indication you are casting the spell. You can cast illusion spells while blind, while gagged, and with your hands bound.
+
+#### Asmoedus’s Blessing
+At 17th level, you can, as a reaction to taking damage, cast fire shield. The shield is always a warm shield, deals fire damage, and deals 4d8 damage instead of 2d8. You cannot use this feature again until you complete a long rest.
+
+#### Lore Devil
+Starting at 20th level, as an action, you can become a lore devil for 1 minute. You gain three extra seals. Enemies with seals on them automatically fail their saving throws against your spells. You emanate an interference aura, forcing any creature within 60 feet trying to cast a spell to first succeed at a DC 18 Intelligence saving throw or else the spell fails and they lose the spell slot.
+
+Whenever you use a spell slot to cast a spell, there is a 25% chance the spell works normally but you do not lose the spell slot.
+
+While in this form, your type becomes fiend (devil) and Hell is your home plane. You cannot use this feature again until you complete a long rest. At their discretion, your GM may choose one codex and grant you limited use of one of the abilities from that codex.
+
+#### Interdict Improvements
+As your Architect of Ruin levels up, Asmodeus’ interdiction carries more power.
+
+***Hellmage.*** Starting at 6th level, when you cast an illusion spell, you may choose to expend an unused seal instead of a spell slot.
+
+***Submit!*** Starting at 10th level, as a reaction when you cast a spell, you can consume a seal on an interdicted creature to impose disadvantage on their saving throws against the spell.
+
+***Magic Resistance.*** Starting at 18th level, you gain advantage on saving throws against spells and magical effects from interdicted creatures.
+
+## Architect of Ruin Spell List
+##### Cantrips
+- Chill Touch
+- Dancing Lights
+- Fire Bolt
+- Light
+- Message
+- Minor Illusion
+- Ray of Frost
+- Thaumaturgy
+- True Strike
+
+##### 1st Level
+- Charm Person
+- Color Spray
+- Command
+- Comprehend Languages
+- Detect Magic
+- Disguise Self
+- Hellish Rebuke
+- Hell’s Lash
+- Shield of Faith
+- Silent Image
+- Single Combat
+
+##### 2nd Level
+- Augury
+- Blur
+- Darkness
+- Enthrall
+- Hold Person
+- Invisibility
+- Lesser Restoration
+- Ray of Enfeeblement
+- Suggestion
+
+##### 3rd Level
+- Dispel Magic
+- Fear
+- Fly
+- Major Image
+- Phantom Steed
+- Remove Curse
+- Revivify
+- Mote of Hell
+- Tongues
+- Vampiric Touch
+
+##### 4th Level
+- Banishment
+- Blight
+- Death Ward
+- Dimension Door
+- Divination
+- Greater Invisibility
+- Hallucinatory Terrain
+- Phantasmal Killer
+
+##### 5th Level
+- Aura of Desecration
+- Contact Other Plane
+- Dispel Evil and Good
+- Dream
+- Hold Monster
+- Mislead
+- Wall of Death
+
+##### 6th Level
+- Circle of Death
+- Mass Suggestion
+- Planar Ally
+- Programmed Illusion

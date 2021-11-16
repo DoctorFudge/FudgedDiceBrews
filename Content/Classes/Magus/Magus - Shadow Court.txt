@@ -1,0 +1,124 @@
+### The Shadow Court
+Magi of the Shadow Court conspire to shape local and regional politics with a blend of stealth, fighting prowess, and magical ability. Although those outside this eldritch society understand it to be a singular group, the Shadow Court is in fact composed of multiple clans that often wage clandestine wars on one another to obtain secrets and objects of power. Magi of the Shadow Court are secretive by nature and are forbidden from revealing their clan's goals and activities to all but their most trusted companions.
+
+#### Shadow Court Initiate
+When you choose this eldritch society at 1st level, you augment your martial prowess with the ability to cast cantrips.
+
+***Cantrips.*** You learn two cantrips of your choice from the Shadow Court's spell list. You learn an additional Shadow Court cantrip of your choice at 4th level and again at 10th. These cantrips count as magus spells for you.
+
+***Spellcasting Focus.*** You can use an arcane focus (found in chapter 5 of the Player's Handbook) as a spellcasting focus for your magus spells.
+
+***Spellcasting Ability.*** Intelligence is your spellcasting ability for your Shadow Court spells, since you learn your spells through rote study and memorization. You use your Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a magus spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
+
+**Spell attack modifier** = your proficiency bonus + your Intelligence modifier
+
+</center>
+
+#### Bonus Proficiencies
+At 1st level, you gain proficiency in the Deception and Stealth skills.
+
+#### Jade Seal
+Starting at 3rd level, the effects of your mystic marks are enhanced by the Shadow Court's deadly techniques. When you place your mystic mark on an object or creature, it is engulfed in an aura of faint smoke.
+
+***Shadow Enspell.*** In addition to weapons, you can also empower your unarmed strikes with your enspell. While your unarmed strikes are enspelled, you can use Dexterity instead of Strength for the attack and damage rolls of your unarmed strikes, and you can roll 1d6 instead of the normal damage of your unarmed strike.
+
+When you hit with an attack with an enspelled weapon or unarmed strike you can choose to remove the enspell, unleashing an intense flash of light. When you do, the target must succeed on a Constitution saving throw against your spell save DC or be blinded until the start of their next turn.
+
+***Shadow Aegis.*** When a creature protected by your aegis takes damage from an attack, you can use your reaction to remove the aegis from that creature, engulfing it in illusory magics. When you do, the target becomes invisible until the end of its next turn or when it casts a spell or makes an attack, whichever happens first.
+
+#### Broken Mirror Jutsu
+Starting at 7th level, you can take a special action on your turn to summon duplicates of yourself. When you do, you expend a spell slot and choose a number of unoccupied spaces within 60 feet equal to the level of the spell slot expended. A duplicate of yourself appears in each chosen space. You and each duplicate then make a melee spell attack against a creature within 5 feet, dealing 1d10 + your Intelligence modifier in force damage on a hit. If you and all your duplicates attack the same creature, and at least one of you deals damage to the creature, it must succeed on a Constitution saving throw or be stunned until the end of your next turn.
+
+#### False Body Jutsu
+At 14th level, you gain the ability to replace yourself with an unlikely body double in the instant before you take a blow. When you are hit by an attack, you can use your reaction to reduce the damage from that attack to 1. When you do, you become invisible for 1 minute and teleport to an unoccupied space of your choice within 300 feet. You leave a block of wood or another harmless, mundane object in the space you teleported away from. You must complete a long rest before you can use this feature again.
+
+### The Shadow Court Spell List
+##### Cantrips (0 Level)
+- Corrupted Ki Kata
+- Dancing Lights
+- Death Shroud
+- Mage Hand
+- Message
+- Minor Illusion
+- Nerve Pinching Kata
+- Ten Thousand Masks
+
+##### 1st Level
+- Alarm
+- Disguise Self
+- Expeditious Retreat
+- Feather Fall
+- Fog Cloud
+- Grease
+- Illusory Script
+- Jump
+- Longstrider
+- Silent Image
+- Sleep
+- Snare
+- Unseen Servant
+
+##### 2nd Level
+- Blur
+- Darkness
+- Darkvision
+- Find Traps
+- Hold Person
+- Invisibility
+- Knock
+- Locate Object
+- Mirror Image
+- Misty Step
+- Pass Without Trace
+- Protection from Poison
+- Rope Trick
+- See Invisibility
+- Silence
+
+##### 3rd Level
+- Blink
+- Clairvoyance
+- Dispel Magic
+- Enemies Abound
+- Fear
+- Feign Death
+- Gaseous Form
+- Major Image
+- Nondetection
+- Sending
+- Vampiric Touch
+- Water Breathing
+
+##### 4th Level
+- Confusion
+- Dimension Door
+- Freedom of Movement
+- Greater Invisibility
+- Hallucinatory Terrain
+- Leomund's Secret Chest
+- Locate Creature
+- Phantasmal Killer
+- Polymorph
+
+##### 5th Level
+- Dominate Person
+- Dream
+- Hold Monster
+- Mental Prison
+- Mislead
+- Modify Memory
+- Passwall
+- Scrying
+- Seeming
+
+##### 6th Level
+- Eyebite
+- Find the Path
+- Guards and Wards
+- Programmed Illusion
+- True Seeing
+- Wind Walk

@@ -1,0 +1,42 @@
+### Way of the Tattooed Temple
+[**Source:** *The Complete Devout Handbook*](https://drive.google.com/file/d/1TEY7P4FVWD_-Ky5YrrK92__yYOwTY3w-/view)
+
+Some monks treat their bodies as temples and adorn them with vivid art honoring their values. Practitioners of the Way of the Tattooed Temple ink their bodies as they reach milestones in their personal journey, infusing some of these tattoos with mystical energy that evokes magical properties from the ink. Although some look askance at the appearance of these monks, none doubt their supernatural power.
+
+#### Inked
+Starting at 3rd level, you gain proficiency with tattooist's tools. In addition, choose one mystical tattoo and gain it. Choose and gain another mystical tattoo at 6th and 11th level.
+
+When you gain a level in this class, you can choose one of your mystical tattoos and replace it with another mystical tattoo.
+
+#### Mystical Tattoos
+When you gain a mystical tattoo, you tattoo yourself or instruct another to tattoo you. Activating your own enlightened potential with the pain and creativity of the tattooing, the ink is imbued with magical powers and becomes a mystical tattoo.
+
+***Crane.*** You can fly as part of your movement on your turn. At the end of each of your turns, if you are not on the ground you fall to the ground taking damage as normal. You can use a reaction when you are falling and spend 1 ki point to cast the feather fall spell without material components.
+
+***Eye.*** You have advantage on saving throws against illusion effects. As a bonus action, you can spend 2 ki points to gain blindsight to a range of 30 feet for 1 minute.
+
+***Mandala.*** Your ki point maximum is increased by 1. At 11th level this bonus increases to 2. When you are reduced to 0 hit points, you can spend 1 ki point to automatically stabilize yourself before falling unconscious.
+
+***Mask.*** You can spend 2 ki points to cast disguise self. When you use this feature to cast the spell, its duration becomes 8 hours.
+
+***Monkey.*** When you are grappling, you can add your Dexterity modifier, instead of your Strength modifier, to your Athletics ability check. When you take the Attack action, you can spend 1 ki point to make an additional attack as part of that action. This additional attack can only be used to grapple.
+
+***Mountain.*** You gain a +1 bonus to AC when you are unarmed, unarmored, and have no shield. When you take bludgeoning, piercing, or slashing damage, you can use your reaction and spend 1 ki point to gain resistance against the triggering damage.
+
+***Snake.*** You gain resistance to poison damage. When you deal damage with an unarmed strike, you can spend 1 ki point to deal an additional 1d8 poison damage.
+
+***Spider.*** You have a climbing speed of 30 feet. You can spend 3 ki points to cast the web spell without material components.
+
+***Sun.*** You gain resistance to radiant damage. Additionally, when you take damage, you can use your reaction and spend 1 ki point to cause light to erupt from your body. When you do, each creature within 5 feet of you must succeed on a Constitution saving throw or be blinded until the end of your next turn.
+
+***Tiger.*** You can choose to deal slashing damage, instead of bludgeoning damage, with your unarmed strikes. When you deal slashing damage with your unarmed strike, you can spend 1 ki point to deal an extra 1d10 damage.
+
+***Tree.*** You have advantage on saving throws against being knocked prone or being moved against your will. You can spend 2 ki points to cast the entangle spell.
+
+***Tsunami.*** You can breathe air and water and gain a swimming speed of 30 feet. Additionally, when you hit a creature with an unarmed strike, you can spend 1 ki point to attempt to knock the creature down. When you do, the creature must succeed on a Strength saving throw or fall prone.
+
+#### Living Canvas
+Starting at 17th level, when you complete a long rest you can choose a mystical tattoo. You have this tattoo until you use this feature again.
+
+> ##### Tattooist's Tools
+> Tattooist's tools are artisan tools that can be purchased for 3 gp and weigh 3 lbs. Tattooist's tools include a set of needles, a pen, and a set of inks good for a dozen tattoos and are used to make permanent ink tattoos. If you have proficiency with tattooist's tools you are capable of using the tools and have some amount of artistic talent regarding tattooing. You can purchase enough ink for a dozen tattoos for 1 sp.

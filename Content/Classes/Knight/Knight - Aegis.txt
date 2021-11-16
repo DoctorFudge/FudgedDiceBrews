@@ -1,0 +1,37 @@
+### Code of Aegis
+They say the best offense is a good defense, and for followers of the Code of Aegis, this couldn't be more true. Your experience as an adventurer revolves around the shield.
+
+#### Shield Expertise
+You are proficient in wielding two bucklers or a shield with the *Two-Handed* property. While holding a shield/buckler in your main hand, you gain the following benefits:
+- Your shield is considered a finesse weapon that you have proficiency in.
+- You can roll a 1d4 in place of the normal damage of an unarmed strike. This die changes as you gain knight levels, as shown in the Shield Bash column of the Aegis table.
+
+#### Shield Striker
+When making an attack against an opponent with your shield you may spend 1 Ichor to make them perform a Dexterity saving throw. On a failure, choose from the following options:
+- The target is knocked back 10 feet.
+- The target is knocked to the left or right of their original position 5 feet.
+
+#### Aegis Marksman
+Starting at 3rd Level, when wielding a shield you can choose to throw it. Make a ranged attack with your shield within 30 feet. On a successful hit, deal 1d6 bludgeoning damage. For the duration of its flight, you lose any AC bonus granted by the shield. At the end of your turn, your shield returns to your hand.
+
+#### Rising Star
+At 3rd Level, you've become confident in using your shield as a temporary platform for allies. As a bonus action you can position your shield above your head for allies to step on. Allies may spend part of their movement to reach your shield, counting your space as difficult terrain.
+
+Allies who use your shield as a platform gain an extra 1d6 attack bonus and add half your Dex modifier (rounded down) to their damage bonus on attacks made until they touch the ground again.
+
+Your shield loses half of its AC score (rounded down) while you hold this position. Starting next round you may lower your shield again as a free action.
+
+#### Answer The Call
+At 6th Level, you learn that no ally should fight alone. When spending your movement to reach a friendly creature, you do so without provoking opportunity attacks.
+
+#### Courageous Spirit
+At 11th Level, your bravery inspires those around you. Allies in a 10 foot radius receive advantage on checks made against spells or abilities that cause the Frightened condition.
+
+#### Indirect Route
+At 11th Level you have gained a powerful mastery of your shield's flight. You can now throw your shield towards a point of your choosing within 30 feet and hold it there until the beginning of your next turn (no concentration needed). Allies may use this shield as a platform to incur the benefits recieved by Rising Star. You lose the AC bonus granted by the shield during its flight.
+
+#### The Defender
+At 15th Level, you face foes head on and keep those closest to you safe from harm. When wielding a shield, enemies in a 10 foot radius of you and an ally of your choosing incur disadvantage on one attack per round.
+
+#### Shield Savant
+At 17th Level, you've grown powerfully proficient with your shield, granting you double proficiency bonus on attacks or saves that involve your shield. You also ignore AC penalties incurred from Rising Star and Aegis Marksman.

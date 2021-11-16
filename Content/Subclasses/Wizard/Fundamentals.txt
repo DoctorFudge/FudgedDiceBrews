@@ -1,0 +1,38 @@
+### School of Fundamentals
+[**Source:** *The Complete Arcanist Handbook*](https://drive.google.com/file/d/1ucl27lI0dMWi0BDsolHBB-ZgW4CSPhdP/view)
+
+The School of Fundamentals is comprised of wizards who believe that the greatest mages are those who have mastered the foundations. While other schools delve into study of a particular type of spell, you have focused your efforts on the building blocks of spellcasting: cantrips. Detractors of this school mock the fundamentalists as those who waste their time with the minutiae of spells that the most inexperienced of apprentices could cast. You know, however, that the ability to cast a spell shares little in common with the mastery required to cast it with precision and potency.
+
+As a fundamentalist wizard, you give cantrips the respect that is their due, studying their every detail and fine tuning every aspect of their components as though they are 9th-level spells. You add them to your spellbook and prepare them like other wizards would only with their leveled spells, knowing that the perfection of these seemingly rudimentary techniques will lead to greater heights than the other schools could ever imagine.
+
+#### Cantrip Savant
+Beginning when you select this school at 2nd level, you can copy cantrips into your spellbook in a similar manner to copying spells of 1st level and higher. When you find a wizard cantrip, you can add it into your spellbook by spending 2 hours and 50 gp. The cost represents material components you expend as you experiment with the cantrip to master it, as well as the fine inks you need to record it.
+
+The three wizard cantrips you know from your Spellcasting class feature are automatically added to your spellbook without time or cost. When you learn an additional wizard cantrip upon reaching 4th and 10th level in this class, the spell you choose is also added to your spellbook without time or cost.
+
+Additionally, you prepare cantrips from your spellbook in a similar manner to how you prepare your wizard spells of 1st level and higher. To do so, choose a number of wizard cantrips from your spellbook up to 2 + the number in the Cantrips Known column of the Wizard table for your level. You can change your list of prepared cantrips whenever you finish a long rest. Doing so requires you to spend 1 minute studying your spellbook.
+
+#### Augmented Fundamentals
+Also starting at 2nd level, you can channel more of your magical power into a wizard cantrip you cast, causing it to have greater effects. When you cast a wizard cantrip, you can expend a spell slot to augment its effects in one of the following ways.
+
+***Empower.*** If the cantrip deals damage, the first damage roll you make for the cantrip this turn is increased by 1d8 per level of the expended spell slot.
+
+***Extend.*** If the cantrip has a duration longer than 1 round, its duration is extended based on the level of the expended spell slot: by 10 minutes for 1st through 3rd level, by 1 hour for 4th through 6th level, or by 8 hours for 7th level or higher.
+
+***Further.*** If the cantrip has a range other than Self, its range increases based on the level of the expended spell slot: by 30 feet per level for 1st through 8th level, or its range changes to Sight for 9th level.
+
+***Multiply.*** If the cantrip can target only a single creature or object, you can target an additional creature or object in range for each level of the expended spell slot. If the cantrip requires a spell attack, you make only one attack roll, which is then applied to each target.
+
+#### Enhanced Cantrips
+Beginning at 6th level, your intensive study of cantrips enhances your ability to cast them. You gain the following benefits:
+- You can add your Intelligence modifier to the first damage roll of any cantrip you cast during your turn.
+- When you cast a cantrip that doesn’t deal damage, you gain a number of temporary hit points equal to your Intelligence modifier (minimum 1). You lose these temporary hit points after 1 minute.
+- You can cast cantrips from your spellbook that you don’t have prepared. When you cast a cantrip this way, its casting time increases by 10 minutes.
+
+#### Subconscious Focus
+Starting at 10th level, you have such a comprehensive understanding of cantrips that you can concentrate on them with minimal mental effort. You can concentrate on up to two spells simultaneously, provided that one or both of them is a cantrip.
+
+#### Universal Theory of Fundamentals
+Beginning at 14th level, your understanding of cantrips transcends the realm of purely arcane magicks. All cantrips count as wizard spells for you, allowing you to copy any cantrip you find into your spellbook.
+
+Additionally, when you expend a spell slot of 2nd level or higher to use your Augmented Fundamentals, you regain one expended spell slot. The slot you regain must be of a level lower than the slot you expended and can’t be higher than 5th level.

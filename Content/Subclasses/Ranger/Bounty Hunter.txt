@@ -1,0 +1,37 @@
+### Bounty Hunter
+[**Source:** *The Complete Martialist Handbook*](https://drive.google.com/file/d/1oGWtJWYIL63dUACooColfDVhX6MllXji/view)
+
+Some rangers seek glory by hunting down the most dangerous creatures the multiverse has to offer; others take on the more practical tasks of capturing or eliminating criminals and other nuisances. A Bounty Hunter familiarizes themselves with humanoid cultures and peoples, mastering martial techniques for efficiently capturing or killing any bounty. The success of a Bounty Hunter rests on its employment of studious techniques for quickly becoming familiar with any unfamiliar quarry.
+
+#### Bounty Hunter Magic
+Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Bounty Hunter Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
+
+##### Bounty Hunter Spells
+| Ranger Level | Spells |
+| :-: | :-- |
+| 3rd | <em>hunter's mark</em> |
+| 5th | <em>hold person</em> |
+| 9th | <em>slow</em> |
+| 13th | <em>locate creature</em> |
+| 17th | <em>legend lore</em> |
+
+#### Favored Enemy: Humanoids
+When you choose this archetype at 3rd level, you gain the benefits of your Favored Enemy against all humanoid creatures. If you already chose one or more humanoid races as favored enemy types, you choose an additional favored enemy.
+
+Additionally, you learn a language of your choice.
+
+#### Efficient Takedown
+Beginning at 3rd level, you learn to efficiently dispatch foes with swift strikes. When you take the Attack action on your turn, you can use your bonus action this turn to make a weapon attack. You don't add your ability modifier to the damage of this bonus attack unless the target is one of your favored enemies or that modifier is negative.
+
+#### Dead or Alive
+At 7th level, you become an expert at capturing enemies, instead of killing them. When you reduce a creature to 0 hit points with a weapon attack or spell, you can choose to knock the creature unconscious instead of killing it.
+
+Additionally, when you hit a creature with the bonus action attack granted by your Efficient Takedown, you can choose for the attack to deal no damage to instead reduce the target's speed to 0 until the end of your next turn.
+
+#### Bounty Research
+Beginning at 11th level, you can spend 1 hour in study and training, which counts as a light activity, to choose an additional favored enemy type. You don't learn an associated language when you choose another favored enemy this way. You retain this favored enemy type until you use this feature again.
+
+Additionally, you automatically succeed on Constitution saving throws you make to maintain concentration on the hunter's mark spell while it targets one of your favored enemies.
+
+#### Know the Enemy
+Starting at 15th level, when you're hit by an attack from one of your favored enemies, or the target of your *hunter's mark* spell, you can use your reaction to quickly block the blow. When you do so, the damage you take from the attack is reduced by 1d10 + your ranger level.

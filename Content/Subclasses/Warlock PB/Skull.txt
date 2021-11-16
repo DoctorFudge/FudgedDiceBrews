@@ -1,0 +1,12 @@
+#### Pact of the Skull
+[**Source:** *Pact of the Skull*](https://homebrewery.naturalcrit.com/share/Vb91uLXlOSH4)
+
+Your patron gifts you jaw-less skull, that seems to fit perfectly in the palm of your hand.
+
+While holding the skull, you can cause it to float half an inch above your palm. While doing so, you can cast feign death and speak with dead at will without expending a spell slot.
+
+While the skull isn't on your person, other creatures can target the skull. The skull has AC 10, 1 hit point, and immunity to fire and poison damage.
+
+If the skull isn't on your person or if something other than you destroyed it, you can cause it to magically reappear in your hand by using a bonus action. If you destroyed the skull by vaporizing it, it magically reappears on your person when you finish a long rest.
+
+If a creature listens closely to the skull, it can hear faint, unintelligible whispers coming from inside. The skull otherwise has no magical properties for anyone but you.

@@ -1,0 +1,17 @@
+### Spirit of the Hunt
+The most common spirit that Ensorcelled Lanterns take is that of the hunter. Nightbreakers who wield these lanterns are well-rounded individuals, who may have a sense of vengeance or altruism to their work, but ultimately seek to simply hunt the monsters of the night. They may do it for thrills, wealth, fame, tradition, or simple adventure. The Spirit of the Hunt welcomes individuals from all walks of life.
+
+To this end, these lanterns bless the wielder with a number of spells themed around survival, nature, mobility, and tracking.
+
+**Lantern Power:** At level 2, you can use your action to focus on the region around you. You can sense the presence of creatures that belong to your chosen Favoured Quarry. You can sense them within 1 mile of you. You know how far away they are from you, but not the direction. You can use this ability for a number of minutes equal to your nightbreaker level. These minutes do not need to be consecutive, but do need to be spent in 1-minute intervals.
+
+#### Spell List
+**1st Level Spells:** *Alarm, Ensnaring Strike, Entangle, Faerie Fire, Fog Cloud, Goodberry, Longstrider, Protection from Evil and Good*
+
+**2nd Level Spells:** *Barkskin, Darkvision, Find Traps, Locate Animals or Plants, Pass Without Trace, See Invisibility, Spider Climb*
+
+**3rd Level Spells:** *Create Food and Water, Dispel Magic, Elemental Weapon, Magic Circle, Nondetection, Plant Growth, Speak With Plants*
+
+**4th Level Spells:** *Dominate Beast, Freedom of Movement, Guardian of Nature, Hallucinatory Terrain, Locate Creature, Stoneskin*
+
+**5th Level Spells:** *Commune With Nature, Dispel Evil and Good, Scrying, Tree Stride, Wrath of Nature*

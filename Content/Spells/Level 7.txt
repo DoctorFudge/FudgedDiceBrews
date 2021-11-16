@@ -1,0 +1,14 @@
+## Level 7
+
+#### Kevin's Radiant Beam
+*Evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 30 feet
+- **Components:** V, S, M (one goodberry)
+- **Duration:** Instantaneous
+- **Classes:** Druid, Cleric, Bard, Warlock, Sorcerer
+___
+You reach your hands out in front of you and release a beam of radiant energy that extends out in a line that is 60 feet long and 5 feet wide. All creatures within this line must make a Dexterity saving throw. On a failed save taking 6d10 radiant damage and being knocked prone, and taking half as much damage and not being knocked prone on a successful save.
+
+**At Higher Levels.** When casting this spell using a spell slot of 8th level or higher, the damage increases by 1d10 for each slot level about 7th.

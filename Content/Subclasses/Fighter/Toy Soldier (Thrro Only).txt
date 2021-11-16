@@ -1,0 +1,25 @@
+### Toy Soldier (Thrro Only)
+[**Source:** *Thrro*](https://drive.google.com/file/d/1env1Rl0-DC3O7qgBnaH2M1_DWlRIvDBS/view)
+
+The first ever Thrro was created to be a gift to a noble king's daughter. Seeing the resilience of the golem in safeguarding his daughter from minor accidents about the castle walls, the King had requested the mages make more with the means to defend their kingdom. The mages took this request as a challenge, a chance to improve their creation's weaknesses to not only abide to a noble's request, but to also strengthen their defenses. In a year's time, the king was visited by an army of red garbed golems, musket in hand and purpose in mind. Fight not for conquest, but to protect their new found home.
+
+#### Firearm Proficiency
+You were created to be a peacekeeper and guardian. As a member of the Toy Guard the knowledge and responsibility of using a firearm has been entrusted to you. At 3rd level you gain proficiency with firearms, allowing you to add your proficiency bonus to attacks made with firearms.
+
+#### Waterproof
+Your creator has tasked you with a greater purpose, thus any glaring water based weakness your race normally would have has been addressed in your craftsmanship. At 3rd level, liquids are no longer considered difficult terrain while standing in or submerged for more than 1 + your Constitution modifier minutes. If you remain within water after the minutes are up or choose to absorb liquid, all the effects defined by the Soak feature occur as per usual.
+
+#### Additional Thrro Assembly
+Your belief in your purpose to ensure the will of the Toy Guard's task rises, this surge of devotion enhances your conduit cloth. At 3rd level you gain an additional Thrro Assembly feature.
+
+#### Stalwart March
+Your convition to the guard's duty has given you strong will to see your current task be done. At 7th level have advantage to saving throws that reduce your movement speed, you also gain 10ft of movement.
+
+#### Conduit Casing
+The arcane lifeforce that keeps you alive now flows through firearm you hold in your hands. Starting at 10th level all shots made with a firearm are considered magical for bypassing resistances.
+
+#### Made of Stronger Stuff
+After being apart of the Toy Guard for this long, your conduit cloth has hardened from all the physical truama of the job's hardships. Starting at 15th level you are no longer vulnerable to Fire damage and you are immune to Bludgeoning damage.
+
+#### Peacekeeper's Accuracy
+Starting at 18th level, your firearm attacks score critical on 18-20. Once per day on a successful hit on a Medium or Small sized creature with your firearm, the target must make a Constitution vs 8 + your Dexterity modifier + proficiency saving throw. On failure the target is knocked prone. You can use this feature again after a short or long rest.

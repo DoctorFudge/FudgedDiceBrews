@@ -1,0 +1,39 @@
+### Path of the Skinchanger
+[**Source:** *The Complete Martialist Handbook*](https://drive.google.com/file/d/1oGWtJWYIL63dUACooColfDVhX6MllXji/view)
+
+You belong to an ancient line of barbarians who practice sacred hunts and rituals to adopt the shape of beasts. When you begin this path, you incorporate elements of the beasts you have hunted into your physical form when you rage. As you continue on the path, you learn to slip from your skin to that of a beast and grow to the size of nature's fiercest predator's when you rage.
+
+#### Sacred Hunt
+When you choose this path at 3rd level, you learn a sacred hunting ritual that allows you to gain the abilities of beasts. With 1 hour of heavy activity, you can perform this ritual, choosing a natural weapon and your choice of two of the following benefits. Once the ritual is completed, you gain that natural weapon and those benefits while raging. When you perform this ritual again, you lose all benefits selected from your previous use of this feature.
+
+***Natural Weapon.*** You grow horns, tusks, sharpened teeth, or claws. When you make an unarmed attack, you can choose to use this natural weapon to deal 1d8 damage. If you use horns, tusks, or sharpened teeth this damage is piercing, if you use claws this damage is slashing.
+
+***Climber.*** You have a climbing speed equal to your base walking speed.
+
+***Darkvision.*** You have darkvision out to a range of 60 feet.
+
+***Gills.*** You can breathe in both air and water and have a swimming speed equal to your base walking speed.
+
+***Stride.*** Your base walking speed increases by 10 feet.
+
+***Venomous.*** When you deal damage with your natural weapons, you deal an additional 1d4 poison damage.
+
+#### Skinchanging
+At 3rd level, your ability to change your physical form improves and you can cast the alter self spell. Constitution is your spellcasting ability for this spell.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+#### Shape of the Lesser Beast
+Starting at 6th level, you gain the ability to turn into an animal shape. You can cast the polymorph spell on yourself without needing material components. When you cast the spell this way, you can only turn into a beast whose challenge rating is equal to or lower than half your level. Constitution is your spellcasting ability for this spell.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+#### Primal Rage
+At 10th level, you gain the ability to swell your body with primal fury when you enter a rage. If you do so, you grow in size as if under the Enlarge effect of the enlarge/ reduce spell until your rage ends.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+#### Shape of the Greater Beast
+Starting at 14th level, you can cast the polymorph spell on yourself without needing material components. You do not need to concentrate on this spell and may end it anytime you want before its 1-hour duration elapses. Constitution is your spellcasting ability for this spell.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.

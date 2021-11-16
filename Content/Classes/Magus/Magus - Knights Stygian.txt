@@ -1,0 +1,128 @@
+### The Knights Stygian
+The Knights Stygian take it upon themselves to seek out and cleanse the world of its corruption. These magi seek to protect the innocent, defend the weak, and ensure justice is done. They do this by wielding necromantic magic that simultaneously terrifies their living foes and turns their defeated foes into foot soldiers in the magi's service.
+
+#### Knights Stygian Initiate
+When you choose this eldritch society at 1st level, you augment your martial prowess with the ability to cast cantrips.
+
+***Cantrips.*** You learn two cantrips of your choice from the Knights Stygian's spell list. You learn an additional Knights Stygian cantrip of your choice at 4th level and again at 10th. These cantrips count as magus spells for you.
+
+***Spellcasting Focus.*** You can use an arcane focus (found in chapter 5 of the Player's Handbook) as a spellcasting focus for your magus spells.
+
+***Spellcasting Ability.*** Charisma is your spellcasting ability for your Knights Stygian spells, since you learn your spells through an intuitive connection with death. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a magus spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell save DC** = 8 + your proficiency bonus +your Charisma modifier
+
+**Spell attack modifier** = your proficiency bonus + your Charisma modifier
+
+</center>
+
+#### Bonus Proficiencies
+At 1st level, you gain proficiency with the Intimidation skill and embalmer's tools.
+
+> ##### Embalmer's Tools
+> Embalmer's tools include all the instruments, chemicals, and perfumes necessary to embalm the dead. Proficiency with this kit lets you add your proficiency bonus to any ability checks you make to embalm or preserve a body. Embalmer's tools cost 10 gold pieces and weigh 4 lb.
+
+#### Obsidian Seal
+Starting at 3rd level, the effects of your mystic marks are enhanced by the fell magic of the Knights Stygian. When you place your mystic mark on an object or creature, it is surrounded by an aura that emits drifting motes of black ash and the acrid smell of decay.
+
+***Stygian Enspell.*** When you deal damage with your enspelled weapon you can choose to deal necrotic damage instead of its normal damage type.
+
+When you hit with an attack with an enspelled weapon you can choose to remove the enspell, unleashing an unholy wave of pure terror. When you do, the target must succeed on a Wisdom saving throw against your spell save DC or be frightened by you until the end of their next turn.
+
+***Stygian Aegis.*** When a creature protected by your aegis takes damage from an attack you can use your reaction to remove the aegis from that creature, releasing necrotic energy upon the attacker. When you do, the attacker must succeed on a Constitution saving throw against your spell save DC or take necrotic damage equal to the damage dealt by the triggering attack.
+
+#### Face of Fear
+Starting at 7th level, you have advantage on saving throws against being frightened. When a creature within 30 feet of you makes a saving throw against being frightened, you can use your reaction to give that roll disadvantage.
+
+#### Necromantic Surge
+At 14th level, you can cast the spell *animate dead* without expending a spell slot as if you had used a spell slot equal to the highest spell slot available to you. Once you cast *animate dead* in this way, you can't do so again until you finish a long rest.
+
+Whenever you create an undead creature using a necromancy spell, it has additional benefits:
+- The creature's hit points maximum is increased by an amount equal to your magus level.
+- The creature adds your proficiency bonus to its weapon damage rolls.
+
+### The Knights Stygian Spell List
+##### Cantrips (0 Level)
+- Blade Ward
+- Bloodletting Bite
+- Chill Touch
+- Death Shroud
+- Mending
+- Resistance
+- Spare the Dying
+- Thaumaturgy
+- True Strike
+
+##### 1st Level
+- Arms of Hadar
+- Aspir
+- Bane
+- Cause Fear
+- Corpse Mask
+- Detect Poison and Disease
+- Dissonant Whispers
+- Drain
+- False Life
+- Hex
+- Inflict Wounds
+- Ray of Sickness
+- Sleep
+- Tasha's Hideous Laughter
+
+##### 2nd Level
+- Blindness/Deafness
+- Darkness
+- Darkvision
+- Crown of Madness
+- Gentle Repose
+- Phantasmal Force
+- Ray of Enfeeblement
+- See Invisibility
+- Shatter
+- Silence
+- Spider Climb
+- Web
+
+##### 3rd Level
+- Animate Dead
+- Bestow Curse
+- Dispel Magic
+- Fear
+- Feign Death
+- Gaseous Form
+- Hunger of Hadar
+- Phantom Steed
+- Revivify
+- Slow
+- Speak with Dead
+- Vampiric Touch
+
+##### 4th Level
+- Banishment
+- Blight
+- Death Ward
+- Dominate Beast
+- Evard's Black Tentacles
+- Phantasmal Killer
+
+##### 5th Level
+- Cloudkill
+- Contagion
+- Danse Macabre
+- Enervation
+- Hallow
+- Insect Plague
+- Negative Energy Flood
+- Passwall
+- Raise Dead
+
+##### 6th Level
+- Circle of Death
+- Create Undead
+- Disintegrate
+- Eyebite
+- Harm
+- Magic Jar
+- Soul Cage

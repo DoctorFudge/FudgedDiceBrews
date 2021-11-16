@@ -1,0 +1,30 @@
+### The Thing Beneath the Waves
+[**Source:** *Blackpowder Pirates*](https://drive.google.com/file/d/19rjjWUopA215r-r1NFVm-oVj1BUkLwhK/view)
+
+You have forged a pact with some inscrutable creature that dwells in the eternally lightless depths far beneath the surface of some notable body of water. This creature's ambitions are often inscrutable, due to the inhospitable environs in which they dwell. Many look to see kingdoms brought 10w beneath the waves, or for the world to be consumed in unending floods. Others have goals more nuanced and all the more dreadful.
+
+Entities of this type include Zoth—Ommog and the Abolethic Sovereignty. Some exceptionally powerful sea creatures like the kraken or leviathan may also be able to grant such power through pacts with mortals.
+
+#### Expanded Spell List
+The Thing Beneath the Waves lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+##### Thing Beneath the Waves Spells
+| Spell Level | Spells |
+| :-: | :-- |
+| 1st | <em>fog cloud, thunderwave</em> |
+| 2nd | <em>gust of wind, warding wind</em> |
+| 3rd | <em>call lightning, tidal waves</em> |
+| 4th | <em>control water, watery sphere</em> |
+| 5th | <em>control winds, maelstrom</em> |
+
+#### Breath of the Deeps
+Starting at 1st 1eve1, you are able to breathe water as easily as air. Additionally, you gain a swim speed equal to twice your speed.
+
+#### Siren's Song
+Beginning at 6th level, your patron teaches you the irresistible call of the sea. As an action you cause one creature you can see within 60 feet of you to make a Wisdom saving throw against your warlock spell DC. On a failure, the creature is charmed by you and must spend its next turn moving closer to you Without regard for its safety. This effect ends after a number of rounds equal to your Charisma modifier, or if the target takes damage. You must complete a long rest before using this ability again.
+
+#### Storm Shield
+Starting at 10th level, you are protected by your patron's tempestuous magic. You have resistance to lightning and thunder damage. Additionally, When you are damaged by a creature Within 60 feet of you, you can expend a spell slot as a reaction to deal 5d6 lightning damage to the triggering creature. You must finish a short or long rest before using this feature again.
+
+#### Command the Gale
+At 14th level, you are granted the power to summon storms. You can cast the spell con trol weather once without expending a spell slot, but you cannot change the temperature or decrease the intensity of precipitation or wind. You must complete a long rest before casting the spell again.

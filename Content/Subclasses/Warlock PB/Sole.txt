@@ -1,0 +1,8 @@
+#### Pact of the Sole
+[**Source:** *The Complete Arcanist Handbook*](https://drive.google.com/file/d/1ucl27lI0dMWi0BDsolHBB-ZgW4CSPhdP/view)
+
+While you are not wearing footwear, you can use your action to create a pair of pact boots covering your feet. You choose the appearance of your pact boots. While you wear your pact boots, your base walking speed increases by 10 feet and you ignore nonmagical difficult terrain.
+
+Your pact boots disappear if they are more than 5 feet away from you for 1 minute or more. They also disappear if you use this feature again, if you dismiss them (no action required), or if you die.
+
+You can transform one magic pair of footwear, such as boots of striding and springing, into your pact boots by performing a special ritual while you hold or wear the footwear. You perform the ritual over the course of 1 hour, which can be done during a short rest. You can then dismiss the magic footwear, shunting it into an extradimensional space, and it appears whenever you create your pact boots thereafter. You can’t affect an artifact or sentient item this way. The magic footwear ceases being your pact boots if you die, if you perform the 1-hour ritual on a different set of magic footwear, or if you use a 1-hour ritual to break your bond to it. The footwear appears at your feet if it is in the extradimensional space when the bond breaks.

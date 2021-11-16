@@ -1,0 +1,140 @@
+## Chef
+[**Source:** *Chef*](https://homebrewery.naturalcrit.com/share/Hkby63LBq-)
+
+A rugged half-elf fells a ferocious owlbear with a flurry of knives. His mouth salivates as he stands over the carcass, imagining the wondrous flavors it must hold.
+
+In the midst of battle, a steadfast human reaches into her chef's pouch, hastily looking for something that could save her injured friend. She grabs a recipe she had prepared earlier and shoves it down her ally's throat, smiling as the magical flavours close mortal wounds.
+
+Focused and determined, a gnome samples the strange food from a far off realm. With each bite, his mind surges with ideas, and a new recipe is born.
+
+The greatest strength of the chef is their bizarre creativity. Able to turn the mundane into the marvelous, chefs never waver when faced with a challenge.
+
+### The Pursuit of Perfection
+While most adventurers find reward in riches, others seek a treasure of a different kind. Chefs travel far and wide to uncover new foods and long lost flavours, delving into the most dangerous locations in search of key ingredients to perfect their recipes. Chefs who take on a life of adventure are few and far between, and fewer still live long enough to see their pursuits fulfilled. Nevertheless, those Chefs who do choose this path are considered to be the pioneers of their profession.
+
+To survive as an adventurer, a chef relies on the magic of their food and their skill with culinary items. Chefs strive to perfect the myriad applications of their utensils, studying their form as a warrior studies his weapon. In the hands of a chef, an ordinary pan or ladle can be utilized for deadly purpose, or employed as a tool to shape and focus spiritual energy.
+
+### Beyond the Mundane
+At first glance, a chef may seem ordinary, but behind their mundane appearance lies spiritual power that can transform basic food ingredients into magical reagents. A chef's magic is channelled through his recipes, and grants those who ingest them a portion of the chef's power. While other magical creatures hoard their reality-shaping abilities, chefs share their magic with all who need it, imbuing each morsel with a piece of themselves.
+
+Chefs are common in every part of the world, but not every cook and baker can create meals of a magical nature. Discovering the spiritual power hidden within a chef's emotions requires years of training and a large amount of innate aptitude that most lack.
+
+### Creating a Chef
+When creating your chef, you should consider the nature of their training, and their initial life afterward. They may have been trained by a relative or the servant of a great king. Alternatively, they could have learned the trade as a means of survival within a poor urban district. These decisions may help you decide on your character traits as well as your choice of recipes.
+
+##### The Chef
+| Level | Proficiency Bonus | Features | Recipes Known |
+|:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
+| 1st | +2 | Recipes, Culinary Arts | 3 |
+| 2nd | +2 | Dextrous Digits, Gourmet Senses | 4 |
+| 3rd | +2 | Chef Specialty | 5 |
+| 4th | +2 | Ability Score Improvement | 6 |
+| 5th | +3 | Recipes Improvement | 7 |
+| 6th | +3 | Extra Attack | 8 |
+| 7th | +3 | Specialty Feature | 9 |
+| 8th | +3 | Ability Score Improvement | 10 |
+| 9th | +4 | Flawless Cookery | 11 |
+| 10th | +4 | Fast Food | 12 |
+| 11th | +4 | Recipes Improvement | 13 |
+| 12th | +4 | Ability Score Improvement | 14 |
+| 13th | +5 | Specialty Feature | 15 |
+| 14th | +5 | Savor the Taste | 16 |
+| 15th | +5 | Iron Stomach | 17 |
+| 16th | +5 | Ability Score Improvement | 18 |
+| 17th | +6 | Recipes Improvement | 19 |
+| 18th | +6 | Specialty Feature | 20 |
+| 19th | +6 | Ability Score Improvement | 21 |
+| 20th | +6 | Master Chef | 22 |
+
+#### Quick Build
+You can quickly create a Chef by following these suggestions. First, Wisdom should be your highest ability score, followed by Strength or Dexterity. Second, choose the Guild Artisan background. Third, choose the following three recipes to add to your cookbook: Bull's Eye Soup, Croque Madame and Orange Cake.
+
+## Class Features
+
+#### Hit Points
+___
+- **Hit Dice:** 1d8 per chef level
+- **Hit Points at 1st Level:** 8 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d8 (or 5) + your Constitution modifier per chef level after 1st
+#### Proficiencies
+___
+- **Armor:** Light Armor
+- **Weapons:** Simple weapons
+- **Tools:** Cook's Utensils
+___
+- **Saving Throws:** Strength, Wisdom
+- **Skills:** Choose two from Insight, Intimidation, Investigation, Nature, Perception, Performance, Sleight of Hand and Survival.
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* an Iron pot or *(b)* five rations
+- *(a)* a Scholar's pack or *(b)* an explorer's pack
+- A set of cook's utensils, a cookbook and a chef's pouch.
+
+### Recipes
+Beginning at 1st level, you learn three recipes that can be used to aid yourself and your allies. Each time you gain a level in this class, You learn  an additional recipe, as show in the class table. The recipes are kept inside your cookbook, and are all detailed at the end of the class description. When you reach 5th level in this class and again at 11th and 17th levels, each of your recipes gains an additional benefit, or increases in potency.
+
+#### Chef's Pouch
+You carry with you a chef's pouch which contains all the ingredients you need to create your recipes. During a long rest, you can create a number of recipes from your cookbook equal to your Wisdom Modifier + half your chef level (rounded up, minimum 1), which are kept inside your chef's pouch. You can create multiple of the same recipe, or several different recipes. You must have your cookbook and chef's pouch with you for the duration of the long rest in order to create recipes. Any unused recipes spoil when you create new ones during a long rest.
+
+#### Using a Recipe
+Any creature that possesses one of your recipes can use a bonus action on their turn to consume it and gain its benefits, provided they have a free hand to do so. Alternatively, they can feed the recipe to a willing creature within 5 feet using a free hand. A creature must be conscious to consume a recipe. The effects of different recipes add together while their durations overlap, but the effects of the same recipe consumed multiple times don't combine.
+
+#### Recipes Ability
+Wisdom is the ability score you use for your recipes. You use your Wisdom modifier when setting the saving throw DC for a recipe and when a recipe calls for an attack roll to be made. Recipes always use the Recipe Save DC and Recipe Attack Modifier of the chef that created them, even if the meal is consumed by another creature, and any damage caused by a recipe is considered magical. Additionally, when a recipe refers to *the chef*, it refers to the person who created the recipe.
+
+<center>
+
+**Recipe Save DC** = 8 + your proficiency bonus + your Wisdom modifier
+
+**Recipe Attack Modifier** = your proficiency bonus + your Wisdom modifier
+
+</center>
+
+### Culinary Arts
+Also at 1st level, you are able to use your Cook's Utensils to their fullest potential. Your proficiency bonus is doubled for any ability check you make that uses your Cook's Utensils. In addition, you can make use of your Cook's Utensils during combat. Among other items, your Cook's Utensils contain a Pan, a Ladle and 10 chef's knives of various shapes and sizes. You can equip these items as though they were weapons. They have the following statistics when wielded by a Chef:
+
+##### Chef Weapons
+| Name | Damage | Properties |
+|:----:|:----------------:| :----: |
+| Pan  | 1d8 bludgeoning | two-handed, special |
+| Chef's Knife  | 1d4 slashing | finesse, light, thrown (30/90), special |
+| Ladle | 1d4 bludgeoning | ammunition (30/120), special |
+
+***Pan:*** Wielding a pan increases your armor class by 2.
+
+***Chef's Knife:*** When you engage in two weapon fighting using a pair of chef's knives, you add your ability modifier to the damage of the second attack.
+
+***Ladle:*** While wielding a ladle, you can feed a creature a recipe from up to 30 feet away. The creature you feed must use its reaction to catch and consume the recipe.
+
+### Dextrous Digits
+At 2nd level, you can draw or stow up to two items from your Cook's Utensils or Chef's Pouch when you would normally be able to draw or stow only one.
+
+### Gourmet Senses
+Also at 2nd level, your heightened senses brought on by your culinary training grant you advantage on Wisdom and Intelligence checks that rely on smell and taste.
+
+### Chef Specialty
+When you reach 3rd level, you choose a specialty which shapes the nature of your culinary focus. Choose from Entremetier, Rotisseur and Patissier, all detailed at the end of the class description. Your choice grants you features at 3rd level, and again at 7th, 13th and 18th level. Those features include your Special Recipes.
+
+#### Special Recipes
+Each specialty has four special recipes associated with it. You learn these recipes at the level specified in the specialty description, in addition to the normal recipe you learn at that level. Once you gain access to a Special Recipe, you can create it during a long rest, but only one for each special recipe you know. These special recipes don't count against the number of recipes you can prepare during a long rest.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Extra Attack
+Beginning at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+### Flawless Cookery
+Beginning at 9th level, your Chef Weapons count as magical for the purposes of overcoming resistance and immunity to nonmagical attacks and damage. In addition, you no longer require a cookbook to create recipes, instead commiting your recipes to memory.
+
+### Fast Food
+At 10th level, you can create additional recipes during a long rest equal to half your Wisdom Modifier (rounded down, minimum 1). These recipes must be consumed within 10 minutes of completing the long rest or they expire.
+
+### Savour the Taste
+At 14th level, you have learned to extend the benefits of your recipes by digesting them at a slower rate. You can choose to spend 1 minute consuming one of your recipes, instead of its normal eating time. At the end of the minute, you gain the benefits of the recipe for an extended period of time. If the recipe would normally expire after 1 minute or less, it instead lasts for 10 minutes. Otherwise, the duration of the recipe is tripled.
+
+### Iron Stomach
+By 15th level, your gourmet diet wards your organs from harm. You gain proficiency in constitution saving throws and become immune to poison and disease.
+
+### Master Chef
+At 20th level, your mastery of the culinary arts allows you to whip up recipes with blinding speed. Once per day when you take a short rest, you can create a number of recipes equal to your Wisdom Modifier. You cannot create new recipes this way, instead replacing recipes that have been consumed since you last finished a long rest.

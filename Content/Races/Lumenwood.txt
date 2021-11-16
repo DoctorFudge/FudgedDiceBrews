@@ -1,0 +1,36 @@
+## Lumenwood
+[**Source:** *Lumenwood*](https://homebrewery.naturalcrit.com/share/1CtXIZjHmkkeVkHz9XJIZqcnsUolxD9M5l8v5YeROHWgq)
+
+*a Lumenwood peers towards the sky, feeding Kin in its luscious bed, and the Kin guide us.*
+
+-Elder Lychnis
+___
+The Lumenwood are a reclusive race who rarely interact with the outside world. Their bodies are firm and plantlike, with rootlike veins tracing over their pale blue bodies, and their symetrical hands bear six thin, nimble fingers.
+
+### Voyagers from the Void
+The origins of the Lumenwood are unknown to all but themselves, and they are not keen on sharing this particular secret. Their stilted, otherworldly movements lend credence to the common theory that they originate from beyond the stars. 
+
+Even in the race instances of living among other races, their culture is a closely guarded secret, except for one curious companion that they each bear.
+
+### A Peculiar Symbiosis
+The majority of Lumenwood settlements border obscure inland seas, surrounded by thick mists for the benefit of a peculiar benefactor known as the Kin. Each Lumenwood bears a Kin within their body, a rubbery, sluglike parasite that creeps within their flesh, oftens een dangling from their spindly arms giving the appearance of roots or tentacles.
+
+The precise relationship between the Kin and the Lumenwood is unknown, but the Lumenwood continue to cultivate the Kin in their secluded seaside villages. Perhaps the Kin and Lumenwood exchange the secrets from the deep sea and the distant stars.
+
+### Lumenwood Names
+With their bizarre, tree-like bodies, the Lumenwood defy traditional definition of gender. Each one seems to take a name purely out of preference. 
+___
+- **Lumenwood Names:** Amygdala, Catharanthus, Cercis,  Dianthus, Festuca, Helianthus, Kos, Lobularia, Miscanthus, Phlox, Rhus, Schizachyrium, Thalmus
+
+### Lumenwood Traits
+____
+- ***Ability Score Increase.*** Your Intelligence score increases by 2, and your Dexterity score increases by 1.
+- ***Age.*** Lumenwood age incredibly slowly, not reaching adulthood until they are well into their 60s. They can live for several hundred years, the very oldest lasting half a millenia.
+- ***Alignment.*** The Lumenwood are generally solitary, prefering to live and let live, and lean toward Neutral alignments.
+- ***Size.***	The Lumenwood are tall and lanky, and almost always grow between 6 and 7 feet tall. Your size is Medium. 
+- ***Speed.*** The Lumenwood move as if they have only ever been informed about gravity, with haunting, dancing movements. Despite this, your base walking speed is 30 feet.
+- ***Call Down the Stars.*** You know the *dancing lights* cantrip. When you reach 3rd level, you can cast the *jump* spell at 1st level once per day; you must finish a long rest in order to cast the spell again using this trait. When you reach 5th level, you can also cast the *augury* spell once per day; you must finish a long rest in order to cast the spell again using this trait. Intelligence is your spellcasting ability for these spells.
+- ***Kin Lash.*** Your body is host to an otherworldy invertibrate known as a Kin. In an act of mutual preservation, You can use your Kin as a natural weapon, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Intelligence modifier, instead of the bludgeoning damage normal for an unarmed strike. When attacking this way, your range increases by 5 feet.
+- ***Grant Us Eyes.*** The Lumenwood lack eyes, rendering you blind, but your Kin guides you to new discoveries. You have Blindsight out to a range of 30 feet, but cannot see beyond this range. 
+- ***The Sky and the Cosmos are One.*** Lumenwood are only just held by gravity's grasp. While falling, your rate of descent is only 60 feet per round, and all falling damage you might take is halved.
+- ***Languages.*** The Lumenwood frequently interact with those from beyond our world. As such, you can speak, read and write Common and Deep Speech. 

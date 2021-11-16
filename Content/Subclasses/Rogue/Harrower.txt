@@ -1,0 +1,34 @@
+### Harrower
+[**Source:** *Rogue: Harrower*](https://homebrewery.naturalcrit.com/share/hAMfPxeJV3EV)
+
+The Harrower is a rogue who steals from foes. But different from any common thief, a harrower steals far more personal things than trinkets. Harrowers are rogues who are capable of stealing from the mind and soul of their victims.
+
+#### Harrower Abilites
+Harrowers learn to take a great many things from their foes. The saving throw DC for each of your abilities is calculated as 8 + your Proficency bonus + your Intelligence modifier.
+
+#### Thief of Thoughts
+Starting at 3rd level, learn to subtly steal from your foes. As a bonus action you can force a creature within 5 feet of you to make an Intelligence saving throw. On a failed save, until the end of its next turn, the creatures proficiency bonus becomes 0. Additionally, until the end of your turn, your proficiency bonus increases by the proficiency bonus of the targeted creature.
+
+Once you use this feature a number of times equal to your Intelligence modifier (minimum of once), you must finish a short or long rest before you can use it again.
+
+#### Thief of Secrets
+Also at 3rd level, you gain the ability to further invade a creatures consciousness and take what you need. You can cast the detect thoughts spell without expending a spell slot and without components. Intelligence is your spellcasting ability for this spell. The casting time is 1 minute when you cast it this way.
+
+You can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest.
+
+#### Thief of Freedom
+At 9th level you begin to pillage your foes of more than just their mind and body. When you make an attack of opportunity against a creature, you can force them to make a Dexterity saving throw. On a failed save you rob them of their mobility and freedom, and the creature's speed becomes 0 for the rest of the turn. Until the end of your next turn, your movement speed increases by the creatures original movement speed.
+
+Once you use this feature, you must finish a short or long rest before you can use it again.
+
+#### Thief of Health
+Starting at 13th level, your thieving prowess improves to the point you can steal your foes well-being. When you use your Sneak Attack against a creature, you can force them to make a Constitution saving throw. On a failed save, you rob the target of its vitality, the creature suffers one level of exhaustion, and spends its action that turn regaining its composure as it feels as if it is wasting away.
+
+#### Thief of Hope
+By 17th level, there is nothing you cannot take from your foes. As an action, you can force a creature within 30 feet of you that you can see to make a Wisdom saving throw. On a failed save, if the target has an Intelligence score of 5 or higher, the creature gives up entirely, is no longer hostile to anyone, and sinks into a crushing despair from which it cannot escape without the effects of a Greater Restoration spell, a Calm Emotions spell, or by undergoing intensive psychiatric treatment.
+
+A creature who's Intelligence score is 4 or lower that fails its saving throw immediately falls prone, and is stunned for one hour, its mind unable to grasp the incredible sadness.
+
+The power to rob creatures mind of its very foundations comes at a steep price, however. When you use this feature, regardless of success or failure, you take 8d8 psychic damage which can't be reduced in any way.
+
+Once you use this feature you must finish a short or long rest before you can use it again.

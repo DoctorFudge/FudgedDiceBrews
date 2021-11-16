@@ -1,0 +1,32 @@
+### Eldritch Trailblazer
+[**Source:** *Riley's Assorted Subclass Bullshit*](https://homebrewery.naturalcrit.com/share/g7SGt-SViWEu)
+
+Those who follow the conclave of the Eldritch Trailblazer know that there are horrors beyond mortal thoughts that lurk in the shadows, waiting for their time to strike. Though they understand and subsequently stand against these threats, Eldritch Trailblazer often call upon the powers of these creatures to enhance their hunting abilities beyond the comprehension of the humanoid mind.
+
+#### Eldritch Trailblazer Magic
+Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Eldritch Trailblazer Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
+
+##### Eldritch Trailblazer Spells
+| Ranger Level | Spells |
+|:----:|:-------------|
+| 3rd  | *Dissonant Whispers* |
+| 5th  | *Crown of Madness* |
+| 9th | *Fear* |
+| 13th | *Evard's Black Tentacles* |
+| 17th | *Hold Monster* |
+
+
+#### Eldritch Bow
+Starting at the 3rd level, you call upon the unholy powers you use to enhance your hunt to further enhance your weaponry. Over the course of an hour which can be performed over a rest, you create a bond between you and a ranged weapon. Once you have bonded a weapon to yourself, you can't be disarmed of that weapon unless you are incapacitated. If it is on the same plane of existence, you can summon that weapon as a bonus action on your turn, causing it to teleport instantly to your hand.	
+
+#### Ghastly Shot
+Starting at the third level, you can wrap your foes in the influence of mind affecting aberrations with your shots. As an action, you can  make one ranged weapon attack with your Eldritch Bow. On a hit, the target takes your regular weapon damage, and must make a Wisdom saving throw against your Spell Save DC. On a fail, they take 1d8 psychic damage and are frightened until the start of your next turn. You may make this attack a number of times equal to your Wisdom modifier, and you regain all uses when you complete a long rest. The psychic damage dealt by Ghastly Shot increases to 2d8 at 11th level.
+
+#### Dominating Terror
+Starting at the 7th level, your abilities that cause your foes to fear you gain terrifying new strength, powered by the foul creatures that you study. If a creature must make a save against one of your effects that causes them to be frighteneed, they have disadvantage on the save.
+
+#### Impending Doom
+Starting at the 11th level, your Ghastly Shots become empowered further with the power of Eldritch Horrors. When you use take the attack action, you can instead replace one of the attacks with your Ghastly Shot. In addition, you regain uses of Ghastly Shot on a short rest instead of a long rest.
+
+#### Come Unto Your Maker
+Starting at the 15th level, you have gained a high amount of favor with Eldritch beings and deities, to the point that they will assist you in times of dire need. When a creatures forces you to make a saving throw, you can use your reaction to force the creature to make an Intelligence Saving Throw. Upon a fail, they take 5d12 psychic damage and are marked by you for one minute. If you attack the marked target with a Ghastly Shot, the amount of psychic damage you deal is maximized. Once you use this, you cannot use it again until you complete a short rest.

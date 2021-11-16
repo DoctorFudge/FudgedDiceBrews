@@ -1,0 +1,139 @@
+## Pony
+Ponies are an intelligent equine race of creatures living on the world of Equus. They are strong in character, and boast the most powerful and influential culture on Equus.
+
+### Natural Magic
+All ponies possess some sort of magic, how exactly it manifests is dependent on the individual and, to a lesser degree, upon their lineage. Ponies feel a strong connection to the magic that flows through Equus, a connection to the destiny of the world.
+
+### Harmony As Culture
+Ponies are quick to make friends, quick to compromise, slow to anger, and generally pure of intention and heart. They see themselves as guardians of the concept of Harmony, and strive toward that ideal. Even the most greedy and vicious pony is sure to have started down a path paved with nothing but good intentions.
+
+### Destiny Bound
+Ponies are branded by destiny on their flanks with a symbol of great significance to the individual. This ‘Cutie Mark’ is one of the hallmarks of the race, and the culture of harmony and destiny is built on the basis of this physical mark and the fate it signifies. It is the main way that magic flows through the pony, and though some struggle with their destiny, many common ponies seem superlatively talented in their chosen fields.
+
+### Quadrupedal Nature
+Ponies are quadrupedal herbivores, making their anatomy quite different from the typical humanoid adventurer, but they are no less capable. Ponies can use magic, their mouths, or their hooves to interact with the environment with just as much strength or dexterity as a humanoid. For all intents and purposes, as far as adventuring goes, you can consider ponies and equinoids the same as humanoids for spells such as hold person, or class features such as the ranger's Favored Enemy.
+
+> ### Pony Unique Traits
+> ##### Cutie Marks
+> The show gives us a wide variety of what a cutie mark might be. To best represent this in 5th edition D&D, a separate list is needed for what a pony character can take as their Destiny Bound bonus.
+> - One of the feats from the [Feats for Skills Unearthed Arcana](https://media.wizards.com/2017/dnd/downloads/UA-SkillFeats.pdf) without the +1 ASI.
+> - One Fighting Style
+> - Two cantrips from the sorcerer OR cleric lists, cantrips must be from the same list. Use Charisma as your spellcasting ability for these spells.
+> - Proficiency in one tool set, or Expertise with one you already are proficient with.
+
+### Pony Racial Traits
+You gain the following traits from your pony heritage. You are considered equinoid type, humanoid for all mechanical purposes.
+
+***Ability Score Improvement.*** Ponies are non-threatening and strong in conviction and character. Your Charisma score is increased by 1.
+
+***Age.*** Ponies generally live to about 80 years, and are adults by age 12, or whenever they receive their Cutie Mark.
+
+***Alignment.*** Ponies tend to the good alignments, but this is far from universal. Few ponies would serve evil gleefully, but many fall prey to greed or selfishness.
+
+***Size.*** You are Medium sized. Ponies are four-legged creatures, standing about 3 feet tall at the shoulder.
+
+***Speed.*** Being four-legged has advantages. Your speed is 35 feet.
+
+***Destiny Bound.*** Ponies have a destiny emblazoned as a symbol on their flank. This is known as a Cutie Mark and represents their main calling in life. See the list on this page for what a Cutie Mark can give your character. Some subraces have more options.
+
+***Fingerless.*** Ponies do not possess the dexterous digits most humanoids use for so many tasks, instead they use their mouth for most manipulation. Your mouth is considered one hand for most intents and purposes. You will be at disadvantage to use two-handed weapons or the versatile property of such weapons. You also cannot make object interactions normally involving hands if your mouth is full. Somatic spells, simple pole weapons such as the spear or quarterstaff, and simple ranged weapons may use hooves instead. For martial ranged weapons with the loading property, you use them when prone, or with the weapon braced upon something.
+
+***Languages.*** You speak Ponish and Common. Ponish is a simple language of typical equine noises. Many other races can learn to read and understand it, but few have the vocal cords, or desire, to properly speak it. Especially since ponies usually make the effort to learn the local language.
+
+***Herbivores.*** Ponies eat an almost entirely plant-based diet. Some have come to enjoy meat as a delicacy, but this is culturally frowned upon and it never agrees with their stomach. If you eat a meal with meat as a main component, you must make a Constitution saving throw, DC 15, or gain the poisoned condition for 1d4 hours.
+
+***Subraces.*** There are three common subraces of pony, and four uncommon subraces. Choose from them below.
+
+#### Earth Ponies
+Earth ponies may seem like the least magical of all ponies, and are indeed the most common, but they are every bit as attuned to the magic of Equus as any other pony. They are also by far the most adaptable subrace to any profession or climate, and are the founders and general denizens of most pony cities. They are a merry folk, but are firm believers in hard work. You gain the following traits as an earth pony.
+
+***Ability Score Improvement.*** Earth ponies are physically strong and hardy. Your Strength is increased by 2.
+
+***Adaptable.*** Earth ponies are adaptable to most situations, and have widely varied upbringings. Choose one simple or martial weapon, one artisan tool set or musical instrument and one skill to gain proficiency in.
+
+***Steady.*** Earth ponies are rock steady, even on unstable ground. You have advantage on Strength checks and saving throws to avoid being shoved, knocked prone, or grappled.
+
+***Toughness.*** Earth ponies are determined and tough. Your hit point maximum increases by 1, and it increases by 1 every time you gain a level.
+
+***Names.*** Earth ponies have long lasting family names based on professions of their ancestors. Typically, related families have related names, such as the Apple clan and the Pie clan.
+
+#### Unicorn Ponies
+Unicorns are the most obviously magical of the common types of pony, and are generally studious and reserved. They highly value education over inborn talent, and are often at the cutting edge of magical, social, and technological progress among the ponies. Canterlot, the capital of Equestria, is a unicorn city, and comes with all the glitz and glamor one could expect. You gain the following traits as a unicorn pony.
+
+***Ability Score Improvement.*** Unicorns are mentally gifted. Your Intelligence is increased by 2.
+
+***Education.*** Unicorns value education. You learn an extra language and choose a skill proficiency from Arcana, History, Nature or Religion.
+
+***Explicit Magic.*** Unicorns have an innate ability with telekinesis and other basic magic. You gain the horn hand cantrip and any one cantrip from the wizard class list. At 3rd level, you learn a 1st level wizard spell. You can cast it once per short rest or with any spell slots you have. Choose either Charisma or Intelligence, this will be the spellcasting ability for these spells.
+
+***Horn Based Casting.*** A unicorn’s horn is magically imbued. It is an arcane and divine focus and can be used as such by you. It also counts as the material component for horn hand
+
+***Names.*** Unicorn names tend to be esoteric and expressive, and are commonly high-level concepts or ideals the parents hold in high regard.
+
+#### Pegasus Ponies
+Pegasi are athletic and gifted with the freedom of flight. They value freedom, love friendly competition, and can be playful and mischievous. But like all ponies, they’re a harmonious group and never want to see a contest turn to a bitter feud. Even today, Equestria's Royal Guard has a disproportionate number of pegasi. This was not always the case; in the distant past pegasi ruled over the other tribes as despots. They possess a natural affinity for weather to the degree that in most civilized areas highly trained pegasi control it. You gain the following traits as a pegasus pony.
+
+***Ability Score Improvement.*** Pegasi are quick in the air and on hoof. Your Dexterity is increased by 1.
+
+***Magical Flight.*** Pegasi can fly with their undersized wings via innate magic. You have a flying speed of 35 feet. You must be in a space wide enough to accommodate your wingspan to fly. Your wingspan is equal to twice your height. You cannot fly if you are wearing heavy armor, armor you are not proficient in, armor not tailored to accommodate your wings, or a backpack not specially tailored to your wings.
+
+***Wing Magic.*** You can cast the cantrip gust using only somatic components; flapping your wings. Use Charisma as the spell casting ability for this spell.
+
+***Cloudwalkers.*** You treat clouds as if they were solid objects. You can sit or stand on them or push them around the sky. You can also coax rain out of any cloud, as in the spell create water
+
+***Natural Athletes.*** Pegasi are naturally good at moving themselves though space. Choose proficiency in Athletics, Acrobatics, or Stealth.
+
+***Names.*** Pegasus names tend to be descriptive and utilitarian. They are usually given after birth, unlike most ponies, often based on skills exhibited in flight school. Pegasi also have a matronymic name from birth, but rarely use it once they are assigned a personal name.
+
+#### Bat Ponies
+Bat ponies are dark looking relatives of pegasi with similar, if lesser flight capabilities and bat-like wings, ears and eyes. They have been recently discriminated against due to their association with Luna's rebellion and the destruction it caused, making them somewhat more serious than a typical pony. You gain the following traits as a bat pony.
+
+***Ability Score Improvement.*** Bat ponies are exotic and sensual. Your Charisma is increased by 1.
+
+***Keen Senses.*** Bat ponies can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray. You also have keen hearing have advantage on any Wisdom (Perception) check that relies on hearing.
+
+***Flight.*** You have a magical flying speed of 25 feet. You must be in a space wide enough to accommodate your wingspan to fly. Your wingspan is equal to twice your height. You cannot fly if you are wearing heavy or medium armor, armor you are not proficient in, armor not tailored to accommodate your wings, or a backpack not specially tailored to your wings.
+
+***Bonus Language.*** You know Undercommon.
+
+***Lesser Cloudwalking.*** You treat clouds as solid ground.
+
+#### Crystal Ponies
+Crystal ponies are denizens of the far north of Equus. They lived in a splendorous Crystal Empire that vanished long ago. They are earth pony relatives and thus share much with their more common sister subrace, but they differ greatly in appearance. Their coats and manes shine like gemstones and are almost as hard, but under that hard shell they are a broken race. Long kept in slavery, they still bear a mental scar from that ordeal.
+
+***Ability Score Improvement.*** Crystal ponies are hardy folk. Your Constitution is increased by 2.
+
+***Proficiencies.*** Crystal ponies are nearly as adaptable as their common sisters. Choose one skill, one martial or simple weapon, and one artisan tool set or musical instrument to gain proficiency in.
+
+***Hardened Coat.*** Crystal ponies have natural armor, hard as stone. This natural armor lets you calculate your AC as 13 + your Dexterity modifier when you're wearing no armor. You can use a shield with this and gain the benefits of both.
+
+***Toughness.*** Crystal Ponies are just as tough as earth ponies. Your hit point maximum increases by 1, and it increases by 1 each time you gain a level.
+
+#### Sea Ponies
+Sea ponies are a smaller subrace of ponies that have adapted to an amphibious lifestyle, almost like seals or otters, though depending on their exact ancestry they might resemble more aquatic species like sharks. Despite their name, they are most commonly found in rivers and lakes, though some tribes do live in sheltered gulfs or bays of Equus's seas. Their piscivorous diet is a bit of a culture shock to other ponies, and they share their more predatory outlook with the hypercarnivore griffons.
+
+***Ability Score Improvement.*** Sea ponies are lithe and graceful, in water and out. Your Dexterity is increased by 2.
+
+***Size.*** Sea ponies stand only about 2 feet tall at the shoulder. Your size is Small.
+
+***Speed.*** Sea ponies are most at home in the water. You have a land speed of only 30 feet, but a swimming speed of 60 feet.
+
+***Amphibious.*** Sea ponies can breathe underwater by innate magic. You don’t possess gills, but water that you breathe becomes air in their lungs, and is expelled again as water.
+
+***Swift Swimmers.*** While in water, you can add your proficiency bonus to Strength (Athletics) and Dexterity (Acrobatics) checks. This stacks if you're already proficient.
+
+***Omnivores.*** Unlike most ponies, sea ponies are adapted to eating and hunting fish. Due to this you do not suffer the typical herbivore penalty for eating fish and you gain a Bite natural melee weapon that does 1d8 piercing damage and grapples the target on a successful hit, as long as the target is of Medium size or smaller. You can only grapple one creature at a time with this ability. This counts as an unarmed strike.
+
+#### Zebras
+Hailing from the inner deserts of Equus, the zebra are a mysterious subrace that seems to be related to ponies, though no one is sure. Certainly, they are further removed than the others from the family tree. They are a secretive and somewhat primitive race, and few travel far from their homeland, making them an exotic sight in Equestria. Still, they have some form of Cutie Mark, and thus must be ponies, though their serious demeanor betrays no relation.
+
+***Ability Score Improvement.*** Zebras are world weary and suspicious. Your Wisdom is increased by 2.
+
+***Wilderness Hardened.*** Life in the desert is tough and demands knowledge of poisons and potions for any who live there. You are not affected by hot climates and you gain proficiency in Survival. You speak Zebrican, instead of Ponish. Zebrican is a sing-song language, that while spoken with the same sounds as Ponish, is totally unrelated.
+
+***Alchemical Adaptation.*** While many zebras are masters of crafting potions, nearly all are attuned to their use. Potions you drink last twice as long, and you get advantage on Constitution saving throws against poisons.
+
+***Experimental Brews.*** You gain proficiency with the herbalism kit, and in addition to crafting potions of healing, you can also spend 10gp and 8 hours of downtime to craft various brews including the following:
+- *Salve of Restoration.* After drinking this potion and getting 1d8 days of rest, the imbiber gains the benefit of the spell lesser restoration as if cast at 2nd level.
+- *Tincture of Owl Vision.* For 1 hour, the imbiber can see in dim light as if it were bright out to 60 feet, and darkness as if it were dim light. They can't discern color in darkness, only shades of grey. They also have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when they, the target of their attack, or whatever they are trying to perceive is in direct sunlight.
+- *Traveler's Tonic.* For 1 day, you count as a size larger for carrying capacity, and the weight you can lift, push or pull. If you stop traveling at any point in the day, you gain a level of exhaustion.

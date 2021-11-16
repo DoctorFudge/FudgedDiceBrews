@@ -1,0 +1,28 @@
+### Surgeon
+The surgeon fully dedicates themselves to the healing of others, taking their study of medicine to the limits of accepted medicine, and beyond. Not everyone understands their brilliance, to the point Where it is often more practical to keep their more advanced experiments a secret.
+
+#### Expert Practice
+At 3rd level you can now add your intelligence modifier to the result of any healing ability you perform.
+
+#### Surgery
+When you reach 7th level you have gained the confidence to delve deeper into the bodies of your patients. You operate on an injured subject, curing them of any ailments, both mundane and magical The target regains a number of hit points equal to their maximum. Any hit points the target gains over their maximum become temporary hit points. This takes 2 full hours from start to finish.
+
+#### Transplant
+By 11th level you have begun experimenting With new methods to improve life. You attempt to transplant an organ from one creature to another in order to provide a benefit. The organ must be from a creature that is either living or has died Within the last 24 hours. Examples of this can be the eyes of a person With darkvision, or the stomach of a creature immune to poison. You can also replace a limb With one from a similar creature.
+
+This process takes 2 hours from start to finish and takes 2 days to recover from. To be successful you must pass a Medicine check using the chart below, your DM determines the difficulty of the operation.
+
+| Difficulty | DC | Example |
+|-|:-:|-|
+| Simple | DC15 | Human Leg |
+| Moderate | DC20 | Elf Eyes |
+| Complex | DC25 | Dragon Stomach |
+| Insane | DC30 | Beholder Stalk |
+
+#### Bedside Manner
+By 15th level you have discovered a number of easy steps to maximize the recovery of an injured individual When your party takes a short rest Whenever they expend a hit die they automatically recover the maximum it allows.
+
+#### Servant of Flesh
+At 18th level you have reached the apex of the medical profession and have found a way to create life rather than just preserve it. You now have the ability to create a Flesh Golem from the bodies of the recently deceased. To do this you must operate on a body that has been deceased no longer than 24 hours before the beginning of the procedure. The operation takes an additional 12 hours that cannot be interrupted, otherwise it fails and the body is destroyed.
+
+The golem appears as a normal living humanoid and requires a perception check DC17 to determine its true nature. The golem cannot talk but understands you and follows your instructions. Due to the amount of time and energy needed to create and maintain golerns you can never have more than two at one time. Ask your DM for the creature's stats.

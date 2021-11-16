@@ -1,0 +1,62 @@
+### Oath of Sunlight
+[**Source:** *Paladin: Oath of Sunlight*](https://homebrewery.naturalcrit.com/share/140P71V_opCQEbpPJwyRV5fAEYGjy9v6eDI1LWgefiNzz)
+
+The sun is easily compared to a heavenly father; bringing light, warmth, and nourishment to the world, but also blinding, burning and destroying those who do not respect it. Paladins who take the Oath of Sunlight understand this, and strive to bring this light to the darkest reaches of the world, and to protect those as the sun provides for those who bask in it.
+
+#### Tenets of Sunlight
+
+***The Sun Rises.*** The sun rises into the sky each day, without fail, spreading its brilliance across the world. So should you never falter in your tasks you are sworn to.
+
+***Praise the Sun.*** Beneath the oppressing heat of the midday, only the righteous will survive. Be the brilliance in the world to banish the shadows.
+
+***The Sun Sets.*** As the sun sets each night to grant the world rest, so to must you give pause to your fury and righteousness to mete out mercy to those who deserve it.
+
+##### Oath of Sunlight Spells
+| Class Level | Spell |
+|:----:|:-------------|
+| 3rd  | <em>Burning Hands, Color Spray</em> |
+| 5th  | <em>Calm Emotions, Flaming Sphere</em> |
+| 9th  | <em>Daylight, Lightning Arrow</em> |
+| 13th | <em>Fire Shield, Sickening Radiance</em> |
+| 17th | <em>Dawn, Immolation</em> |
+
+#### Channel Divinity
+When you take this oath at 3rd level, you gain the following two Channel Divinity options.
+
+***Sunlight Blade.*** As an action, you may expend use your Channel Divinity to channel radiant sunlight into your weapon. For the next minute, whatever weapon you are holding when you cast the spell deals radiant damage plus your Charisma modifier instead of its normal damage.
+
+Additionally, this luminous blade emits bright light in a 5-foot radius and dim light for an additional 5 feet. This light is sunlight.
+
+***Unfaltering Radiance.*** As an action you can use your Channel Divinity and create an aura of gentle, soothing sunlight. Any number of creatures that you can see within 30 feet gain advantage on rolls against being charmed or frightened, as well as advantage on Constitution saving throws.
+
+#### Aura of Brilliance
+Starting at 7th level, your resplendent light manifests as an aura surrounding you. The aura extends 10 feet from you in every direction, but not through total cover. When a creature other than you within this aura is attacked by a creature, you can use your reaction to force the attacking creature to make a Constitution saving throw. On a failed save, the attacker is blinded until the end of its turn. 
+
+In addition, creatures you choose within this aura, along with everything they are wearing or carrying are unharmed by the effects of extreme cold.
+
+At 18th level, the range of this aura increases to 30 feet.
+
+#### Sunlight Spears
+Beginning at 15th level you gain the ability to hone your radiance into shining, crackling bolts of pure light, and hurl a flurry of these spears to conquer impossible adversaries. As an action you can make a number of ranged spell attacks equal to your Charisma modifier with a range of 120 feet. On a hit, each spear deals 1d8 radiant damage, and causes additional effects based on how many strike a creature.
+
+| Hits | Effects |
+|:----:|:--------:|
+| 1+ | No additional effect |
+| 2+ | The target is knocked prone |
+| 3+ | The target must succeed on a Constitution saving throw or be incapacitated and unable to move until the end of your next turn |
+| 4+ | The target loses all damage resistances until the end of your next turn |
+| 5+ | The target's immunities become resistances until the end of your next turn |
+
+Once you use this feature, you must finish a long rest before you can do so again.
+
+#### Soothing Sunlight
+Also at 15th level, you learn a new way to assist your allies with your radiance. As an action, you may expend your entire remaining Lay on Hands pool to create a mote of soft, calming warmth. The mote fits within a 5 foot square but does not occupy it, and hovers a few feet off the ground. Each creature within 10 feet of this mote instantly regains hit points equal to your remaining Lay on Hands, divided by the number of creatures within range.
+
+#### Heir of the Sun
+By 20th level you have become as the morning sun, come to vanquish the horrible night. As an action, you can assume a wondrous form of gross incandescence. For the next minute, you gain the following benefits:
+- You can instantly manifest your Sunlight Blade without the use of your Channel Divinity. (no action required)
+- Whenever you deal damage to a creature, it is blinded until the start of its next turn.
+- You gain immunity to fire damage.
+- You emit an aura of blistering heat. The aura extends 30 feet from you in every direction, but not through total cover. At the end of each of your turns, roll a d20. On a 10 or above, flammable objects that are not being worn or carried within this range catch fire, and metallic objects become heated as if under the effects of a *Heat Metal* spell until removed for at least a full round.
+
+Once you use this feature, you must finish a long rest before you can do so again.

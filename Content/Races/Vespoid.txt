@@ -1,0 +1,63 @@
+## Vespoid
+[**Source:** *Insectopia Compendium*](https://drive.google.com/file/d/1q1vg_rYGxEu98eP8PFLNBYvKv-jQCSeG/view)
+
+Vespoids are the mightiest force in the Royal Hexagon, their queens ruling over vast territories and many bugs pledge their loyalty to them. Vespoids are hardworking and loyal individuals. They are formidable worker and the best of them take up high positions in whatever field they are specialised in. The Warriors of the Vespoid - Soildiers are respected and feared, as they are well trained and would fight to the death to protect their queens.
+
+### Regal Stripes
+The common Vespoid resembles a bee, with translucent wings, yellow to orange and black stripes, slightly furred chitin and beautiful compound eyes. For most Insectoids, Vespoids are the epiphany of beauty and it is no wonder that even the lowliest Vespoid is treated as royalty. These radiant Insectoids stand up to 5 to 6 feet tall, while Bumbles even reach heights of 8 feet or more.
+
+### Royal and Cultured
+The Royal Hexagon is one of the most powerful empires in Insectopia. Here six Vespoid queens rule from the safety of their giant trees and guide the world in the direction they see fit. Their Vespoid armies are the strongest and biggest over all, and Royal Hexagon soldiers are respected by their allies and feared by their enemies. They are highly trained and educated and they'll make sure you know about how much better they are than you. One of the biggest flaws of the Vespoids is their hubris and vanity, as they are raised with the mindset of being better than most of the other races.
+
+### Metropolises High Above
+Vespoid Hivecities are found in the crowns of giant trees, hanging from branches, build from special kinds of wax. Only Vespoids and ambassadors of other kingdoms are allowed access to the Hivecities, since Vespoids won't let common folk into their sanctums. From their high position they send out their armies and leaders to rule over the cities they conquered on the ground.
+
+### Vespoid Traits
+Vespoid show great differences within their own race, but these traits are common for all of them.
+
+***Ability Score Increase.*** Your Dexterity score increases by 1.
+
+***Age.*** Vespoids tend to live up to 120 years of age.
+
+***Alignment.*** Most Vespoids live under the strict laws of their queen and tend to be lawful. They strive to do the best work they can, being honest and loyal to their crown, thus they are often good aligned. Wasps are the black sheeps of the Vespoid family, as they are more aggressive and tend to use violence more quickly to solve their problems. Wasps are often evil and neutral or chaotic.
+
+***Size.*** Vespoids vary greatly in size and bulk, but are generally from 5 feet to 6 feet tall. Your size is Medium.
+
+***Speed.*** You base walking speed is 30 feet. You have a flying speed of 30 feet.
+
+***Languages.*** You can speak, read and write Common, Insectcommon, and Vespoid. Vespoid is a language which is spoken with the use of pheremones and gestures, and as such is a mainly spoken language. Additionally, one requires wings to speak the language fluently.
+
+***Subrace.*** There are three subraces of Vespoids and they vary greatly in their appearance and abilities: Bees, Bumbles and Wasps. Choose one of these subraces.
+
+#### Bee Traits
+Bees make up the largest part of the Vespoid population. They make up the diligent workforce and soldiers of the Royal Hexagon. Bees are wise individual and show a lot of care towards their allies. They can use pheromones to telepathically communicate with each other and work best in a swarm.
+
+***Ability Score Increase.*** Your Wisdom score increases by 2.
+
+***Pheromonal Telepathy.*** You can create a telepathic link to one willing creature, using your pheromones. Until your next long rest, you can talk to the creature telepathically, while you are within 120 feet of them. You can't use this ability again until you finish a long rest.
+
+***Swarm Tactics.*** While you are within 5 feet of an ally, you gain a +1 bonus to your AC
+
+***Soothing Honey.*** You can produce one portion of honey, which can be ingested to heal 1d4 + 1 hit points. You can't use this ability again until you finish a long rest.
+
+#### Bumble Traits
+Bumbles are the powerhouses of the Vespoids. Much larger and bulkier than their bee cousins, Bumbles are often employed in the military or protect the queens as bodyguards. They are also very adept in working with wax and paper, making them excelent forgers of papers and documents.
+
+***Ability Score Increase.*** Your Constitution score increases by 2.
+
+***Slow Fliers.*** Bumbles are slower than other Vespoids, because of their bulky stature. Your flying speed is 20 feet.
+
+***Powerful Build.*** Bumbles are bigger than other Vespoids, ranging from 8 to 9 feet. Your are considered to be one size larger when determining carrying capacity.
+
+***Waxbuilders.*** Bumbles are masters of sculpting and using wax in all sorts of different ways. You gain proficiency with Forgery tools. Additionally, you can use 1 portion of wax to cover yourself with. It takes you 10 minutes to apply the wax. After application, you gain resistance to cold, fire and lightning damage for one hour. You can't use this ability again until you finish a long rest.
+
+#### Wasp Traits
+Long ago one part of the Vespoid swarm splitted off and left for the Dark Woods. Those Vespoids later became what is now known as Wasps. Wasps vary greatly from their Vespoid brethren, only their yellow and black stripes signaling some kind of relation between them. They have smooth chitin plates instead of fur, they are slender and tall and their feature seems more jagged. They have a poisonous spike they use to attack. Most wasps are live solidarly or in small families. They are cunning and intelligent creatures, though they are also quite aggressive, making them dangerous for other bugs. Only few criminal organizations, like the Black Leaf, employ Wasps, due to their uncontrolable temper.
+
+***Ability Score Increase.*** Your Dexterity and Intelligence scores increase by 1.
+
+***Poison Adepts.*** You gain proficiency with the Poisoner's Kit.
+
+***Deadly Stinger.*** Your have a stinger that holds a dangerous poison. Your stinger is a natural weapon. When you make a melee weapon attack with your stinger and hit a creature, you deal 3 (1d4) points of piercing damage and the creature must make a Constitution saving throw, against a DC equal to 10 + your Constitution modifier. On a failed save, the creature is poisoned until cured. You can only poison one creature per long rest.
+
+***Hidden Flight.*** You gain advantage on Dexterity (Stealth) checks made while flying.

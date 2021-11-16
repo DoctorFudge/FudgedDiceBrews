@@ -1,0 +1,29 @@
+### Exotic Wonder
+You've trained in an exotic dancing style which incorporates weapons into your routines. You mix martial knowledge with graceful steps to create an awe inspiring dance which devastates your foes.
+
+#### Flourishing Swing
+Beginning at 3rd level, your melee weapon attacks with finesse weapons activate your Flourish feature.
+
+#### Fighting Style
+Beginning at the 3rd level, You adopt a particular style of fighting as your specialty. Choose one of the following options. You can't take a Fighting Style option more than once, even if you later get to choose again.
+
+##### Defense
+While you are wearing armor, you gain a +1 bonus to AC.
+
+##### Dueling
+When you are wielding a melee weapon in one hand and no other weapons, you gain a +2 bonus to damage rolls with that weapon.
+
+##### Fleet Foot
+Your movement speed increases by 5ft.
+
+##### Two-Weapon Fighting
+When you engage in two-weapon fighting, you can add your ability modifier to the damage of the second attack.
+
+#### Double Step
+Beginning at the 6th level, whenever you use the Attack action, you may spend 1 Dazzling Dance charge to make an extra melee weapon attack.
+
+#### Flawless Flow
+Beginning at the 11th level, you may make a melee weapon attack as a bonus action after casting a spell.
+
+#### Lamia Bite
+Beginning at the 15th level, you may spend 4 Dazzling Dance charges prior to making a weapon attack. Doing so increases the critical hit range of your attack rolls for the remainder of the turn, lowering the threshold by 4.

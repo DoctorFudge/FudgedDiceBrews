@@ -1,0 +1,79 @@
+### Catastrophe
+[**Source:** *Sorcerous Origin: Catastrophe*](https://homebrewery.naturalcrit.com/share/aeODUyOSMCZC)
+
+Your birth was foretold by numerous omens; the aligning of foul stars, a sudden natural disaster, or the fall of a kingdom. When your sorcerous powers awoke, they were both great and terrible. You were born to bring destruction.
+
+##### Catastrophe Quirks
+| 1d6 | Quirk |
+|:----:|:-------------|
+| 1 | You have the insatiable need to smash something when you're the slightest bit mad. |
+| 2 | Your limbs are covered in cracks, from which an unsettling light pours out. |
+| 3 | Gentle tremors can be felt through the earth when your feet first touch the ground each day. |
+| 4 | Occasionally when you speak, violent winds billow around you. |
+| 5 | You are sometimes searing hot to the touch. |
+| 6 | You rarely have visions of a coming calamity, but they are always wrong. |
+
+#### Catastrophic Magic
+At 1st level, your birthright of desolation manifests in destructive magic.
+
+You learn additional spells when you reach certain levels in this class, as shown on the Catastrophe Spells table. Each of these spells counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know.
+
+##### Catastrophe Spells
+| Class Level | Feature |
+|:----:|:-------------|
+| 1st  | *cause fear, earth tremor* |
+| 3rd  | *flaming sphere, pyrotechnics* |
+| 5th | *erupting earth, tidal wave*|
+| 7th | *ice storm, sickening radiance* |
+| 9th | *contagion, wrath of nature* |
+
+#### Ruinous Powers
+Starting at 1st level, you awaken to your destiny of destruction, which grants your magic an extra potency.
+
+Each time you cast a spell, you gain one level of Overcharge and a +1 bonus to damage rolls with spells equal to your Overcharge counter. This bonus can increase to a limit equal to half your Sorcerer level rounded up + your Charisma modifier, however, for every 5 points of Overcharge, your speed is decreased by 5 feet.
+
+When this limit is reached, the surging powers within you are suddenly and explosively unleashed. Each burst effects a 15 foot sphere centered on yourself. All creatures within the sphere including yourself take damage, but only creatures other than yourself suffer from any Conditions.
+
+The effects of this release vary depending on the damage type of the spell cast, as seen in the following table, and each uses your Spell Save DC, and deals damage equal to a special die called a Ruinous Die + your Overcharge level.
+
+Your Ruinous Die changes when you reach certain levels in this class. The die becomes a d8 at 5th level, a d10 at 10th level, and a d12 at 15th level.
+
+| Damage Type | Effect | Save |
+|:----:|:-------------| --: |
+| Acid      | A sizzling mist swirls around you. Gain a -1 penalty to weapon attacks and AC. This penalty increases by -1 along with your Ruinous Die. This damage can repaired with the Mending cantrip, and lasts for 1 minute. | Dexterity |
+| Cold      | Chilling mists cloud around you. Become Restrained until the end of their next turn.| Constitution |
+| Fire      | A wall of flame briefly surrounds you. Each creature and yourself catch fire, and until a creature takes an action to douse the fire, they take fire damage equal to your Ruinous Die at the start of each of their turns. These flames persist for 1 minute.  | Dexterity |
+| Force     | Thrumming magic surges around you. Creatures besides yourself are knocked back 20 feet and fall prone. | Strength |
+| Lightning | A lighting bolt streaks out of the sky centered on yourself. Become paralyzed until the start of their next turn. | Constitution |
+| Necrotic  | Black energy pulses from your body. On a failed save, creatures deal only half damage with weapon attacks that use Strength for 1 minute. | Constitution |
+| Poison    | Noxious fluids swirl around you. Becomes Poisoned. | Constitution |
+| Psychic   | Violent mental energy lash out around you. Become Frightened of you until the end of their next turn. | Intelligence |
+| Radiant   | Brilliant divine light flares from you. Become blinded until the end of their next turn. | Wisdom
+| Thunder   | Harsh shrieking sound pounds around you. Become deafened for 1 minute. | Constitution |
+
+Immediately after this effect, you are overwhelmed and fall unconscious for 1 minute or until shaken awake by another creature, and your Overcharge level becomes zero.
+
+Should you not wish to release your stored power, before using your movement, you may choose to use your action to release some of the built up energy within you. Roll your Ruinous Die, and reduce the Overcharge by the number rolled. When you choose to do this, your movement speed is reduced by 15, and you may not cast any spells that turn.
+
+Alternatively, if your Overcharge level is 5 or higher, you may choose to activate this feature when you cast a spell. Your Overcharge level returns to zero when you finish a short or long rest.
+
+#### Barely Contained
+Beginning at 6th level your hunger for destruction makes itself readily apparent. You gain advantage on all Intimidation (Charisma) checks as your magic constantly lashes out, striking fear into those who would oppose you.
+
+#### Succumb to Disaster
+You have gained enough control over the surging forces within you that starting at 14th level, when you unleash your Overcharge, you no longer fall unconscious.
+
+Additionally, when you unleash your Overchage you becoming swathed in shining multicolored flames as magic suffuses itself throughout your body, burning yourself as kindling to empower your spells.
+
+For the next minute, you radiate bright light for 30 feet, and dim light for an additional 30 feet. Your Overchage bonus remains at its maximum for the duration, and at the end of each of your turns you and any creature within 5 feet of you takes 1d8 Necrotic damage which cannot be reduced. The flames extinguish early if you are knocked unconscious. In either case, after the duration your Overcharge is reduced to zero.
+
+Once you use this feature, you cannot use it again until you finish a long rest.
+
+#### Obliterate
+From 18th level on, reality itself is no longer safe from your destructive powers. As an action you may spend between 5 and 8 sorcery points, and choose a space within 60 feet. Using the unrelenting force of your magic, you puncture the very fabric of the universe, creating a Sphere of Annihilation which exists only briefly before collapsing in on itself, creating a wave of force drawing everything not fixed in place toward it.
+
+When the sphere is destroyed, all creatures within 30 feet of its original location must make. both a Constitution and a Strength saving throw. Creatures that fail the Strength saving throw drop whatever they were holding which is immediately pulled to the original location of the sphere.
+
+Creatures that fail the Constitution saving throw take 1d10 force damage for each sorcery point spent, and are pulled in a straight line toward the center of the sphere, ending in an unoccupied space as close to the center as possible (even if that space is in the air). On a successful save, the creature takes half as much damage and isn't pulled.
+
+At 20th level, the limit of sorcery points you may spend increases to 10. Once you use this feature, you cannot use it again until you finish a long rest.

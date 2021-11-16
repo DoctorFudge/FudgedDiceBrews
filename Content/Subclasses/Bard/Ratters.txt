@@ -1,0 +1,20 @@
+### College of Ratters
+[**Source:** *A Treasure of Tales and Legends*](https://drive.google.com/file/d/1ghK_gGGfGMXSQImUGZc8dlxXd-YwC1D0/view)
+
+Bards of the College of Ratters are trained to lure crowds around as if they were a pack of lemmings. With their enchanting songs, they can save a city from a plague of a thousand rats, but can just as easily lure ungrateful mortals to their demise.
+
+#### Vermin's Company
+When you take this class at 3rd level, you gain an uncanny ability to communicate with small animals. You can cast the *speak with animals* and *beast bond* spells at will, without expending a spell slot. When you cast one of these spells this way, it only works with rats and beasts of CR 1/8 or less.
+
+#### Ushering Song
+At 3rd level, you are able to use your music to guide others in droves. As an action, you can perform your Ushering Song for up to one minute by expending and rolling a Bardic Inspiration die. A number of creatures of your choice within 60 feet equal to the roll of that die must succeed on a Wisdom saving throw or be charmed by you until either the song ends, they can no longer hear the song, or you or your companions do anything harmful to it.
+
+Creatures charmed by this feature can not willingly move away from you. If a charmed creature starts their turn more than 30 feet away from you, they must use their movement to move towards you until they are within 30 feet of you.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+#### Grasp of the Allured
+Starting 6th level, you are able to channel your magic through creatures you have beguiled. When you cast a spell with a range of "touch," you can deliver the spell through a creature that is charmed by you as if it had cast the spell, as long as the charmed creature is within 100ft. A creature under the effects of your *beast bond* spell is considered charmed by you for the purposes of this feature.
+
+#### Cruel Enchantment
+Starting at 14th level, your manipulative magic can force creatures to act against their own sense of self-preservation. When a creature that you charmed that you can see would lose the charmed condition due to it being harmed by you or an ally, you can use your reaction to reinforce your enchanting magic. The creature must succeed a Wisdom saving throw or continue to be charmed by the effect as if no harm had been done to it.

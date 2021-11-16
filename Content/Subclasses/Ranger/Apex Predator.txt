@@ -1,0 +1,35 @@
+### Apex Predator
+[**Source:** *The Complete Martialist Handbook*](https://drive.google.com/file/d/1oGWtJWYIL63dUACooColfDVhX6MllXji/view)
+
+You may not have been raised by beasts but you certainly act like it. An Apex Predator uses all weapons at their disposal, lashing out with their teeth and nails at any enemy foolish enough to fight them in melee. Their instinctual affinity for animals gives rise to spells that grant them control over beasts. Their emulation of predators gives them a heightened capacity for violence and intimidation.
+
+#### Apex Predator Magic
+Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Apex Predator Spells table. The spell counts as a ranger spell for you, but it doesn't count against the number of ranger spells you know.
+
+##### Apex Predator Spells
+| Ranger Level | Spells |
+| :-: | :-- |
+| 3rd | <em>speak with animals</em> |
+| 5th | <em>animal messenger</em> |
+| 9th | <em>conjure animals</em> |
+| 13th | <em>dominate beast</em> |
+| 17th | <em>hold monster</em> |
+
+#### Savage Resilience
+At 3rd level, your hit point maximum increases by 6 hit points. Whenever you gain a ranger level, your hit point maximum increases by an additional 2 hit points.
+
+#### Tooth and Nail
+At 3rd level, you learn to fight with your teeth and nails, which you can use to make unarmed strikes. If you hit, you deal piercing damage equal to 1d4 + your Strength modifier if using your bite or slashing damage equal to 1d4 + your Strength modifier if using your nails. This damage is in place of the bludgeoning damage normal for unarmed strikes.
+
+Additionally, you can use a bonus action on your turn to make one unarmed strike.
+
+Starting at 7th level, your unarmed strikes count as magical for the purpose of overcoming resistance and immunity to nonmagical attacks and damage.
+
+#### Ferocious Mien
+At 7th level, you gain proficiency in Intimidation if you don't already have it. Your proficiency bonus is doubled for any ability check you make that uses this proficiency.
+
+#### Bloodthirsty Assault
+At 11th level, when you deal damage with a weapon or unarmed strike and roll a 1 on a damage die, you can reroll the die and must use the new roll, even if the new roll is a 1.
+
+#### Predator's Counter
+At 15th level, when a creature within 5 feet of you attacks you, you can use your reaction to lash out at them before they strike you. When you do, make an unarmed strike against the creature before determining whether its attack hits you. If your attack hits, the attack roll against you has disadvantage.

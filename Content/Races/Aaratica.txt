@@ -1,0 +1,62 @@
+## Aaratica
+[**Source:** *Old Gus' Errata: Beastfolk*](https://drive.google.com/file/d/12PE02rLX8fM072__CFZJhVvMeKOcsvIo/view)
+
+### Adventurers on the Wing
+Aaratica are diminutive cousins to the aaracockra, but rather than resemble raptors or other birds of prey, they resemble other types of birds. Most aaratica fear or revere their larger brethren, and will take caution to avoid them should they encounter them in the skies. Aaratica vary wildly, but most often live in areas where others of their kind are plentiful, or might migrate with their family, tribe or clan. In addition to flight, some are capable swimmers, and others eschew flight altogether, preferring the brisk waters of the open ocean.
+
+### Aaratica Racial Traits
+
+***Ability Scores.*** Your Dexterity score increases by 2.
+
+***Age.*** Aaratica reach maturity by age 3 and precious few live longer than 20 years.
+
+***Alignment.*** Most aaratica are good, and take a carefree attitude when it comes to law and chaos.
+
+***Language.*** You can speak, read, and write Common and Aarakocra.
+
+***Subrace.*** Choose one of the following subraces: Haan- Hi, Paar-Dal, or Pii-Vin.
+
+#### Haan-Hi
+Haan-hii resemble ducks, geese, pelicans, boobies or other waterfowl. They have a reputation for both passion and formality, and do not suffer fools gladly.
+
+A flock might include up to three dozen members of an extended family of haan-hi. They migrate with seasons, enjoying traditional meals that can only be enjoyed on their long journeys spent chasing warm weather around the world. They settle in places with a permanently temperate climate to rear their young until they are able to fly, and then most resume their ceaseless journeying.
+
+***Ability Scores.*** Your Intelligence score increases by 1.
+
+***Size.*** Haan-hi average 3 feet tall. They have fatty, strong bodies that weigh between 25 and 35 pounds. Your size is Small.
+
+***Speed.*** You have a base walking speed of 20 feet and a flying speed of 30 feet. You can’t fly while wearing medium or heavy armor.
+
+***Natural Swimmer.*** You succeed checks you make to swim automatically if you aren’t wearing medium or heavy armor.
+
+***Compass Sense.*** If you have an unobstructed view of the sky, you know which way is north.
+
+***Well-Traveled.*** You learn two additional languages of your choice.
+
+#### Paar-Dal
+Par-Dal resemble cockatoos, sparrows, robins, canaries, nightingales, or other birds with especially bright plumage and loud voices. They tend to be braggarts, and perhaps even a bit selfish, and have developed a reputation for being superficial gossips and chatterboxes.
+
+Many paar-dal are master craftsmen, and they dedicate a great deal of time and energy to the quality and finery of their home, collecting objects of great beauty to arrange and keep on display.
+
+Almost all paar-dal families spend countless hours singing, dancing and teaching their children to sing, and it is considered a great shame among them to not be able to sing well and have a wide repertoire of traditional songs. Others extend this love of music and learn to play a musical instrument to supplement their musical prowess.
+
+***Ability Scores.*** Your Charisma score increases by 1.
+
+***Size.*** Haan-hi average 3 feet tall. They have lean, lightweight bodies that weigh between 20 and 30 pounds. Your size is Small.
+
+***Speed.*** You have base walking speed of 20 feet and a flying speed of 35 feet. You can’t fly while wearing medium or heavy armor.
+
+***Birdsong.*** You are proficient in the Performance skill and one musical instrument or artisan’s tool of your choice.
+
+#### Pii-Vin
+Pii-vin resemble enormous, hardy, squat penguins. They prefer to eat fresh, raw fish, and prefer to stay along coastlines in colder climates. Most pii-vin children spend as much time in the water as they do on land.
+
+***Ability Scores.*** Your Constitution score increases by 1.
+
+***Speed.*** You have a base walking speed of 25 feet and a swimming speed of 35 feet.
+
+***Size.*** Pii-Vin average 4 feet tall. They have fatty, heavy bodies that weigh between 50 and 80 pounds. Your size is Small.
+
+***Arctic Living.*** You can hold your breath for 15 minutes and you have resistance to cold damage. Difficult terrain due to snow and ice does not impede your movement.
+
+***Aquatic Mastery.*** You know the *shape water<sup>XGE</sup>* cantrip. Once you reach 3rd level, you can cast the *ice knife<sup>XGE</sup>* spell as a 2nd-level spell; you must finish a long rest in order to cast the spell again using this trait. Once you reach 5th level, you can also cast the *locate animals or plants* spell if you can see a body of water; you must finish a long rest in order to cast the spell again using this trait. Wisdom is your spellcasting ability for these spells.

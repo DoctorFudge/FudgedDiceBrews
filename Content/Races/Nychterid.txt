@@ -1,0 +1,40 @@
+## Nychterid
+[**Source:** *Old Gus' Errata: Beastfolk*](https://drive.google.com/file/d/12PE02rLX8fM072__CFZJhVvMeKOcsvIo/view)
+
+### Nocturnal Sharers
+Nychterids are a race of sapient batfolk. They make their colonies in caves or large hollowed-out trees, preferring to live in forests or jungles. Most nychterid colonies have two locations, and like bats, make an annual migration between the two to stay with favorable weather and the availability of their preferred foods.
+
+Nychterids are famously private as individuals, except within others of their colony. Most nychterids live in a commune of 2-6 other nychterids. No matter what a nychterid’s other vocation in life, within their communes, they share everything: living quarters, domestic labor, food, sexual partners and child-rearing responsibilities. Nychterids derive their surnames from their commune, which are chosen among its members, and may change when a new member is accepted into it. Nychterid children are given the surname of their birth commune until they join another.
+
+This desire for relative insulation from others suits most nychterids just fine, as their resemblance to bats inspires a seemingly primal fear in folk, and they are often discriminated against, being thought to be harbingers of plague or disease, or the agents of vampires. This is, of course, ridiculous, and most nychterids maintain a diet of fruit and insects.
+
+Everyone in nychterid society takes their turn in the kitchen, so most nychterids are gourmands. If a one has invited you to their home and prepared for you a meal, you know you have made a friend for life.
+
+### Nychterid Racial Traits
+***Ability Scores.*** Your Wisdom score increases by 2, and your Dexterity score increases by 1.
+
+***Age.*** Nychterids reach physical maturity at the age of 15, and can live up to 80 years.
+
+***Alignment.*** Nychterids are usually of neutral alignments.
+
+***Size.*** Nychterids are between 3 and 4 feet tall, and weigh an average of 35 pounds. Your size is Small.
+
+***Speed.*** You have a base walking speed of 20 feet.
+
+***Flight.*** Your leathery wings grant you a flying speed of 30 feet. If you can attain a firm grasp, you can suspend your body from your feet without the need to make an ability check. You can’t fly or suspend yourself if you are wearing medium or heavy armor.
+
+***Languages.*** You can speak, read and write Common and Nychterid. Nychterid is a chittering language, involving many sounds at higher frequencies than most folk can hear.
+
+***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+***Echolocation.*** As an action, you emit a short burst of high-pitched noise, audible up to 60 feet away, but perceptible only to bats, other nychterids, creatures with a keen hearing trait, or creatures with a passive Perception of 17 or higher. Until the end of your next turn, you have a blindsense to a distance of 30 feet.
+
+***Keen Hearing.*** You have advantage on checks you make with the Wisdom (Perception) or Intelligence (Investigation) skills that rely on hearing.
+
+***Nychterid Resilience.*** You have advantage on saving throws against disease.
+
+***Speak with Bats.*** You can communicate with bats as if you shared a language.
+
+***Sunlight Sensitivity.*** You have disadvantage on attack rolls and on Wisdom (Perception) checks that rely on sight when you, the target of your attack, or whatever you are trying to perceive is in direct sunlight.
+
+***Gourmand.*** You are proficient with cook’s utensils.

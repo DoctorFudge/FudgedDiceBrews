@@ -1,0 +1,53 @@
+### The Creed of the Departed
+Though it is much more than just that, one phenomenon is most often associated with necromancy by the common folk: raising the dead. This field is exactly what the Creed of the Departed focuses on. Whether one undead Ogre or a horde of skeletons, those who join the ranks of this creed rely on the assistance of the lifeless to accomplish their goals. Necromancers within this Creed focus on improving their Undead Minions above all else. Since they usually pour some of their own lifeforce into the undead they create, they tend to be more frail and defenseless than other types of casters, relying instead on their creations to safeguard them.
+
+### Undead Minion
+Starting at 2nd level, if you have at least one Necromancer hit die remaining, you can use an action to touch the corpse of any dead creature that is of one of the following types: aberration, beast, humanoid, monstrosity, plant, or undead. The creature can be no bigger than 'medium' size, and its CR can be no higher than your Necromancer level. When doing so, you will attempt to raise it as an an Undead Minion.
+
+You expend a Necromancer hit die (roll and add your constitution modifier): the creature's current and maximum health becomes equal to the result plus twice your Necromancer level.
+
+Though the creature retains the proficiencies and any passive traits it had in life, it now counts as Undead and gains immunity to poison damage. Additionally, a newly created minion also takes the following penalties:
+- It loses 4 points in each ability score (to a minimum of 1)
+- It cannot cast spells, or use abilities that summon other creatures
+- It loses any multi-attack ability it may have had
+- If it had abilities with a limited amount of uses per day, each of these abilities can only be used once per day.
+- It loses 10 feet of its walk, swim, and climbing speed (to a minimum of 5 feet).
+- If the creature possesses a flying speed, it is halved, and cannot be used to ascend more than 5 feet off the ground
+
+While the Undead Minion is within a 1 mile distance of you, you can telepathically give it orders that it will follow to the best of its ability. At will, you can command any Undead Minion under your control to return to you, even if it is further than 1 mile away from you. In combat, an Undead Minion takes turns on its own initiative, during which you can control it. It regards you and those not hostile to you as allies.
+
+You only control the physical body of an Undead Minion: it retains the memory, personality and consciousness it had in life, but is forced to act as you command it to. While it can talk to you in a hostile manner, taunt you, and even lie to you, it is unable to thwart your plans directly by performing actions such as giving away your position to nearby enemies, revealing you to be a Necromancer to others, or leading you into a trap the Undead Minion itself is aware exists.
+
+An Undead Minion that drops to 0 hit points instantly crumbles into dust. Otherwise, it lasts until the end of your next long rest, at which point you can choose to spend a number of hit dice equal to half the creature's CR (rounded down) to extend its lifespan until the end of your next long rest. Hit dice spent this way are lost, and no health is added to your minions' pool. If you are unable or unwilling to spend the required hit dice, your Undead Minion crumbles into dust. You cannot control more than one Undead Minion at a time: attempting to raise a second Undead Minion while already controlling one will cause the first one to crumble into dust. Additionally, at any moment, you can willingly decide to destroy your Undead Minion.
+
+Finally, whenever you transfer hit points to an Undead Minion using the Vitality Shift feature, the amount of hit points the Undead Minion receives is doubled.
+
+If a target corpse cannot be raised (due to effects such as the Gentle Repose spell), the hit die is lost and the ability fails, though you are made aware of the fact that the corpse cannot be raised. You may use this ability to revive beings that have been dead for an unlimited amount of time, but at the DM's discretion, additional restrictions may be imposed on the resulting Undead Minion if your target has been dead for longer than a week.
+
+#### Conduit Walkers
+Also starting at 2nd level, whenever you cast a spell with the range of touch, your Undead Minion can deliver the spell as if it had cast it. Your Undead Minion must be within 100 feet of you and within 5 feet of your target, and it must use its reaction and to deliver the spell when you cast it.
+
+If your Undead Minion is not within 5 feet of your target, it may use its movement to get in range as part of the same reaction, though it may provoke attacks of opportunity while doing so. If the spell requires an attack roll, the Undead Minion uses one of its melee attack actions for the roll.
+
+#### Shepherd's Resolve
+At 6th level, you improve your abilities to maintain your Undead Minions in a more solid condition. As such, when determining an Undead Minion's hit points upon raising it, you now expend two Necromancer hit dice, instead of one, adding both results to the Minion's health pool. However, you are no longer able to raise an Undead Minion if you only have one hit die remaining.
+
+Additionally, your Undead Minions no longer take the 10 feet land, sea and climbing speed penalty.
+
+#### Animator Style
+At 10th level, you gain one of the following features of your choice:
+
+##### Adept Awakener
+Undead Minions raised by you may now make up to two attacks per turn, provided that the original creature had the 'multiattack' property. Additionally, your Undead Minions no longer take a penalty to their ability scores when you raise them. Finally, when determining an Undead Minion's hit points upon raising it, you may now choose to expend three hit dice instead of two.
+
+##### Giant Rouser
+You are now able to create Undead Minions out of corpses of large and huge-sized creatures, as well as out of creatures of the celestial, dragon, fey, fiend and giant types. Additionally, the maximum CR of creatures you can raise becomes equal to your Necromancer level plus your wisdom modifer. Finally, your Undead Minions can now ascend and descend freely while flying, though their original flight speed is still halved.
+
+##### Undead Magnate
+Your Undead Minions now last indefinitely and you can control a number of Undead Minions equal to your proficiency bonus before newer ones cause older ones to collapse, but you no longer add twice your Necromancer level to the result of the expended hit dice when determining a Undead Minion's hit points upon raising it. The Conduit Walkers feature may be used to deliver touch spells through any one of your Undead Minions.
+
+#### Still Life
+At 14th level, you become so adept at raising undead that you gain a certain amount of control over how they appear. When raising an Undead Minion or when casting the *Animate Dead* or *Create Undead* spells, you are able to dictate the looks of the creatures you create as if they were casting a *Disguise Self* spell on themselves. When a creature is disguised in this way, the changes made are permanent rather than being bound to a one hour duration.
+
+#### Legendary Animator
+At 20th level, you may pick an additional Animator Style from the 'Animator Style' archetype feature.

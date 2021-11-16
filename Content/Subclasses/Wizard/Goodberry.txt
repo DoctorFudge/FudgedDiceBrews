@@ -1,0 +1,19 @@
+### School of the Goodberry
+[**Source:** *Praise Be The Goodberry! Compendium*](https://www.gmbinder.com/share/-LZeyRZtzKZLu2cjiglX)
+
+Wizards of this school seek to gather knowledge about the Great Goodberry. An extraplanar deity that spreads its roots and branches across multiple universes. Those who gather this knowledge have discovered that the magic of the Great Goodberry can adapt and evolve to the environment it is in.
+
+#### Goodberry Knowledge
+When you choose this school at 2nd level, your study of the Goodbery has granted you arcane knowledge of its power. Whenever you gain a new level you learn all spells that have the word *Goodberry* in them so long as they are of a level you can cast.
+
+#### Goodberry Tapestry
+Additionally, at 2nd level you learn to weave the magic of the Goodberry into your spells. The saving throw of wizard spells cast by you increases by 1.
+
+#### Natural Infusion
+At 6th level, you infuse your being with the energies of the Great Goodberry. You cannot be poisoned and you have advantage on saving throws you make against being paralyzed, restrained, or petrified.
+
+#### Natural Understanding
+At 10th level, you can spend 1 minute meditating on the natural energies of the land and learn the location of all living creatures and any locations of importance within 1 mile of you.
+
+#### Secrets Unlocked
+At 14th level, you achieve your goal of understanding the Great Goodberry. You can cast any spell with the word *Goodberry* of 3rd level or lower at its base level without expending a spell slot.

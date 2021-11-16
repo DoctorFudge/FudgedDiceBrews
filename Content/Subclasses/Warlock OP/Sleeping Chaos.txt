@@ -1,0 +1,49 @@
+### The Sleeping Chaos
+[**Source:** *Otherworldly Patron: Sleeping Chaos*](https://homebrewery.naturalcrit.com/share/c8GUW3BgxyEL)
+
+Your patron is a being from outside the ordered universe, an amorphous blight of nethermost confusion which blasphemes and bubbles at the center of all infinity. For whatever reason, in its fitful dreams, this being has reached out to you, or perhaps you to it. There can be no definite description of your patron because everybody envisions it differently and they are always changing. According to some accounts, it is a huge sentient black hole, and to others perhaps it is a titanic insect with countless legs, and to others still it may simply appear as a horrible bestial, mouthless face.
+
+#### Expanded Spell List
+The Sleeping Chaos lets you choose from an expanded list of spells when you learn a warlock spell. The following spells are added to the warlock spell list for you.
+
+##### Sleeping Chaos Spells
+| Spell Level | Spells |
+|:----:|:-------------|
+| 1st  | *Dissonant Whispers, Sleep* |
+| 2nd  | *Moonbeam, Silence* |
+| 3rd | *Catnap, Feign Death* |
+| 4th | *Gravity Sinkhole, Phantasmal Killer* |
+| 5th | *Creation, Modify Memory* |
+
+#### Dream Traveler
+Starting at 1st level, when you take a long rest, rather than sleeping you enter a deep trance. In this state, your body appears inert, but you project your consciousness into a faint, ghostly form which is nearly invisible. Creatures may detect your projection with a Wisdom (Perception) check, the DC of which is determined by your spell save DC. Creatures with darkvision have advantage on this check
+
+This dream projection is identical to you, and you can move it up to 30 feet away from your body. It is intangible, and cannot cast spells, or interact with creatures and objects in the real world. You see and hear using its senses as if you were wherever it is standing, as if you were wide awake.
+
+Your dream projection can communicate with a sleeping creature, without having to know its language, however it may only speak simple phrases a sentence or two in length.
+
+#### Nightmare Enterprise
+Also at 1st level, you learn to reach into the dreams of a creature and call forth their deepest nightmares. As an action, choose a creature within 30 feet. The target instantly becomes Frightened of you for a number of rounds equal to your Charisma modifier.
+
+Your DM may decide that a creature is sufficiently fearless, or that it is incapable of dreaming, in which case this ability fails.
+
+Once you use this feature, you can't use it again until you finish a long rest. At 10th level, you may use it again when you finish a short or long rest.
+
+#### Just a Nightmare
+Beginning at 6th level your journey into the world of dreams has made it difficult to discern what is and isn't reality. When you would take damage, you can use your reaction to awaken into a new reality, and instead take half as much Psychic damage rounded down as you would have taken. If the attack was a critical hit, it instead becomes a normal hit.
+
+Once you use this feature, you can't use it again until you finish a short or long rest.
+
+#### Aspect of the Unconscious
+Starting at 10th level, you can touch a creature of size Medium or smaller and force them to make a Charisma saving throw. On a failed save, you call forth the creature's shadow self, a manifestation of its unconscious self doubt and fears. This shadow self is identical to the original creature, having the same stats but with one-forth of its total maximum hit points. The shadow will only attack the creature it originated from, and vanishes if that creature falls to 0 hit points. While it is within 5 feet of the creature that it spawned from, that creature has disadvantage on attack rolls on creatures besides the shadow. Attacks from the shadow do not cause sleeping creatures to wake up.
+
+Once you use this feature, you can't use it again until you finish a long rest.
+
+#### A Dream of Teeth and Nothing Else
+Starting at 14th level, you can condemn a creature into an indescribable nightmare, sending it hurtling across the blackest reaches of the dream world.
+
+As an action, choose a creature that you can see within 60 feet of you. It must make a Wisdom saving throw against your warlock spell save DC. On a failed save, the creature immediately falls asleep, as if under the effects of a *Sleep* spell.
+
+For the next minute, the creature is subjected to horrific visions of your choice, taking 3d8 Psychic damage, and repeating the save at the end of each of its turns. This psychic damage does not cause the creature to wake. At the end of the duration or on a success, the effect ends. After this most horrific experience, the creature becomes Frightened of you until the start of your next turn.
+
+You must finish a short or long rest before you can use this feature again.

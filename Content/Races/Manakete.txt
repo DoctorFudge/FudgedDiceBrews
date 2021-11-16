@@ -1,0 +1,76 @@
+## Manakete
+[**Source:** *Manakete*](https://docs.google.com/document/d/1cb9R0WEjg363VdRHQVyMzaSJn7iEcn-gvjXTBhY8OFM/edit)
+
+### Manakete Racial Traits
+***Ability Score Increase.*** Your Strength score by 2, and your Intelligence or Charisma scores by 1.
+
+***Age.*** You mature far faster than humans, attaining the size and development of a 10-year-old human child by the age of 7, reaching physical adulthood in your third century and live for a minimum of a millennium.
+
+***Alignment.*** Manaketes are typically Neutral Good but can be found in any spectrum of the Good and Neutral alignments, often representing a variety of circumstances in their upbringing. Shadow Manaketes are corrupted by the rituals that made them, causing an innate tendency toward evil.
+
+***Size.*** Manaketes are generally 4 to well over 7 feet tall, some leaning to the shorter end while others stand on the taller end. Your size is Medium.
+
+***Speed.*** Your base walking speed is 30 feet.
+
+***Language.*** Common, Draconic, and one language of your choice
+
+***Darkvision.*** You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can't discern color in darkness, only shades of gray.
+
+***Draconic Transformation.*** As a bonus action, you can assume your true dragon form. This transformation lasts for 1 minute until you die, or until you revert to your normal appearance as a bonus action. When you transform, your size increases to large, giving you advantage on grapple attempts and a flying speed equal to your walking speed. You also gain benefits that depend on your draconic subrace, described below.
+
+While transformed you cannot use weapons besides your claws and cannot cast any spells. Once you shift back, you can’t do so again until you finish a short or long rest.
+
+***Breath Weapon.*** While transformed, you can use your action to exhale destructive energy in the form of a breath weapon, dealing damage type based on your subrace. All creatures in the area of your breath weapon must make a Dex Save with a DC of 8 + Cha + Prof. A creature takes 2d8 damage on a failed save, and half as much damage on a successful one. The damage increases to 3d8 at the 6th level, 4d8 at 11th, and 5d8 at the 16th level. You can use your breath weapon a number of times equal to your Charisma modifier before a long rest.
+
+### Draconic Transformations
+
+#### Divine Dragon
+***Light Breath.*** Your breath weapon does radiant damage in a line 5 feet wide and 30 feet long. 
+
+***Radiant Judgement.*** Your breath weapon ignores resistance as well as spells dealing radiant damage cast in your humanoid form. 
+
+***Light in the Dark.*** Your vision can easily cut through the darkness. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can see normally in magical darkness within the same range.
+
+***Divine Resistance.*** You have resistance to radiant damage and advantages against being blinded, but gain vulnerability to necrotic damage in both forms. 
+
+#### Fire Dragon
+***Fire Breath.*** Your breath weapon does fire damage in a line 5 feet wide and 30 feet long. 
+
+***Forged Weapons.*** You have claws as natural weapons dealing 1d4 + Strength slashing damage when reverted and 1d8 + Strength when transformed. 
+
+***Flared Resistance.*** You have resistance to fire damage and advantages against being charmed, but you gain vulnerability to cold damage in both forms. Your darkvision is in shades of red instead of grey.
+
+#### Ice Dragon
+***Frost Breath.*** Your breath weapon does cold damage in a line 5 feet wide and 30 feet long. 
+
+***Arctic Aura.*** Whenever a hostile target ends their turn 5 feet away from you, they take cold damage equal to half your level. 
+
+***Frozen Resistance.*** You have resistance to cold damage and advantages against being petrified, but vulnerability to fire damage in both forms. 
+
+#### Earth Dragon
+***Unearthly Roar.*** Your breath weapon does force damage in a 15-foot cone. 
+
+***Land Walker.*** You can climb and move across difficult terrain made of any substance without expending extra movement in both forms. 
+
+***Terra Resistance.*** You have resistance to lightning damage and advantages against being knocked prone, but vulnerability to water and cold damage in both forms. 
+
+#### Sea Serpent
+***Storm Breath.*** Your breath weapon does thunder damage in a 15-foot cone.
+
+***Wave Rider.*** You gain a swimming speed of 30 feet and gain the ability to breathe underwater in both forms. 
+
+***Aquatic Resistance.*** You have resistance to thunder damage and advantages against being stunned, but gain vulnerability to lightning damage in both forms. Your darkvision is in shades of blue instead of grey
+
+#### Shadow Dragon
+***Ether Breath.*** Your breath weapon does necrotic damage in a 15-foot cone. 
+
+***Piercing Gaze.*** You've adapted to the dark of the void. You can see in dim light within 60 feet of you as if it were bright light, and in darkness as if it were dim light. You can see normally in magical darkness within the same range.
+
+***Destructive Resistance.*** Your being has been corrupted against outside influence. You have resistance to necrotic damage and advantages against being poisoned and blinded, but gain vulnerability to radiant damage in both forms.
+
+#### Wind Wyvern
+***Typhoon Breath.*** Your breath weapon does lightning damage in a line 5 feet wide and 30 feet long. 
+
+***Fleet of Flight.*** Your base flying speed increases to 45 feet and you gain a flying and hover speed equal to your walking speed when transformed (humanoid). This replaces your walking speed. 
+
+***Skyline Resistance.*** You have resistance to lightning damage and advantages against being deafened, but you gain vulnerability to cold damage in both forms.

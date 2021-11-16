@@ -1,0 +1,39 @@
+### Directive: Infiltrate
+Those seeking truth often find it to be an elusive thing, easily hidden by those who stand to profit from lies and misconceptions. The truth can be either power or liberation, and those questing after it may be revolutionaries or information-brokers, wielding knowledge as a weapon for their own ends.
+
+Some augmented quest after the hidden realities of their world, hiding unseen amongst the powerful and influential. These Infiltrators hunt secrets as precious treasure, constantly in search of a quarry worth their pursuit.
+
+What knowledge do you hope to uncover? What do you intend to do with what you discover? Do you believe you can you truly trust anyone, or is every companion a betrayal waiting to happen?
+
+#### Directive: Infiltrate Spells
+Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Directive: Infiltrate Spells table. The spell counts as an augmented spell for you, but it doesn't count against the number of augmented spells you know.
+
+##### Directive: Infiltrate Spells
+| Augmented Level | Directive Spells |
+| :-: | :-- |
+| 3rd | <em>disguise self</em> |
+| 5th | <em>calm emotions</em> |
+| 9th | <em>nondetection</em> |
+| 13th | <em>compulsion</em> |
+| 17th | <em>dominate person</em> |
+
+#### Adaptive Camouflage
+Also at 3rd level, you are able to project an arcane field that blends you with your environment. You can use a bonus action and begin concentrating, as if on a spell, to cause yourself and anything you are wearing or carrying to become invisible. This effect lasts for up to one hour, until you lose concentration, use another bonus action to end it, or attack or cast a spell.
+
+Once you use this feature, you require a short or long rest before you can use it again. When you reach 17th level, you can use this feature twice before requiring a rest to refresh its uses.
+
+#### Mind Dive
+Beginning at 6th level, you can use your magical talents to access the memories of a creature you touch. Holding a specific question in your mind, you touch a creature, which must make a Charisma saving throw against your spell save DC. If you started your current turn invisible with the creature unaware of your presence, or if the creature is unconscious, the creature has disadvantage on this saving throw. This touch can be made as part of an attack, including a ranged attack if it is made with a weapon integrated into your battlefist. Creatures immune to charm effects, that do not have a language, or that have an Intelligence score of less than 6 automatically succeed on this saving throw.
+
+If the creature fails this saving throw, the creature generates an answer to the question in your mind, which is truthful to the best of the creature's knowledge. This answer appears in your mind, unspoken. The creature is not aware that this has taken place, only that they have been touched.
+
+Each time the creature fails this saving throw, you can choose to select an additional question and force the creature to repeat the saving throw (with the same advantage or disadvantage as the original), answering the question on a failed save. You can continue to do so until you have asked a number of questions equal to your Intelligence modifier (minimum 1).
+
+If the creature succeeds a saving throw imposed by this ability, they immediately know you attempted to steal knowledge from them, as well as any questions you asked, including the question you are currently asking. Depending on the creature, this may cause them to become hostile.
+
+Once you use this ability, you cannot use it again until you take a short or long rest.
+
+#### Feedback
+Starting at 14th level, the first time on your turn when a creature fails a saving throw against your Mind Dive, you can choose to disrupt its neural processes, creating a damaging loop of psionic energy. If you do, the creature suffers 4d8 psychic damage and is stunned until the beginning of your next turn. A creature affected by this feedback knows that you have intentionally damaged it.
+
+Additionally, you can use your Mind Dive feature twice before requiring a rest to refresh its uses.

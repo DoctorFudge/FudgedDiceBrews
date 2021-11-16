@@ -1,0 +1,36 @@
+## Elkin
+[**Source:** *Old Gus' Errata: Beastfolk*](https://drive.google.com/file/d/12PE02rLX8fM072__CFZJhVvMeKOcsvIo/view)
+
+### Life on the Hoof
+The moosefolk live primarily in the forests and upon the tundras of sub-temperate climates.
+
+Elkin children grow rapidly, reaching adulthood in just a few years. Men and women alike have antlers on their heads, which vary from tribe to tribe and might resemble a deer or moose. They are tall and lean, and their short life cycles make parenting and reading their young in the traditions of their kind a top priority for any elkin tribe. Each winter, elkin shed their antlers and grow a new pair the following spring. In autumn, the rites of adulthood are performed for those who have come of age, where young and old compete with one another in great wrestling public matches of hoof and horn where the tribe’s grievances are aired and resolved in ritual combat if necessary.
+
+Elkin are cautious, and use their innate magical abilities both to find food and to avoid predators and enemies. It is not uncommon to travel their lands and never see an elkin should they choose to avoid you. Most elkin tribes despise the shash tribe of the ursine, and consider them pests to be expelled from their lands.
+
+### Elkin Racial Traits
+***Ability Scores.*** Your Wisdom score increases by 2, and your Strength score increases by 1.
+
+***Age.*** Elkin mature at 5 years, and live up to 40 years.
+
+***Alignment.*** As people who follow the rhythm of nature and see themselves as its caretakers, elkin are typically neutral.
+
+***Size.*** Elkin stand between 6 and 8 feet tall, and weigh 250-350 pounds. Their antlers can raise up to 18 inches above their heads, so they often have to be careful when entering doorways or other low overhangs. Your size is Medium.
+
+***Speed.*** You have a base walking speed of 30 feet.
+
+***Languages.*** You can speak, read and write Common and Elkin.
+
+***Poor Vision.*** You have disadvantage on checks you make with the Wisdom (Perception) skill that rely on sight.
+
+***Keen Hearing.*** You have advantage on checks you make with the Wisdom (Perception) or Intelligence (Investigation) skills that rely on hearing.
+
+***Hooved Kick.*** Your hooves are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal bludgeoning damage equal to 1d4 + your Strength modifier.
+
+***Antler Riposte.*** You can use your antlers defensively. When a creature makes a melee attack against you, you can use your reaction to parry the attack with your antlers, raising your Armor Class by an amount equal to your proficiency bonus. Once you use this trait, you can’t use it again until you finish a long rest.
+
+***Speech of Beast and Leaf.*** You have the ability to communicate in a limited manner with beasts and plants. They can understand the meaning of your words, though you have no special ability to understand them in return. You have advantage on all Charisma checks you make to influence them.
+
+***Natural Adept.*** You are proficient in the Nature skill. If you gain this proficiency from your class, you can add double your proficiency bonus to checks made with it.
+
+***Elkin Magic.*** You know the *druidcraft* cantrip, and you can cast the *detect poison and disease* spell once with this trait, and regain the ability to do so when you complete a long rest. When you reach 3rd level, you can cast the *locate animals or plants* spell once with this trait, and regain the ability to do so when you complete a long rest. Wisdom is your spellcasting ability for these spells.

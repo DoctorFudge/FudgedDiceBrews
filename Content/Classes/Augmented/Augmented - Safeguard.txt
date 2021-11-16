@@ -1,0 +1,33 @@
+### Directive: Safeguard
+Oftentimes individuals find themselves without the power to protect what they care about, be it their loved ones, their property, their ideals, or the precepts of a specific nation or organization. When an individual turns to augmentation to provide the answer for this protection, they often take on this directive, a solemn vow to safeguard that which they care for.
+
+Known as Safeguards, these augmented can easily be either defenders of the weak or merely of their own interests. What do you defend, and why is it important to you? What events drove you to dedicate yourself to this purpose? And, importantly, what do you hope to achieve by standing against forces unknowable as a steadfast protector?
+
+#### Directive: Safeguard Spells
+Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Directive: Safeguard Spells table. The spell counts as an augmented spell for you, but it doesn't count against the number of augmented spells you know.
+
+##### Directive: Safeguard Spells
+| Augmented Level | Directive Spells |
+| :-: | :-- |
+| 3rd | <em>shield</em> |
+| 5th | <em>warding bond</em> |
+| 9th | <em>counterspell</em> |
+| 13th | <em>death ward</em> |
+| 17th | <em>wall of force</em> |
+
+#### Deploy Barriers
+Also at 3rd level, you can use a bonus action to dispense up to two 5 foot square, 1 inch thick, barriers of force at any locations you choose within 60 feet of you. These barriers are affixed in place magically, and may be oriented vertically, horizontally, or at an angle (forming a ramp). When you create them, you choose whether each of these barriers is translucent or opaque.
+
+A barrier created by this feature has an AC equal to your spell save DC, and hit points equal to your Intelligence modifier + twice your augmented level. Barriers last for up to one minute, or until they are reduced to 0 hit points.
+
+At 6th level, you can deploy up to 3 barriers with this ability. This increases to 4 barriers at 10th level, and 5 barriers at 14th. Once you use this feature, you require a short or long rest to use it again.
+
+#### Shield Matrix
+Beginning at 6th level, your body reflexively produces a shield of crackling force in response to danger. When you roll initiative, you gain a shield that has maximum hit points equal to your Intelligence modifier + half your augmented level. The shield is initially conjured with full hit points.
+
+Whenever you take damage, the shield takes the damage instead. If this damage reduces the shield to 0 hit points, you take any remaining damage. Once activated, this shield lasts for 1 minute, even if it has no hit points remaining.
+
+While this shield is active and at less hit points than maximum, you can use a bonus action and expend a spell slot to replenish the shield. Doing so causes the shield to regain hit points equal to your Intelligence modifier + twice the level of the spell slot used, which can not exceed the shield's maximum hit points.
+
+#### Manipulate Barriers
+Starting at 14th level, you can use a bonus action to move a single deployed 5 foot square of barrier that you can see a distance of up to your Intelligence modifier × 5 feet in a straight line. Each creature the barrier collides with during this movement must succeed a Strength saving throw against your spell save DC or take 3d6 force damage and be pushed along with the barrier to the end of its movement.

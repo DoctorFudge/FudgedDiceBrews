@@ -1,0 +1,20 @@
+### Bushmaster
+[**Source:** *Praise Be The Goodberry! Compendium*](https://www.gmbinder.com/share/-LZeyRZtzKZLu2cjiglX)
+
+Rogues of this sort use the natural magic that the Goodberry gives access to create facades with which they use to hide. Historically they often create rootless bushes that they can use to hide in.
+
+#### Bushcraft
+At 3rd level, you learn how to create bushes from materials you have on hand. You can spend 1 minute crafting a bush that is medium sized. You can don and doff this bush as an action. You can only have one bush crafted at a time and can only craft one bush per long rest.
+
+While you have your bush equipped you have advantage on stealth checks and you are indistinguishable from an ordinary plant. The bush has 30 hit points and disintegrates once those hit points are gone. If your bush takes fire damage it is instantly destroyed.
+
+Additionally when you take damage while you have a bush equipped you only take half damage.
+
+#### In The Bushes
+At 9th level, your time spent disguising as nature has granted you insight into nature itself. You have advantage on Nature and Survival checks and you can use Dexterity when making those checks rather than Intelligence or Wisdom.
+
+#### Blend In
+At 13th level, whenever you first equip a bush you have advantage on your next attack roll.
+
+#### Bush Mastery
+At 17th level, you've honed your craft and are now an expert in bush related stealth. You can now make two bushes and the hit points for your bushes becomes 50.

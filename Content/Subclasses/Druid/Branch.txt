@@ -1,0 +1,37 @@
+### Circle of the Branch
+[**Source:** *The Complete Devout Handbook*](https://drive.google.com/file/d/1TEY7P4FVWD_-Ky5YrrK92__yYOwTY3w-/view)
+
+The Circle of the Branch is made up of sages and warriors who believe that the greatest wisdom is found in the stillness of plants, especially long-lived trees. Seeking to achieve a modicum of their groves' enlightenment, these druids magically fuse bark from sacred trees into their flesh, assuming arboreal forms that they use to protect and learn from the ancient forests of the multiverse. Often referred to as Barksleeves, these defenders emphasize violence only in defense of self or of primeval giant, preferring the stillness of peace and mutual growth to the tragedy of cutting down something of great potential.
+
+#### Sylvan Warrior
+When you join this circle at 2nd level, you learn the *shillelagh* cantrip. If you already know it, you instead learn a different druid cantrip of your choice.
+
+Additionally, as a bonus action, you can grow thick bark on your forearms and shins. While you have this bark, your Armor Class can't be less than 13 + your Dexterity modifier, and you can use your bark-covered limbs as a natural weapon. You are proficient with this natural weapon, which is a melee weapon that deals 1d4 bludgeoning damage. Your natural weapon is a valid target for the *shillelagh cantrip*. You can revert your forearms and shins to their normal forms as an action on your turn.
+
+#### Primeval Guardian
+Starting at 2nd level, you can root yourself into the ground and assume a tree warrior form. As part of casting *shillelagh* targeting your natural weapon, you can expend a use of your Wild Shape to magically assume this form, which lasts for a number of minutes equal to half your druid level. You then revert to your normal form unless you expend another use of your Wild Shape. The duration ends early, causing you to automatically revert, if you fall unconscious, drop to 0 hit points, die, or use your bonus action to end it.
+
+You undergo the following changes while in your tree warrior form; otherwise, all of your statistics remain the same:
+- Your size becomes Large, unless it was already larger.
+- Any speed you have becomes 5 feet, unless the speed was lower.
+- Your reach increases to 15 feet.
+- Your natural weapon attacks deal an extra 1d6 damage.
+- You gain temporary hit points at the start of each of your turns equal to half your druid level. When you revert to your normal form, you lose any temporary hit points you have from it.
+
+#### Greenspeaker
+At 6th level, you gain the ability to converse with plants. Plants can understand your speech, and you gain the ability to decipher their rustles and various pollen and oil excretions. Most plants lack the intelligence to convey or understand sophisticated concepts, but a friendly plant can relay what has happened near it recently, or where any edible fruits and vegetables could possibly be found within 1 mile of it. This ability doesn't grant you friendship with plants, though you can combine this ability with gifts or favors as you would any nonplayer character to encourage friendliness.
+
+#### Extra Attack
+Also starting at 6th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+#### Ironwood Warrior
+At 10th level, the bark you grow on your limbs becomes thicker and more resilient. While you have bark from your Sylvan Warrior, your Armor Class can't be less than 15 + your Dexterity modifier, and bludgeoning, piercing, and slashing damage that you take from nonmagical weapons is reduced by 3.
+
+#### Primeval Champion
+At 14th level, you can spend two uses of your Wild Shape when assuming your tree warrior form to flood it with primordial power. If you do, you gain the following additional benefits while in your tree warrior form for the duration:
+- Your size becomes Huge, unless it was already larger. If there isn't enough room to accommodate the full size of your form, you become the maximum size possible in the space available.
+- Your reach increases to 30 feet.
+- Your natural weapon attacks deal a further 1d6 damage, to a total of 2d6 extra damage.
+- When an ally starts its turn within 30 feet of you, it gains temporary hit points equal to half your druid level. A creature other than you must be below half its hit point maximum to benefit from this ability, and this ability has no effect on undead and constructs.
+- The ground within 30 feet of you is difficult terrain for your enemies.
+- Your weapon attacks deal double damage to objects and structures.

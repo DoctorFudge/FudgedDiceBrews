@@ -1,0 +1,37 @@
+### Explorer
+Adepts who choose the Explorer pursuit exemplify adaptability. Whether plumbing the depths of a dungeon, making contact with an unknown people, or leaping into battle, the Explorer comes armed with the worldly wisdom to best handle the situation.
+
+#### Bonus Proficiency
+When you choose this pursuit at 2nd level, you gain a proficiency with cartographer's tools, navigator's tools, land vehicles, and water vehicles. You also team one additional language of yom choice.
+
+#### Jack of All Trades
+Also at 2nd level, you can add half your proficiency bonus, rounded down, to any ability check you make that doesn't already include your proficiency bonus.
+
+#### Adaptable
+At 5th level, you can recalibrate and refocus your skills to adapt to the task and environment at hand. When you complete a short or long rest, you can gain the benefits of one adaptation of your choice, which are listed under "Adaptations" below.
+
+At 9th level you can choose two adaptations to benefit from at once, and at 18th level you can choose three.
+
+#### Rapid Adjustment
+At 13th level, you can use a bonus action to switch out any one active adaptation for an inactive one. You can't use this feature again until you finish a short rest.
+
+#### Adaptions
+The adaptations are presented in alphabetical order.
+
+***Dogged.*** When exhausted, you suffer the effects as if your level of exhaustion is one lower. You suffer no negative effects from level 1 exhaustion. Additionally, you cannot be stunned.
+
+***Dungeon Raider.*** You have advantage on Wisdom (Perception) and Intelligence (Investigation) checks to find traps or hidden doors, and you can perfectly recall any path you have travelled since you activated this adaptation.
+
+***Expedition Master.*** When you activate this adaptation, choose one type of terrain: arctic, coast, desert, forest, grassland, mountain, swamp, the linderdark, or the sea. While travelling for an hour or more in this terrain you gain the following benefits: difficult terrain doesn't slow your group's travel, your group can't become lost except by magical means, even when you are engaged in another activity while traveling (such as foraging, navigating, or tracking), you remain alert to danger, and when you forage you find twice as much food as you normally would.
+
+***Nimble.*** Your movement speed increases by 10 her and you can Dash as a bonus action. Moving through nonmagical difficult terrain costs you no extra movement.
+
+***Hardy.*** You can ignore the effects of poison and disease. If you become poisoned or diseased and this adaptation is deactivated before the condition is removed, you immediately begin to suffer its effects.
+
+***Linguist.*** You can communicate and understand simple ideas and concepts when speaking to creatures that have an Intelligence score of 8 or higher even if you do not share a language. You can also glean basic information from written samples of languages you do not know The DM may have you roll an Intelligence check if you attempt to read, communicate, or understand more complex ideas in an unknown language. Rough and Rumble. Your unarmed strikes deal an additional 1d4 damage and you can add your full proficiency bonus to Strength (Athletics) and Dexterity (Acrobatics) checks to initiate, maintain, or escape a grapple.
+
+***Tough and Tumble.*** You can add your full proficiency bonus to Strength (Athletics) and Dexterity (Acrobatics) checks that are not contested by another creature.
+
+***Trail Medic.*** As an action, you can expend one charge of a healer's kit to grant a willing creature temporary hit points equal to half your adept level rounded down. If the creature has less than half of its maximum hit points remaining, you can grant a number of temporary hit points equal to your full adept level. Temporary hit points gained in this way are lost when finishing a short or long rest.
+
+***Vigilant.*** You can't be surprised while you are conscious and you can choose to apply your Intelligence modifier instead of your Dexterity modifier to initiative rolls.

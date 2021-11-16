@@ -1,0 +1,45 @@
+### Theurgy
+[**Source:** *The Complete Arcanist Handbook*](https://drive.google.com/file/d/1ucl27lI0dMWi0BDsolHBB-ZgW4CSPhdP/view)
+
+You have a deep faith in the transcendent nature of the multiverse. Although you may honor a particular god or goddess, you recognize them as manifestations of a divinity that suffuses all reality. You feel most in touch with this divinity when working magic, which you view as a sacred act between the fabric of existence and all living beings. Theurgists are often at odds with their more orthodox colleagues from other traditions who prefer studying the laws of reality to meditating on its inscrutable nature.
+
+#### Arcane Apostle
+Beginning when you select this tradition at 2nd level, you can use a holy symbol (found in chapter 5 of the *Player’s Handbook*) as a spellcasting focus for your wizard spells. In addition, cleric cantrips count as wizard spells for you and when you prepare spells you can choose any combination of wizard spells in your spellbook and spells from the cleric spell list. Your wizard level determines the maximum spell level of cleric spells you can prepare in this way. These cleric spells count as wizard spells while you have them prepared, but you cannot copy them into your spellbook.
+
+##### Theurge Cleric Spell Level
+| Wizard Level | Cleric Spell Level |
+|:---:|:---:|
+| 2nd | 1st |
+| 6th | 2nd |
+| 10th | 3rd |
+| 14th | 4th |
+| 18th | 5th |
+
+#### Channel Divinity
+At 2nd level, you gain the ability to channel divine energy directly from the multiverse. You start with two such effects: Divine Arcana and Supernal Sight.
+
+When you use your Channel Divinity, you choose which effect to create. You must then finish a short or long rest to use your Channel Divinity again. Some Channel Divinity effects require saving throws. When you use such an effect, the save DC equals your spell save DC.
+
+Beginning at 10th level, you can use your Channel Divinity twice between rests. When you finish a short or long rest, you regain your expended uses.
+
+#### Channel Arcana: Divine Arcana
+As a bonus action, you speak a prayer to control the flow of magic around you. The next spell you cast gains a +2 bonus to its attack roll or saving throw DC, as appropriate.
+
+#### Channel Arcana: Supernal Sight
+As an action, you open your senses to the divine and arcane elements in the world, allowing you to detect their influence within 30 feet of you for the next minute. Within this range, you can sense the presence of magic and know if there is an aberration, celestial, elemental, fey, fiend, or undead (as well as where the creature is located). If you sense magic in this way, you can use your action to see a faint aura around any visible creature or object in the area that bears magic, and you learn its school of magic, if any. In addition, you know if there is a place or object within 30 feet of you that has been magically consecrated or desecrated.
+
+This ability can penetrate most barriers, but it is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+
+#### Daily Devotion
+At 6th level, choose three divine domains. As part of completing a long rest you can contemplate these facets of the divine, selecting one of the three chosen divine domains. Until you use this feature again, add the selected domain’s 2nd level Channel Divinity effect to the options you can choose when using your Channel Divinity.
+
+#### Empyreal Resilience
+Starting at 10th level, you have resistance to radiant damage.
+
+#### Radiant Countenance
+At 14th level, you can use an action to shed your mundane form for a radiant countenance for the next minute. While you have a radiant countenance, you gain the following benefits:
+- You shed bright light out to 150 feet and dim light out 150 feet beyond that.
+- Attacks made against you by creatures without blindsight have disadvantage.
+- When you cast a spell that deals damage you can choose for the damage to be radiant instead of its normal damage type.
+
+Once you use this feature, you can’t use it again until you finish a long rest.

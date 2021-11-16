@@ -1,0 +1,25 @@
+### College of Drama
+[**Source:** *The Complete Arcanist Handbook*](https://drive.google.com/file/d/1ucl27lI0dMWi0BDsolHBB-ZgW4CSPhdP/view)
+
+Bards of the College of Drama, usually referred to as actors, dedicate their lives to the stage, whether that stage be within a grand palace or on a wooden box on the side of a dirt road. They train to portray any character through deft costuming and impeccable impressions. They don’t just tell tales, but delight audiences by performing them as one- man shows or as an ensemble with other bards of the college. These actors develop special techniques for drawing crowds and feeding off their audience’s energy, becoming popular attractions in nearly any settlement they visit.
+
+While near universally beloved by the common folk and community leaders, actors are regarded with some contempt by bards of other colleges, who see actors as attention-seeking narcissists who are either unwilling or unable to share the stage. An actor who arrives in a town where another bard is performing is often in for some not-so-good-natured competition.
+
+#### Method Actor
+Starting when you join the College of Drama at 3rd level, you gain proficiency in the Performance skill and with disguise kits, and you can use your voice as a spellcasting focus for your bard spells. Any spell you cast using your voice as a spellcasting focus gains a verbal component if it doesn’t already have one.
+
+Additionally, you can perfectly mimic the voice, speech, and mannerisms of any creature you’ve observed and heard speak for at least 1 minute.
+
+#### Starring Role
+Also at 3rd level, whenever you make an ability check, attack roll, or saving throw, you can expend one use of your Bardic Inspiration to roll your Bardic Inspiration die and add it to the result. You can choose to do so after you roll, but before the DM tells you whether you succeed or fail.
+
+Once you use this feature, you can’t use it again until you finish a short or long rest.
+
+#### Magnetic Presence
+Beginning at 6th level, you learn special techniques that allow you to draw the attention of others:
+- Whenever you speak, you can cause your voice to boom up to five times as loud as normal.
+- You can cast the *enthrall* spell once without expending a spell slot. You regain the use of this ability whenever you expend a spell slot of 3rd level or higher or when you finish a long rest.
+- As an action, you can cause light to shine down upon you. Bright white light shines within a 5-foot radius, 20-foot-high cylinder centered on you, with dim light shining a further 5 feet beyond the radius. The cylinder remains centered on you as you move. The light disappears when you become incapacitated or when you choose to dismiss it on your turn (no action required).
+
+#### Take a Bow
+Starting at 14th level, you can bask in the adoration of your fans and allies. When a friendly creature sees you reduce another creature to 0 hit points or cast a spell of 6th level or higher, you can use your bonus action this turn to take a bow. When you do, you regain one expended use of your Bardic Inspiration.

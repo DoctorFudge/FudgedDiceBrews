@@ -1,0 +1,59 @@
+#### Pact of the Runestone
+[**Source:** *Pact of the Runestone*](https://homebrewery.naturalcrit.com/share/vyt52jXKKv7k)
+
+Your patron has granted you a stone carved with countless Eldritch symbols and containing vast magic, called a Runestone.
+
+Once per day, you may spend 1 minute deciphering the runes adorning the stone, and roll on the spell table below. Then, as an action at any point before you finish a long rest, you may cast that spell as if it was a warlock spell, without expending a spell slot. If the spell isn't cast in this way, the rune fades away at midnight, and must be deciphered again the next day.
+
+| d100 |Spell |
+|:---:|:------------|
+|  1-2  | Feather Fall            |
+|  3-4  | Vitriolic Sphere        |
+|  5-6  | Tasha's Mind Whip       |
+|  7-8  | Fireball                |
+|  9-10 | Cure Wounds             |
+| 11-12 | Moonbeam                |
+| 13-14 | Destructive Wave        |
+| 15-16 | Flame Blade             |
+| 17-18 | Create or Destroy Water |
+| 19-20 | Confusion               |
+| 21-22 | Fire Shield             |
+| 23-24 | Bless                   |
+| 25-26 | Tidal Wave              |
+| 27-28 | Chaos Bolt              |
+| 29-30 | Chromatic Orb           |
+| 31-32 | Earth Tremor            |
+| 33-34 | Dimension Door          |
+| 35-36 | Blur                    |
+| 37-38 | Aganazzar's Scorcher    |
+| 39-40 | Entangle                |
+| 41-42 | Faerie Fire             |
+| 43-44 | Rope Trick              |
+| 45-46 | Fog Cloud               |
+| 47-48 | Guiding Bolt            |
+| 49-50 | Erupting Earth         |
+| 51-52  | Ice Knife             |
+| 53-54  | Inflict Wounds        |
+| 55-56  | Bestow Curse          |
+| 57-58  | Magic Missile         |
+| 59-60  | Identify              |
+| 51-62  | Thunderwave           |
+| 63-64  | Purify Food and Drink |
+| 65-66  | Lightning Bolt        |
+| 67-68  | Spiritual Weapon      |
+| 69-70  | Banishment            |
+| 71-72  | Dissonant Whispers    |
+| 73-74  | Faithful Hound        |
+| 75-76  | Ray of Sickness       |
+| 77-78  | Hold Monster          |
+| 79-80  | Heat Metal            |
+| 81-82  | Earthen Grasp         |
+| 83-84  | Slow                  |
+| 85-86  | Mind Spike            |
+| 87-88  | Sleep                 |
+| 89-90  | Immolation            |
+| 91-92  | Tasha's Caustic Brew  |
+| 93-94  | Hold Person           |
+| 95-96  | Zephyr Strike         |
+| 97-98  | Haste                 |
+| 99-100 | Disintegrate          |

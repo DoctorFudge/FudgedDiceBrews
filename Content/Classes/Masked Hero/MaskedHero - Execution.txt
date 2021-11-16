@@ -1,0 +1,46 @@
+### Decree of Execution
+The Decree of Execution demands for the quick elimination of those that threaten the realm, as heroes of this Decree lurk in the shadows their foes. No matter where their targets may be, these masked heroes will always find their quarry, all before  eliminating them with silent, deadly strikes from afar.
+
+#### Decree Magic
+Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Execution Spells table. The spell counts as a masked hero spell for you, but it doesn't count against the number of masked hero spells you know.
+
+##### Execution Spells
+| Masked Hero level | Spell |
+|:----:|:-------------|
+| 3rd  | *ensnaring strike* |
+| 5th  | *invisibility* |
+| 9th | *lightning arrow* |
+| 13th | *greater invisibility* |
+| 17th | *conjure volley* |
+
+#### Decree Enhancements
+When you select this decree at 3rd level, you learn the art of eliminating your foes from a distance. You gain the following benefit for your Masked Transformation:
+
+***Masked Marksman.*** Once per turn, you can deal an extra 1d6 force damage to a creature you hit with a ranged weapon attack if there is at least one friendly creature within 5 feet of that creature.
+
+The force damage increases when you reach certain levels in this class, increasing to 1d8 at 7th level, and 1d10 at 11th level.
+
+#### Intercepting Shot
+At 3rd level, you learn how to identify high-priority threats in battle and intercept their attacks. When an enemy creature that you can see within your weapon's normal range hits you, or a friendly creaure that you can see, with an attack, you can expend one use of Deflective Strike as a reaction to make one special ranged weapon attack against that creature.
+
+You may only make this attack with either a ranged weapon or a melee weapon that has the thrown property,  and you must make this special attack before the triggering attack deals any damage.
+
+This ranged weapon attack does not cost ammunition, and can be made without disadvantage while an enemy creature who can see you and who isn't incapacitated is within 5 feet of you.
+If this attack is made with a melee weapon that has the thrown property, that weapon returns to your hand immediately after the attack is made.
+
+On a hit, the target takes the damage dealt by your attack, and unless its previous roll was a 20 on the d20, it must reroll its attack and use the new roll.
+
+Otherwise, your special attack misses, and you may expend one masked hero spell slot to reduce the damage dealt by the triggering attack by 2d4, plus additional 1d4 for each spell slot level used higher than 1st, to a maximum of 5d4. You may only reduce the damage dealt by the triggering attack if your special attack had missed.
+
+After using this feature, you may only attack once, instead of twice, when you take the Attack action on your next turn. If you are able to attack three times, instead of twice, whenever you take the Attack action, you may only attack twice instead. You cannot use this feature and Deflective Strike within the same round.
+
+#### Elusive Retreat
+At 7th level, whenever you make a Dexterity (Stealth) check, you gain a bonus to the roll equal to your Wisdom modifier (minimum of one). In addition, when an enemy creature that you can see ends its turn within 5 feet of you, you can teleport up to 10 feet to an unoccupied space that you can see. You can only use this feature once per round, and as long as you aren't blinded, frightened or incapacitated.
+
+#### Decree Enhancements
+Starting at 11th level, you gain the following benefit for your Masked Transformation:
+
+***Vanishing Shroud.***  You can take the Hide action as a bonus action on your turn. In addition, whenever you make a Dexterity (Stealth) check, you can add an extra d6 to the roll if you had taken the Attack action on the same turn.
+
+#### Hunter's Tenacity
+At 15th level, lurking in the shadows of your enemies slowly mends your injuries. You regain hit points equal to 1d6 + half your masked hero level if you end your turn in combat with fewer than half of your hit points remaining, you are in dim light or darkness, and you aren't incapacitated.

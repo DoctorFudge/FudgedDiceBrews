@@ -1,0 +1,47 @@
+### Fire Domain
+[**Source:** *Cleric Domains: Air, Earth, Fire, and Water*](https://drive.google.com/file/d/1gBbxLAqjcbGRuPqAgrR0nslECetDJZYD/view)
+
+The gods and primordials that embody the power of elemental fire tend to exhibit many of the qualities of the flames. The concept of change is a trait common to most fire deities, for fire usually brings with it great change--both destructive and creative. Like flames, the thoughts of deities and primordials of fire tend to change constantly, which comes across to many as overly chaotic.
+
+Their clerics are often chosen for similar traits. A fire cleric might gleefully start a rebellion to burn the status quo to the ground. Raze an entire settlement in their rage, changing the balance of power in an area. Immolate old growth within a forest to enrich soil for the next generation of flora. One might destory a piece of artwork to inspire creativity impulses in others. Another melt an expensive necklace down to facilitate the creation of new jewelry. One fire cleric might do all of these things on their own in short order, at that.
+
+Clerics of fire deities tend to use spells rather than weaponry, simply creating raw fire to burn their enemies. Followers of these beings of fire cherish change above all else. What kind of change varies from follower to follower, sometimes differing from moment to moment, whim to whim, within a given follower. For this reason, many fear and distrust the followers of flame, for they never know what to expect.
+
+##### Fire Domain Spells
+| Spell Level | Spells |
+| :-: | :-- |
+| 1st | <em>fog cloud, hellish rebuke</em> |
+| 2nd | <em>continual flame, pyrotechnics</em> |
+| 3rd | <em>fireball, flame arrows</em> |
+| 4th | <em>conjure minor elementals, wall of fire</em> |
+| 5th | <em>cloudkill, conjure elemental</em> |
+
+Your *conjure minor elementals* and *conjure elemental* domain spells can summon only fire elemental creatures (or partially fire, such as magma, smoke, and steam mephits), and the clouds created by your *fog cloud* and *cloudkill* domain spells are made up of obscuring or toxic smoke instead of fog.
+
+#### Elemental Cantrips
+When you choose this domain at 1st level, you learn the *control flames* cantrip as a cleric cantrip. It counts as a cleric cantrip for you, but doesn't count against your number of cleric cantrips known.
+
+Additionally, the following cantrips count as cleric cantrips for you, and are added to the cleric spell list for you: *create bonfire*, *fire bolt*, and *licking flames*.
+
+#### Inner Fire
+At 1st level, As an action, you can instantaneously light a flammable object that isn't being held or worn within 30 feet of you as small as candle or large as a campfire.
+
+Additionally, as an action you surround yourself in a fiery aura. You can turn your fiery aura off at any time (takes no action). While your fiery aura is active, you emit bright light in a 30-foot radius and dim light an additional 30 feet beyond that.
+
+Upon reaching 6th level, you have resistance to fire damage while your fiery aura is active.
+
+#### Channel Divinity: Cleansing Flame
+Starting at 2nd level, you can use your Channel Divinity to purify the body or mind of a creature, burning some corruption away with a cleansing flame that doesn't harm the flesh itself.
+
+As an action, you touch your holy symbol to a creature and invoke the name of your deity. End one disease or one condition afflicting the touched creature. The condition can be: blinded, charmed, deafened, frightened, paralyzed, poisoned, or stunned.
+
+#### Bond of Fire
+At 6th level, you gain *find familiar* as a cleric spell, and it is always prepared without counting against the number of cleric spells you have prepared. You can only summon a lesser fire elemental with your *find familiar* cleric spell (that still counts as an elemental, not a celestial, fey, or infernal), and it can be cast with no material components.
+
+Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your lesser fire elemental familiar to make one Touch attack of its own.
+
+#### Raging Fires
+Upon reaching 8th level, when you cast a cleric spell that deals fire damage, you can add your Wisdom modifier to one fire damage roll of that spell against one of its targets.
+
+#### One with the Flames
+At 17th level, you have resistance to fire damage. While your fiery aura is active, you instead have immunity to fire damage, and gain the ability to step from one fire to another fire. You must use 5 feet of movement to enter a fire at least the size of a small campfire, then teleport to a spot of your choice within 5 feet of a destination fire at least the size of a small campfire you can see within 60 feet.

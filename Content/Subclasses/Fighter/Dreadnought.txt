@@ -1,0 +1,22 @@
+### Dreadnought
+[**Source:** *The Dreadnought Martial Archetype*](https://drive.google.com/file/d/1smp8I-OyQZ_R8xH1pefv-d2Db2cvPxGQ/view)
+
+The Dreadnought is a fighter who eschews the raw damage of other fighters to become a bastion of defence and security. Those who find a Dreadnought blocking their path have few options, either turn back or slam uselessly against a wall of steel and flesh.
+
+#### Dreadnought Shields
+At 3rd level, you gain the ability to dual wield shields. You can wield two shields, one for each of your hands. The second shield grants a +1 bonus to Armour Class, instead of the normal +2. While wielding two shields, a shield is a martial melee weapon with a damage die of 1d6, and you use your Strength for attack and damage rolls. Attacking with your offhand shield requires a bonus action, and does not get the Strength Modifier bonus as per Two Weapon Fighting.
+
+#### Shield Charge
+At 3rd, level you gain the ability to shield charge. As an action, you can move up to your speed in a straight line and can move through the space of any creature of the same size or smaller. The first time you enter a creature's space during this move, you make a shield attack against that creature. If the attack hits, the target must also succeed on a Strength saving throw or be pushed ahead of you for the rest of the move. If a creature fails the save by 5 or more, it is also knocked prone. Your save DC equals 8 + your proficiency bonus + your Constitution modifier.
+
+#### Imposing Figure
+Starting at 7th level, you gain proficiency in the Intimidation skill. Your proficiency bonus is doubled for any ability check you make that uses Intimidation. You also count as one size larger when determining your carrying capacity and the weight you can push, drag, or lift.
+
+#### Unyielding Bulwark
+Starting at 10th Level, you become a bastion of defence for your comrades. While you are not incapacitated and are not prone, you and friendly creatures within 5 feet of you have advantage on Dexterity saving throws against effects that you can see, such as traps or spells.
+
+#### Powerful Charge
+At 15th Level, when you use your shield charge, you may move an extra 10 feet past your movement speed, furthermore, when a creature fails its saving throw against your shield charge it takes 2d6 bludgeoning damage in addition to all other effects.
+
+#### Relentless Defender
+Starting at 18th level, in combat you receive a special reaction that you can take once on every creature's turn, except your own. You can use this special reaction to impose disadvantage on an attack roll, when a creature you can see attacks a target other than you that is within 5 feet of you. You must be wielding a shield and you can't use it on the same turn that you take your normal reaction.

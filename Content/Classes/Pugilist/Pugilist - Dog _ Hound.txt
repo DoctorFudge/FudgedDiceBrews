@@ -1,0 +1,35 @@
+### Dog & Hound
+You've never had a friend you could rely on that walked on two legs. Lucky for you, you've got the best four- legged friend a body could ask for. Pugilists in the Dog & Hound fight club are as faithful to their canine companions as their canine companions are to them.
+
+#### Bonus Proficiency
+When you choose this fight club at 3rd level, you gain proficiency with the Animal Handling skill if you don't already have it. If you do, you gain proficiency in your choice of the Perception or Survival skill.
+
+#### Brawler's Best Friend
+Also at 3rd level, you gain a hound that accompanies you on your adventures and fights alongside you. Your hound can be any breed of dog or similar canine creature, but uses the statistics of a wolf (found in appendix A of the Monster Manual). You add your proficiency bonus to your hound's AC, saving throws, attack rolls, and damage rolls.
+
+For each level you gain after 3rd, your hound gains an additional d8 hit die and increases its hit points accordingly.
+
+You can use a bonus action on each of your turns to verbally command your hound to take the Attack, Dash, Disengage, Dodge, or Help action that turn. It does not have its own turn unless you are incapacitated or absent. If you are incapacitated or absent, the hound acts on its own (continuing to act on your turn, if you are incapacitated), focusing on protecting you and itself. The hound never requires your command to use its reaction, such as when making an opportunity attack.
+
+If your hound dies, you can obtain a new one by spending 8 hours bonding with a canine animal that isn't hostile to you.
+
+#### Mutt With Moxie
+At 3rd level, you share everything with your faithful hound: food, shelter, even moxie. When you use certain moxie abilities, your hound gains a benefit as well.
+
+***Brace Up.*** When you gain temporary hit points as a result of using your Brace Up moxie ability, your hound gains the same number of temporary hit points.
+
+***The Old One-Two.*** When you use your The Old One- Two moxie ability, your hound can make one or both attacks instead of you.
+
+***Stick and Move.*** When you use your Stick and Move moxie ability, your hound can take the Dash action.
+
+#### Arcanine Bite
+At 6th level, your hound's attacks count as magical for the purpose of overcoming resistance and immunity to non-magical attacks and damage.
+
+#### Coordinated Attack
+Also at 6th level, you and your canine companion form a more potent fighting team. When you use the Attack action on your turn, if your hound can see you, it can use its reaction to make a melee attack.
+
+#### Hound's Best Friend
+At 11th level, when a creature deals damage to your hound with an attack, you can use your reaction to make an opportunity attack against that creature if you are within range.
+
+#### Dire Hound
+Beginning at 17th level, you use the statistics for a dire wolf (found in appendix A of the Monster Manual), instead of a wolf, for your hound, except that its size remains Medium. These statistics are modified as described in your Brawler's Best Friend feature.

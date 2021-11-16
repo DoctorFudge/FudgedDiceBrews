@@ -1,0 +1,39 @@
+## Level 4
+
+#### Banjax
+*evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 90 feet
+- **Components:** V, S, M (a lump of meat)
+- **Duration:**  Instantaneous
+- **Classes:** Bard, *Biomancer*, Sorcerer, Wizard
+___
+You target a creature within range and create a surge of violent force within its body. The target must succeed on a Constitution saving throw, taking 5d10 Force damage on a failed save, or half as much on a success.
+
+A creature killed by this spell explodes, spraying blood, offal and viscera in a 20 foot radius. Any creature caught in this wave of gore is both blinded and becomes frightened of the caster until the end of their next turn.
+
+#### Ice Spike
+*Evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:**  Instantaneous
+- **Classes:** Sorcerer, Wizard
+___
+You create lances of ice that shoot up from the ground to impale a creature within range. The target must make a Dexterity saving throw. The target takes 4d8 piercing damage and 4d8 cold damage on a failed save. The target takes only the 4d8 cold damage on a successful save.
+
+
+#### Kevin's Goodberry Swarm
+*Conjuration*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S, M (one goodberry)
+- **Duration:** Concentration, up to 1 hour
+- **Classes:** Druid, Sorcerer, Warlock
+___
+You summon forth a number of Goodberry Shrubs equal to 1 + your spellcasting modifier (minimum of 1) into existence and they remain for the duration or until they are reduced to 0 hit points. They act on your turn and can command them as a free action. If you do not command them to do anything they instead do nothing on their turn.
+
+**At Higher Levels.** When casting this spell using a spell slot of 5th or higher, you summon one additional goodberry shrub.

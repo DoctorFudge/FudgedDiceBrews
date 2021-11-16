@@ -1,0 +1,313 @@
+## Black Mage
+[**Source:** *Final Fantasy XIV Class Compendium*](https://www.gmbinder.com/share/-LsDqsNbupzeLhkTIcPv)
+
+##### The Black Mage
+| Level | Proficiency Bonus | Mana Points |Features | Cantrips Known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th |
+|:---:|:---:|:---|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:
+| 1st  | +2 |  1  |Spellcasting, Manafont      | 3 | 2 | — | — | — | — | — | — | — | — |
+| 2nd  | +2 |  2  |Magical Discipline		   | 3 | 3 | — | — | — | — | — | — | — | — |
+| 3rd  | +2 |  3  |                            | 3 | 4 | 2 | — | — | — | — | — | — | — |
+| 4th  | +2 |  4  |Ability Score Improvement   | 4 | 4 | 3 | — | — | — | — | — | — | — |
+| 5th  | +3 |  5  |                            | 4 | 4 | 3 | 2 | — | — | — | — | — | — |
+| 6th  | +3 |  6  |Magical Discipline Feature  | 4 | 4 | 3 | 3 | — | — | — | — | — | — |
+| 7th  | +3 |  7  |                            | 4 | 4 | 3 | 3 | 1 | — | — | — | — | — |
+| 8th  | +3 |  8  |Ability Score Improvement   | 4 | 4 | 3 | 3 | 2 | — | — | — | — | — |
+| 9th  | +4 |  9  |                            | 4 | 4 | 3 | 3 | 3 | 1 | — | — | — | — |
+| 10th | +4 | 10  |Magical Discipline Feature  | 5 | 4 | 3 | 3 | 3 | 2 | — | — | — | — |
+| 11th | +4 |  11 |                            | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 12th | +4 |  12 |Ability Score Improvement   | 5 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — |
+| 13th | +5 |  13 |                            | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 14th | +5 |  14 |Magical Discipline Feature  | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — |
+| 15th | +5 |  15 |                            | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 16th | +5 |  16 |Ability Score Improvement   | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — |
+| 17th | +6 |  17 |                            | 5 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 |
+| 18th | +6 |  18 |Surecaster                  | 5 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 |
+| 19th | +6 |  19 |Ability Score Improvement   | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 |
+| 20th | +6 |  20 |Resonating Aether           | 5 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 |
+
+A Lalafell stands before a horde of kobolds, blood thirsty they dash towards him. With a few skillful waves of his staff, a large fire ball erupts from the gem inlaid at the end of the staff, causing a massive fiery explosion, leaving nothing but ash.
+
+A woman wearing dark robes grins as she waves her wand before a guard refusing her entry. With a few choice words and a spell, the guard happily steps aside, unlocking the passage bowing to her as she passes.
+
+An Elezen laughs at the umbral hue of his magics as he unleashes a fireball empowered by dark magics upon his foes, his demonic servant chuckling at his side watching the dust settle.
+
+A black mage is a powerful ally who wields forbidden magic. This raw energy manifests itself into devastating spells and effects. Their power is only rivaled by their thirst to increase that power.
+
+### A Dark Past
+In days long past, there existed an powerful clan of mages and their arcane art known as black magic—a potent magic of pure destructive force born forth by a sorceress of unparalleled power. Those who learned to wield this instrument of ruin came to be called black mages, out of both fear and respect for their gift. Yet great power served to corrupt the judgment of mortal man, and so he unknowingly set out upon the path of ruin.
+
+Adventurers who take the black will become agents of devastation, capable of annihilating those who oppose them through little more than the force of their will.
+
+### Ties to the Void
+In order for a mage to don the black, they must extensively research what they call the void. This is another plane of existence from which Black Mages draw knowledge from in order to unlock power within themselves. Most black mages are able to explore the knowledge gained from the void through tomes and texts now, but some who thirst for new power may attempt to tap into the void directly. Black Mages continue to grow within their craft through continuing their study of the dark arts.
+
+### Creating a Black Mage
+Black Mages are earnest in their desires and reasons for taking the black. More often than not it is in the pursuit of power or out of sheer curiousity. You must know why you are pursuing this power, or why you are curious about the dark arts. You must also decide where you began to dip your toes into the world of black magic. Did you join a cult of mages who studied the art? Perhaps a proper school which provides the proper materials to explore black mage. Maybe you were taken under the wing of a mentor who has mastered the art.
+
+#### Quick Build
+You can make a black mage quickly by following these suggestions. First, Intelligence should be your highest ability score, followed by Constitution or Dexterity. Second, choose the sage background. Third, choose the mage hand, light, and ray of frost cantrips, along with the following 1st-level spells for your spellbook: burning hands, charm person, feather fall, mage armor. magic missile, and sleep.
+
+## Class Features
+As a Black Mage, you gain the following class features
+#### Hit Points
+___
+- **Hit Dice:** 1d6 per Black Mage level
+- **Hit Points at 1st Level:** 6 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d6 (or 4) + your Constitution modifier per Black Mage level after 1st
+
+#### Proficiencies
+___
+- **Armor:** None
+- **Weapons:** Daggers, Darts, Slings, Quarter Staffs, Maces, Light Crossbows
+- **Tools:** None
+___
+- **Saving Throws:** Intelligence, Wisdom
+- **Skills:** Choose two from Arcana, Deception, History, Insight, Intimidation, Persuasion, Religion.
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a dagger
+- a spell casting focus (a cane, staff, wand or similar object)
+- *(a)* an explorer's pack or *(b)* a scholar's pack
+- a spellbook
+
+### Spellcasting
+As a student of Arcane Magic, you have a Spellbook containing Spells that show the first glimmerings of your true power.
+
+#### Cantrips
+At 1st Level, you know three Cantrips of your choice from the Black Mage spell list. You learn additional Black Mage Cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Black Mage table.
+
+#### Spellbook
+At 1st level, you have a spellbook containing six 1st-level Black Mage spells of your choice.
+
+#### Preparing and Casting Spells
+The Black Mage table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest. You prepare the list of black mage spells that are available for you to cast.
+
+To do so, choose a number of black mage spells from your spellbook equal to your Intelligence modifier + your black mage level (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+For example, if you're a 3rd-level black mage, you have four 1st-level and two 2nd-level spell slots. With an lntelligence of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell magic missile, you can cast it using a 1st-level or a 2nd-level slot.
+
+Casting the spell doesn't remove it from your list of prepared spells. You can change your list of prepared spells when you finish a long rest. Preparing a new list of black mage spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list.
+
+#### Spellcasting Ability
+Intelligence is your Spellcasting Ability for your Black Mage Spells, since you learn your Spells through dedicated study and memorization. You use your Intelligence whenever a spell refers to your Spellcasting Ability.
+
+In addition, you use your Intelligence modifier when setting the saving throw DC for a Black Mage spell you cast and when making an Attack roll with one.
+
+<center>
+
+**Spell save DC = 8** + your Proficiency Bonus + your Intelligence modifier
+
+</center>
+
+<center>
+
+**Spell Attack modifier** = your Proficiency Bonus + your Intelligence modifier
+
+</center>
+
+#### Ritual Casting
+You can cast a Black Mage spell as a ritual if that spell has the ritual tag and you have the spell in your Spellbook. You don't need to have the spell prepared.
+
+#### Spellcasting Focus
+You can use a rod, cane, wand or other similar equipment as a Spellcasting focus for your Black Mage Spells.
+
+> ##### Your Spellbook
+>The spells that You add to your spellbook as You gain levels reflect the arcane research You conduct on your own, as well as intellectual breakthroughs You have had about the nature of the multiverse. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.
+>
+>***Copying a Spell into the Book.*** When You find a wizard spell
+of 1st level or higher, You can add it to your spellbook if it is
+of a level for which You have spell slots and if You can spare
+the time to decipher and copy it.
+>
+> Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique system of notation used by the mage who wrote it. You must practice the spell until You understand the sounds or gestures required, then transcribe it into your spellbook using your own notation.
+>
+> For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components You expend as You experiment with the spell to master it, as well as the fine inks You need to record it. Once You have spent this time and money, You can prepare the spell just like your other spells.
+>
+> ***Replacing the Book.*** You can copy a spell from your own spellbook into another book-for example, if You want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since You understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
+>
+> If you lose your spellbook, You can use the same procedure to transcribe the spells that You have prepared into a new spellbook. Filling out the remainder of your spellbook requires You to find new spells to do so, as normal. For this reason, many mages keep backup spellbooks in a safe place.
+>
+> ***The Book's Appearance.*** Your spellbook is a unique compilation of spells, with its own decorative flourishes and margin notes. It might be a plain, functionalleather volume that You received as a gift from your master, a finely bound gilt-edged tome You found in an ancient library, or even a loose collection of notes scrounged together.
+
+#### Learning Spells of 1st Level and Higher
+Each time you gain a Black Mage level, you can add two Black Mage Spells of your choice to your Spellbook for free. Each of these Spells must be of a level for which you have Spell Slots, as shown on the Black Mage table. On your Adventures, you might find other Spells that you can add to your Spellbook (see “Your Spellbook”).
+
+### Manafont
+At 1st level, you have unlocked the secrets of storing magical energy in your body and utilizing it to assist your spell casting.
+
+#### Mana points
+You have one Mana point, and you gain more as you reach higher levels, as shown in the Mana Points column of the Black Mage table. You can never have more mana points than shown on the table for your level. You regain all spent mana points when you finish a long rest.
+
+#### Leylines
+When you cast a spell, the residual mana from your spell temporarily creates a leyline, which can be manipulated with your manafont.
+
+If you cast a spell last turn and have not moved or taken any other actions during your turn, you may spend a number of mana points equal to that spell's level to cast an evocation spell equal to or lower than that level without expending a spell slot. Your turn immediately ends after casting the spell. You can cast spells in this way no higher in level than 5th.
+
+### Magical Discipline
+At 2nd level, you choose the discipline you belong to as a Black Mage. Mhachi, Enchanter, or Void Mage, all detailed at the end of the class description. Your archetype choice grants you features at the 2nd, 6th, 10th and 14th level.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Surecaster
+Beginning at the 18th level, as a bonus action, you may expend 5 mana points to achieve an impregnable state of mind. You pass all concentration checks automatically for the next 10 minutes.
+
+### Resonating Aether
+Beginning at the 20th level, you regain half your missing mana points when you roll initiative.
+
+## Black Mage Spells
+This section includes all spells available to the black mage class.
+
+##### Cantrips
+- Blade Ward
+- Chill Touch
+- Fire Bolt
+- Frostbite
+- Infestation
+- Lightning Lure
+- Mage Hand
+- Magic Stone
+- Produce Flame
+- Ray of Frost
+- Sapping Sting
+- Shocking Grasp
+- Thaumaturgy
+- Toll the Dead
+
+##### 1st Level
+- Absorb Elements
+- Burning Hands
+- Chaos Bolt
+- Detect Magic
+- Disguise Self
+- Expeditious Retreat
+- False Life
+- Feather Fall
+- Find Familiar
+- Frost Fingers
+- Hex
+- Ice Knife
+- Illusory Script
+- Inflict Wounds- Jump
+- Longstrider
+- Mage Armor
+- Magic Missile
+- Shield
+- Sleep
+
+##### 2nd Level
+- Alter Self
+- Arcane Lock
+- Blur
+- Blindness/Deafness
+- Cloud of Daggers
+- Darkness
+- Darkvision
+- Dragon's Breath
+- Flaming Sphere
+- Heat Metal
+- Hold Person
+- Knock
+- Levitate
+- Misty Step
+- Pyrotechnics
+- Scorching Ray
+- Silence
+- Web
+
+##### 3rd Level
+- Animate Dead
+- Bestow Curse
+- Blink
+- Counterspell
+- Dispel Magic
+- Elemental Weapon
+- Feign Death
+- Fireball
+- Fly
+- Intellect Fortress
+- Leomud's Tiny Hut
+- Lightningbolt
+- Speak with Dead
+- Stinking Cloud
+- Summon Shadowspawn
+- Summon Undead
+- Tongues
+- Thunderstep
+- Vampiric Touch
+
+##### 4th Level
+- Arcane Eye
+- Dimension Door
+- Fire Shield
+- Mordenkainen's Faithful Hound
+- Mordenkainen's Private Sanctum
+- Polymorph
+- Summon Aberration
+- Wall of Fire
+
+##### 5th Level
+- Animate Objects
+- Antilife Shell
+- Bigby's Hand
+- Cloudkill
+- Contagion
+- Danse Macabre
+- Destructive Wave
+- Dream
+- Far Step
+- Flame Strike
+- Geas
+- Mislead
+- Telekinesis
+- Teleportation Circle
+- Wall of Force
+
+##### 6th Level
+- Arcane Gate
+- Chain Lightning
+- Circle of Death
+- Create Undead
+- Disintegrate
+- Eyebite
+- Harm
+- Investiture of Flame
+- Investiture of Ice
+- Mass Suggestion
+- Otiluke's Freezing Sphere
+- Soul Cage
+- Summon Fiend
+- Tasha's Otherworldly Guise
+- Wall of Ice
+
+##### 7th Level
+- Delayed Blast Fireball
+- Dream of the Blue Veil
+- Etherealness
+- Finger of Death
+- Fire Storm
+- Forcecage
+- Mordenkainen's Magnificent Mansion
+- Plane Shift
+- Power Word Pain
+- Regenerate
+- Simulacrum
+- Teleport
+
+##### 8th Level
+- Abi-Dalzim's Horrid Wilting
+- Antimagic Field
+- Demiplane
+- Dominate Monster
+- Incendiary Cloud
+- Maddening Darkness
+- Reality Break
+
+##### 9th Level
+- Blade of Disaster
+- Flare
+- Gate
+- Meteor Swarm
+- Ravenous Void
+- Time Stop

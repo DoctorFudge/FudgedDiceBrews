@@ -1,0 +1,36 @@
+### Coven of the Lost Moon
+Legends and star charts of old tell of how, long ago, one additional moon hung in the night sky. Whether by magic, cataclysm, or something stranger still, this moon has vanished, leaving the witches under its auspice in a precarious position. Naming themselves the Coven of the Lost Moon, these witches scour the multiverse for what happened to the missing celestial object, as well as the answers to other strange permutations of existence. These starlight witches, clad in silver, can find themselves as ardent members of any alignment, as each witch is likely to stumble upon their own poignant, individual truth.
+
+#### Lost Moon Spells
+You gain advanced tutelage into specific spells important to your coven. You learn each of the spells on the following list at the witch level associated with them. These spells count as witch spells for you and do not count against the total spells you can know.
+
+##### Lost Moon Spells
+| Witch Level | Spells |
+|:-:|:--|
+| 2nd | <em>longstrider, Tenser’s floating disk</em> |
+| 3rd | <em>rope trick, see invisibility</em> |
+| 5th | <em>haste, thunder step*</em> |
+| 7th | <em>banishment, dimension door</em> |
+| 9th | <em>far step\*, teleportation circle</em> |
+
+\* these spells are found in Xanathar’s Guide to Everything
+
+#### Starlight Seeker
+When you join this coven at 2nd level, you have proficiency with the Investigation skill, and add double your proficiency bonus to checks made with it.
+
+Additionally, as a ritual that takes 10 minutes, you can cast your choice of either *find traps*, *locate animals or plants*, or *locate object* without expending a spell slot or material components. At 5th level, this list also includes *locate creature*.
+
+Once you cast a spell using this ability, you must finish a short or long rest before you can use it again.
+
+#### Familiar Nexus
+At 6th level, your understanding of the complex nature of the multiverse allows you to more effectively utilize the unique bond between you and your familiar. Your familiar can be used to deliver spells with any range, rather than just those with a range of touch.
+
+Additionally, you always know the distance and direction of any planar portals within 1 mile of you.warp
+When you reach 10th level, you know how to exploit the connection between your familiar and yourself, effortlessly transporting to each other’s locations. As a bonus action, you and your familiar teleport, each of you appearing at the other’s previous location.
+
+Additionally, you can choose for one creature adjacent to either you or your familiar to be teleported as well, appearing in a space of your choosing within 5 feet of either your familiar or yourself. After you have teleported another creature besides yourself or your familiar, you must finish a short or long rest before you can teleport an additional creature in this way again.
+
+#### Lost Knowledge
+Starting at 14th level, you’ve discovered much in your searchings, and have a prodigious grasp of magic. As a bonus action on your turn, you can gain knowledge of one spell from any class’s spell list. You must have at least one spell slot available that can be used to cast the spell, which must be expended if you cast it. While you know the spell, it counts as a witch spell for you, and doesn’t count against the number of spells you can know. The spell fades from your mind after you cast it or at the end of your current turn, and you lose knowledge of it at that time.
+
+Once you use this feature, you cannot use it again until you finish a long rest.

@@ -1,0 +1,32 @@
+### Fencer
+[**Source:** *Adapted Fencer - Travis' 5e D&D*](https://docs.google.com/document/d/1CFkauXA1ENI48NqO6ToqGB0kZh1jVQUlzt5_pwbmIog/edit)
+
+A fencer is an epitome of martial prowess, gracefully executing moves with seemingly little effort. They don't have to be a strong warrior, but a dexterous one.
+
+#### Dashing Duelist
+At 3rd Level, you can take the Dash action as a bonus action.
+Additionally, if you move at least 15 feet in a straight line immediately before taking the Attack action with a melee weapon, you gain a +5 bonus to that attack roll. When you attack in this way, the next attack that targets you is made with advantage.
+
+#### Battle Opportunist
+At 3rd level, you learn to take advantage of your enemies' failures. If a creature misses an attack roll against you, you can make one weapon attack against the creature as a reaction.
+
+#### Swift Disable
+At 7th level, you've gained the ability to turn the tide of a battle with a single strike.
+When you hit a creature with a weapon attack, you can attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add your proficiency bonus to the attack's damage roll, and the target must make a Strength saving throw. The saving throw DC is equal to 8 + your proficiency bonus + your Strength or Dexterity modifier (your choice) On a failed save, it drops the object you choose. The object lands at its feet.
+You can use this ability once per long rest and twice at the 13th level.
+
+#### Reaching Footwork
+At 7th level, you've gained the ability to attack beyond your reach for a moment.
+When you make a melee weapon attack on your turn, you can increase your reach for that attack by 5 feet. If you hit, you add your proficiency bonus to the attack's damage roll.
+You can use this ability once per long rest and twice at the 13th level.
+
+#### Fleet of Foot
+At 10th level, your armor seems to feel like normal clothes to you, letting you be light on your feet. Your walking speed increases by 5 feet when not wearing Heavy Armor. This adds an additional 5 feet at 15th level and 18th level.
+
+#### Bait and Switch
+At 15th level, you are difficult to pin down during a fight. You can move up to your movement speed as a reaction when an enemy ends its turn within 5 feet of you. This movement doesn't provoke opportunity attacks.
+
+#### Staged Combat
+At 18th level, your mastery of the blade lets you strike several times in a moment. When you take the Attack action with a melee weapon, you can choose to eschew your typical Extra Attack benefits, continuing to attack until you miss. This attack cannot benefit from your Dashing Duelist feature.
+
+Once you use this feature, you must finish a short or long rest before you can use it again.

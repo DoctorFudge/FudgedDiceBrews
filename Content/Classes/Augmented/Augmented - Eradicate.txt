@@ -1,0 +1,36 @@
+### Directive: Eradicate
+The destructive potential of an augmented is impossible to ignore. When an augmented defines themself in opposition to a specific force, concept, or type of creature, they may take upon themselves the purpose of eradicating the perceived threat, hunting it down ruthlessly wherever it may be found. Augmented must have a pressing reason to dedicate themselves entirely to the cause of destruction, as being and growing as an augmented is largely a creative process.
+
+Nevertheless, these Eradicators, as they are known, are powerful weapons against their enemies. What do you seek to annihilate, and why? Are you content to be an implement of destruction, or do you quest after a grander purpose, to which destruction is but a means to an end?
+
+#### Directive: Eradicate Spells
+Starting at 3rd level, you learn an additional spell when you reach certain levels in this class, as shown in the Directive: Eradicate Spells table. The spell counts as an augmented spell for you, but it doesn't count against the number of augmented spells you know.
+
+| Augmented Level | Directive Spells |
+| :-: | :-- |
+| 3rd | <em>thunderwave</em> |
+| 5th | <em>flaming sphere</em> |
+| 9th | <em>fireball</em> |
+| 13th | <em>wall of fire</em> |
+| 17th | <em>destructive wave</em> |
+
+#### Battle Scouter
+Also at 3rd level, you develop a translucent bit of crystal which overlays a single eye, magically illuminated to display vital information about the challenges you face.
+
+As a bonus action on your turn, you can use your battle scouter to determine two of the following (of your choice) about a creature you select that you can see within 120 feet of you:
+- The creature's type
+- If the creature has a subtype (such as shapeshifter), and what that subtype is
+- Its highest or lowest (choose one) statistic out of Strength, Dexterity, or Constitution
+- Its highest or lowest (choose one) statistic out of Intelligence, Charisma, or Wisdom
+- The highest level of spell the creature can cast
+- Whether the creature has greater than, fewer than, or exactly half its maximum hit points remaining
+
+Once you use this ability, you can't use it again until you complete a short or long rest.
+
+#### Overdrive
+At 6th level, you have the ability to overload your power source as a bonus action, giving yourself a temporary boost but draining your reserves. For one minute, you have advantage on attack rolls and ability checks.
+
+During this time, at the end of each of your turns you deal lightning damage equal to half your augmented level (rounded up) to any creature within 10 feet of you, and you take 1d6 lightning damage that can not be reduced or ignored in any way. After using this ability, you can not use it again until you complete a long rest.
+
+#### Wired Reflexes
+Starting at 14th level, when you are hit by an attack made by an enemy you can see within the range of a weapon you are holding, you can use your reaction to make a single attack against them with that weapon.

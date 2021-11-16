@@ -1,0 +1,312 @@
+## Magi
+[**Source:** *The Magi*](https://docs.google.com/document/d/1dh1_IjQkq-nunZOZRce7RcszTA6cWpC4o-tHUxmt7hM/edit)
+
+Magic at its source is wild and unpredictable. Its raw destructive power is capable of all sorts of supernatural phenomenons. Most wizards and sorcerers claim to tame the arcane, using it for minor wonders like illusions and harmless spectacles. Magus however embrace magic's true nature, letting its might roar from their fingertips.
+
+##### The Magi
+| Level | Proficiency Bonus | Features | Spell Points | Max Spell Level | Spell Limit |
+|:-:|:-:|-|:-:|:-:|:-:|
+| 1st | +2 | Spell Weaving, River of Magic | 2 | 1st | 2 |
+| 2nd | +2 | Magical Order | 5 | 1st | 3 |
+| 3rd | +2 | Magic Sense, Cantrip Formulas (Optional) | 7 | 2nd | 6 |
+| 4th | +2 | Ability Score Improvement | 10 | 2nd | 7 |
+| 5th | +3 | — | 13 | 3rd | 9 |
+| 6th | +3 | Magical Order feature | 16 | 3rd | 10 |
+| 7th | +3 | Arcane Aide | 19 | 4th | 11 |
+| 8th | +3 | Ability Score Improvement | 22 | 4th | 12 |
+| 9th | +4 | — | 26 | 5th | 14 |
+| 10th | +4 | Magic Soul | 30 | 5th | 15 |
+| 11th | +4 | Signature Spell (6th level) | 34 | 5th | 16 |
+| 12th | +4 | Ability Score Improvement | 38 | 5th | 16 |
+| 13th | +5 | Magical Order feature, Signature Spell (7th level) | 42 | 5th | 17 |
+| 14th | +5 | Spell Mastery | 46 | 5th | 17 |
+| 15th | +5 | Signature Spell (8th level) | 50 | 5th | 18 |
+| 16th | +5 | Ability Score Improvement | 54 | 5th | 18 |
+| 17th | +6 | Signature Spell (9th level) | 58 | 5th | 19 |
+| 18th | +6 | Magical Order feature | 62 | 5th | 20 |
+| 19th | +6 | Ability Score Improvement | 66 | 5th | 21 |
+| 20th | +6 | Will of the Arcane | 70 | 5th | 22 |
+
+## Class Features
+As a Magi you gain the following class features.
+
+#### Hit Points
+___
+- **Hit Dice:** 1d6 per Magi level
+- **Hit Points at 1st Level:** 6 + Constitution modifier
+- **Hit Points at Higher Levels:** 1d6 (or 3) + Constitution modifier per Magi level after 1st
+
+#### Proficiencies
+___
+- **Armor:** None
+- **Weapons:** Simple Weapons
+- **Tools:** None
+___
+- **Saving Throws:** Wisdom and Charisma
+- **Skills:** Choose three from Arcana, Deception, Insight, Investigation, Persuasion, Religion, Sleight of Hand
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a quarterstaff or *(b)* any simple weapon
+- *(a)* a component pouch or *(b)* an arcane focus
+- *(a)* a scholar's pack or *(b)* an explorer's pack
+- A spellbook
+
+> ##### Magi and Multiclassing
+> Magi spells may not be cast with spell slots, and spells from sources that require spell slots may not be cast with magi's spell points.
+
+### Spell Weaving
+Magi are wielders of the arcane arts. You have learned to let the Weave flow through your body as an instrument of it's will, and can guide it to your will. You have a spellbook containing spells that record your findings through these arts.
+
+#### Spellbook
+At 1st level, you have a spellbook containing six 1st-level Magi spells of your choice.
+
+The spells that you add to your spellbook as you gain levels reflect the steps you've taken, as well as changes you have experienced through your meditation within the Weave. You might find other spells during your adventures. You could discover a spell recorded on a scroll in an evil wizard's chest, for example, or in a dusty tome in an ancient library.
+
+***Copying a Spell into the Book.*** When you find a Magi spell of 1st level or higher, you can add it to your spellbook if it is of a level for which you can use spell points for and if you can spare the time to decipher and copy it. Copying a spell into your spellbook involves reproducing the basic form of the spell, then deciphering the unique feeling the Weave has when you use it. You must practice the spell until you understand the sounds or gestures required, then transcribe it into your spellbook using your own notation. For each level of the spell, the process takes 2 hours and costs 50 gp. The cost represents material components you expend as you experiment with the spell to master it, as well as the fine inks you need to record it. Once you have spent this time and money, you can prepare the spell just like your other spells.
+
+***Replacing the Book.*** You can copy a spell from your own spellbook into another book-for example, if you want to make a backup copy of your spellbook. This is just like copying a new spell into your spellbook, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied spell.
+
+If you lose your spellbook, you can use the same procedure to transcribe the spells that you have prepared into a new spellbook. Filling out the remainder of your spellbook requires you to find new spells to do so, as normal. For this reason, many bookkeepers have backup spellbooks in a safe place.
+
+***The Book's Appearance.*** Your spellbook is a diary, a journal marking your journey within the Weave, noting the changes you've realized were taking place, decorated with its own decorative flourishes and margin notes. It might be a plain, functional leather volume that you received as a gift from your guide, a finely bound gilt-edged tome you found in an ancient library or even a loose collection of notes scrounged together after you lost your previous journal in a mishap.
+
+#### Preparing and Casting Spells
+The Magi table shows how many spell points you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a number of spell points equal to the spell slot required to cast the intended spell at the intended spell level. You regain all expended spell points when you finish a long rest.
+
+You prepare the list of Magi spells that are available for you to cast, choosing from the Magi spell list. To do so, choose a number of Magi spells from your spellbook equal to your Charisma modifier + your Magi level (minimum of one spell). The spells must be of a level for which you can use your spell points for. For example, if you're a 3rd-level Magi, you can cast spells at their 1st-1evel or 2nd-level. With a Charisma of 16, your list of prepared spells can include six spells of 1st or 2nd level, in any combination, chosen from your spellbook. If you prepare the 1st-level spell Magic Missile, you can cast it as a 1st-level or a 2nd-level spell. Casting the spell doesn't remove it from your list of prepared spells.
+
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of Magi spells requires time spent reflecting in your spellbook and memorizing the feeling the Weave leaves behind as you cast the spell: at least 1 minute per spell level for each spell on your list.
+
+#### Spell Limit
+Magis, while powerful through their connection to the Weave, are still bound by their physical limits in their spellcasting. There's a limit to how many Magi spells you can safely cast each day using spell points, as shown in the Spell Limit column of the Magi table. If you cast beyond this limit, you suffer one level of exhaustion.
+
+#### Spellcasting Ability
+Charisma is your spellcasting ability for your Magi spells, since the power of your magic relies on your ability to bend the Weave to your will. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a Magi spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
+
+**Spell attack modifier** = your proficiency bonus + your Charisma modifier
+
+</center>
+
+#### Ritual Casting
+To use magic for minor, trivial casting is disrespectful to your connection with the Weave, for that purpose you have an additional book known as a ritual book. This ritual book does not contain the Magi spells you know, which are instead kept in your traditional spellbook. Rather, the ritual book contains your choice of two 1st-level spells that have the ritual tag from any spell list. The spells that are in your ritual book don't count against the number of spells you know but become Magi spells for you. You can't cast the spells in your ritual book except as rituals, unless you've learned them by some other means. You can also cast any spell you have prepared as a ritual if it has the ritual tag.
+
+***Adding Ritual Spells.*** On your adventures, you can add other ritual spells to your ritual book. When you find such a spell from any class's spell list, you can add it to your ritual book if the spell's level is equal to or less than half your Magi level (rounded up) and if you can spare the time to transcribe the spell. For each level of the spell, the transcription process takes 2 hours and costs 50 gp for the rare inks needed to inscribe it.
+
+***Preparing Ritual Spells.*** When you finish a short rest, you can choose to prepare a number of ritual spells from your book equal to one third your Magi level, rounded up.
+
+***Replacing the Book.*** You can copy a ritual spell from your ritual book into another book — for example, if you want to make a backup copy of your ritual book. This is just like copying a new ritual spell into your ritual book, but faster and easier, since you understand your own notation and already know how to cast the spell. You need spend only 1 hour and 10 gp for each level of the copied ritual spell.
+
+If you lose your ritual book and do not have a replacement, you can instead attempt to replicate each ritual spell in the lost book, writing each spell in turn into a new book. This has the same cost in time and currency as duplicating a book, above, but after scribing a spell you must roll an Intelligence (Arcana) check with a DC of 8 + twice the ritual spell's level, to determine whether or not you have recalled it correctly. On a success, the ritual spell is added to your book, but on a failure the spell is incorrect and forgotten, and must be found again. To avoid this, most witches keep an extra ritual book hidden away in a secure location.
+
+#### Spellcasting Focus
+You can use an arcane focus as a spellcasting focus for your Magi spells.
+
+#### Learning Spells of 1st Level and Higher
+Each time you gain a Magi level, you can add two Magi spells of your choice to your spellbook. Each of these spells must be of a level for which you can use spell points for, as shown on the Magi table. On your adventures, you might find other spells that you can add to your spellbook.
+
+### River of Magic
+You have learned to regain some of your magical power by drawing from the remains from the Weave inside you. Once per day when you finish a short rest, you can choose to recover expended spell points. The number of spell points you can recover are equal to or less than half your Magi level (rounded up). For example, if you're a 4th-level Magi, you can recover up to two spell points.
+
+### Magical Order
+At 2nd level, you choose a path shaped by your dedication and path you've taken. You may choose between the following paths: Order of the High Arts, Order of the Weave and Order of the Root. Your choice grants you features when you choose it at 1st level and again at 6th, 14th, and 18th level.
+
+### Magic Sense
+At 3rd level, as an action, you can open yourself to the Weave, allowing you to feel the magical power around you. For 1 minute, you can see a faint aura around any visible creature or object up to 30 feet that bears magic. You can sense the presence of a magic item hidden on a person, such as in a pocket or tucked into a boot, so long as the object is not behind total cover. Your sense is blocked by 1 foot of stone, 1 inch of common metal, a thin sheet of lead, or 3 feet of wood or dirt.
+You can use this feature a number of times equal to 1 + your Charisma modifier. When you finish a long rest, you regain all expended uses.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Arcane Aide
+At 7th level, you can briefly extend the influence of the Weave to those around you. As a reaction whenever a friendly creature within 15 feet of you, excluding yourself, must make a saving throw, you can expend a number of spell points up to your Charisma modifier to give the creature a bonus to the saving throw equal to the number of points expended.
+
+You can use this feature a number of times equal to your Charisma modifier (minimum of once). You regain all expended uses when you finish a long rest.
+
+### Magic Soul
+Through extensive meditation and exposure, your soul's begun to reflect the Weave that possesses you. Starting at 10th level, You have advantage on all Intelligence, Wisdom, and Charisma saves against spells and other magical effects.
+
+### Signature Spells
+At 11th level, your extended exposure to the Weave has granted you a glimpse of true magic for you to claim your own. Choose one 6th-level spell from the Magi spell list as this signature. You can cast your signature spell once without expending spell points. You must finish a long rest before you can do so again.
+
+At higher levels, you gain more Magi spells of your choice that can be cast in this way: one 7th-level spell at 13th level, one 8th-level spell at 15th level, and one 9th-level spell at 17th level. You regain all uses of your Signature spells when you finish a long rest.
+
+### Spell Mastery
+At 14th level, you've gained a mastery over the Weave within you, augmenting your abilities. When you cast a spell with your spell points, you can expend additional spell points to augment its effects for this casting, mixing the raw stuff of magic into your spell to amplify it. The effect depends on the amount of spell points you expend.
+- An additional spell point can increase the spell's raw force. If you roll damage for the spell when you cast it, increase the damage against every target by 2d10 force damage. If the spell can deal damage on more than one turn, it deals this extra force damage only on the turn you cast the spell.
+- An additional spell point (2 total) can increase the spell's range. If the spell's range is at least 30 feet, it becomes 1 mile.
+- An additional spell point (3 total) can increase the spell's potency. Increase the spell save DC by 2.
+
+### Will of the Arcane
+At 20th level, you can draw from the reserve of mystical powers above, calling on those powers to regain expended spell points. You can spend 1 minute focusing your mind to regain up to half your expended spell points from your Spell Weaving feature. Once you regain spell points with this feature, you must finish a long rest before you can do so again.
+
+## Magi Spell List
+This section includes all spells available to the magi class.
+
+##### Cantrips (0 Level)
+- Acid Splash
+- Booming Blade
+- Chill Touch
+- Control Flames
+- Fire Bolt
+- Frostbite
+- Green-Flame Blade
+- Lightning Lure
+- Mold Earth
+- Poison Spray
+- Produce Flame
+- Project Blade
+- Ray of Frost
+- Sacred Flame
+- Shape Water
+- Shocking Grasp
+- Sword Burst
+- Thunderclap
+
+##### 1st Level
+- Absorb Elements
+- Burning Hands
+- Chaos Bolt
+- Chromatic Orb
+- Corruption
+- Earth Tremor
+- Frost of Fingers
+- Guiding Bolt
+- Hellish Rebuke
+- Ice Knife
+- Inflict Wounds
+- Jim's Magic Missile
+- Magic Missile
+- Magic Weapon
+- Ray of Sickness
+- Tasha's Caustic Brew
+- Tasha's Hideous Laughter
+- Thunderwave
+- Witch Bolt
+
+##### 2nd Level
+- Aganazzar's Scorcher
+- Cloud of Daggers
+- Coldfire Blast
+- Continual Flame
+- Dragon's Breath
+- Dust Devil
+- Flame Blade
+- Flaming Sphere
+- Heat Metal
+- Maxillian's Earthen Grasp
+- Melf's Acid Arrow
+- Mind Spike
+- Moonbeam
+- Phantasmal Force
+- Scorching Ray
+- Shadow Blade
+- Shatter
+- Snilloc's Snowball Storm
+- Spiritual Weapon
+- Tasha's Mind Whip
+
+##### 3rd Level
+- Call Lightning
+- Elemental Weapon
+- Erupting Earth
+- Fireball
+- Flame Arrows
+- Fly
+- Fox's Fangs
+- Frozen Lance
+- Galder's Tower
+- Glyph of Warding
+- Hunger Of Hadar
+- Lightning Arrow
+- Lightning Bolt
+- Melf's Minute Meteors
+- Psionic Blast
+- Pulse Wave
+- Sleet Storm
+- Thunder Step
+- Tidal Wave
+
+##### 4th Level
+- Ashen Pack
+- Blight
+- Ego Whip
+- Evard's Black Tentacles
+- Fabricate
+- Fire Shield
+- Ice Storm
+- Mordenkainen's Faithful Hound
+- Phantasmal Killer
+- Shadow of Moil
+- Sickening Radiance
+- Storm Sphere
+- Unspoken Agreement
+- Vitriolic Sphere
+- Widogast's Web of Fire
+
+##### 5th Level
+- Bigby's Hand
+- Blood Sacrifice
+- Circle of Power
+- Cloudkill
+- Cone of Cold
+- Dawn
+- Destructive Wave
+- Falling Star
+- Flame Strike
+- Geas
+- Immolation
+- Maelstrom
+- Steel Wind Strike
+- Wall of Light
+
+##### 6th Level
+- Blade Barrier
+- Chain Lightning
+- Disintegrate
+- Gravity Fissure
+- Harm
+- Investiture of Flame
+- Investiture of Ice
+- Investiture of Wind
+- Otiluke's Freezing Sphere
+- Psychic Crush
+- Reflective Defense
+- Sunbeam
+- Wall of Ice
+- Wall of Thorns
+
+##### 7th Level
+- Crown of Stars
+- Delayed Blast Fireball
+- Fire Storm
+- Mordenkainen's Sword
+- Power Word: Pain
+- Prismatic Spray
+- Whirlwind
+
+##### 8th Level
+- Antimagic Field
+- Dark Star
+- Earthquake
+- Illusionary Dragon
+- Incendiary Cloud
+- Maddening Darkness
+- Reality Break
+- Tsunami
+- Un Apollo's Instant Library
+
+##### 9th Level
+- Blade of Disaster
+- Mass Heal
+- Meteor Swarm
+- Power Word: Kill
+- Prismatic Wall
+- Ravenous Void
+- Storm of Vengeance
+- Time Stop
+- Unlimited Blade Works

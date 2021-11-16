@@ -1,0 +1,28 @@
+### Mhachi
+The Machi are mages who specialize in the destructive arts. The Mhachi are the ones who created the art of Black Magic. Through deep introspection, they've learned to use their manafont to increase their destructive power.
+
+#### Expanded Spell List
+Your specialization as a Mhachi lets you choose from an expanded list of spells when you learn a blackmage spell. The following spells are added to the blackmage spell list for you.
+
+##### Expanded Spell List
+| Spell Level | Spell |
+|:----:|:-------------|
+| 1st  | *Chromatic Orb, Witch Bolt* |
+| 2nd  | *Aganazzar's Scorcher*, *Snilloc's Snowball Swarm* |
+| 3rd | *Call Lightning, Sleet Storm* |
+| 4th | *Ice Storm, Storm Sphere* |
+| 5th | *Cone of Cold, Immolation* |
+
+#### Unstable Aether
+Beginning at the 2nd level, when you cast a spell, you may spend one mana point to reroll any damage die which resulted in a 1 or 2. You must use the resulting rolls.
+
+#### Polygot
+Beginning at the 6th level, your magical studies have warped your mind and understanding of the world. You can read all writing.
+
+#### Aetherial Manipulation
+Beginning at the 10th level, you are able to more effectively manipulate your Leylines. Your movement is no longer restricted when making use of your Leylines feature. Casting a spell with the effect of Leylines still immediately ends your turn.
+
+Additionally, if you expended a spell slot during your last turn, as a bonus action, you may spend one mana point to magically teleport back to the location you were standing in when you cast the spell if the space is unoccupied.
+
+#### Devestating Force
+Beginning at the 14th level, when you roll damage for a spell and roll the highest number possible on any of the dice, choose one of those dice, roll it again and add that roll to the damage. You can use this feature a number of times equal to your Intelligence modifier (a minimum of once). You regain any expended uses when you finish a long rest.

@@ -1,0 +1,92 @@
+## Bonded
+[**Source:** *The Bonded*](https://homebrewery.naturalcrit.com/share/cMuAlku3gD2X)
+
+##### The Bonded
+| Level | Proficiency Bonus | Features | Eldritch Mutations|
+|:---:|:---:|:---|:---:|
+| 1st | +2 | Mutation Points, Eldritch Mutations| 2|
+| 2nd | +2 | Imperfect Regeneration | 2 |
+| 3rd | +2 | Bound Relationship | 2 |
+| 4th | +2 | Ability Score Improvement | 2 |
+| 5th | +3 | Extra Attack | 2 |
+| 6th | +3 | Latent Mutations | 2 |
+| 7th | +3 | Bound Relationship    Feature | 2 |
+| 8th | +3 | Ability Score Improvement | 2 |
+| 9th | +4 | — | 3 |
+| 10th | +4 | Acrid Blade | 3 |
+| 11th | +4 | Quick Recuperation | 3 |
+| 12th | +4 | Ability Score Improvement | 3 |
+| 13th | +5 | — | 4 |
+| 14th | +5 | Bound Relationship Feature | 4 |
+| 15th | +5 | — | 4 |
+| 16th | +5 | Ability Score Improvement | 4 |
+| 17th | +6 | Acrid Blade Improvement     | 5 |
+| 18th | +6 | Bound Relationship Feature | 5 |
+| 19th | +6 | Ability Score Improvement | 5 |
+| 20th | +6 | Hypermutation | 5 |
+
+## Class Features
+As a Bonded, you gain the following class features
+#### Hit Points
+___
+- **Hit Dice:** 1d10 per Bonded level
+- **Hit Points at 1st Level:** 10 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d10 (or 6) + your Constitution modifier per Bonded level after 1st
+
+#### Proficiencies
+___
+- **Armor:** Light Armor, Shields
+- **Weapons:** Simple and Martial Weapons
+- **Tools:** None
+___
+- **Saving Throws:** Strength, Constitution
+- **Skills:** Choose two from Athletics, Insight, Acrobatics, Perception, Medicine, and Survival
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a martial weapon and a shield or *(b)* two martial weapons
+- *(a)* five javelins or *(b)* any simple melee weapon
+- *(a)* Leather armor or *(b)* a Chain Shirt
+- *(a)* an explorer's pack or *(b)* a monster hunters kit
+
+### Mutation Points
+Starting at 1st level, you have the ability to mutate your body, this is represented by your Mutation Points.
+
+You have a number of Mutation points equal to your Bonded Level and regain all expended Mutation points whenever you finish a short or long rest. you take damage equal to 1d6 for every Mutation Point you spent. This damage cannot be reduced in any way unless stated otherwise. Damage taken from this feature cannot reduce to 0 hit points.
+
+### Eldritch Mutations
+Being bound to this creature has fundamentally changed your body. This is mostly beneficial to you. At 1st level, you may choose 2 Eldritch Mutations to prepare. You can prepare more Eldritch Mutations as you level up. You can swap your prepared Eldritch Mutations at the end of a long rest.
+
+If a Mutation requires a creature to make a saving throw, the DC is equal to 8 + your Constitution Modifier + your Proficiency Bonus.
+
+When you spend Mutation points on a Eldritch Mutation, certain effects will occur depending on how many you spend on it.
+
+### Imperfect Regeneration
+Starting at Second level, your body regenerates faster than normal due to your relationship with your bonded creature. You have a pool of d4's equal to your Bonded Level, regaining all expended die on a long rest. As an action, you may choose to roll a number of these die up to your constitution modifier. If you roll a 4 on the dice, you may choose to either roll an additional d4 or regain one expended mutation point.
+
+### Bound Relationship
+Throughout your travels, this entity that you have bonded with will form a relationship with you. They will help you stay alive, but how much they enjoy your presence is another story. Beginning at Third level, choose either Symbiote or Parasite. Your choice will grant you features at 3rd, 7th, 14th, and 18th level.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th, and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+Using the optional feats rule, you can forgo taking this feature to take a feat of your choice instead.
+
+### Extra Attack
+Beginning at 5th level, you can attack twice, instead of once, whenever you take the Attack action on your turn.
+
+### Latent Mutations
+Starting at 6th level, at the end of each long rest, you may select one eldritch mutation. The number of mutation points you have to spend on it in order for it to be active is reduced by 1.
+
+### Acrid Blade
+Beginning at 10th level, For every mutation point you are below your bonded level, your attacks deal an additional 1 acid damage. Beginning at 17th level, you add 1d4 acid to your damage instead of 1 acid damage.
+
+### Quick Recuperation
+Starting at 11th level, whenever you take a short rest, you regain all of your Imperfect Regeneration die.
+
+### Hypermutation
+Beginning at 20th level, you have learned how to push your body and mutate it rapidly, becoming incredibly powerful. As an action, you immediately gain mutation points equal to your constitution modifier. For one minute you gain the following benefits:
+- When you take the attack action on your turn, you may make one additional attack, for a total of three attacks.
+- You regain a number of dice from your imperfect regeneration equal to your constitution modifier at the start of each turn.
+- You may use Imperfect Regeneration as a bonus action instead of an action.
+
+When this effect ends, you cannot use this feature again until you finish a long rest.

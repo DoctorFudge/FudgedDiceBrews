@@ -1,0 +1,47 @@
+### Music Domain
+[**Source:** *Music Domain: A Musical Subclass for Clerics*](https://drive.google.com/file/d/14fx7ZqhtuCeyXzI20UDiGuJzgisT8EzH/view)
+
+Music is everywhere, a universal language, that everyone understands. Whether it's a lonely song sung at night are or raucous chant in crowded tavern, music can help connect with ourselves and each other. Clerics of the Music Domain work on behalf of the gods using divine song to spread this message to any who will hear it. Almost any kind of deity can grant the powers of this domain. Some gods hold this portfolio along with others, such as Corellon Larethian, Branchala, and Olidammara, while others represent it much more specifically, like Milil and Eilistraee.
+
+##### Music Domain Spells
+| Cleric Level | Spells |
+| :-: | :-- |
+| 1st | <em>dissonant whispers, healing word</em> |
+| 3rd | <em>calm emotions, enthrall</em> |
+| 5th | <em>mass healing word, tongues</em> |
+| 7th | <em>aura of purity, compulsion</em> |
+| 9th | <em>dawn, legend lore</em> |
+
+#### Bonus Proficiencies
+When you choose this domain at 1st level, you gain proficiency with two musical instruments of your choice. You also gain proficiency with the Performance skill, and your proficiency bonus is doubled for any checks you make with it.
+
+You can use musical instruments you are proficient with as a spellcasting focus for your cleric spells.
+
+#### Catchy Tune
+Also at 1st level, you can sing magically beneficial tunes that move from one creature to the next. As an action, you sing a magically catchy tune to a creature other than yourself within 30 feet of you who can hear you. That creature's mind is filled with the Catchy Tune. Once within the next minute, the creature can add your Wisdom modifier to one ability check or saving throw it makes. The Catchy Tune then leaves their mind, and they can choose another creature other than themselves within 30 feet that can hear them. That creature's mind is filled with the Catchy Tune.
+
+The Catchy Tune expires after it has been used a number of times equal to your proficiency bonus.
+
+Once you use this feature, you can't use it again until you finish a long rest.
+
+#### Channel Divinity: Summon Song
+Starting at 2nd level, you can use your Channel Divinity to weave music into a sentient form to aid you.
+
+As an action, you present your holy symbol, and summon a living song in an unoccupied space you can see within 30 feet of you. This corporeal form uses the Living Song stat block (see next page). When you use this feature, choose a vibe: Disrupting, Exciting, Inspiring, or Soothing. The creature takes a vague music-enveloped form of your choice associated with the chosen vibe, which determines one of the traits in its stat block. The creature disappears after 10 minutes or when it drops to 0 hit points.
+
+The living song is an ally to you and your companions. In combat, it shares your initiative count, but it takes its turn immediately after yours. It obeys your verbal commands (no action required by you). If you don't issue any, it takes the Dodge action and uses its move to avoid danger.
+
+#### Unsilenceable
+When you reach 6th level, you have a divine connection with sound. When a spell or effect would cause you to become deafened or magically silenced, you can choose to ignore that part of the effect.
+
+Additionally, you can use a bonus action to end the deafened condition or a silencing effect on yourself or a creature you touch.
+
+#### Potent Spellcasting
+Starting at 8th level, you add your Wisdom modifier to the damage you deal with any cleric cantrip.
+
+#### Celestial Chorus
+At 17th level, you can call on the heavenly host to help perform a song so filled with divinity that it enthralls all who hear it. As an action, you present your holy symbol and summon a choir of celestial voices to give a divine performance audible out to 30 feet. Each creature of your choice that hears the song must succeed on a Wisdom saving throw against your cleric spell save DC or be charmed by you until the end of your next turn. A charmed creature's speed drops to 0, and it is incapacitated and visibly enraptured by the performance.
+
+On subsequent turns, you can use your action to maintain the chorus and this effect, extending its duration until the end of your next turn. The effect ends on a creature if you move more than 30 feet away from it, if the creature can't hear you, if the creature is forced to make a saving throw, or if the creature takes damage.
+
+Once you use this feature, you can't use it again until you finish a long rest.

@@ -1,0 +1,19 @@
+### Mystic Marksman
+The Mystic Marksman focuses on using the arcane power that suffuses the material plane to supplement their firepower. Those that choose this order are typically erudite in nature and use their intellect to overcome their obstacles.
+
+#### Arcane Font
+At 3rd level, you learn magical theory and can perform basic arcane feats. You gain proficiency in the Arcana skill and learn the *prestidigitation* cantrip.
+
+#### Bullet Bending
+Starting at 7th level, you are able to perform minor feats of telekinesis in order to redirect stray bullets. When you make an attack roll and miss, you can use your bonus action to reroll the attack roll against another target within 20 feet of the original target. Your new target must not be closer to you than your original target.
+
+#### Linked Ammunition
+When you reach 10th level, you form a magical connection with your bullets. As an action, you may cast *clairvoyance* or *locate object*, focused on a bullet you have been in contact with within a number of hours equal to your Intelligence modifier (minimum of once). Once you use this feature, you can't use it again until you finish a short or long rest. You cannot use this feature on a bullet that is embedded in a creature's flesh.
+
+#### Mystic Marksman
+Beginning at 13th level, your mental precision helps you identify your target's vulnerabilities. You can add your Intelligence modifier to damage rolls you make with firearms.
+
+#### Concussive Shot
+Starting at 18th level, you can imbue your bullets with raw arcane power. When you roll an attack roll and hit, you deal damage as normal and can force any creatures within feet of your target to make a Dexterity saving throw. The DC is equal to your Trick Shot DC. On failure, the creature takes half of the damage dealt to the original target, of a type of your choosing.
+
+You can choose to infuse your bullets with a damage type of your choice, choosing from: fire, cold, lightning or necrotic damage. You may change your choice whenever you finish a short or long rest.

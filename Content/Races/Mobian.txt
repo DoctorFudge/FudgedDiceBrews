@@ -1,0 +1,145 @@
+## Mobian
+[**Source:** *Mobian*](https://homebrewery.naturalcrit.com/share/7oPpqLOluYfE)
+
+Mobians are characterized by being anthropomorphic animals, possessing a wide range of aspects, subspecies and colors. Physically they are characterized by a curious anatomy, as they have bodies of various shapes, some more muscular, others smaller, thinner, more corpulent etc. Most possess the quality of having thin legs and arms, and disproportionately large heads.
+
+Mobians (especially males) do not usually wear a lot of clothes. The most common to see on them is the use of footwear that are usually of a large size, and similarly styled gloves. Others wear more complete clothing, such as dresses and jackets. It is also common for them to use accessories such as necklaces, bracelets, headphones and chains.
+
+Mobians are usually no more massive than a halfling, regardless of the animal or being they represent, so it is not uncommon to see that they are able to move in any environment.
+
+The most outstanding quality of mobians, is that many possess powers and abilities, both physical and magical, ranging from extreme speed to super strength. It is rare to find a mobian having not adventured at some point in their life.
+
+### Mobian Names
+Mobians sometimes will have the names of a human, they take after them highly after all. But more often, they will have one name originating from one of a variety of languages that is inspired by what the mobian does best, or becomes known for. They also often will have a suffix to their name, based on their subspecies, I.E, Sonic the Hedgehog.
+
+**Male Names.** Aaron, Agustus, Amadeus, Antoine, Arthur, Ash, Bark, Bean, Big, Charles, Charmy, Dimitri, Eclipse, Elias, Espio, Geoffrey, Harvey, Hawking, Jack, Jacques, Jet, Jian, Jordan, Jules, Ken, Khan, Knuckles, Locke, Manic, Mathias, Maximilian, Mighty, Miles, Mephiles, Merlin, Nack, Nigel, Ogilvie, Pachacamac, Patch, Ray, Razor, Rob, Rotor, Rutan, Scourge, Shadow, Shard, Silver, Skye, Sonic, Spectre, Spike, Storm, Thrash, Tobor, Trevor, Vector
+
+**Female Names.** Abby, Abyss, Angelica, Aleena, Alexis, Alicia, Amy, Barby, Belle, Bernadette, Blade, Blaze, Bunker, Bunnie, Carrotia, Cassia, Clove, Coral, Cream, Dulcy, Echo, Erma, Fiona, Gold, Hershey, Honey, Jani, Juanita, Julie, Lara, Leeta, Lien, Lizzy, Lupe, Lyco, Maria, Marine, Martha, Matilda, Megan, Melody, Mina, Misty, Moon, Nicole, Penelope, Rosemary, Rosy, Rouge, Saffron, Sally, Salma, Sasha, Shade, Sonar, Sonia, Sticks, Tikal, Udina, Uma, Vanilla, Wave, Zeta, Zooey
+
+### Mobian Racial Traits
+Your Mobian character has a few traits in common with other mobians, although notably Mobians get much of their features from their subrace.
+
+***Ability Score Increase.*** Mobians are all highly charismatic, whether they choose to be intimidating, kind, or funny, or anything in between. Your charisma score increases by 1.
+
+***Age.*** A Mobian ages at about the same rate as a human, reaching adulthood in their teens.
+
+***Alignment.*** Mobians cover the whole spectrum of alignment, some are evil, some are good, some chaotic, others more neutral. 
+
+***Size.*** Mobians are rarely over 3 and a half feet tall, often being shorter, and weigh no more than 80 pounds. Your size is Small.
+
+***Speed.*** A Mobian is often very agile and speedy, for their size. Your base walking speed is 30 feet.
+
+***Languages.*** You speak Common and one other language of your choice as a Mobian. Mobians, like humans, will take on the languages of those around them the most.
+
+### Subraces
+Mobians come in all kinds of species and subraces. Choose one of the following that your character represents.
+
+#### Armadillo
+Able-bodied and posessing shells, armadillos are usually more peaceful and focused than their fellow Mobians despite this. 
+
+***Ability Score Increase.*** Armadillos have a tough shell encasing a large portion of their bodies, and are also very strong. Either your Strength or Constitution score increases by 2. 
+
+***Shell Armor.*** You have a large shell. Your shell provides you protection; you have a base AC of 17 (your Dexterity modifier doesn't affect this number). You gain no benefit from wearing armor, but if you are using a shield, you can apply the shield's bonus as normal.
+
+***Great Brawn.*** You have a knack for lifting things and having great strength. You gain proficiency in the Athletics skill.
+
+#### Bird
+There are all kinds of birds within the Mobian race, however due to their anthropomorphism  most have lost flight. However, they retain their quick-thinking and agility.
+
+***Ability Score Increase.*** Birds, ranging from Hawks to Swifts to even Eagles, all have a relatively high level of intelligence, and many retain bird-like agility as well. Either your Dexterity or Intelligence score increases by 2.
+
+***Bird-Like Agility.*** Birds have lost flight in their evolution to Mobians, but they do retain feathers, and some control of falling. As well as agility. You gain one of the following options at 1st level, and the other at 5th level:
+
+* Your base movement speed increases to 35 feet.
+
+* When you fall and aren't incapacitated, you can subtract up to 100 feet from the fall when calculating falling damage, and you can move up to 2 feet horizontally for every 1 foot you descend.
+
+#### Cat
+Feline in form, as well as nature, not much needs to be said about Cat Mobians. Fast, agile, and fiercely independent most of the time.
+
+***Ability Score Increase.*** Cats have high agility, but also don't like relying on others to do the fighting, being indepenedent like this requires some wisdom for it to work. Either your Dexterity or Wisdom scores go up by 2.
+
+***Cat's Claws.*** Cats have sharp, retractable claws, and Mobian Cats are not any different. Because of your claws, you have a climbing speed of 20 feet. In addition, your claws are natural weapons, which you can use to make unarmed strikes. If you hit with them, you deal slashing damage equal to 1d4 + your Dexterity modifier, instead of the bludgeoning damage normal for an unarmed strike.
+
+***Lithe Form.*** You gain proficiency in the Acrobatics skill, as Cats are often lithe and flexible. In addition, your long jump is up to 25 feet and your high jump is up to 15 feet, with or without a running start.
+
+#### Echidna
+An exceedingly rare race of Mobians, Echidna are often very hardy and physically powerful. 
+
+***Ability Score Increase.*** Hardy and physically powerful, as an Echidna your character's Strength or Constitution scores increase by 2.
+
+***Echinda Claws.*** Echidna have large claws, which they can use for climbing and slashing. You gain a climbing speed of 30 feet and you gain a unarmed strike that deals 1d4 + your strength modifier slashing damage. 
+
+***Great Brawn.*** You have a knack for lifting things and having great strength. You gain proficiency in the Athletics skill.
+
+#### Fox
+Foxes of Mobius often possess at least one bushy tail, and are also generally the smart ones in a group. 
+
+***Ability Score Increase.*** Foxes are generally very intelligent, and have a keen mind. Your Intelligence or Wisdom score goes up by 2.
+
+***Foxy Variation.*** Choose one of the below abilities, you have this ability and cannot gain the other.
+
+* ***More Tails.*** A Fox Mobian is not always born with only 1 tail. Sometimes they are born with 2, or rarely even more. You gain a flying speed of half your movement speed, rounded up, and are under the effects of the Feather Fall spell as long as you are conscious and aware of your surroundings.
+
+* ***Clever.*** You gain one skill proficiency of your choice, one tool proficiency of your choice, and fluency in one language of your choice. Then, choose one skill in which you have proficiency. You gain expertise with that skill, which means your proficiency bonus is doubled for any ability check you make with it. The skill you choose must be one that isn't already benefiting from a feature, such as Expertise, that doubles your proficiency bonus.
+
+#### Longleg Hedgehog
+
+***Ability Score Increase.*** Either your Dexterity and Charisma scores each increase by 1, or your dexterity score increases by 2.  
+
+***Superior Mobility.*** You are exceptionally speedy and agile. You gain the following benefits:
+
+* Your base movement speed increases to 40 feet.
+* When you use the Dash action, difficult terrain doesn't cost you extra movement on that turn.
+* When you make a melee attack against a creature, you don't provoke opportunity attacks from that creature for the rest of the turn, whether you hit or not.
+
+***Natural Adeptness*** You gain proficiency in 2 of the following skills: Acrobatics, Athletics, Performance, Persuasion, and Intimidation.
+
+#### Stout Hedgehog
+***Ability Score Increase.*** Your Constitution or Dexterity Scores go up by 2. Alternatively, you may put your Constitution and Dexterity scores up by 1 each.
+
+***Curl Up.*** As a bonus action you can roll up into a ball. While in a ball you gain the following benefits:
+ * Your speed increases by 5 and you gain the benefits of taking the Dash and Disengage actions.
+ * If you move at least 10 feet in a straight line immediately before making an unarmed strike, you gain a +5 bonus to the attack’s damage roll.
+ 	* If you move at least 50 feet in a straight line, you instead get a +10 to the attack's damage roll.
+ * You cannot make attacks with weapons, cast spells, or interact with objects.
+
+You can exit your ball form willingly as a free action or forcefully if you're hit by an attack. You must spend a bonus action if you wish to stay in this form on subsequent turns.
+
+You may use this ability a number of times equal to your constitution modifier per long rest.
+
+#### Wolf
+Wolf Mobians are known for their resilience, stamina, but also their aggressive and wild nature. 
+
+***Ability Score Increase.*** Pack creatures and posessing high stamina, a Wolf is a variable species. Your Constitution score goes up by 2. Alternatively, your Constitution and Charisma scores each increase by 1. 
+
+***Far Roamer.*** Wolves are hardy by nature, and possess great stamina, seemingly never tiring. They also posess iron wills. You have advantage on saving throws against being made to sleep or being charmed. 
+
+***Darkvision.*** You have darkvision out to 60 feet. You cannot discern color in darkness, only shades of grey.
+
+#### Rabbit
+Known for their jumping ability and also agility, Rabbits are also perceptive creatures. 
+
+***Ability Score Increase.*** Rabbits are rather wise, as well as having a great jumping skill. Either your Strength or Wisdom scores go up by 2. 
+
+***Jumpy.*** Your long jump is up to 25 feet and your high jump is up to 15 feet, with or without a running start. 
+
+***Rabbit's Perception.*** You gain proficiency in the Perception skill, and advantage on wisdom (Perception) checks involving hearing.
+
+#### Flying Squirrel
+Although they are called Flying Squirrels, like Bird Mobians these folk cannot truly fly, instead gliding. But they can still climb, being arboreal creatures after all. 
+
+***Ability Score Increase.*** Your Dexterity Score increases by 2.
+
+***Sugar Glide.*** Squirrel Mobians are able to glide short distances, from tree to tree. You have a climbing speed of 20 feet, and  when you fall and aren't incapacitated, you can subtract up to 100 feet from the fall when calculating falling damage, and you can move up to 2 feet horizontally for every 1 foot you descend. 
+
+In addition, you gain proficiency in the Acrobatics skill. 
+
+#### Earth Squirrel
+Earth Squirrels are quicker than their flying folk, imagine that. They also love the thrills of life even more.
+
+***Ability Score Increase.*** Your Charisma and Dexterity scores each increase by 1. 
+
+***Superior Legs.*** Earth Squirrels have a base walking speed of 35 feet, and have a base climbing speed of 25 feet.
+
+***Chitter Chatter.*** Earth Squirrels are very socially inclined! They can talk and talk. You gain proficiency in the Deception, Performance, or Persuasion skills.

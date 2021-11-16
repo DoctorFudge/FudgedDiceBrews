@@ -1,0 +1,22 @@
+### Pathway of the Baelnorn
+When an elven mage is nearing the end of their lives they are sometimes called on to become something greater. They are asked to live longer than their time would allow them so they may continue important studies for the elven people. There are times where the elven magics used to make a Baelnorn have been spread further, so seeing a Baelnorn outside of the elven people is possible but rare. In recent times a Baelnorn is no longer made, but are instead converted through a sanctifying ritual. The impurities of undeath are cleansed from the lich to create a freshly awakened Baelnorn.
+
+#### Gift of the Seldarine
+When you choose this pathway at 3rd level, your phylactery feature changes. You no longer have a phylactery and all soul charges flow into your body instead. You must spend 24 hours converting the energy inside the phylactery into your enriched form. This process transfers all the souls residing inside the phylactery. You are required to use an arcane focus to cast spells. Suitable creatures for your phylactery have further limitations
+- The creature is not an undead or construct.
+- The creature has a Challenge Rating 1/2 or higher.
+- The creature can understand at least one language.
+- The creature must be evil aligned or is known to have committed a vile act that you bore witness to or the creature willingly sacrifices itself to you in death.
+
+Also when you die your body reforms through the magic of the Seldarine over an 8 hour period. You cannot reform another body until another 7 days have passed.
+
+#### Resilient Form
+Also at 3rd level, as a reaction when you take damage of a specific type you can use 1 soul charge to become resistant to that damage type for 1 minute.
+
+#### Touch of Eternal Rest
+At 6th level, you may use an action to make a melee touch attack against a creature within 5 feet. The creature must succeed on a Constitution saving throw with a DC equal to 8 + your Intelligence modifier + your proficiency bonus or fall unconscious for 1d4 turns. While in this state, the creature is intangible between the ethereal plane and your own and it cannot be targeted by other effects. In this state you can send a nightmare to the creature, the nightmare causes 1d10 psychic damage to the creature at the end of each of its turns. When the effect ends the creature is unaware of what happened and has no recollection of the nightmare or dream it experienced. You may use this ability a number of times equal to your Intelligence modifier and regain all uses after you finish a long rest.
+
+You can also use this effect on an ally, sending the ally a dream instead of a nightmare. While in the dream the creature restores 1d10 hit points at the end of each of its turns.
+
+#### Image of Ancestry
+At 14th level, the Baelnorn can consume several of its charges to create a duplicate of itself from its replacement body. For every 3 charges consumed the duplicate remains for one turn. The duplicate appears in an unoccupied space within 5 feet of you, it cannot move or be moved from this space. The duplicate mimics your action on each of its turns. It can pick different targets for these actions. When it casts a spell it uses your spell slots to do so. The duplicate's attacks make use of your spell save DC and attack bonuses. The duplicate can be targeted, it has your armor class and half of your hit points. If the duplicate is reduced to 0 hit points it vanishes instantly. You may use this ability once and regain use of it after you finish a long rest.

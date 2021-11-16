@@ -1,0 +1,75 @@
+### Way of the Kabuki
+[**Source:** *The Complete Devout Handbook*](https://drive.google.com/file/d/1TEY7P4FVWD_-Ky5YrrK92__yYOwTY3w-/view)
+
+The Way of Kabuki is not practiced or taught in a stationary monastery, but in traveling theater troupes that seek to delight, awe, and shock audiences with bizarre, over-the-top performances. Monks of this tradition wear gaudy, avant-garde costumes with mask-like face paint, and utilize exaggerated movements and sounds to put on dance-dramas featuring outlandish humor and often ribald scenarios. They use stage names, and many actor monks go through several over the span of their career, reinventing themselves as they see fit, or as offended nobles and politicians demand retribution for perceived insults.
+
+Despite its appearance of irreverence and iconoclasm, the Way of Kabuki is rooted in a long tradition of honor and respect for the art and magic of showmanship and fellow actors. Performer monks too old to continue traveling, or wanting to use a new stage name, take on an apprentice and teach them the art of kabuki, eventually passing their moniker to the young performer in elaborate ceremonies called shumei. This young monk will then spend their life continuing the legacy of the name, and eventually pass it to an apprentice of their own.
+
+#### Theater Training
+When you choose this tradition at 3rd level, you gain proficiency in your choice of one of the following skills: Acrobatics, Insight, Performance, or Sleight of Hand. Alternatively you can choose to gain proficiency with disguise kits or an instrument of your choice.
+
+#### Spellcasting
+Also at 3rd level, you tap into the enthralling magic of performance, allowing you to cast spells. See Chapter 10 in the Player's Handbook for the general rules of spellcasting, and chapter 11 in the same for the bard spell list.
+
+***Cantrips.*** You learn two cantrips of your choice from the bard spell list. You learn another bard cantrip of your choice at 10th level.
+
+***Spell Slots.*** The Kabuki Spellcasting table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these spells, you must expend a spell slot of the spell's level or higher. You regain all of your expended spell slots when you finish a long rest.
+
+##### Kabuki Spellcasting
+| Monk Level | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 3rd | 2 | 3 | 2 | — | — | — |
+| 4th | 2 | 4 | 3 | — | — | — |
+| 5th | 2 | 4 | 3 | — | — | — |
+| 6th | 2 | 4 | 3 | — | — | — |
+| 7th | 2 | 5 | 4 | 2 | — | — |
+| 8th | 2 | 6 | 4 | 2 | — | — |
+| 9th | 3 | 6 | 4 | 2 | — | — |
+| 10th | 3 | 7 | 4 | 3 | — | — |
+| 11th | 3 | 8 | 4 | 3 | — | — |
+| 12th | 3 | 8 | 4 | 3 | — | — |
+| 13th | 3 | 9 | 4 | 3 | 2 | — |
+| 14th | 3 | 10 | 4 | 3 | 2 | — |
+| 15th | 3 | 10 | 4 | 3 | 2 | — |
+| 16th | 3 | 11 | 4 | 3 | 3 | — |
+| 17th | 3 | 11 | 4 | 3 | 3 | — |
+| 18th | 3 | 11 | 4 | 3 | 3 | — |
+| 19th | 3 | 12 | 4 | 3 | 3 | 1 |
+| 20th | 3 | 13 | 4 | 3 | 3 | 1 |
+
+***Spells Known of 1st-Level and Higher.*** You know three 1st-level bard spells of your choice, two of which you must choose from the enchantment and illusion spells on the bard spell list.
+
+The Spells Known column of the Kabuki Spellcasting table shows when you learn more bard spells of 1st level or higher. Each of these spells must be an enchantment or illusion spell of your choice, and must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.
+
+The spells you learn at 8th, 14th, and 20th level can come from any school of magic.
+
+Whenever you gain a level in this class, you can replace one bard spell you know with another spell from the bard spell list. The new spell must be of a level for which you have spell slots, and must be an enchantment or illusion spell, unless you're replacing the spell you gained at 8th, 14th, or 20th level.
+
+***Spellcasting Ability.*** Wisdom is your spellcasting ability for your bard spells, since the effectiveness of your magic depends on your ability to understand your audience's proclivities as you perform. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom when setting the saving throw DC for a bard spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+
+</center>
+
+<center>
+
+**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+
+</center>
+
+#### Outlandish Showman
+Starting at 6th level, you can use your ki to enliven your performances. You gain the following benefits.
+
+***Ki-Fueled Flourish.*** When you make a Charisma (Performance) check, you can spend 1 ki point to gain advantage on the roll.
+
+Projection Specialist. You can spend 1 ki point as an action to make your voice boom up to three times as loud as normal for 10 minutes. You can end this effect at any time (no action required by you).
+
+***Distracting Defense.*** When you use your Patient Defense, you can spend an additional 1 ki point to engage in a distracting performance. If you do, until the beginning of your next turn, when an enemy makes an attack against a creature within 5 feet of you, it makes the attack roll with disadvantage if it can see or hear you. This ability has no effect on a creature that is immune to being charmed.
+
+#### Performance Arts
+At 11th level, you gain the ability to combine your magic with your martial skills, creating a grander show. Casting a cantrip with a casting time of 1 action counts as taking the Attack action for the purpose of your Martial Arts' bonus action attack and using your Flurry of Blows. Additionally, when you cast a spell of 1st level or higher with a casting time of 1 action on your turn, you can spend 1 ki point and use your bonus action to gain a bonus to your AC until the start of your next turn. The bonus is equal to the level at which you cast the spell.
+
+#### Consummate Performer
+Starting at 17th level, you learn to use your audience's delight to fuel your spiritual power. When you use your action to cast a bard spell of 1st level or higher, you can use your bonus action this turn to bask in your audience's energy. When you do, you regain a number of your expended ki points equal to the level of the spell slot you used to cast the spell, up to your ki point maximum. At least one other creature must have seen or heard you cast the spell for you to use this feature.

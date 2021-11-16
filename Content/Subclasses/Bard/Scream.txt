@@ -1,0 +1,28 @@
+### College of Scream
+[**Source:** *The Dark Archetypes*](https://drive.google.com/file/d/1PnGduRdBkON-o-xWfzbpc6TnM3r1GdxQ/view)
+
+Bards of the College of the Scream put passion above everything else. Calm music is not their style. Instead, they prefer going louder and perform intense pieces. They hinder all other colleges and only exchange stories and songs with bards from the same college.
+
+The dark nature of their songs and arts has associated them with demonic influence, but that is false; it is obviously devilish! Bards from this college have a deep connection with Devils and mostly Imps. They search for partners that they can enter in contracts with and support each other on their mutual (or not so mutual) cause.
+
+#### Hellish Origins
+When you reach level 3, you add the spell Find Familiar to your spell list, but can only summon an Imp through it. The spell counts as a bard spell for you, but doesn't count against the number of bard spells you know.
+
+Additionally, you can enter in contract with a friendly creature. The Imp summoned from Find Familiar must be present for the contract. Until the other creature leaves your company you both gain +2 to your rolls regarding helping each other. For example, potions heal for 2 extra points, healing spells heal for 2 extra points, when one of you uses Help for each other the creature making the roll has an additional +2, etc.
+
+The contract must be in the form of a deal, meaning that both of you have to set terms and follow them. The Imp (from your Find Familiar spell) dictates if the contract has broken. If a contract breaks at any point, the creature that broke it is cursed to have -2 to any of their rolls for 7 days. If the other person doesn't explicitly agree to the terms of your contract when you make it, instead only you receive a curse, for -3 to any rolls.
+
+You can only have 1 active contract at a time. The contract ends when either you or the other creature decides to leave the company of the other.
+
+The Imp can carry one musical instrument for you. It can disappear with it when you dismiss it and appear with it when you summon it. It also has proficiency with it.
+
+#### Metallic Scream
+Also at 3rd level, you learn to use your voice to harm creatures. You can use a Bardic Inspiration as an action to produce a Metallic Scream. Creatures in a 15-foot-radius around you must make a Wisdom saving throw against your spell save DC. On a failure, they suffer 2d6 force damage and are frightened of you. On a success, nothing happens. Deaf creatures are immune to the effects of Metallic Scream.
+
+The damage increases to 3d6 at 6th level, 4d6 at 11th level and 5d6 at 16th level.
+
+#### Breakdown
+At 6th level, when a creature that you are in contract with makes a successful attack, you can use your reaction and expend a Bardic Inspiration to add your bard level to the damage roll. You can use your reaction after the attack is deemed successful but before damage is rolled.
+
+#### Unholy Sound
+At 14th level, when you use Metallic Scream, you can roll a Performance check. The result is the DC of your Spell Save for the Metallic Scream effects.

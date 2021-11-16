@@ -1,0 +1,50 @@
+### Path of the War Chief
+[**Source:** *The Complete Martialist Handbook*](https://drive.google.com/file/d/1oGWtJWYIL63dUACooColfDVhX6MllXji/view)
+
+While some barbarians prefer a life of savage solitude, others long for a tribe. Barbarians on the Path of the War Chief are leaders and warrior kings who can turn any scrappy group of companions into a tight-knit tribe. Inspiring their allies to victory with battle cries and war songs, war chiefs lead every battle from the frontline.
+
+#### Bonus Proficiency
+When you adopt this path at 3rd level, you gain proficiency in one of the following skills of your choice: History, Intimidation, Performance, or Persuasion. Alternatively, you learn one language of your choice.
+
+#### Tribal Leader
+At 3rd level, you learn to bolster the resolve of your allies, and crush that of your enemies, with battle cries. You learn two battle cries of your choice, which are detailed under “Battle Cries” (see ‘Battle Cries' below). You learn an additional battle cry of your choice at 6th, 10th, and 14th level. Each time you learn a new battle cry, you can also replace one battle cry you know with a different one.
+
+You can issue one of your battle cries as an action on your turn. When you do, you choose a creature other than yourself within 30 feet of you that can hear you as the target for the battle cry. That target gains the effect of the chosen battle cry.
+
+While raging, you can issue a battle cry as a bonus action on your turn.
+
+#### War Song
+At 6th level, you augment your rage with a tribal song or chant that inspires greater power in your allies' attacks. While raging, when a friendly creature, other than yourself, within 15 feet of you hits with an attack, the attack gains a bonus to its damage equal to half your rage damage bonus. A creature must be able to hear you to gain the benefits of this feature.
+
+#### Commanding Presence
+At 10th level, you gain a supernatural ability to influence and inspire obedience in others. You can cast the *command* and *suggestion* spells without using a spell slot or material components. Charisma is your spellcasting ability for the spells.
+
+Once you cast suggestion this way, you can't cast either spell using this feature again until you finish a short or long rest.
+
+#### Chieftain's Voice
+Starting at 14th level, your voice booms with such incredible authority that even those who cannot hear it are compelled to listen. If a creature is deafened, it can still hear you when you speak, as well as when you make any noise, for the purpose of your War Chief features.
+
+Additionally, the range of your War Song increases to 30 feet, and when you issue a battle cry, you can choose a creature within 60 feet that can hear you as the target for the battle cry's effects.
+
+#### Battle Cries
+***Bolstering Yip.*** Until the start of your next turn, the target has advantage on saving throws against being charmed or frightened.
+
+***Cautionary Bellow.*** The target has advantage on the first Strength, Dexterity, or Constitution saving throw it makes before the start of your next turn.
+
+***Challenging Call.*** The target can use its movement only to move closer to you during its next turn. The creature can choose not to move. This battle cry has no effect on a creature immune to being charmed.
+
+***Defensive Holler.*** The first attack made against the target before the start of your next turn is made with disadvantage.
+
+***Empowering Howl.*** The first time the target hits with a weapon attack before the start of your next turn, it gains a bonus to the damage roll equal to your Charisma modifier (minimum 1).
+
+***Hastening Whoop.*** The target can use its reaction to move up to half its speed. If this movement provokes an opportunity attack, the attack roll is made with disadvantage.
+
+***Infuriating Bark.*** The target has disadvantage on attack rolls against targets other than you until the start of your next turn. This battle cry has no effect on a creature immune to being charmed.
+
+***Inspiring Roar.*** The first time the target makes an attack roll or ability check before the start of your next turn, it can roll a d4 and add the number rolled to the attack roll or ability check.
+
+***Invigorating Shout.*** The target gains temporary hit points equal 1d6 + your Charisma modifier (minimum 1). It loses any of these remaining temporary hit points at the start of your next turn.
+
+***Maddening Ululation.*** The target has advantage on the first melee weapon attack it makes before the start of your next turn, and the first attack made against it before then by a creature other than you is made with advantage. This battle cry has no effect on a creature immune to being charmed.
+
+***Terrifying Shriek.*** The target can't willingly move closer to you during its next turn. This battle cry has no effect on a creature immune to being frightened.

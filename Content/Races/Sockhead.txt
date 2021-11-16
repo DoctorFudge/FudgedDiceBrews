@@ -1,0 +1,59 @@
+## Sockheads
+[**Source:** *Sockheads*](https://www.gmbinder.com/share/-MN-pILBAo1Sr8FmMKzQ)
+
+Hailing from the mysterious land of Kent, Ohio, these creatures are very much like humans... except more... sock-like, and appearing to be made out of bits of old garden decorations and similar. No two are truly alike, and nobody's ever seen anything quite like them.
+
+### Chill Out, Man
+While sockheads vary wildly in demeaner, typically they embody what it means to be a "slacker". They are largely apathetic and unaffected, expressing little interest in the greater problems of the day and caring very little about anger directed in their direction.
+
+### Rock!
+Sockheads love music, especially loud music they can party to. They'll blow all of their funds on following bands around on tour, and party as hard as any creature can. In large enough numbers, sockheads have even been known to level entire cities with their partying.
+
+### Crescent Fresh
+Sockheads speak primarily in Common, but sprinkle in a few slang terms that are unfamiliar to many in the Realms. One in particular is "Crescent Fresh", referring to a number of things, such as nice guys who fly kites and have nice girls who like them, or hippies who like hacky-sack and don't eat meat or smoke crack. Other words include "bah-shwag" and whatever other unintelligible collection of syllables they decide to use to refer to something. Kind of like a more modern version of the Jabberwocky.
+
+### Sockhead Names
+Sockhead names are often normal names, but many sound very strange, either being jumbled up messes to pronounce or bearing descriptive words that don't really mean anything in context.
+
+**Male Names:** Sifl, Olly, Zafo, Precious Roy, Chester, Carl, Diplo, Clicksby, Dewey, Croissant, Tines, Cozy Bishop, Stealth, Peto, Flek, Jargon Scott, Grout, Jimmy, Julio, Cody
+
+**Female Names:** Sex Girl, Gretchen-Peters, Peaches, Molly, Zebra, Zanzibar, Serena, Momm, Dop, Dot
+
+### Sockhead Traits
+Sockheads have the following traits.
+
+***Ability Score Improvements.*** Your Constitution score increases by 1.
+
+***Age.*** Sockheads mature at the same rate as humans and live for about as long.
+
+***Speed.*** 25 ft.
+
+***Alignment.*** Sockheads tend towards no particular alignment. The best and the worst are found among them.
+
+***Size.*** Sockheads vary wildly in build, but are typically about four feet tall. Taller sockheads have been seen, and there is no known upper or lower limit to their size, but the overwhelming majority are about four feet tall. Your size is medium.
+
+***Languages.*** Common, plus one other language of your choice.
+
+***Armless?*** Sockheads don't have visible arms, but this doesn't seem to affect them much. They have amazing dexterity with their mouths, and seem to be able to handle objects by simply attaching them to their torsos, somehow. When casting spells, you do not require the somatic component. Additionally, you can stow and equip a one-handed weapon or shield once on your turn as a free action.
+
+***Subrace.*** There are four common types of sockhead. Choose one from: Rock, Jock, Nerd and Professional.
+
+#### Rock Sockhead
+***Ability Score Improvements.*** Your Charisma score increases by 2.
+
+***Chatterbox.*** You gain proficiency with one Charisma-based skill of your choice.
+
+#### Jock Sockhead
+***Ability Score Improvements.*** Your Dexterity or Strength score increases by 2.
+
+***One Bad Motha!*** You're a bad mammajamma. You can choose to add your Strength or Dexterity modifier to a single Charisma (Intimidation) check. Once you use this trait, you can't use it again until you finish a long rest.
+
+#### Nerd Sockhead
+***Ability Score Improvements.*** Your Intelligence score increases by 2.
+
+***TEACHER LIKED ME BEST!*** You gain proficiency with one Intelligence-based skill of your choice.
+
+#### Professional Sockhead
+***Ability Score Improvements.*** Your Wisdom score increases by 2.
+
+***Been Around the Block.*** You gain proficiency with one Wisdom-based skill of your choice.

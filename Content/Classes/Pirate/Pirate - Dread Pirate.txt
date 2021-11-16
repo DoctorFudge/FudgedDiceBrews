@@ -1,0 +1,19 @@
+### The Dread Pirate
+Most pirates are feared by others due to their general chaotic nature. However, some pirates reputations are ill-luck to even mention, for fear that even speaking their names shall call them forth from whatever black depths they claim as their domains. These are the fearsome dread pirates.
+
+#### Raise Morale
+Beginning at 3rd level, as an action, you can raise your comrades in arm's morale. Choose a number of allies up to your Charisma modifier (a minimum of 1) that you can see. Those allies gain a +1 bonus to their attack rolls, damage rolls, and saving throws. This effect lasts for 1 minute. Your allies lose this bonus if you cannot see them, or they cannot see or hear you, or if you become incapacitated. You can use this feature once per long rest.
+
+#### Demoralize
+At 7th level, as an action, you can demoralize the opposition's resolve. You choose a number of hostile creatures up to (a minimum of 1) that can see and hear you. These creatures must make a Charisma saving throw versus your swashbuckler save DC. On a failure, the creatures have a -1 penalty to attack rolls, damage rolls, and saving throws. This effect lasts for 1 minute.
+
+A creature automatically succeeds on this saving throw if it is immune to being frightened. On a successful save, a creature becomes immune to the effects of demoralize for 24 hours. The hostile creatures lose this penalty if you cannot see them, or they cannot see or hear you, or you become Incapacitated. You can use this feature once per long rest.
+
+#### Dread Lords Legacy
+At 10th level, the bonus from your Bolster Resolve becomes a +2 and the penalty from your Rattle Resolve becomes a -2. Additionally, you may use these abilities twice each per long rest.
+
+#### Nautical Tyrant
+Also at 15th level, you gain proficiency with intimidation skill checks. If you already have proficiency in this skill then you may double it. You also gain advantage with Charisma (intimidation) checks if you are inquiring about treasure or gold.
+
+#### Pirate Kings Presence
+Once you reach 18th level in this class, the bonus from your "Bolster Resolve" becomes a +3 and the penalty from your "Rattle Resolve" becomes a -3. Additionally, you may use these abilities three times each per long rest.

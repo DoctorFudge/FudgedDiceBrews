@@ -1,0 +1,6 @@
+#### Pact of the Lantern
+[**Source:** *All Patrons Eve*](https://drive.google.com/file/d/1MxBYTStm2Xl9F_PguVAcuii8JRsPKPWx/view)
+
+You can use a bonus action to summon a small, hovering globe which sheds light as if it were a torch, though it emits no heat. While it is active, it constantly floats about you, always within arm's reach but never such that it impedes your movement. As a bonus action, you can mentally command it to move up to 60 feet away from you in a direction that you choose. So long as you have the orb summoned, you can add your Charisma modifier to both Wisdom (Perception) and Intelligence (Investigation) checks. You can dismiss your orb or dim its light to a low glow as a bonus action.
+
+Additionally, you learn the *eldritch orb* cantrip, and can cast it at will. Invocations which would affect *eldritch blast* also affect *eldritch orb* in the same way.

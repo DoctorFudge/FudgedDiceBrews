@@ -1,0 +1,79 @@
+### Path of the Rune Sage
+[**Source:** *The Complete Martialist Handbook*](https://drive.google.com/file/d/1oGWtJWYIL63dUACooColfDVhX6MllXji/view)
+
+Long ago, a tribe of barbarians stole the arcane secrets of giants: rune magic. The tribe started a tradition continued today by barbarians who follow the Path of the Rune Sage. Using eldritch symbols painted onto your body, you are capable of unleashing arcane spells. Tattooed symbols are even more powerful, altering and enhancing your ability to rage.
+
+Rune Sages in their native land often serve as advisers, mystics, and historians. Some barbarians, however, see Rune Sages as ill omens and lightning rods for misfortune. Rune Sages are cast out from these cultures and unwelcome in their settlements.
+
+#### Spellcasting
+When you adopt this path at 3rd level, you gain the ability to cast spells using runes painted or tattooed on your body. See chapter 10 in the Player's Handbook for the general rules of spellcasting and chapter 11 in the same for the wizard spell list.
+
+***Cantrips.*** You learn two cantrips of your choice from the wizard spell list. You learn an additional wizard cantrip of your choice at 10th level.
+
+***Preparing and Casting Spells.*** The Rune Sage Spellcasting table shows how many spell slots you have to cast your wizard spells of 1st level and higher. To cast one of these wizard spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+You prepare the list of wizard spells that are available for you to cast by painting runes on your body, choosing from among the evocation and transmutation spells on the wizard spell list. When you do, choose a number of those spells equal to your Intelligence modifier + your barbarian level divided by 3, rounded up (minimum of one spell). The spells must be of a level for which you have spell slots.
+
+For example, if you are a 7th-level barbarian, you have four 1st-level spell slots and two 2nd-level spell slots. With an Intelligence score of 16, your list of prepared spells can include 6 spells of 1st or 2nd level, in any combination. If you prepare the 1st-level spell burning hands, you can cast it using a 1st-level or 2nd-level slot. Casting the spell doesn't remove it from your list of prepared spells.
+
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of wizard spells requires time spent cleansing yourself of old runes and painting new ones on your skin: at least 1 minute per spell level for each spell on your list.
+
+***Spellcasting Ability.*** Intelligence is your spellcasting ability for your spells since your runes need to be meticulously painted with knowledge and precision to convert your rage into arcane power. You use Intelligence whenever a spell refers to your spellcasting ability. In addition, you use your Intelligence modifier when setting the saving throw DC for a wizard spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell save DC** = 8 + your proficiency bonus + your Intelligence modifier
+
+</center>
+
+<center>
+
+**Spell attack modifier** = your proficiency bonus + your Intelligence modifier
+
+</center>
+
+***Spellcasting Focus.*** You can use your painted and tattooed runes as a spellcasting focus for your wizard spells.
+
+##### Rune Sage Spellcasting
+| Barbarian Level | Cantrips Known | 1st | 2nd | 3rd | 4th |
+|:---------------:|:--------------:|:---:|:---:|:---:|:---:|
+|       3rd       |        2       |  2  |  —  |  —  |  —  |
+|       4th       |        2       |  3  |  —  |  —  |  —  |
+|       5th       |        2       |  3  |  —  |  —  |  —  |
+|       6th       |        2       |  3  |  —  |  —  |  —  |
+|       7th       |        2       |  4  |  2  |  —  |  —  |
+|       8th       |        2       |  4  |  2  |  —  |  —  |
+|       9th       |        3       |  4  |  2  |  —  |  —  |
+|       10th      |        3       |  4  |  3  |  —  |  —  |
+|       11th      |        3       |  4  |  3  |  —  |  —  |
+|       12th      |        3       |  4  |  3  |  —  |  —  |
+|       13th      |        3       |  4  |  3  |  2  |  —  |
+|       14th      |        3       |  4  |  3  |  2  |  —  |
+|       15th      |        3       |  4  |  3  |  2  |  —  |
+|       16th      |        3       |  4  |  3  |  3  |  —  |
+|       17th      |        3       |  4  |  3  |  3  |  —  |
+|       18th      |        3       |  4  |  3  |  3  |  —  |
+|       19th      |        3       |  4  |  3  |  3  |  1  |
+|       20th      |        3       |  4  |  3  |  3  |  1  |
+
+#### Runic Tattooing
+At 3rd level, you can tattoo a specific rune on your body to interweave its magic with your primal rage. Choose any 1st-level spell from the wizard spell list. You always have this tattoo spell prepared, and it doesn't count against the number of wizard spells you can prepare each day. You can cast and concentrate on this spell while you're raging, and casting it counts as making an attack for the purpose of maintaining your rage.
+
+You tattoo yourself with more runes this way when you reach certain levels in this class, choosing spells of any school from the wizard spell list: a 2nd-level spell at 8th level, a 3rd-level spell at 14th level, and a 4th-level spell at 20th level.
+
+Whenever you gain a level in this class, you can replace one of your tattoo spells with another spell of the same level from the wizard spell list.
+
+#### Runic Resilience
+At 6th level, you learn to use the power of your runes to protect yourself from spells. When you become the target of a spell, you can use your reaction and expend a spell slot to attempt to negate the spell's effects on you. If the spell slot you expended was of level greater than or equal to the level of the triggering spell, the spell has no effect on you. If the spell slot you expended was of a level lower than the triggering spell, make an Intelligence check. The DC equals 10 + twice the difference between the spell's level and the level of your expended spell slot. On a success, the spell has no effect on you.
+
+For example, if a creature attempts to cast dominate person on you and you expend a 1st-level spell slot, the DC for the Intelligence check would equal 18, since dominate person is a 5th-level spell.
+
+#### Runic Resonance
+Beginning at 10th level, your runes magically hum with arcane resonance for a short time after you cast a spell. Immediately after you cast an evocation or transmutation spell of 1st level or higher, or one of your tattoo spells, you gain resistance to a type of damage for 1 minute. If you made a damage roll as part of casting the spell, the resistance is to a type of damage the spell dealt (your choice if the spell dealt multiple damage types); otherwise, the resistance is to force damage.
+
+This duration ends early if you drop to 0 hit points or die, or if you cast another evocation or transmutation spell of 1st-level or higher.
+
+#### Runic Rage
+Starting at 14th level, while you're raging, you add your rage damage bonus to the damage rolls of your tattoo spells.
+
+Additionally, when you cast a spell, you can expend a use of your rage to flood the spell with raging power. When you do, you add your rage damage bonus to the spell attack rolls and spell save DC of the spell for its duration.

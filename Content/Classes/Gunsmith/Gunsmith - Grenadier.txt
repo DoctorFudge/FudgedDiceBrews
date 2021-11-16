@@ -1,0 +1,24 @@
+### Grenadier
+Grenadiers can always be found in the thick of the fight, and can fight with both firearms and melee weapons. Grenadiers are hardy folk, and are able to develop rudimentary handheld explosives.
+
+#### Run'N Gun
+At 3rd level, whenever you take the attack action your movement increases by 10 feet for that turn. Additionally, when you take the attack action, you can take the disengage action as a bonus action.
+
+#### Close Quarters Fighting
+Starting at 3rd level, when making a ranged attack roll while you are within feet of a hostile creature, you do not have disadvantage on the attack. Additionally, you gain a +1 bonus to attack rolls against creatures that are within 10 feet.
+
+#### Fire in the Hole
+Beginning at 7th level you learn to craft flashbang grenades. As an action, you can throw a flashbang any point within 60 feet of you. All creatures within a 20-foot radius must make Constitution saving throw or become blinded. The DC for this save is equal to your Trick Shot DC.
+
+Your grenades are unstable, and you can only carry a total number of grenades equal to your Intelligence modifier at once. You can choose to replenish any expended grenades at the end of a long rest. Flashbang grenades cost 25 gp in materials to create.
+
+#### Pistol Whip
+Starting at 10th level, whenever you take the attack action you can make a melee attack as a bonus action. Melee attacks with your firearm use your Dexterity modifier for attack rolls and deal 1d4 bludgeoning damage plus your Dexterity modifier. You are proficient in melee attacks with your firearms.
+
+#### Battle Scarred
+By 13th level, your skin has become a latticework of scars from your various close calls. As a result, you gain resistance to non-magical piercing and slashing damage
+
+#### Highly Explosive Ordinance
+At 18th level, you learn to craft incendiary grenades. As an action you can throw an incendiary grenade at any point within 60 feet of you. All creatures in a 20-foot radius must make Dexterity saving throw, taking 6d12 fire damage on failed save or half as much on success. The DC for this save is equal to your Trick Shot DC. Incendiary grenades deal double damage to objects and structures.
+
+You can carry a total number of grenades equal to your Intelligence modifier, and you can choose to replenish any expended grenades at the end of long rest. Incendiary grenades cost 100 gp in materials to craft.

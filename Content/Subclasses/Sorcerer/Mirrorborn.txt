@@ -1,0 +1,36 @@
+### Mirrorborn
+[**Source:** *The Book of Weird Magic*](https://drive.google.com/file/d/10Vw9p71Oa1asVsKC40pT13NUIF6flf1W/view)
+
+You were born backwards. No-one can really explain it, but everything seems *wrong* to you. Like you were born on the other side of the looking glass, and you aren't able to go back. This strange relationship with the material plane grants you magic, that manifest in a number of peculiar ways:
+
+| 1d6 | Mirror Bloodline Quirks |
+|:-:|:-|
+| 1 | You have no reflection |
+| 2 | You feel sad at things which should make you happy, and vice versa |
+| 3 | Your hands are on backwards, like a Rakshasa |
+| 4 | Your feet and toes are unusually dextrous, like another pair of hands |
+| 5 | Your face is on the back of your head |
+| 6 | You can't walk in a straight line, only diagonally |
+
+#### Mirror Magic
+You learn additional spells when you reach certain levels in this class, as shown on the Etched Spells table. Each spell counts as a sorcerer spell for you, but it doesn't count against the number of sorcerer spells you know. These spells can't be replaced when you gain a level in this class.
+
+| Sorcerer Level Mirror | Spells |
+| :-: | :-- |
+| 1st | <em>disguise self, silent image</em> |
+| 3rd | <em>invisibility, mirror image</em> |
+| 5th | <em>blink, major image</em> |
+| 11th | <em>greater invisibility, hallucinatory terrain</em> |
+| 13th | <em>scrying, seeming</em> |
+
+#### Deviance
+Starting at first level, your spells are tricksome and backwards, easily evading lesser barriers. Your spells ignore half cover and three-quarters cover.
+
+#### The Other Side
+Starting at 6th level, you can hide inside a reflec- tive surface. As an action, you can touch a mirrored surface such as armor or a glass, vanishing inside it. Whilst inside, you can take no action but to watch events occuring through the surface and use an action to return to the material plane. When you exit, ot the mirrored surface is destroyed, you appear within 5 feet of it. Whilst you are inside the mirror, creatures that look into the mirror can see you inside it where their reflection should be. You must finish a long rest before using this ability again.
+
+#### Window to the Soul
+Starting at 14th level, you can act as a window to other places. When you cast the scrying spell, your body can act as the material component for the spell. When you cast the spell in this way, you must spend 2 sorcery points, and your entire body becomes reflective. The results of the spell display across your body as if you were mirror. Your body remains reflective for the duration of the spell, and then returns to normal.
+
+#### Spellbending
+Starting at 18th level, your Deviance ability im- proves. If you spend 2 sorcery points when casting a spell that targets a single creature, that spell can ignore total cover as long as the target is targetable from at least one angle. For instance this ability al- lows you to bend a spell around a corner, but doesn't allow you to hit a creature completely covered from all angles (such as a creature swallowed, or inside an *Otiluke's resilient sphere*).

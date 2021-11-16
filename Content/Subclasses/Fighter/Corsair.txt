@@ -1,0 +1,41 @@
+### Corsair
+[**Source:** *Aquatic Archetypes*](https://drive.google.com/file/d/1w9iqUyCCYrgUBt8uKgNFeIi6bBVTiDuW/view)
+
+Many kingdoms hold fleets of ships, manned by skilled sailors who work tirelessly for their countries. Pirates often cause conflict and chaos in their wake, but they operate under a banner of mutual trust.
+
+By contrast, the corsair instead focuses on seizing their own destiny. Sometimes called privateers, they might work for an authority or they might not. For the corsair, the high seas are all about the freedom to make their own path!
+
+#### Call of Open Waters
+Starting at 3rd level, you gain proficiency with Navigator's tools and vehicles (water) if you did not already have them.
+
+Additionally, you have advantage on any Strength (Athletics) or Dexterity (Acrobatics) checks made to move about a ship.
+
+#### Corsair's Feint
+Starting at 3rd level, you may use your bonus action to force the target to put more effort into defending themselves. Until this effect ends, the target has -2 to AC.
+
+This effect ends when the creature dies, when you end your turn and the creature is not within reach of your melee weapon, or when you end your turn and have not damaged the creature this round.
+
+Creatures with a speed of 0, or that are incapacitated, are immune to this effect.
+
+You can use this feature a number of times equal to your Constitution modifier, minimum 1. You regain all expended uses of it when you finish a long rest.
+
+#### Sailors Step
+Starting at 7th level, your body is naturally inclined to stay upright, thanks to your time on the seas.
+
+You have advantage on any saving throws or ability checks to avoid being knocked prone. Any time you succeed on such a roll, your AC increases by 2 until the start of your next turn. You can only gain this benefit once per round.
+
+Additionally, while aboard a ship you automatically succeed on any saving throws or ability checks to avoid being knocked prone.
+
+#### Scourge of the Seas
+Starting at 10th level, whenever you roll initiative and have no uses of Corsair's Feint remaining, you regain one use.
+
+Additionally, whenever you score a critical hit or whenever you reduce a creature to 0 hit points, choose a target within 30 feet who can see you. This creature must succeed on a wisdom saving throw or gain the frightened condition.
+
+The DC for this saving throw is 8 + your proficiency modifier + your choice of your Strength modifier or your Dexterity modifier.
+
+This condition lasts until the target cannot see you, or until it completes a short or long rest.
+
+#### Dread Corsair
+Starting at 15th level, whenever a creature is subject to your feint they also suffer -3 to AC and gain the frightened condition.
+
+Additionally. creatures that are suffering from the frightened condition caused by you deal half damage to you on all weapon attacks.

@@ -1,0 +1,49 @@
+### Air Domain
+[**Source:** *Cleric Domains: Air, Earth, Fire, and Water*](https://drive.google.com/file/d/1gBbxLAqjcbGRuPqAgrR0nslECetDJZYD/view)
+
+The gods and primordials that embody the power of elemental air tend to exhibit many of the qualities of the wind. The concept of freedom is a trait common to most wind and air deities, especially the freedom to move and travel when and where they please. Like the wind, the thoughts of deities and primordials of air tend to wander constantly.
+
+Their clerics are often chosen for similar traits. One moment a cleric of air might be as calm and gentle as a cool breeze, bringing comfort to those around them. Then, when the emotion grips them, rage like the fickle fury of a windstorm. Only to grow happy and flighty once their inner gale has abated, darting off on a whim.
+
+Clerics of air deities tend to use ranged weapons rather than melee weapons, and when they do use melee weapons prefer those that are swift and agile. However, rare indeed is the air cleric who wears even medium armor rather than light, for such armor restricts the freedom to move their limbs too much for their deity's taste. Followers of these beings of air cherish freedom above all else, and this manifests in as many ways as there are currents of air flowing across the skies of the world.
+
+##### Air Domain Spells
+| Spell Level | Spells |
+| :-: | :-- |
+| 1st | <em>expeditious retreat, feather fall</em> |
+| 2nd | <em>gust of wind, warding wind</em> |
+| 3rd | <em>fly, haste</em> |
+| 4th | <em>conjure minor elementals, freedom of movement</em> |
+| 5th | <em>conjure elemental, control winds</em> |
+
+Your *conjure minor elementals* and *conjure elemental* domain spells can summon only air elemental creatures (or partially air, such as dust, ice, and smoke mephits).
+
+#### Elemental Cantrips
+When you choose this domain at 1st level, you learn the *gust* cantrip as a cleric cantrip. It counts as a cleric cantrip for you, but doesn't count against your number of cleric cantrips known.
+
+Additionally, the following cantrips count as cleric cantrips for you, and are added to the cleric spell list for you: *buffeting blast*, *mage hand*, and *message*.
+
+#### Bonus Proficiencies
+At 1st level, you gain proficiency with ranged weapons, and melee weapons with the finesse property.
+
+#### Lightly Armored
+Unlike most clerics, you do not gain proficiency with medium armor when you take your 1st level in cleric.
+
+#### Light as Air
+At 1st level, when you fall, your rate of descent slows to 60 feet per round, even while you are incapacitated. If you land, you take no falling damage, and land on your feet if you're not incapacitated. While falling and not incapacitated, you can glide, moving up to 2 feet horizontally for every 1 foot you descend.
+
+#### Channel Divinity: Guiding Winds
+Starting at 2nd level, you can use your Channel Divinity to influence the winds all around you such that missiles are more likely to strike or miss how you need.
+
+As a bonus action, you present your holy symbol and invoke the name of your deity. Until the start of your next turn, each ranged weapon attack made by you and allies within 30 feet of you has advantage, and each ranged weapon attack made against you and allies within 30 feet of you have disadvantage.
+
+#### Bond of Air
+At 6th level, you gain *find familiar* as a cleric spell, and it is always prepared without counting against the number of cleric spells you have prepared. You can only summon a lesser air elemental with your *find familiar* cleric spell (that still counts as an elemental, not a celestial, fey, or infernal), and it can be cast with no material components.
+
+Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your lesser air elemental familiar to make one Buffet attack of its own.
+
+#### Divine Strike
+Upon reaching 8th level, you gain the ability to infuse your weapon strikes with the power of the winds, a manifestation of pure elemental air. Once on each of your turns when you hit a creature with a weapon attack, you can cause the attack to deal an extra 1d8 magical bludgeoning damage to the target. When you reach 14th level, the extra damage increases to 2d8.
+
+#### One with the Wind
+At 17th level, you have a flying speed of 40 feet (hover). To use this flying speed, you can't be wearing medium or heavy armor, and you can't be exceeding your carrying capacity.

@@ -1,0 +1,13 @@
+#### Pact of the Spellbook
+[**Source:** *The Wizard Spellbook*](https://www.gmbinder.com/share/-MlUP_n0t45-fEYS4x8P)
+
+Your patron has gifted you a spellbook to record spells in. When you get the spellbook, it is completely blank. It works and functions like a wizard's spellbook (PHB112). You can only scribe spells from the wizard spell list into the spellbook. They count as warlock spells for you. You may create copies of your spellbook like wizards do. If you lose your spellbook, or it's destroyed, that's unfortunate.
+
+You prepare the list of spells that are available for you to cast. To do so, choose a number of spells from your spellbook equal to your half your warlock level (minimum of one spell). These prepared spells do not count against warlock spells known.
+
+You can change your list of prepared spells when you finish a long rest. Preparing a new list of spells requires time spent studying your spellbook and memorizing the incantations and gestures you must make to cast the spell: at least 1 minute per spell level for each spell on your list. 
+You cast these with your warlock spell slots, or any other spell slots you may have. 
+
+The scrolls you receive from the Gifted Scroll feature may be scribed into the spellbook for the usual cost of two hours and 50 GP per spell level.
+
+This pact boon also counts as Pact of the Tome for the Book of Ancient Secrets invocation. 

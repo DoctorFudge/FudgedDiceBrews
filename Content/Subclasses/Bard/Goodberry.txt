@@ -1,0 +1,16 @@
+### College of the Goodberry
+[**Source:** *Praise Be The Goodberry! Compendium*](https://www.gmbinder.com/share/-LZeyRZtzKZLu2cjiglX)
+
+The voice of the Goodberry echoes within your very soul urging you forth into the world. Your ties to the Goodberry allow you to weave its vines in a dance of wilderness.
+
+#### Bonus Proficiencies
+When you join this college at 3rd level, you gain proficiency with medium armor, shields, and the Nature skill.
+
+#### Reaching Vines
+Additionally at 3rd level, you may as an action spend a use of bardic inspiration and command goodberry vines to sprout out of the ground and grasp a number of creates equal to your Charisma modifier. Each creature must succeed on a Strength saving throw against your spell save DC or be restrained for 1 minute. A restrained creature may repeat this saving throw at the end of each of their turns.
+
+#### Secrets of the Goodberry
+At 6th level, whenever you have a creature restrained with Reaching Vines, you can as an action learn one detail about the creature of the DM's discretion such as their total hit points, armor class, creature type, etc.
+
+#### Vineweaver
+At 14th level, you're able to shape and command the vines of the Goodberry with ease. Whenever you have creatures restrained by Reaching Vines you can as a reaction spend a die of bardic inspiration and roll it, dealing damage to each restrained creature equal to twice the number rolled on the die.

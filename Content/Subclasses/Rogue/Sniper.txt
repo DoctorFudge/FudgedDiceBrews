@@ -1,0 +1,53 @@
+### Sniper
+[**Source:** *The Gunpowder Codex*](https://drive.google.com/file/d/1jjhLL1aeWVp2AsoOIwJJ-0BvO6dvPedk/view)
+
+Not everyone who wields a gun prefers to do openly. Some prefer to attack from a distance and stay hidden whenever possible, maximizing the power of a single shot. These rogues are snipers, superb marksmen able to put a bullet in their target from hundreds of feet away and get away with it.
+
+#### Proficiencies
+Starting when you choose this archetype at 3rd level, you gain proficiency with firearms, allowing you to add your proficiency bonus to attacks made with firearms. In addition, you gain proficiency in the Perception skill. If you are already proficient in it, you instead double your proficiency bonus when making Perception checks.
+
+#### Gunsmith
+Upon choosing this archetype at 3rd level, you gain proficiency with Tinker's Tools. You may use them to craft ammunition, repair damaged firearms, or even draft and create new ones (DM's discretion). Some extremely intricate and experimental firearms are only available through crafting.
+
+#### Combat Superiority
+At 3rd level, you gain a set of combat abilities, referred to as maneuvers, which are fueled by special dice called superiority dice.
+
+***Superiority Dice.*** You have four superiority dice, which are d8s. A superiority die is expended when you use it. You regain all your expended superiority dice when you finish a short or long rest.
+
+You gain another superiority die at 7th level and one more at 15th level.
+
+***Maneuvers.*** You spend your superiority dice on your maneuvers. You can use more than one maneuver per turn, but no more than one maneuver per attack.
+
+***Saving Throws.*** Some of your maneuvers require your target to make a saving throw to resist the maneuver's effects.
+The saving throw DC is calculated as follows:
+
+<center>
+
+**Maneuver save DC** = 8 + your proficiency bonus + your Dexterity modifier
+
+</center>
+
+You know the following maneuvers:
+
+***Disarming Attack.*** When you hit a creature with a firearm attack, you can expend one superiority die to attempt to disarm the target, forcing it to drop one item of your choice that it's holding. You add the superiority die to the attack's damage roll, and the target must make a Strength saving throw. On a failed save, it drops the object you choose. The object lands at its feet.
+
+***Marksman Shot.*** When you make an attack with a two- handed firearm against a creature, you can expend one superiority die. This grants you advantage on your attack roll. If you hit, you may roll your superiority die and add the result to the damage of the attack.
+
+***Knockdown.*** When you hit a creature with a firearm attack, you can expend one superiority die to attempt to knock the target down. Roll the die, and add it to the attack's damage roll. If the target is Large or smaller, it must also succeed on a Strength saving throw or be knocked prone.
+
+#### Improved Combat Superiority
+At 9th level, your superiority dice turn into d10s. At 17th level, they turn into d12s.
+
+#### Hidden Shooter
+At 9th level, you have become expert at staying hidden even after firing. If you were hidden before attacking, any enemy that is 60 feet or further from you has disadvantage on any Perception checks made to spot you until the beginning of your next turn.
+
+#### Sniper's Mark
+At 13th level, you are adept in targeting your enemies. You can innately cast the spell hunter's mark at 3rd level, the spell's range for you is 300 feet. You may use this feature once per short or long rest.
+
+#### Killshot
+By 17th level, you have become a master marksman and can put a bullet straight into a killzone. You can spend 1 superiority die before making an attack roll to attempt a kill shot. On a hit, any target with 100 hit points or fewer must make a Constitution save. The DC is equal to your rogue level. On a failed save, the target dies immediately; on a successful save, the attack deals normal damage plus the result of your superiority die. Once you use this ability, you cannot use it again until you finish a short or long rest.
+
+Any creature that is immune to critical hits is unaffected by this ability.
+
+#### Relentless
+Starting at 17th level, when you roll initiative and have no superiority dice remaining, you regain one superiority die.

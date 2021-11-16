@@ -1,0 +1,37 @@
+### Physician
+The Physician pursuit is chosen by adepts who make the study of biology their focus. They use their extensive knowledge to accomplish feats of healing and restoration usually only made possible by drawing upon the power of the divine.
+
+#### Bonus Proficiency
+When you choose this pursuit at 2nd level, you gain proficiency and expertise in the Medicine skill. If you are already have this proficiency, you can select a different skill from the adept skill list to become proficient in. If you already have expertise in Medicine, you may choose another skill you are proficient in to gain this bonus.
+
+#### Learned Healer
+Beginning at 2nd level, you can use a healer's kit to tend to a creature's wounds and hurts, including your own. As an action you can spend one use of a healer's kit to restore hit points to yourself or an ally within 5 feet. The number of hit points you restore is equal to two insight dice your Intelligence modifier. A creature can't regain hit points in this way again until it finishes a short or long rest.
+
+#### Rest and Mend
+At 5th level, you can tend to a number of your party members equal to your Intelligence modifier during a short rest, in addition to yourself. Any creatures you tend to regain hit points equal to one inspiration die + your Intelligence modifier.
+
+#### Resourceful Healer
+Also at 5th level, you can get twice as much use out of a healer's kit. They have twenty charges when you use them.
+
+Additionally, if there are suitable materials at hand (leaves, twine, spirits, tom bits of clothing, etc.) you can use the Learned Healer feature even if you do not have access to a healer's kit. You only heal half as much when using Learned Healer without a healer's kit.
+
+Furthermore, expending a charge from your healer's kit while in combat grants you 1 additional insight point.
+
+#### Antidotes, Tinctures, and Cold Water
+Starting at 9th level, you can use an action and expend one charge of a healer's kit to remove one of the following conditions from an ally within 5 feet: blinded, charmed, deafened, diseased, petrified, or poisoned. Once a conditon has been removed from a creature in this way, it cannot be so removed again until the creature finishes a short or long rest.
+
+Additionally, your frequent exposure to harmful substances and afflicted patients has given you immunity to poison and disease.
+
+#### Expert Healing
+At 13th level, when you use the Learned Healer feature roll a Wisdom (Medicine) check. Add the result to the total amount healed. This number is halved if performing Learned Healer without a healer's kit.
+
+#### Malpractice
+Beginning at 18th level, when you hit a creature with an attack you can spend 3 insight points to use your medical knowledge to debilitate your target. The target must make a Constitution saving throw. On a failed save, the target suffers an effect based on its current hit points:
+- 60 hit points or fewer: blinded for 10 minutes.
+- 50 hit points or fewer: paralyzed for 1 hour.
+- 40 hit points or fewer: paralyzed and unconscious for 1 hour.
+- 30 hit points or fewer: killed instantly.
+
+You can spend additional insight points to increase the hit point threshold for each effect by 10 hit points for every insight point spent.
+
+This ability has no effect on constructs or undead.

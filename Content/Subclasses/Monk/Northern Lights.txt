@@ -1,0 +1,35 @@
+### Way of the Northern Lights
+[**Source:** *Way of the Northern Lights*](https://homebrewery.naturalcrit.com/share/1ocuTLZz9A5XbPwnbb91NGTGVkUhE7Lty-eeDZVCTM3O1)
+
+Monks of the Way of the Northern Lights have learned to combat the cold of isolation, by shining with light fueled by it. Your body, your mind, and your ki are all cold, sharp, and dangerous, yet also bright and flexible...and quite serene.
+
+Much of the training of a Northern Lights monk involves the study of winter, and the northern lights themselves. The monk's most valuable lesson is to shine despite the opposition, the cold around them. Their ki lets them surpass the cold, and gives them their own light.
+
+#### Aurora Wind
+Starting when you choose this tradition at 3rd level, you can emit swaths of cold radiance.
+
+You gain a new attack option that you can use with the Attack action. This special attack is a 15 foot cone emission. Each creature caught in the cone when you use it must make a Dexterity saving throw equal to 8 + your wisdom modfier + your proficiency bonus. On a failed save, the creature takes cold or radiant damage (your choice) equal to 1 of your martial arts die, or half as much on a sucessful one.
+
+When you reach 6th level in this class a creature that takes damage from this attack has its speed is reduced by 10 feet until the start of your next turn.
+
+When you gain the Extra Attack feature, this special attack can be used for any of the attacks you make as part of the Attack action.
+
+#### Northern Traveler
+Also at 3rd level, you have resistance to cold damage. You're also acclimated to high altitude, including elevations above 20,000 feet.
+
+#### Colder Gust
+By 6th level, you are cold to the touch, as well as gusty in nature. Whenever a creature deals damage to you, you may move up to your movement speed without provoking attacks of opportunity.
+
+#### Colorful Lights
+By 11th level, you can spend 2 ki points to cast *blur*, *gust of wind*, *misty step*, or *skywrite*.
+
+In additon, the size of your Aurora Wind cone increases to 30 feet.
+
+#### The Dancing Lights
+You have mastered the way of the Aurora Borealis by 17th level. You may spend 2 or more ki points as a bonus action to apply one or more of the following to yourself as part of the same bonus action:
+- You gain a flying speed of double your walking speed until the end of your turn (after which you fall). You can fly in the sky like the lights.
+- Your AC increases by 3, as you learn to dance like the northern lights. This lasts until the beginning of your next turn.
+- Your Aurora Wind feature lingers after you use it. When you damage a creature with your next Aurora Wind, the energy clings to the target. At the start of each of the creature's turns, it takes radiant or cold damage (your choice) equal to one roll of your Martial Arts die. At the end of its turn, the creature can repeat a dexterity save equal to 8 + your wisdom modfier + your proficiency bonus, ending the effect on itself on a success.
+- You gain immunity to cold and radiant damage until the beginning of your next turn.
+
+You may pick each option once, and each option costs 2 ki points.

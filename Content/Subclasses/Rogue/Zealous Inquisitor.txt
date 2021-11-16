@@ -1,0 +1,93 @@
+### Zealous Inquisitor
+[**Source:** *The Complete Martialist Handbook*](https://drive.google.com/file/d/1oGWtJWYIL63dUACooColfDVhX6MllXji/view)
+
+Deities enjoy having clerics, paladins, and crusaders spread their word and fight in their name, but these pious servants aren't always willing to tarnish themselves in their god's best interest. As a Zealous Inquisitor, you execute your deities will without compunction - punishing sinners, silencing heretics, and striking down abominations.
+
+#### Divine Domain
+When you choose this archetype at 3rd level, choose one Divine Domain from your chosen deity's list of eligible domains.
+
+#### Zealous Magic
+When you reach 3rd level, your zealous devotion to your deity ignites in you a spark of divine magic, allowing you to cast spells. This magic, however, differs greatly from that of clerics and paladins, which is carefully cultivated over years of prayer and practice. Your magic is not as deep, but your passion for doing your deity's work and permanently silencing those who would speak against your god causes it to reignite much more quickly. See chapter 10 in the Player's Handbook for the general rules of spellcasting and chapter 11 in the same for the cleric spell list.
+
+***Cantrips.*** You know two cantrips of your choice from the cleric spell list. You learn another cleric cantrip of your choice at 10th level.
+
+***Spell Slots.*** The Zealous Inquisitor Spellcasting table shows how many spell slots you have. The table also shows what the level of those spell slots is; all of your spell slots are the same level. To cast one of your cleric spells of 1st level or higher, you must expend a spell slot. You regain all expended spell slots when you finish a short or long rest.
+
+For example, when you are 7th level, you have two 2nd-level spell slots. To cast the 1st-level spell command, you must expend one of those spell slots, and you cast it as a 2nd-level spell.
+
+##### Zealous Inquisitor Spellcasting
+| Rogue Level | Cantrips Known | Spells Known | Spell Slots | Slot Level |
+|:-:|:-:|:-:|:-:|:-:|
+| 3rd | 2 | 3 | 1 | 1st |
+| 4th | 2 | 4 | 1 | 1st |
+| 5th | 2 | 4 | 2 | 1st |
+| 6th | 2 | 4 | 2 | 1st |
+| 7th | 2 | 5 | 2 | 2nd |
+| 8th | 2 | 6 | 2 | 2nd |
+| 9th | 3 | 6 | 2 | 2nd |
+| 10th | 3 | 7 | 2 | 2nd |
+| 11th | 3 | 8 | 2 | 2nd |
+| 12th | 3 | 8 | 2 | 2nd |
+| 13th | 3 | 8 | 2 | 2nd |
+| 14th | 3 | 9 | 2 | 2nd |
+| 15th | 3 | 9 | 2 | 2nd |
+| 16th | 3 | 10 | 2 | 2nd |
+| 17th | 3 | 10 | 2 | 2nd |
+| 18th | 3 | 10 | 2 | 2nd |
+| 19th | 3 | 10 | 2 | 2nd |
+| 20th | 3 | 11 | 2 | 2nd |
+
+***Spells Known of 1st Level and Higher.*** You know three 1st-level cleric spells of your choice, two of which you must choose from the divination and enchantment spells on the cleric spell list, or from your Divine Domain's list of domain spells.
+
+The Spells Known column of the Zealous Inquisitor Spellcasting table shows when you learn more cleric spells of your choice of 1st level or higher. A spell you choose must be of a level no higher than what's shown in the table's Slot Level column for your level and must be a divination or enchantment spell of your choice, or a spell of your choice from your Divine Domain's list of domain spells. When you reach 7th level, for example, you can learn a new cleric spell, which can be of 1st or 2nd level.
+
+The spells you learn at 8th, 14th, and 20th level can come from any school of magic.
+
+Additionally, when you gain a level in this class, you can choose one of the cleric spells you know and replace it with another spell from the cleric spell list, which must also be of a level you can cast. The new spell must be a divination or enchantment spell, or a spell from your Divine Domain's list of domain spells, unless you're replacing the spell you gained at 8th, 14th, or 20th level.
+
+***Spellcasting Ability.*** Charisma is your spellcasting ability for your cleric spells since your magical ability comes from the strength of your fervor and conviction to your deity. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a cleric spell you cast, and when making an attack roll with one.
+
+<center>
+
+***Spell save DC*** = 8 + your proficiency bonus + your Charisma modifier
+
+</center>
+
+<center>
+
+***Spell attack modifier*** = your proficiency bonus + your Charisma modifier
+
+</center>
+
+***Spellcasting Focus.*** You can use a holy symbol (found in chapter 5 of the Player's Handbook) as a spellcasting focus for your cleric spells.
+
+> **Zealous Inquisitor Multiclassing with Other Spellcas
+> If you have both the Zealous Magic and Pact Magic class features, you determine your available spell slots for each class individually. For example, if you are a rogue 3/ warlock 2, you would have three 1st-level spell slots.
+>
+> Your Zealous Magic class feature otherwise interacts with the Spellcasting class feature the exact way that the Pact Magic class feature does, and you follow all of the other rules for multiclassing spellcasters, as detailed in chapter 6 of the Player's Handbook.
+
+#### Judgment
+Starting at 3rd level, you can cast divine judgment on your enemies, harnessing your zealous fervor. As a bonus action on your turn, you can cast judgment on a creature within 60 feet of you that you can see. The target suffers the following effects:
+- It can't regain hit points or gain temporary hit points.
+- It can't become hidden from or invisible to you, even by magical means.
+- You have advantage on Intelligence (Investigation) and Wisdom (Insight) checks you make to interrogate the creature.
+
+Your judgment lasts 1 minute. It ends early if you fall unconscious or die, if you choose to end it (no action required), or if you use this feature again.
+
+Once you cast judgment a number of times equal to your Charisma modifier (minimum once), you can cast judgment again by expending a zealous inquisitor spell slot. You regain the ability to cast judgment without expending a zealous inquisitor spell slot when you finish a long rest.
+
+#### None Expect It
+Beginning at 9th level, when you cast a spell that targets a creature on which you have your judgment cast, you can choose to impose disadvantage on any saving throw the creature makes against the spell this turn. If you do, your judgment ends at the end of the turn, and you can't cast judgment on that creature again until you finish a short or long rest.
+
+#### Divine Reward
+At 13th level, your deity rewards you for the works you've performed in their name, allowing you to tap into the true divine power. Choose one 3rd-level spell from either the cleric spell list or from your Divine Domain's list of domain spells as this gift. You can cast your gift spell once without expending a spell slot. You must finish a long rest before you can do so again.
+
+When you finish a long rest, you can spend 10 minutes in prayer entreating your deity to replace your gift spell with a different one of the same level from the cleric spell list or from your Divine Domain's list of domain spells.
+
+At 19th level, you gain a 4th-level spell from either the cleric spell list or from your Divine Domain's list of domain spells that can be cast this way. You regain all uses of your Divine Reward when you finish a long rest. When you spend 10 minutes entreating your deity at the end of a long rest, you can replace one or both of your gift spells.
+
+#### Silence the Heretics
+Starting at 13th level, when you cast judgment on a creature, attacks you make against the creature before the end of the turn are made with advantage.
+
+#### Divine Judge
+Beginning at 17th level, you regain the ability to cast judgment without expending a zealous inquisitor spell slot when you finish a short or long rest.

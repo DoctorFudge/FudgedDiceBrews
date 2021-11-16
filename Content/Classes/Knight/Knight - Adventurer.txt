@@ -1,0 +1,61 @@
+### Code of The Adventurer
+Your heroism is unmatched in the face of danger. With honed skill you're able to bring out the best of your weapon, with a small arsenal to keep your options open when you need them most. As a knight your bond is to your cause, and you will go the distance to achieve your goals.
+
+#### Weapon Devotion
+You have studied an ancient art devoted to the weapon of your Code. Decide what this weapon is. You are now proficient with it.
+
+Choose which type of damage it deals from the following list: *Slashing*, *Piercing*, *Bludgeoning*.
+
+The weapon's properties are determined by one of the following:
+
+##### Devoted Weapon Table
+| Weapon | Damage | Weight | Properties |
+|-|:-:|:-:|-|
+| Melee | 1d8 | 4 lb | Finesse |
+| Ranged | 1d6 | 10 lb | Ammunition (range 30/100), Loading |
+
+#### Speed Runner
+When it comes to finding optimal routes, you're a cut above the rest. At 3rd Level, your base movement increases by 10 feet.
+
+Also, when jumping you may use your Dexterity Modifier instead of your Strength Modifier.
+
+#### Honing Your Craft
+At 3rd Level, you find comfort in the weapon you rely on. Your Weapon of Devotion gains the following properties based on its chosen type.
+- Ranged Weapon: You gain a +1 bonus to attack rolls made with this weapon.
+- Melee Weapon: You gain a +1 bonus to attack and damage rolls made with this weapon.
+
+You may also choose one of the following additional properties for your *Weapon of Devotion*.
+
+##### Bonus Properties
+| Type | Upgrades |
+|:-|:-|
+| Melee | Versatile (1d10), Light, Reach, Thrown (range 20/60) |
+| Ranged | Light, Remove Loading property, Damage Increase (1d8), Remove Ammunition property, Range Increase(+10 feet) |
+
+> ##### Example Devoted Weapons:
+> ___
+> - **Bug Knight:** You use the **Insect Launcher** ranged weapon, with an ammo type of "beetle blades". At 9th level, choose the Light property
+> - **Chain-Blade Knight:** You use the **Chain-Blade** melee weapon. At 9th level, choose the Reach property.
+
+#### Treasure Hunter
+At 6th Level you've begun to collect rare Relics that have never been seen before. You gain one of the following Relics from the Relic List for free: The Eye of True Sight, The Grapple Anchor, Bomb Bag.
+
+Alternatively, you may gain a second copy of your *Weapon of Devotion* weapon.
+
+#### Crafty Combatant
+Upon reaching 6th Level, When you use your action to use a relic, you may use a second relic so long as it uses a bonus action.
+
+#### Multiattack
+At 11th level choose one of the following features:
+
+***Rapid Fire.*** You can use your action and spend 1 Ichor to make a ranged attack against a number of creatures equal to your Wisdom Modifier within 10 feet of a point you can see within your weapon's range. You must have ammunition for each target, as normal, and you make a separate attack roll for each target.
+
+***Spinning Strike.*** You can use your action and spend 2 Ichor to make a melee attack against any number of creatures within 5 feet of you, with a separate attack roll for each target. On a hit the targets take an additional 1d6 force damage as your strike is empowered by the mythical force of Ichor.
+
+***Vigorous Stance.*** You may spend an Ichor and use your reaction to an incoming attack to your AC by +3 for the remainder of the round. You must complete a short rest before using this ability again.
+
+#### Ichor Invigorated
+At 15th Level you know how to overcharge your weapons with Ichor. As a bonus action, you may spend 3 Ichor. On your next attack within 10 minutes, add a +5 to your attack roll and an extra 3d6 force damage.
+
+#### Weapons Master
+At 17th Level you gain another Relic from the Treasure Hunter list and may add an additional property to your *Weapon of Devotion*.

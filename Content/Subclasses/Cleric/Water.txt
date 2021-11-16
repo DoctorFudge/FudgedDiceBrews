@@ -1,0 +1,43 @@
+### Water Domain
+[**Source:** *Cleric Domains: Air, Earth, Fire, and Water*](https://drive.google.com/file/d/1gBbxLAqjcbGRuPqAgrR0nslECetDJZYD/view)
+
+The gods and primordials that embody the power of elemental water tend to exhibit many of the qualities of the waters of the world. The concept of patience is a trait common to most water deities, for water can flow along the same routes for decades, centuries, millennia, or longer, slowly wearing down the world around it, until the time is right to rush forward like a tidal wave or surging river. Additionally, water brings with it life, and for this reason the deities and primordials associated with water often heal the living or encourage conditions for life.
+
+Their clerics are often chosen for similar traits. A water cleric might methodically build a temple within a city of decades, slowly but surely swelling the ranks of followers within their church, no one realizing they've become the dominant religious force in the region until that ship has long ago sailed. Another may encourage a plan for a seige that involves slowly wearing down key sections of walls or bridges until they suddenly collapse. Many will patiently wander through the poverty-stricken areas of a settlement each and every day, healing all who need it to the best of their ability.
+
+Clerics of water deities tend to use spells rather than weaponry, simply creating raw water to crash into their enemies. Followers of these beings of water cherish patience and a respect for life above all else. For this reason, water clerics are one of the most beloved and widely-respected of the elemental deities.
+
+##### Water Domain Spells
+| Spell Level | Spells |
+| :-: | :-- |
+| 1st | <em>create or destroy water, goodberry</em> |
+| 2nd | <em>blur, protection from poison</em> |
+| 3rd | <em>tidal wave, wall of water</em> |
+| 4th | <em>conjure minor elementals, control water</em> |
+| 5th | <em>Bigby's hand, conjure elemental</em> |
+
+Your conjure *minor elementals* and *conjure elemental* domain spells can summon only water elemental creatures (or partially water, such as ice, mud, and steam mephits). Your goodberry domain spell's material component is ten drops of water, and the “berries” created are those drops turned into clear, spongy spheres that burst into cool, refreshing water when eaten. Your *Bigby's hand* domain spell is a pseudopod made of floating water instead of a hand of force, and you can choose to leave whatever it touches either wet or dry.
+
+#### Elemental Cantrips
+When you choose this domain at 1st level, you learn the *shape water* cantrip as a cleric cantrip. It counts as a cleric cantrip for you, but doesn't count against your number of cleric cantrips known.
+
+Additionally, the following cantrips count as cleric cantrips for you, and are added to the cleric spell list for you: *breaking waves*, *buffeting blast*, and *mage hand*. The hand created with your mage hand cleric cantrip is a pseudopod made of floating water instead of a hand of force, and you can choose to leave whatever it touches either wet or dry.
+
+#### Swim the Seas
+At 1st level, you can breathe air and water, gain a swimming speed equal to your walking speed, and ignore any of the drawbacks caused by a deep, underwater environment.
+
+#### Channel Divinity: Purifying Waters
+Starting at 2nd level, you can use your Channel Divinity to restore another with the healing waters of life.
+
+As an action, you present your holy symbol and invoke the name of your deity. Choose one creature other than you within 30 feet of you that you can see, and restore a number of hit points to that creature equal to five times your cleric level. You can't use this feature on an undead or a construct. A creature that has been healed with your purifying waters can't be healed by them again until they finish a long rest.
+
+#### Bond of Water
+At 6th level, your gain *find familiar* as a cleric spell, and it is always prepared without counting against the number of cleric spells you have prepared. You can only summon a lesser water elemental with your *find familiar* cleric spell (that still counts as an elemental, not a celestial, fey, or infernal), and it can be cast with no material components.
+
+Additionally, when you take the Attack action, you can forgo one of your own attacks to allow your lesser water elemental familiar to make one Pseudopod attack of its own.
+
+#### Healing Waters
+Upon reaching 8th level, whenever you use a spell of 1st level or higher to restore hit points to a creature, the creature regains additional hit points equal to your Wisdom modifier.
+
+#### One with the Waves
+At 17th level, you increase your swimming speed to 60 feet, and you gain tremorsense 60 feet. This tremorsense only works to perceive things within a liquid you are currently in contact with.

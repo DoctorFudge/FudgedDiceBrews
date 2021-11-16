@@ -1,0 +1,49 @@
+### College of Machismo
+[**Source:** *College of Machismo*](https://drive.google.com/file/d/1zdDJg7qwi3dV0CghT9rbICSBcX2O5NAv/view)
+
+Famed for their hulking frames and cocksure swagger, the bards of the College of Machismo are dedicated to building (and flaunting) their own physiques. By putting their muscles to work, these entertainers will "perform" in circus acts, gladiatorial bouts, contests of strength, bachelorette parties, and anywhere they can bask in the roar of a crowd.
+
+These bards take their pursuit of muscular perfection seriously, and Will often parade their bodies unbidden. What these individuals lack in self-awareness or humility, however, they more than make up for in raw, physical power. After all, confidence fuels the strength of these bards, and this is a quality they have in abundance.
+
+Contrary to its name, the College of Machismo is home to many a strongwoman, luchadora, and female bodybuilder. Indeed, the rivalries (and occasional romances) Which form between its members tend to capture the public's interest and heighten the college's reputation - especially when a fight between lovers is scheduled!
+
+When they join this college, it is common for bards to adopt pseudonyms that help them play to a crowd. At your option, you can create a ring or stage name for your character, or you can use one listed in the table below:
+
+| d12 | Stage Name |
+|:-:|:-|
+| 1 | "Abdomina/Abdominus" |
+| 2 | "The Boulder" |
+| 3 | "Razzle Dazzle" |
+| 4 | "The Bard-barian" |
+| 5 | "Meat-ior" |
+| 6 | "Tall Might" |
+| 7 | "Knockout" |
+| 8 | "The Gain Train" |
+| 9 | "Tyrannosaurus Flex" |
+| 10 | "Captain Charisma" |
+| 11 | "The Incredible Bulk" |
+| 12 | "Powerhouse" |
+
+#### Bardic Brawn
+When you join the College of Machismo at 3rd level, you double down on iron-pumped peacocking. Your hit point maximum increases by 3, and it increases by 1 whenever you gain another level in this class. Further, your unarmed strikes now use a d4 for damage, and by flaunting your physique or muscular prowess, you can make Strength (Intimidation) and Strength (Performance) checks in place of your Charisma (Intimidation) and Charisma (Performance) checks, respectively.
+
+This degree of self-confidence is its own form of protection. While you aren't wearing armor or Wielding a shield, your AC equals 10 + your Strength modifier + your Charisma modifier.
+
+#### Feat of Strength
+Also at 3rd level, you learn to draw inspiration from displays of your own physical power. As a bonus action, you can expend one use of your Bardic Inspiration to make a Strength—based melee attack or Strength ability check. This check could involve grappling or shoving a creature, smashing a sturdy object, or jumping an unusually-long distance.
+
+If your attack lands or your check is successful, you gain temporary hit points equal to the number rolled on the Bardic Inspiration die + half your bard level + your Charisma modifier (minimum of 1).
+
+#### Tireless Showboating
+Starting at 6th level, your drive to impress others allows you to accomplish the positively Herculean. You gain proficiency in Strength saving throws, and if you can see an ally that can see you, your movement speed isn't reduced by grappling a creature or carrying weights that aren't more than double your normal carrying capacity.
+
+In addition, each turn you can give yourself advantage on one Strength—based attack roll or Strength ability check or saving throw, but only if you can see an ally within 60 feet of you that can see you. If this roll would be affected by disadvantage, you can ignore it.
+
+You can use this feature a number of times equal to your Strength modifier (minimum of once), and regain any expended uses Whenever you finish a short or long rest.
+
+#### Center of Attention
+After reaching 14th level, you can strike a vainglorious pose that taunts your enemies and provokes their enmity. Using an action, or using the bonus action granted by your Feat of Strength feature, you can make a Strength (Performance) check contested by the Wisdom (Insight) check of a creature Within 60 feet of you that can see you. Creatures that cannot be charmed are unaffected.
+
+If your check is successful, your target becomes enraged by you until the end of your next turn. Enraged creatures cannot make opportunity attacks against creatures other than you, and suffer disadvantage on their attack rolls against creatures other than you.
+
+If an enraged creature hits one of your allies With a weapon attack, that ally has resistance to any damage dealt by the attack.

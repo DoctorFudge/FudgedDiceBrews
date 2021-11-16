@@ -1,0 +1,16 @@
+### The Symbiote
+#### Symbiotic Form
+Beginning at 3rd level, you learn to shroud yourself in the essense of your partner. As a bonus action, you may activate your symbiotic form. Your Symbiotic Form lasts for one minuite, until you become incapacitated, or until you end it on your turn as a free action. While your Symbiotic Form is Active you gain the following Benefits:
+- Your Armor class becomes 10 + your dexterity mod + your constitution modifier unless it was already higher. You gain no benefit from any armor you were wearing.
+- You gain a bonus to damage rolls equal to your proficiency bonus
+
+You can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest.
+
+#### Watch your back!
+Beginning at 7th level, your bound companion has begun to look out for you and spot danger. You have advantage on initiative rolls and gain tremorsense out to 10ft.
+
+#### Eldritch Protection
+Beginning at 14th level, whenever you take damage, including damage from mutation points, while your Symbiotic form is up, you can use your reaction to instead take half damage.
+
+#### Two Minds One Form
+Beginning at 18th level, when your Symbiotic Form is activated, your mind merges with your Bound Companion. Whenever you roll a d20 while in your Symbiotic Form, you gain a bonus equal to 1d8.

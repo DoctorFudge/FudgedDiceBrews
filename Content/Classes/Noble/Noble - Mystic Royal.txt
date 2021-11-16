@@ -1,0 +1,232 @@
+### Path of the Mystic Royal
+In some lands the rights of a sovereign bloodline are truly touched with a bit of unique arcana or genuine divinity that bestows magical talent onto the descendants—but only a little. This element of the supernatural colors and informs their development as adventurers, leading to a basic understanding of spells and a few other incredible tricks that sets them apart from their mundane peers.
+
+#### Always Beautiful
+Starting at 1st level when you choose this noble path, you no longer sweat or emanate unpleasant odors. In addition, when you are dirtied, so long as you have a handkerchief or other small piece of cloth you can use an action to immaculately clean yourself and your clothing.
+
+##### Mystic Royal Spellcasting
+| Noble Level | Cantrips Known | Spells Known | 1st | 2nd | 3rd | 4th |
+|:-:|:-:|:-:|:-:|:-:|:-:|:-:|
+| 1st | 2 | — | — | — | — | — |
+| 2nd | 2 | 2 | 2 | — | — | — |
+| 3rd | 2 | 3 | 2 | — | — | — |
+| 4th | 3 | 4 | 3 | — | — | — |
+| 5th | 3 | 4 | 3 | — | — | — |
+| 6th | 3 | 4 | 3 | — | — | — |
+| 7th | 3 | 5 | 4 | 2 | — | — |
+| 8th | 3 | 6 | 4 | 2 | — | — |
+| 9th | 3 | 6 | 4 | 2 | — | — |
+| 10th | 4 | 7 | 4 | 3 | — | — |
+| 11th | 4 | 8 | 4 | 3 | — | — |
+| 12th | 4 | 8 | 4 | 3 | — | — |
+| 13th | 4 | 9 | 4 | 3 | 2 | — |
+| 14th | 5 | 10 | 4 | 3 | 2 | — |
+| 15th | 5 | 10 | 4 | 3 | 2 | — |
+| 16th | 5 | 11 | 4 | 3 | 3 | — |
+| 17th | 5 | 11 | 4 | 3 | 3 | — |
+| 18th | 5 | 11 | 4 | 3 | 3 | — |
+| 19th | 5 | 12 | 4 | 3 | 3 | 1 |
+| 20th | 6 | 13 | 4 | 3 | 3 | 1 |
+
+#### Spellcasting
+***Cantrips.*** At 1st level, you know two cantrips of your choice from the mystic royal spell list. You learn additional mystic royal cantrips of your choice at higher levels, as shown in the Cantrips Known column of the Mystic Royal Spellcasting table.
+
+***Spell Slots.*** The Mystic Royal Spellcasting table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these mystic royal spells, you must expend a slot of the spell’s level or higher. You regain all expended spell slots when you finish a long rest.
+
+For example, if you know the 1st-level spell bless and have a 1st-level and a 2nd-level spell slot available, you can cast bless using either slot.
+
+***Spells Known of 1st Level and Higher.*** Starting at 2nd level, you know two 1st-level spells of your choice from the mystic royal spell list.
+
+The Spells Known column of the Mystic Royal Spellcasting table shows when you learn more mystic royal spells of your choice. Each of these spells must be of a level for which you have spell slots. For instance, when you reach 7th level in this class, you can learn one new spell of 1st or 2nd level.
+
+Additionally, when you gain a level in this class, you can choose one of the mystic royal spells you know and replace it with another spell from the mystic royal spell list, which also must be of a level for which you have spell slots.
+
+***Spellcasting Ability.*** Charisma is your spellcasting ability for your mystic royal spells, since the power of your magic relies on your ability to project your sovereign will into the world. You use your Charisma whenever a spell refers to your spellcasting ability. In addition, you use your Charisma modifier when setting the saving throw DC for a mystic royal spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell save DC** = 8 + your proficiency bonus + your Charisma modifier
+
+**Spell attack modifier** = your proficiency bonus + your Charisma modifier
+
+</center>
+
+***Spellcasting Focus.*** You can use an arcane focus or divine focus as a spellcasting focus for your mystic royal spells.
+
+#### Royal Insight
+Starting at 6th level, a life among the elite has made you savvy. You gain proficiency with Intelligence saving throws.
+
+#### Slow Fall
+Also at 6th level, you can use your reaction when you fall to reduce any falling damage you take by an amount equal to five times your noble level.
+
+#### Mystic Charge
+Beginning at 11th level, when you cast a mystic royal spell that requires concentration on an ally, you can choose for your ally to maintain concentration on the spell. Once you use this feature, you must finish a short or long rest before you can use it again. You can use this feature twice between rests when you reach 20th level.
+
+#### Royal Rival
+Also at 11th level, another noble of equal standing becomes your nemesis. The statistics of your nemesis are entirely at the GM’s discretion but should be for an NPC with a challenge rating of at least 2 or higher (although depending on circumstances your rival may be a monster in hiding instead).
+
+#### For Crown & Country
+At 14th level, you can call on an ally to sacrifice their own safety to save you from a devastating blow. When you are targeted by an attack or spell but before you take damage, use your reaction to choose an ally you can see that is able to hear or see you. The target can use its reaction to rush over to you, placing themselves between you and the attack or spell so instead of you taking damage, the target takes damage. Once you use this feature, you must finish a short or long rest before you can use it again.
+
+#### Royal Heirlooms
+Starting at 17th level, you gain access to the vaults of your kingdom and even the treasure hoards of friendly ally nations. Once per week, you are able to borrow one Rare magic item that cannot be consumed. You are only able to borrow one magic item at a time. When you reach 20th level, you are able to borrow a Very Rare magic item. At the GM’s discretion, some magic items may not be available to be borrowed.
+
+#### Royal Resurrection
+Also at 17th level, you are of such importance that your death is only temporary. Should you die and remain dead for 1d4 days, you are the target of a *raise dead* spell paid for by your kingdom.
+
+## Mystic Royal Spell List
+##### **Cantrips**
+- dancing lights
+- druidcraft
+- guidance
+- light
+- mage hand
+- mending
+- message
+- minor illusion
+- prestidigitation
+- produce flame
+- resistance
+- spare the dying
+- thaumaturgy
+- true strike
+- vicious mockery
+
+##### **1st Level**
+- animal friendship
+- bane
+- bless
+- charm person
+- command
+- comprehend languages
+- create or destroy water
+- cure wounds
+- detect evil and good
+- detect magic
+- detect poison and disease
+- entangle
+- expeditious retreat
+- faerie fire
+- false life
+- feather fall
+- find familiar
+- floating disk
+- fog cloud
+- goodberry
+- grease
+- healing word
+- heroism
+- illusory script
+- jump
+- longstrider
+- mage armor
+- protection from evil and good
+- purify food and drink
+- sanctuary
+- shield
+- shield of faith
+- silent image
+- sleep
+- speak with animals
+- unseen servant
+
+##### **2nd Level**
+- aid
+- animal messenger
+- arcane lock
+- arcanist’s magic aura
+- augury
+- blindness/deafness
+- blur
+- calm emotions
+- continual flame
+- darkvision
+- detect thoughts
+- enhance ability
+- enthrall
+- find steed
+- find traps
+- gentle repose
+- gust of wind
+- hold person
+- knock
+- lesser restoration
+- levitate
+- locate animals or plants
+- locate object
+- magic mouth
+- magic weapon
+- mirror image
+- misty step
+- pass without trace
+- prayer of healing
+- protection from poison
+- rope trick
+- see invisibility
+- shatter
+- silence
+- spike growth
+- suggestion
+- warding bond
+- web
+- zone of truth
+
+##### **3rd Level**
+- beacon of hope
+- bestow curse
+- blink
+- clairvoyance
+- conjure animals
+- counterspell
+- create food and water
+- daylight
+- dispel magic
+- fly
+- gaseous form
+- glyph of warding
+- haste
+- hypnotic pattern
+- magic circle
+- major image
+- mass healing word
+- nondetection
+- phantom steed
+- plant growth
+- protection from energy
+- remove curse
+- revivify
+- sending
+- slow
+- speak with plants
+- tiny hut
+- tongues
+- water breathing
+- water walk
+- wind wall
+
+##### **4th Level**
+- arcane eye
+- banishment
+- compulsion
+- confusion
+- conjure minor elementals
+- conjure woodland beings
+- control water
+- death ward
+- dimension door
+- divination
+- dominate beast
+- fabricate
+- faithful hound
+- fire shield
+- freedom of movement
+- giant insect
+- hallucinatory terrain
+- locate creature
+- polymorph
+- private sanctum
+- resilient sphere
+- secret chest
+- stone shape
+- stoneskin
+- wall of fire

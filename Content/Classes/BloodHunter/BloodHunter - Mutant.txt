@@ -1,0 +1,48 @@
+### Order of the Mutant
+The process of the Hunter's Bane is a painful, scarring, and sometimes fatal experience. Those that survive find themselves irrevocably changed, enhanced. Some found this experience exalting, embracing the ability to alter one's own physiology through a combination of hemocraft and corrupted alchemy. Over generations of experimentation, a splinter order of blood hunters began to emerge, one that focused on brewing toxic elixirs to modify their capabilities in battle, altering their blood and, overtime, become something beyond what they once were. They called themselves the Order of the Mutant. Researching their targets to know their strengths and weaknesses, these blood hunters can alter their biology to be best prepared for the coming conflict.
+
+#### Formulas
+You begin to uncover forbidden alchemical formulas that temporarily alter your mental and physical abilities. Beginning at 3rd level, you choose to learn four mutagen formulas. Your formula options are detailed at the end of this order description. You gain an additional formula at 7th level, 11th level, 15th level, and 18th level. Additionally, when you gain a new mutagen formula, you can choose one of the formulas you already know and replace it with a new mutagen formula.
+
+#### Mutagencraft
+At 3rd level, you can concoct a single mutagen when you finish a short or long rest. Starting at 7th level, the number of mutagens you can create when you finish a rest increases to two, and you can create three mutagens at 15th level.
+
+As a bonus action you can consume a single mutagen, and the effects and side effects last until you finish a short or long rest, unless otherwise specified. While one or more mutagens are affecting you, you can use an action to focus and flush the toxins from your system, ending the effects and side effects of all mutagens.
+
+Mutagens are designed for your biology and have no effect on other creatures. They are also unstable by nature, losing their potency over time and becoming inert if not used before you finish your next short or long rest.
+
+#### Mutagens
+These mutagens are presented in alphabetical order. You can learn a mutagen at the same time you meet its prerequisites.
+___
+- ***Aether (11th Level Required).*** You gain a flying speed of 20 feet for 1 hour. As a side effect, you gain disadvantage on Strength and Dexterity ability checks for 1 hour.
+- ***Alluring.*** Your skin and voice become malleable, allowing you to slightly enhance your appearance and presence. You have advantage on Charisma ability checks. As a side effect, you gain disadvantage on initiative rolls.
+- ***Celerity.*** Your Dexterity score increases by 3, as does your Dexterity maximum. This bonus increases by 1 at 11th level (+4) and 18th level (+5). As a side effect, you gain disadvantage on Wisdom saving throws.
+- ***Conversant.*** You gain advantage on Intelligence ability checks. As a side effect, you gain disadvantage on Wisdom ability checks.
+- ***Cruelty (11th level required).*** When you use the Attack action, you can make an additional weapon attack as a bonus action. As a side effect, you gain disadvantage on Intelligence, Wisdom, and Charisma saving throws.
+- ***Deftness.*** You gain advantage on Dexterity ability checks. As a side effect, you gain disadvantage on Wisdom ability checks.
+- ***Embers.*** You gain resistance to fire damage. As a side effect, you gain vulnerability to cold damage.
+- ***Gelid.*** You gain resistance to cold damage. As a side effect, you gain vulnerability to fire damage.
+- ***Impermeable.*** You gain resistance to piercing damage. As a side effect, you gain vulnerability to slashing damage.
+- ***Mobile.*** You are immune to the grappled and restrained conditions. At 11th level, you also are immune to the paralyzed condition. As a side effect, you gain disadvantage on Strength ability checks.
+- ***Nighteye.*** You gain darkvision for up to 60 feet. If you already have darkvision, this increases its range by 60 additional feet. As a side effect, you gain sunlight sensitivity (detailed in the Dark Elf section on page 24 in the Player's Handbook).
+- ***Percipient.*** You gain advantage on Wisdom ability checks. As a side effect, you gain disadvantage on Charisma ability checks.
+- ***Potency.*** Your Strength score increases by 3, as does your Strength maximum. This bonus increases by 1 at 11th level (+4) and 18th level (+5). As a side effect, you have disadvantage on Dexterity saving throws.
+- ***Precision (11th level required).*** Your weapon attacks score a critical hit on a roll of 19-20. As a side effect, you gain disadvantage on Strength saving throws.
+- ***Rapidity.*** Your speed increases by 10feet. At 15th level, your speed increases by 15 feet instead. As a side effect, you gain disadvantage on Intelligence ability checks.
+- ***Reconstruction (7th level required).*** For 1 hour, at the start of each of your turns, you regain hit points equal to your proficiency bonus if you have at least 1 hit point but no more than half of your hit points left. As a side effect, your speed decreases by 10ft for 1hour.
+- ***Sagacity.*** Your Intelligence score increases by 3, as does your Intelligence maximum. This bonus increases by 1 at 11th level (+4) and 18th level (+5). As a side effect, you gain disadvantage on Charisma saving throws.
+- ***Shielded.*** You gain resistance to slashing damage. As a side effect, you gain vulnerability to bludgeoning damage.
+- ***Unbreakable.*** You gain resistance to bludgeoning damage. As a side effect, you gain vulnerability to piercing damage.
+- ***Vermillion.*** You gain an additional use of your Blood Maledict feature. As a side effect, you gain disadvantage on death saving throws.
+
+#### Strange Metabolism
+Beginning at 7th level, your body has begun to adapt to toxins and venoms, ignoring their corroding effects. You gain immunity to poison damage and the poisoned condition. In addition, you can instill a burst of adrenaline to temporarily resist the negative effects of a mutagen. As a bonus action, you can choose to ignore the side effect of a mutagen affecting you for 1 minute. Once you use this feature to resist side effects, you can't do so again until you finish a long rest.
+
+#### Brand of Axiom
+At 11th level, your hemocraft has altered your Brand of Castigation to enforce a foe's true nature. Any illusions disguising or making a creature invisible when you brand them end, and they can't benefit from such illusions while branded. If a creature branded by you is polymorphed or has changed shape, they must succeed on a Wisdom saving throw or revert to their true form and be stunned until the end of your next turn. Whenever a branded creature attempts to polymorph or change shape, they must succeed on a Wisdom saving throw or the attempt fails, and they are stunned until the end of your next turn.
+
+#### Blood Curse of Corrosion
+Starting at 15th level, your blood curse can wrack a creature's body with terrible toxins. You gain the Blood Curse of Corrosion for your Blood Maledict feature. This does not count against your number of blood curses known.
+
+#### Exalted Mutation
+At 18th level, your body has adapted to produce your toxins naturally in a moment of need. As a reaction, you can choose one mutagen currently affecting you to flush from your system and end, then immediately have a mutagen you know the formula for take effect in its place. You can use this feature a number of times equal to your Intelligence modifier (minimum of 1). You regain all uses of this feature after you finish a long rest.

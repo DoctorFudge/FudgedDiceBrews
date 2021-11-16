@@ -1,0 +1,249 @@
+## Necromancer
+[**Source:** *The Necromancer*](https://www.gmbinder.com/share/-LE63w7F2ikQ4170d0Da)
+
+A handsome Elf male in a white robe takes pause in the middle of a battle to survey the scene before him. Seeing a nearby footman losing ground to a bloodlusting Orc, he touches the corpse of a nearby Worg, which rises from the afterlife and lunges at the green beast.
+
+A Tiefling in black leather armor raises her sword to parry the wild swing of a cackling Gnoll. As her free hand grabs the creature's unarmored wrist, it lets out a yelp as a green misty substance flows into the Tiefling's palm and out of a cut on her forearm - a cut that slowly starts to close.
+
+Seeing an Ogre's giant club about to come down on him, a tired warrior closes his eyes and awaits death. A howl sounds, and the fighter opens his eyes: he sees the giant flailing around wildly, grasping its face. Standing behind it is a mischievous Gnome, grinning through his beard, holding an open tome.
+
+No matter the approach to combat, necromancers seek to control life and death in all their forms. A natural knack for manipulating the life essences that flow in every living being is what drives each necromancer to commit their nefarious or honorable deeds.
+
+### A search for the impossible
+If there is one credo that rings true for even the most powerful, it is that all mortals must die - whether sooner or later. These sinister figures, however, prefer later over sooner: necromancers are those who have somehow learned to manipulate the essence of life itself.
+
+Through their techniques, they take it from those they deem undeserving, control it to their own liking, and sometimes even give it to those who could further their efforts. Most necromancers live their life in pursuit of immortality, whether for themselves or a loved one. Though they live by the credo of inescapable mortality, the ultimate goal that their skills are a means towards is often to beat that exact clock they know so well ticks for everyone.
+
+### A Unique Talent
+Contrary to popular belief, necromancers are not necessarily evil-doers, nor do all of them seek to subjugate others. In fact, some of them seek to use their powers for good: a poor understanding of their skills as well as their use of frightening undead monstrosities has simply led to a more generalized fear of their capacities. In reality, necromancers are a varied set of people. There is, however, one thing all of them have in common: each necromancer has some form of power over the vital essences that move any living creature - and they seek to use this to their advantage. Whether strayed wizards, aspiring acolytes or even blessed priests of gods of life, necromancers aim to achieve their goals by manipulating the very core of any creature's being.
+
+### Creating a necromancer
+In creating a necromancer, there is one important fact to consider: "how did you come into contact with necromancy, and why do you use it?"". Were you a young wizard who discovered their talent for manipulating life essence was more effective than blasting enemies with evocation spells? Did you grow up in a demon-worshipping cult that required the storing of life essence for satanic rituals? Or perhaps the source of your talent is unknown and mysterious? And what is the appeal of Necromancy to your character? Is it simply "power over others", or did you perhaps lose a loved one to disease and felt the inability to prevent their death frustrating?
+
+#### Quick Build
+You can make a necromancer quickly by following these suggestions. First, Wisdom should be your highest ability score. Make Intelligence your next-highest if you want to excel at spell casting and plan to take up the Creed of Tomes archetype. Choose Constitution instead if you plan to emphasize either the summoning of undead minions or the manipulation of health pools. Second, choose the Acolyte or Sage background. Third, choose the Chill Touch and Thaumaturgy cantrips.
+
+## Class Features
+As a necromancer, you gain the following class features.
+
+#### Hit Points
+___
+- **Hit Dice:** 1d6 per necromancer level
+- **Hit Points at 1st Level:** 6 + your Constitution modifier
+- **Hit Points at Higher Levels:** 1d6 (or 4) +  your Constitution modifier per necromancer level after 1st.
+
+#### Proficiencies
+___
+- **Armor**: Light armor
+- **Weapons**: Daggers, Quarterstaffs, Sickles
+- **Tools**: None
+___
+- **Saving Throws**: Wisdom, Intelligence
+- **Skills**: Choose two from Arcana, Deception, History, Investigation, Medicine, and Religion.
+
+#### Equipment
+You start with the following equipment, in addition to the equipment granted by your background:
+- *(a)* a quarterstaff or *(b)* a sickle
+- *(a)* a component pouch or *(b)* an arcane focus
+- *(a)* a priest's pack or *(b)* a scholar's pack
+
+Alternatively, you can choose to start with 4d4 x 10 gp and opt to spend some or all of that money on starting equipment.
+
+##### The Necromancer
+| Level | Proficiency Bonus | Features | Cantrips Known | Spells known | 1st | 2nd | 3rd | 4th | 5th | 6th | 7th | 8th | 9th | Acumen Known   *(Creed of Tomes Only)* |
+|:---:|:---:|:----|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|:---:|
+| 1st | +2 | Spellcasting, Vitality Shift | 2 | 4 | 2 | — | — | — | — | — | — | — | — | — |
+| 2nd | +2 | Necromantic Creed | 2 |5 | 3 | — | — | — | — | — | — | — | — | — |
+| 3rd | +2 | — | 2 | 6 | 3 | 2 | — | — | — | — | — | — | — | 1 |
+| 4th | +2 | Ability Score Improvement | 3 | 7 | 4 | 3 | — | — | — | — | — | — | — | 1 |
+| 5th | +3 | — | 3 | 8|  4 | 3 | 2 | — | — | — | — | — | — | 1 |
+| 6th | +3 | Creed Feature | 3 | 9 | 4 | 3 | 3 | — | — | — | — | — | — | 2 |
+| 7th | +3 | — | 3 | 10 | 4 | 3 | 3 | 1 | — | — | — | — | — | 2 |
+| 8th | +3 | Ability Score Improvement | 3 | 11 | 4 | 3 | 3 | 2 | — | — | — | — | — | 2 |
+| 9th | +4 | — | 3 | 12 | 4 | 3 | 3 | 3 | 1 | — | — | — | — | 2 |
+| 10th | +4 | Creed Feature | 4 | 13 | 4 | 3 | 3 | 3 | 2 | — | — | — | — | 3 |
+| 11th | +4 | — | 4 | 14 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — | 3 |
+| 12th | +4 | Ability Score Improvement | 4 | 15 | 4 | 3 | 3 | 3 | 2 | 1 | — | — | — | 3 |
+| 13th | +5 | — | 4 | 16 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — | 3 |
+| 14th | +5 | Creed Feature | 4 | 17 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | — | — | 4 |
+| 15th | +5 | — | 4 | 18 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — | 4 |
+| 16th | +5 | Ability Score Improvement | 5 | 19 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | — | 4 |
+| 17th | +6 | — | 5 | 20 | 4 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 1 | 4 |
+| 18th | +6 | Eternal Youth | 5 | 21 | 4 | 3 | 3 | 3 | 3 | 1 | 1 | 1 | 1 | 5 |
+| 19th | +6 | Ability Score Improvement | 5 | 22 | 4 | 3 | 3 | 3 | 3 | 2 | 1 | 1 | 1 | 5 |
+| 20th | +6 | Creed Feature | 5 | 23 | 4 | 3 | 3 | 3 | 3 | 2 | 2 | 1 | 1 | 5 |
+
+### Spellcasting
+As a necromancer, the skill to manipulate the life essence of any living being comes naturally to you. Though this skill requires natural talent, the techniques for doing so can be enhanced by studying spells and the arcane.
+
+See chapter 10 of the official player handbook for the general rules of spellcasting and the end of this document for the necromancer spell list.
+
+#### Cantrips
+You know two cantrips of your choice from the necromancer spell list. You learn additional necromancer cantrips of your choice at higher levels, as shown in the Cantrips Known column of the necromancer table.
+
+#### Spell Slots
+The Necromancer table shows how many spell slots you have to cast your spells of 1st level and higher. To cast one of these necromancer spells, you must expend a slot of the spell's level or higher. You regain all expended spell slots when you finish a long rest.
+
+For example, if you know the 1st-level spell *False Life* and have a 1st-level and a 2nd-level spell slot available, you can cast *False Life* using either slot.
+
+#### Spells Known of 1st Level and Higher
+You know four 1st-level spells of your choice from the necromancer spell list.
+
+The Spells Known column of the Necromancer table shows when you learn more necromancer spells of your choice. Each of these spells must be of a level for which you have spell slots, as shown on the table. For instance, when you reach 3rd level in this class, you can learn one new spell of 1st or 2nd level.
+
+Additionally, when you gain a level in this class, you can choose one of the necromancer spells you know and replace it with another spell from the necromancer spell list, which also must be of a level for which you have spell slots.
+
+#### Spellcasting Ability
+Wisdom is your spellcasting ability for your necromancer spells, for your magic draws upon your innate link to the essence of life that sits within all creatures. You use your Wisdom whenever a spell refers to your spellcasting ability. In addition, you use your Wisdom modifier when setting the saving throw DC for a necromancer spell you cast and when making an attack roll with one.
+
+<center>
+
+**Spell save DC** = 8 + your proficiency bonus + your Wisdom modifier
+
+**Spell attack modifier** = your proficiency bonus + your Wisdom modifier
+
+</center>
+
+#### Ritual Casting
+You can cast any necromancer spell as a ritual if that spell has the ritual tag.
+
+#### Spellcasting Focus
+You can use an arcane focus (found in PHB chapter 5) as a spellcasting focus for your necromancer spells.
+
+### Vitality Shift
+All 1st level Necromancers have a certain control over the life forces that flow through each living being. As an action, you may touch a willing creature in order to either drain their vitality, or give them yours. You may take an amount of hit points of up to four times your Necromancer level and either remove it from your target's pool and add it to your own, or vice versa. Hit points transferred this way can not cause either pools to go beyond their maximum amount of hit points.
+
+You can use this feature a number of times equal to your wisdom modifier (minimum of one charge). When you finish a long rest, you regain all expended uses.
+
+### Necromantic Creed
+At 2nd level, you choose one of three necromantic creeds to adhere to: the Creed of the Departed or the Creed of Tomes. These Creeds give you features at 2nd level and again at the 6th, 10th, 14th and 20th levels. Each creed is detailed at the end of the class description.
+
+### Ability Score Improvement
+When you reach 4th level, and again at 8th, 12th, 16th and 19th level, you can increase one ability score of your choice by 2, or you can increase two ability scores of your choice by 1. As normal, you can't increase an ability score above 20 using this feature.
+
+### Eternal Youth
+At 18th level, you have so much experience manipulating the essence of life that you are able to regain some of your childhood vigor. You become proficient in constitution saving throws, immune to poison and disease, and whenever you use your vitality shift feature, you can choose to also transfer an amount of years of age of up to your Necromancer level between yourself and the recipient.
+
+## Necromancer Spell List
+##### Cantrips (0 Level)
+- Acid Splash
+- Chill Touch
+- Dancing Lights
+- Frostbite
+- Green-Flame Blade
+- Infestation
+- Mold Earth
+- Poison Spray
+- Ray of Frost
+- Spare the Dying
+- Sword Burst
+- Thaumaturgy
+- Toll the Dead
+- True Strike
+
+##### 1st Level
+- Bane
+- Cause Fear
+- Command
+- Cure Wounds
+- Detect Evil and Good
+- Detect Poison and Disease
+- Disguise Self
+- False Life
+- Healing Word
+- Inflict Wounds
+- Protection from Evil and Good
+- Shield
+- Ray of Sickness
+
+##### 2nd level
+- Aid
+- Augury
+- Blindness/Deafness
+- Blur
+- Darkness
+- Find Steed
+- Gentle Repose
+- Lesser Restoration
+- Moonbeam
+- See Invisibility
+- Shadow Blade
+- Phantasmal Force
+- Prayer of Healing
+- Ray of Enfeeblement
+
+##### 3rd Level
+- Animate Dead
+- Beacon of Hope
+- Bestow Curse
+- Blink
+- Fear
+- Feign Death
+- Gaseous Form
+- Magic Circle
+- Mass Healing Word
+- Phantom Steed
+- Remove Curse
+- Revivify
+- Speak With Dead
+- Spirit Guardians
+- Vampiric Touch
+
+##### 4th Level
+- Arcane Eye
+- Aura of Life
+- Blight
+- Death Ward
+- Locate Creature
+- Mordenkainen's Faithful Hound
+- Phantasmal Killer
+- Shadow of Moil
+- Sickening Radiance
+
+##### 5th Level
+- Antilife Shell
+- Cloudkill
+- Contagion
+- Danse Macabre
+- Dream
+- Enervation
+- Greater Restoration
+- Hallow
+- Insect Plague
+- Mass Cure Wounds
+- Negative Energy Flood
+- Raise Dead
+- Rary's Telepathic Bond
+- Reincarnate
+
+##### 6th Level
+- Circle of Death
+- Create Undead
+- Disintegrate
+- Eyebite
+- Harm
+- Heal
+- Magic Jar
+- Move Earth
+- Soul Cage
+- True Seeing
+
+##### 7th Level
+- Divine Word
+- Etherealness
+- Finger of Death
+- Regenerate
+- Resurrection
+- Symbol
+
+##### 8th Level
+- Abi Dalzim's Horrid Wilting
+- Clone
+- Demiplane
+- Feeblemind
+
+##### 9th Level
+- Astral Projection
+- Power Word Heal
+- Power Word Kill
+- True Resurrection

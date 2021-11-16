@@ -1,0 +1,31 @@
+### Copycat
+[**Source:** *A Thousand Classes and A Thousand More*](https://drive.google.com/file/d/11ZbvclSxDg9KrQX6pyRE5dRg1eudAPLc/view)
+
+Copycat Rogues are so few and far between that many are not even sure they exist. A copycat rogue may simply appear to be an arcane trickster, or an assassin, or a thief with a magical touch. Those who master their unique magical gifts are able to unleash devastating coordinated assaults with allies, and turn their enemy's attacks right back at them. These rogues are able to make friends with almost anyone just by pressing their similarities in the right direction, and easily infiltrate their enemies by replicating their uniform and faces.
+
+#### Uniform Appearance
+When you choose this archetype at 3rd level, you gain the ability to take the appearance of others and apply it to yourself. As an action you observe a creature that you can see, and can choose up to 3 minor traits, such as eye colour, hair style, tattoo, or height and weight, or one major trait, such as their face or their uniform. You take on a physical transformation to gain this trait, which lasts for up to 1 hour, your skin and clothes melting under your unique magic into a new shape. You cannot remove a uniform or it reverts to its original look.
+
+Your ability scores cannot be changed using this feature.
+
+#### From You to Me
+Also at 3rd level, you can instantly copy what you see people around you doing. Any time a creature you can see uses their action, you can use your reaction to do that action as well.
+
+Your mimicry follows all of the same rules and requirements as the original action being performed. If your opponent takes the Attack action using a Melee Weapon, then you must also take the Attack action using a Melee Weapon. You do not copy any modifying features of the action being taken (For instance, multiattack, features that make physical damage magical, etc.), and any modifying features you have that would effect said action only do so according to their triggering conditions (for instance, Extra Attack's explicit "on your turn" condition).
+
+You must have any required items, or one that is similar enough to fit into the same category. For instance, if your target makes an attack with a pistol, you must have another ranged weapon such as a bow, or if your target attacks with a broadsword, you must also have a melee weapon such as a dagger.
+
+If you mimic a spell, you cast the spell at the same level as your target. You must have the correct spell slot to consume, and the casting time must be no higher than 1 action.
+
+#### From Me to You
+At 9th level you can extend your copy powers to other creatures in stressful situations. Once per round, if you and a friendly creature you can see must make the same saving throw or ability check at the same time, you both have advantage on the save.
+
+If they are making a dexterity saving throw, friendly creatures also gain the benefit of your Evasion feature.
+
+For example, if you are both within the radius of the same casting of the Fireball spell.
+
+#### What's Mine is Yours
+At 13th level your ability to copy extends to the deeper more complex parts of the world. When a person talks to you, or near enough that you can hear them, you instantly learn their language. You forget the language when you complete a long rest.
+
+#### What's Yours is Mine
+At 17th level you are able to gain even the abilities of your foes, turning their powers against them. When you use your reaction to replicate an action a creature has taken, you use their modifier for the roll you make if it is higher than your own would be.

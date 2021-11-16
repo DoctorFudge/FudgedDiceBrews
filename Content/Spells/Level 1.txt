@@ -1,0 +1,67 @@
+## Level 1
+
+#### Arctic Breath
+*Transmutation*
+___
+- **Casting Time:** 1 action
+- **Range:** Self (30 ft line)
+- **Components:** V, S
+- **Duration:**  Instantaneous.
+- **Classes:** Druid, Sorcerer, Wizard
+___
+A line of freezing arctic wind 30 feet long and 5 feet wide blasts out from you in a direction you choose. Each creature in the line must make a Dexterity saving throw. On a failed save, a creature takes 2d8 cold damage and their movement speed is reduced by 10 feet until the end of their next turn. On a successful save, a creature takes half as much damage and isn't slowed.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, the damage increases by 1d8 for each slot level above 1st.
+
+
+#### Bros Before Foes
+*Enchantment*
+___
+- **Casting Time:** 1 Action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:**  1 Day
+- **Classes:** Paladin
+___
+You channel your inner strength to your bro with a fist bump. When your bro rolls their initiative they gain a bonus equal to your spellcasting ability modifier for 1/day.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 2nd level or higher, you can target one additional creature for each slot level above 1st.
+
+#### Goodberry (Improved)
+*Transmutation*
+___
+- **Casting Time:** 1 action
+- **Range:** 60 feet
+- **Components:** V, S
+- **Duration:** Instantaneous
+- **Classes:** Druid, Cleric, Bard, Witch
+___
+Up to eight berries appear on a bush you conjure forth within range and are infused with magic for the duration. A creature can use its action to eat one berry. Eating a berry restores 1d4 hit points, and the berry provides enough nourishment to sustain a creature for one day.
+
+The berries lose their potency if they have not been consumed within 24 hours of the casting of this spell.
+
+**At Higher Levels.** When casting this spell using a spell slot of 2nd or higher, the amount of hit points this spell heals increases by 1d4 for each slot above 1st.
+
+#### Power Word: Die
+*Enchantment*
+___
+- **Casting Time:** 1 action
+- **Range:** Self
+- **Components:** V
+- **Duration:**  Instantaneous
+- **Classes:** Bard, Sorcerer, Warlock, Wizard
+___
+You utter a word of power that makes you instantly drop dead. During the brief period of time between when this word is uttered and your body hitting the ground, you become acutely aware of the fact that you obviously meant to cast power word kill. Immediately afterwards, a drum sting can be heard alongside the laughter of a live studio audience.
+
+#### Thunder Punch
+*Evocation*
+___
+- **Casting Time:** 1 action
+- **Range:** Touch
+- **Components:** V, S
+- **Duration:**  Instantaneous.
+- **Classes:** Sorcerer, Wizard
+___
+You charge your hand (or similar appendage) with thunder power. Make a melee spell attack against the target. On a hit, the target takes 3d8 thunder damage, and is knocked 10 feet away from you.
+
+**At Higher Levels.** When you cast this spell using a spell slot of 3rd level or higher, the damage increases by 1d8 for each slot level above 2nd.
