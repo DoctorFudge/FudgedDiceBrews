@@ -1,0 +1,159 @@
+[{
+		"Class": "Paladin",
+		"subclass": "Ancestors",
+		"counters": [{
+			"name": "Ghostwalker",
+			"level": 20,
+			"value": 1,
+			"reset": "long",
+			"display": "default",
+			"classLevel": "PaladinLevel"
+		}]
+	},
+	{
+		"Class": "Paladin",
+		"subclass": "Final Guard",
+		"counters": [{
+			"name": "Indomitable Guardian",
+			"level": 20,
+			"value": 1,
+			"reset": "long",
+			"display": "default",
+			"classLevel": "PaladinLevel"
+		}]
+	},
+	{
+		"Class": "Paladin",
+		"subclass": "Fox",
+		"counters": [{
+			"name": "Scion of Knavery",
+			"level": 20,
+			"value": 1,
+			"reset": "long",
+			"display": "default",
+			"classLevel": "PaladinLevel"
+		}]
+	},
+	{
+		"Class": "Paladin",
+		"subclass": "Goodberry",
+		"counters": [{
+			"name": "Goodberry Apostle",
+			"level": 20,
+			"value": 1,
+			"reset": "long",
+			"display": "default",
+			"classLevel": "PaladinLevel"
+		}]
+	},
+	{
+		"Class": "Paladin",
+		"subclass": "Harmony",
+		"counters": [{
+				"name": "Countersong",
+				"level": 15,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "PaladinLevel"
+			},
+			{
+				"name": "Reclaimer",
+				"level": 20,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "PaladinLevel"
+			}
+		]
+	},
+	{
+		"Class": "Paladin",
+		"subclass": "Hellion",
+		"counters": [{
+			"name": "Call Forth the Phoenix",
+			"level": 20,
+			"value": 1,
+			"reset": "long",
+			"display": "default",
+			"classLevel": "PaladinLevel"
+		}]
+	},
+	{
+		"Class": "Paladin",
+		"subclass": "Hunt",
+		"counters": []
+	},
+	{
+		"Class": "Paladin",
+		"subclass": "Planes",
+		"counters": [{
+			"name": "Phase Shift",
+			"level": 20,
+			"value": 1,
+			"reset": "long",
+			"display": "default",
+			"classLevel": "PaladinLevel"
+		}]
+	},
+	{
+		"Class": "Paladin",
+		"subclass": "Rebellion",
+		"counters": [{
+			"name": "Avatar of Rebellion",
+			"level": 20,
+			"value": 1,
+			"reset": "long",
+			"display": "default",
+			"classLevel": "PaladinLevel"
+		}]
+	},
+	{
+		"Class": "Paladin",
+		"subclass": "Resolve",
+		"counters": [{
+			"name": "Enduring Champion",
+			"level": 20,
+			"value": 1,
+			"reset": "long",
+			"display": "default",
+			"classLevel": "PaladinLevel"
+		}]
+	},
+	{
+		"Class": "Paladin",
+		"subclass": "Spite",
+		"counters": [{
+			"name": "Avatar of Denial",
+			"level": 20,
+			"value": 1,
+			"reset": "long",
+			"display": "default",
+			"classLevel": "PaladinLevel"
+		}]
+	},
+	{
+		"Class": "Paladin",
+		"subclass": "Tempest",
+		"counters": [{
+			"name": "Warrior of the Storm",
+			"level": 20,
+			"value": 1,
+			"reset": "long",
+			"display": "default",
+			"classLevel": "PaladinLevel"
+		}]
+	},
+	{
+		"Class": "Paladin",
+		"subclass": "Vigilance",
+		"counters": [{
+			"name": "Unflinching Guardian",
+			"level": 20,
+			"value": 1,
+			"reset": "long",
+			"display": "default",
+			"classLevel": "PaladinLevel"
+		}]
+	}
+]

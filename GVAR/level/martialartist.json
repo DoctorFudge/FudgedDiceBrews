@@ -1,0 +1,213 @@
+[{
+		"Class": "MartialArtist",
+		"hitDie": "d8",
+		"subclassLevel": 3,
+		"counters": [{
+			"name": "Spirit Points",
+			"level": 2,
+			"value": "MartialArtistLevel",
+			"reset": "short",
+			"display": "default",
+			"classLevel": "MartialArtistLevel"
+		}]
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Drunken Master",
+		"counters": []
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Kensei",
+		"counters": []
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Four Elements",
+		"counters": []
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Long Death",
+		"counters": []
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Open Hand",
+		"counters": [{
+			"name": "Wholeness of Body",
+			"level": 6,
+			"value": 1,
+			"reset": "long",
+			"display": "bubble",
+			"classLevel": "MartialArtistLevel",
+			"desc": "At 6th level, you gain the ability to heal yourself. As an action, you can regain hit points equal to three times your MartialArtist level. You must finish a long rest before you can use this feature again."
+		}]
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Shadow",
+		"counters": []
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Sun Soul",
+		"counters": []
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Mercy",
+		"counters": [{
+			"name": "Hand of Ultimate Mercy",
+			"level": 17,
+			"value": 1,
+			"reset": "long",
+			"display": "bubble",
+			"classLevel": "MartialArtistLevel",
+			"desc": "Your mastery of life energy opens the door to the ultimate mercy. As an action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 spirit points. The creature then returns to life, regaining a number of hit points equal to 4d10 + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: blinded, deafened, paralyzed, poisoned, and stunned.\n\nOnce you use this feature, you can’t use it again until you finish a long rest."
+		}]
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "The Astral Self",
+		"counters": []
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Ascendant Dragon",
+		"counters": [{
+				"name": "Breath of the Dragon",
+				"level": 3,
+				"value": "proficiencyBonus",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MartialArtistLevel"
+			},
+			{
+				"name": "Wings Unfurled",
+				"level": 6,
+				"value": "proficiencyBonus",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MartialArtistLevel"
+			},
+			{
+				"name": "Aspect of the Wyrm",
+				"level": 11,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MartialArtistLevel"
+			}
+		]
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Bloom",
+		"counters": []
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Firedancer",
+		"counters": []
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Frost",
+		"counters": []
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Goodberry",
+		"counters": [{
+			"name": "Goodberry Tendrils",
+			"level": 11,
+			"value": "wisdomMod",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "MartialArtistLevel"
+		}]
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Heavy-Handed",
+		"counters": []
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Hurtling Hare",
+		"counters": []
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Internal Alchemy",
+		"counters": [{
+			"name": "Perfect Balance",
+			"level": 17,
+			"value": 1,
+			"reset": "long",
+			"display": "bubble",
+			"classLevel": "MartialArtistLevel"
+		}]
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Kabuki",
+		"counters": []
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Northern Lights",
+		"counters": []
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Peaceful Warrior",
+		"counters": [{
+			"name": "Fist of Mercy",
+			"level": 6,
+			"value": 1,
+			"reset": "short",
+			"display": "bubble",
+			"classLevel": "MartialArtistLevel"
+		}]
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Sokushinbutsu",
+		"counters": [{
+			"name": "Sealing Talisman",
+			"level": 11,
+			"value": 1,
+			"reset": "short",
+			"display": "bubble",
+			"classLevel": "MartialArtistLevel"
+		}]
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Tattooed Temple",
+		"counters": []
+	},
+	{
+		"Class": "MartialArtist",
+		"subclass": "Tip-Toe",
+		"counters": [{
+				"name": "Concentrated Ki",
+				"level": 3,
+				"value": "MartialArtistLevel",
+				"reset": "none",
+				"display": "default",
+				"classLevel": "MartialArtistLevel"
+			},
+			{
+				"name": "Shattering Force",
+				"level": 17,
+				"value": "wisdomMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MartialArtistLevel"
+			}
+		]
+	}
+]

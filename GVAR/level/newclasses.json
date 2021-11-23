@@ -1,0 +1,1932 @@
+[{
+		"Class": "Adept",
+		"hitDie": "d8",
+		"subclassLevel": 2,
+		"counters": [{
+				"name": "Insight Points",
+				"level": 1,
+				"value": "intelligenceMod",
+				"reset": "short",
+				"display": "default",
+				"classLevel": "AdeptLevel"
+			},
+			{
+				"name": "True Genius",
+				"level": 20,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "AdeptLevel"
+			}
+		]
+	},
+	{
+		"Class": "Adept",
+		"subclass": "Tactitian",
+		"counters": []
+	},
+	{
+		"Class": "Adept",
+		"subclass": "Physician",
+		"counters": []
+	},
+	{
+		"Class": "Adept",
+		"subclass": "Explorer",
+		"counters": [{
+			"name": "Rapid Adjustment",
+			"level": 13,
+			"value": 1,
+			"reset": "short",
+			"display": "default",
+			"classLevel": "AdeptLevel"
+		}]
+	},
+	{
+		"Class": "Astrologian",
+		"hitDie": "d6",
+		"subclassLevel": 2,
+		"counters": [{
+				"name": "Major Arcana",
+				"level": 1,
+				"value": "wisdomMod",
+				"reset": "long$5$short",
+				"display": "default",
+				"classLevel": "AstrologianLevel"
+			},
+			{
+				"name": "Redraw",
+				"level": 10,
+				"value": "2",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "AstrologianLevel"
+			},
+			{
+				"name": "Sleeve Draw",
+				"level": 18,
+				"value": "1",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "AstrologianLevel"
+			}
+		]
+	},
+	{
+		"Class": "Astrologian",
+		"subclass": "Aetherial",
+		"counters": [{
+				"name": "Combust",
+				"level": 6,
+				"value": "2",
+				"reset": "short",
+				"display": "default",
+				"classLevel": "AstrologianLevel"
+			},
+			{
+				"name": "Destructive Synastry",
+				"level": 14,
+				"value": "1",
+				"reset": "short",
+				"display": "default",
+				"classLevel": "AstrologianLevel"
+			},
+			{
+				"name": "Stellar Detonation",
+				"level": 20,
+				"value": "1",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "AstrologianLevel"
+			}
+		]
+	},
+	{
+		"Class": "Astrologian",
+		"subclass": "Diurnal",
+		"counters": [{
+				"name": "Helios",
+				"level": 6,
+				"value": "1",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "AstrologianLevel"
+			},
+			{
+				"name": "Healing Synastry",
+				"level": 14,
+				"value": "1",
+				"reset": "short",
+				"display": "default",
+				"classLevel": "AstrologianLevel"
+			},
+			{
+				"name": "Collective Unconscious",
+				"level": 20,
+				"value": "1",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "AstrologianLevel"
+			}
+		]
+	},
+	{
+		"Class": "Astrologian",
+		"subclass": "Nocturnal",
+		"counters": [{
+				"name": "Lunar Protection",
+				"level": 6,
+				"value": "1",
+				"reset": "short",
+				"display": "default",
+				"classLevel": "AstrologianLevel"
+			},
+			{
+				"name": "Astral Vigor",
+				"level": 20,
+				"value": "1",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "AstrologianLevel"
+			}
+		]
+	},
+	{
+		"Class": "Avenger",
+		"hitDie": "d10",
+		"subclassLevel": 3,
+		"counters": [{
+				"name": "Oath of Emnity",
+				"level": 3,
+				"value": [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10, 10],
+				"modifier": "wisdomMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "AvengerLevel"
+			},
+			{
+				"name": "Eye of Justice",
+				"level": 15,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "AvengerLevel"
+			}
+		]
+	},
+	{
+		"Class": "Adept",
+		"subclass": "Pursuit",
+		"counters": []
+	},
+	{
+		"Class": "Adept",
+		"subclass": "Retribution",
+		"counters": [{
+			"name": "Spiteful Challenge",
+			"level": 7,
+			"value": 1,
+			"reset": "short",
+			"display": "bubble",
+			"classLevel": "AvengerLevel"
+		}]
+	},
+	{
+		"Class": "Augmented",
+		"hitDie": "d10",
+		"subclassLevel": 3,
+		"counters": []
+	},
+	{
+		"Class": "Augmented",
+		"subclass": "Eradicate",
+		"counters": [{
+				"name": "Battle Scouter",
+				"level": 3,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "AugmentedLevel"
+			},
+			{
+				"name": "Overdrive",
+				"level": 6,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "AugmentedLevel"
+			}
+		]
+	},
+	{
+		"Class": "Augmented",
+		"subclass": "Safeguard",
+		"counters": [{
+			"name": "Deploy Barriers",
+			"level": 3,
+			"value": [0, 0, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5],
+			"reset": "short",
+			"display": "default",
+			"classLevel": "AugmentedLevel"
+		}]
+	},
+	{
+		"Class": "Augmented",
+		"subclass": "Infiltrate",
+		"counters": [{
+				"name": "Adaptive Camouflage",
+				"level": 3,
+				"value": [0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2],
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "AugmentedLevel"
+			},
+			{
+				"name": "Mind Dive",
+				"level": 6,
+				"value": [0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2],
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "AugmentedLevel"
+			}
+		]
+	},
+	{
+		"Class": "Biomancer",
+		"hitDie": "d8",
+		"subclassLevel": 1,
+		"counters": [{
+				"name": "Effluviant Miasma",
+				"level": 2,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "BiomancerLevel"
+			},
+			{
+				"name": "Adrenal Infusion",
+				"level": 20,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "BiomancerLevel"
+			}
+		]
+	},
+	{
+		"Class": "Biomancer",
+		"subclass": "Four Humors",
+		"counters": [{
+			"name": "Purge the Blood",
+			"level": 6,
+			"value": "intelligenceMod",
+			"reset": "short",
+			"display": "default",
+			"classLevel": "BiomancerLevel"
+		}]
+	},
+	{
+		"Class": "Biomancer",
+		"subclass": "Flesh",
+		"counters": [{
+				"name": "Surgeon's Dice",
+				"level": 1,
+				"value": [4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6],
+				"reset": "short",
+				"display": "default",
+				"classLevel": "BiomancerLevel"
+			},
+			{
+				"name": "Mend the Flesh",
+				"level": 6,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "BiomancerLevel"
+			},
+			{
+				"name": "Limit of Vigor",
+				"level": 18,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "BiomancerLevel"
+			}
+		]
+	},
+	{
+		"Class": "Biomancer",
+		"subclass": "Nerves",
+		"counters": [{
+				"name": "Quiet the Mind",
+				"level": 6,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "BiomancerLevel"
+			},
+			{
+				"name": "Tactile Excruciation",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "BiomancerLevel"
+			},
+			{
+				"name": "Synaptic Invasion",
+				"level": 18,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "BiomancerLevel"
+			}
+		]
+	},
+	{
+		"Class": "BlackMage",
+		"hitDie": "d6",
+		"subclassLevel": 2,
+		"counters": [{
+			"name": "Mana Points",
+			"level": 1,
+			"value": "BlackMageLevel",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "BlackMageLevel"
+		}]
+	},
+	{
+		"Class": "BlackMage",
+		"subclass": "Mhachi",
+		"counters": []
+	},
+	{
+		"Class": "BlackMage",
+		"subclass": "Enchanter",
+		"counters": []
+	},
+	{
+		"Class": "BlackMage",
+		"subclass": "Void Mage",
+		"counters": []
+	},
+	{
+		"Class": "BloodHunter",
+		"hitDie": "d10",
+		"subclassLevel": 3,
+		"counters": [{
+				"name": "Blood Maledict",
+				"level": 1,
+				"value": [1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4],
+				"reset": "short",
+				"display": "default",
+				"classLevel": "BloodHunterLevel"
+			},
+			{
+				"name": "Brand of Castigation",
+				"level": 6,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "BloodHunterLevel"
+			}
+		]
+	},
+	{
+		"Class": "BloodHunter",
+		"subclass": "Ghostslayer",
+		"counters": [{
+			"name": "Ethereal Step",
+			"level": 7,
+			"value": [0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2],
+			"reset": "short",
+			"display": "bubble",
+			"classLevel": "BloodHunterLevel"
+		}]
+	},
+	{
+		"Class": "BloodHunter",
+		"subclass": "Profane Soul",
+		"counters": [{
+				"name": "Revealed Arcana",
+				"level": 7,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "BloodHunterLevel"
+			},
+			{
+				"name": "Unsealed Arcana",
+				"level": 15,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "BloodHunterLevel"
+			}
+		]
+	},
+	{
+		"Class": "BloodHunter",
+		"subclass": "Mutant",
+		"counters": [{
+				"name": "Strange Metabolism",
+				"level": 7,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "BloodHunterLevel"
+			},
+			{
+				"name": "Exalted Mutation",
+				"level": 18,
+				"value": "intelligenceMod",
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "BloodHunterLevel"
+			}
+		]
+	},
+	{
+		"Class": "BloodHunter",
+		"subclass": "Lycan",
+		"counters": [{
+			"name": "Hybrid Transformation",
+			"level": 3,
+			"value": [0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 24],
+			"reset": "short",
+			"display": "default",
+			"classLevel": "BloodHunterLevel"
+		}]
+	},
+	{
+		"Class": "Bonded",
+		"hitDie": "d10",
+		"subclassLevel": 3,
+		"counters": [{
+				"name": "Imperfect Regeneration",
+				"level": 2,
+				"value": "BondedLevel",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "BondedLevel"
+			},
+			{
+				"name": "Mutation Points",
+				"level": 1,
+				"value": "BondedLevel",
+				"reset": "short",
+				"display": "default",
+				"classLevel": "BondedLevel"
+			}
+		]
+	},
+	{
+		"Class": "Bonded",
+		"subclass": "Symbiote",
+		"counters": [{
+			"name": "Symbiotic Form",
+			"level": 3,
+			"value": "proficiencyBonus",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "BondedLevel"
+		}]
+	},
+	{
+		"Class": "Bonded",
+		"subclass": "Parasite",
+		"counters": []
+	},
+	{
+		"Class": "Chef",
+		"hitDie": "d8",
+		"subclassLevel": 3,
+		"counters": [{
+			"name": "Recipes",
+			"level": 1,
+			"value": [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10, 10],
+			"modifier": "wisdomMod",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "ChefLevel"
+		}]
+	},
+	{
+		"Class": "Chef",
+		"subclass": "Entremetier",
+		"counters": []
+	},
+	{
+		"Class": "Chef",
+		"subclass": "Rotissuer",
+		"counters": []
+	},
+	{
+		"Class": "Chef",
+		"subclass": "Patissier",
+		"counters": []
+	},
+	{
+		"Class": "Dancer",
+		"hitDie": "d8",
+		"subclassLevel": 3,
+		"counters": [{
+				"name": "Dazzling Dance",
+				"level": 1,
+				"value": "charismaMod",
+				"reset": "none",
+				"display": "default",
+				"classLevel": "DancerLevel"
+			},
+			{
+				"name": "Bewildering Grace",
+				"level": 13,
+				"value": "charismaMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "DancerLevel"
+			}
+		]
+	},
+	{
+		"Class": "Dancer",
+		"subclass": "Peace Bringer",
+		"counters": [{
+			"name": "Succor Swing",
+			"level": 3,
+			"value": [0, 0, 15, 20, 25, 30, 35, 40, 45, 50, 55, 60, 65, 70, 75, 80, 85, 90, 95, 100],
+			"reset": "long",
+			"display": "default",
+			"classLevel": "DancerLevel"
+		}]
+	},
+	{
+		"Class": "Dancer",
+		"subclass": "Paragon",
+		"counters": []
+	},
+	{
+		"Class": "Dancer",
+		"subclass": "Exotic Wonder",
+		"counters": []
+	},
+	{
+		"Class": "Doctor",
+		"hitDie": "d8",
+		"subclassLevel": 3,
+		"counters": [{
+				"name": "First Aid",
+				"level": 1,
+				"value": "intelligenceMod",
+				"modifier": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "DoctorLevel"
+			},
+			{
+				"name": "Diagnosis",
+				"level": 5,
+				"value": "intelligenceMod",
+				"reset": "short",
+				"display": "default",
+				"classLevel": "DoctorLevel"
+			},
+			{
+				"name": "Vitality Boost",
+				"level": 9,
+				"value": "intelligenceMod",
+				"modifier": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "DoctorLevel"
+			}
+		]
+	},
+	{
+		"Class": "Doctor",
+		"subclass": "Surgeon",
+		"counters": []
+	},
+	{
+		"Class": "Doctor",
+		"subclass": "Combat Medic",
+		"counters": [{
+			"name": "Adrenaline Shot",
+			"level": 18,
+			"value": 1,
+			"reset": "long",
+			"display": "bubble",
+			"classLevel": "DoctorLevel"
+		}]
+	},
+	{
+		"Class": "Doctor",
+		"subclass": "Pharmacist",
+		"counters": []
+	},
+	{
+		"Class": "Dragoon",
+		"hitDie": "d10",
+		"subclassLevel": 3,
+		"counters": [{
+				"name": "Dragoon's Trance",
+				"level": 1,
+				"value": [2, 2, 3, 3, 3, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 6, 6, 6, 6],
+				"reset": "long",
+				"display": "default",
+				"classLevel": "DragoonLevel"
+			},
+			{
+				"name": "Lancet",
+				"level": 2,
+				"value": "strengthMod",
+				"reset": "short",
+				"display": "default",
+				"classLevel": "DragoonLevel"
+			},
+			{
+				"name": "Invigorate",
+				"level": 14,
+				"value": 2,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "DragoonLevel"
+			}
+		]
+	},
+	{
+		"Class": "Dragoon",
+		"subclass": "Dragon Slayer",
+		"counters": []
+	},
+	{
+		"Class": "Dragoon",
+		"subclass": "Dragon Heart",
+		"counters": []
+	},
+	{
+		"Class": "Dragoon",
+		"subclass": "Valkyrie",
+		"counters": []
+	},
+	{
+		"Class": "Gunsmith",
+		"hitDie": "d8",
+		"subclassLevel": 3,
+		"counters": [{
+				"name": "Trick Shot",
+				"level": 2,
+				"value": "intelligenceMod",
+				"reset": "short",
+				"display": "default",
+				"classLevel": "GunsmithLevel"
+			},
+			{
+				"name": "Not Without a Fight",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "GunsmithLevel"
+			},
+			{
+				"name": "Shoot'Em Up",
+				"level": 20,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "GunsmithLevel"
+			}
+		]
+	},
+	{
+		"Class": "Gunsmith",
+		"subclass": "Mystic Marksman",
+		"counters": []
+	},
+	{
+		"Class": "Gunsmith",
+		"subclass": "Grenadier",
+		"counters": []
+	},
+	{
+		"Class": "Gunsmith",
+		"subclass": "Crack Shot",
+		"counters": [{
+				"name": "Sniper's Mark",
+				"level": 3,
+				"value": [0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2],
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "GunsmithLevel"
+			},
+			{
+				"name": "Overwatch",
+				"level": 7,
+				"value": "intelligenceMod",
+				"reset": "short",
+				"display": "default",
+				"classLevel": "GunsmithLevel"
+			}
+		]
+	},
+	{
+		"Class": "Gunsmith",
+		"subclass": "Desperado",
+		"counters": [{
+				"name": "Lucky Punk",
+				"level": 3,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "GunsmithLevel"
+			},
+			{
+				"name": "Relentless",
+				"level": 10,
+				"value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2],
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "GunsmithLevel"
+			}
+		]
+	},
+	{
+		"Class": "Knight",
+		"hitDie": "d10",
+		"subclassLevel": 1,
+		"counters": [{
+				"name": "Ichor",
+				"level": 2,
+				"value": [0, 2, 2, 4, 4, 6, 6, 8, 8, 10, 10, 12, 12, 14, 14, 16, 16, 18, 18, 20],
+				"reset": "short",
+				"display": "default",
+				"classLevel": "KnightLevel"
+			},
+			{
+				"name": "Hopeful Soul",
+				"level": 5,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "KnightLevel"
+			},
+			{
+				"name": "Treasure Sight",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "KnightLevel"
+			}
+		]
+	},
+	{
+		"Class": "Knight",
+		"subclass": "Shovelry",
+		"counters": []
+	},
+	{
+		"Class": "Knight",
+		"subclass": "Aegis",
+		"counters": []
+	},
+	{
+		"Class": "Knight",
+		"subclass": "Torment",
+		"counters": []
+	},
+	{
+		"Class": "Knight",
+		"subclass": "The Adventurer",
+		"counters": []
+	},
+	{
+		"Class": "Lich",
+		"hitDie": "d6",
+		"subclassLevel": 3,
+		"counters": [{
+			"name": "Soul Charges",
+			"level": 1,
+			"value": [2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21],
+			"reset": "none",
+			"display": "default",
+			"classLevel": "LichLevel"
+		}]
+	},
+	{
+		"Class": "Lich",
+		"subclass": "Baelnorn",
+		"counters": [{
+				"name": "Touch of Eternal Rest",
+				"level": 1,
+				"value": "intelligenceMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "LichLevel"
+			},
+			{
+				"name": "Image of Ancestry",
+				"level": 1,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "LichLevel"
+			}
+		]
+	},
+	{
+		"Class": "Lich",
+		"subclass": "Omniscient",
+		"counters": []
+	},
+	{
+		"Class": "Magi",
+		"hitDie": "d6",
+		"subclassLevel": 2,
+		"counters": [{
+				"name": "Spell Points",
+				"level": 1,
+				"value": [2, 5, 7, 10, 13, 16, 19, 22, 26, 30, 34, 38, 42, 46, 50, 54, 58, 62, 66, 70],
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MagiLevel"
+			},
+			{
+				"name": "Spell Limit",
+				"level": 1,
+				"value": [2, 3, 6, 7, 9, 10, 11, 12, 14, 15, 16, 16, 17, 17, 18, 18, 19, 20, 21, 22],
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MagiLevel"
+			},
+			{
+				"name": "Arcane Aide",
+				"level": 7,
+				"value": "charismaMod",
+				"modifier": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MagiLevel"
+			},
+			{
+				"name": "Signature Spell (6th)",
+				"level": 11,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MagiLevel"
+			},
+			{
+				"name": "Signature Spell (7th)",
+				"level": 13,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MagiLevel"
+			},
+			{
+				"name": "Signature Spell (8th)",
+				"level": 15,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MagiLevel"
+			},
+			{
+				"name": "Signature Spell (9th)",
+				"level": 17,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MagiLevel"
+			},
+			{
+				"name": "Will of the Arcane",
+				"level": 20,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "MagiLevel"
+			}
+		]
+	},
+	{
+		"Class": "Magi",
+		"subclass": "High Arts",
+		"counters": [{
+				"name": "Adaptive Casting",
+				"level": 2,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "MagiLevel"
+			},
+			{
+				"name": "Arcane Flow",
+				"level": 6,
+				"value": [0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 3, 3, 3],
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MagiLevel"
+			},
+			{
+				"name": "Master of the High Art",
+				"level": 18,
+				"value": 3,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MagiLevel"
+			}
+		]
+	},
+	{
+		"Class": "Magi",
+		"subclass": "Weave",
+		"counters": [{
+				"name": "Spell Mimicry",
+				"level": 6,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MagiLevel"
+			},
+			{
+				"name": "Master of the Weave",
+				"level": 18,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MagiLevel"
+			}
+		]
+	},
+	{
+		"Class": "Magi",
+		"subclass": "Root",
+		"counters": []
+	},
+	{
+		"Class": "Magus",
+		"hitDie": "d8",
+		"subclassLevel": 1,
+		"counters": [{
+				"name": "Mystic Meditation",
+				"level": 6,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "MagusLevel"
+			},
+			{
+				"name": "Spell Surge",
+				"level": 10,
+				"value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2],
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "MagusLevel"
+			},
+			{
+				"name": "Greater Spell Surge",
+				"level": 18,
+				"value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 2],
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "MagusLevel"
+			}
+		]
+	},
+	{
+		"Class": "Magus",
+		"subclass": "Arcane Order",
+		"counters": [{
+				"name": "Esoteric Eye",
+				"level": 1,
+				"value": "intelligenceMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MagusLevel"
+			},
+			{
+				"name": "Arcane Recovery",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "MagusLevel"
+			}
+		]
+	},
+	{
+		"Class": "Magus",
+		"subclass": "Knights Stygian",
+		"counters": [{
+			"name": "Esoteric Eye",
+			"level": 1,
+			"value": "charismaMod",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "MagusLevel"
+		}]
+	},
+	{
+		"Class": "Magus",
+		"subclass": "Primordial Seal",
+		"counters": [{
+				"name": "Esoteric Eye",
+				"level": 1,
+				"value": "charismaMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MagusLevel"
+			},
+			{
+				"name": "Elemental Attunement",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "MagusLevel"
+			}
+		]
+	},
+	{
+		"Class": "Magus",
+		"subclass": "Shadow Court",
+		"counters": [{
+				"name": "Esoteric Eye",
+				"level": 1,
+				"value": "intelligenceMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MagusLevel"
+			},
+			{
+				"name": "False Body Jutsu",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "MagusLevel"
+			}
+		]
+	},
+	{
+		"Class": "Magus",
+		"subclass": "Sidereal Cabal",
+		"counters": [{
+			"name": "Esoteric Eye",
+			"level": 1,
+			"value": "intelligenceMod",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "MagusLevel"
+		}]
+	},
+	{
+		"Class": "Magus",
+		"subclass": "Sylvan Court",
+		"counters": [{
+				"name": "Esoteric Eye",
+				"level": 1,
+				"value": "wisdomMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MagusLevel"
+			},
+			{
+				"name": "Font of Life",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "MagusLevel"
+			}
+		]
+	},
+	{
+		"Class": "MaskedHero",
+		"hitDie": "d8",
+		"subclassLevel": 3,
+		"counters": [{
+				"name": "Transformations",
+				"level": 1,
+				"value": [2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4],
+				"reset": "short",
+				"display": "default",
+				"classLevel": "MaskedHeroLevel"
+			},
+			{
+				"name": "Heroic Armaments",
+				"level": 1,
+				"value": "constitutionMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MaskedHeroLevel"
+			},
+			{
+				"name": "Deflective Strike",
+				"level": 2,
+				"value": "wisdomMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MaskedHeroLevel"
+			},
+			{
+				"name": "Zenith Armaments",
+				"level": 20,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MaskedHeroLevel"
+			}
+		]
+	},
+	{
+		"Class": "MaskedHero",
+		"subclass": "Retribution",
+		"counters": []
+	},
+	{
+		"Class": "MaskedHero",
+		"subclass": "Preservation",
+		"counters": []
+	},
+	{
+		"Class": "MaskedHero",
+		"subclass": "Salvation",
+		"counters": []
+	},
+	{
+		"Class": "MaskedHero",
+		"subclass": "Conviction",
+		"counters": []
+	},
+	{
+		"Class": "MaskedHero",
+		"subclass": "Execution",
+		"counters": []
+	},
+	{
+		"Class": "Necromancer",
+		"hitDie": "d6",
+		"subclassLevel": 2,
+		"counters": [{
+			"name": "Vitality Shift",
+			"level": 1,
+			"value": "wisdomMod",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "NecromancerLevel"
+		}]
+	},
+	{
+		"Class": "Necromancer",
+		"subclass": "Departed",
+		"counters": []
+	},
+	{
+		"Class": "Necromancer",
+		"subclass": "Tomes",
+		"counters": [{
+			"name": "Refined Spell",
+			"level": 2,
+			"value": 1,
+			"reset": "long",
+			"display": "default",
+			"classLevel": "NecromancerLevel"
+		}]
+	},
+	{
+		"Class": "Nightbreaker",
+		"hitDie": "d10",
+		"subclassLevel": 2,
+		"counters": [{
+				"name": "Hunter's Mark",
+				"level": 1,
+				"value": [1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3],
+				"reset": "long",
+				"display": "default",
+				"classLevel": "NightbreakerLevel"
+			},
+			{
+				"name": "Detect Poison",
+				"level": 1,
+				"value": [1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3],
+				"reset": "long",
+				"display": "default",
+				"classLevel": "NightbreakerLevel"
+			},
+			{
+				"name": "Detect Magic",
+				"level": 1,
+				"value": [1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3],
+				"reset": "long",
+				"display": "default",
+				"classLevel": "NightbreakerLevel"
+			},
+			{
+				"name": "Detect Evil and Good",
+				"level": 1,
+				"value": [1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3],
+				"reset": "long",
+				"display": "default",
+				"classLevel": "NightbreakerLevel"
+			}
+		]
+	},
+	{
+		"Class": "Nightbreaker",
+		"subclass": "Hunt",
+		"counters": [{
+			"name": "Sense Presence",
+			"level": 2,
+			"value": "NightbreakerLevel",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "NightbreakerLevel"
+		}]
+	},
+	{
+		"Class": "Nightbreaker",
+		"subclass": "Death",
+		"counters": [{
+			"name": "Harrowing Curse",
+			"level": 2,
+			"value": "wisdomMod",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "NightbreakerLevel"
+		}]
+	},
+	{
+		"Class": "Nightbreaker",
+		"subclass": "Divinity",
+		"counters": [{
+			"name": "Blessing",
+			"level": 2,
+			"value": "wisdomMod",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "NightbreakerLevel"
+		}]
+	},
+	{
+		"Class": "Noble",
+		"hitDie": "d6",
+		"subclassLevel": 1,
+		"counters": [{
+				"name": "Rallying Word",
+				"level": 1,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "NobleLevel"
+			},
+			{
+				"name": "Direct Ally",
+				"level": 2,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "NobleLevel"
+			},
+			{
+				"name": "Spur Ally",
+				"level": 3,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "NobleLevel"
+			},
+			{
+				"name": "Rallying Word",
+				"level": 7,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "NobleLevel"
+			},
+			{
+				"name": "Noble Renown",
+				"level": 10,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "NobleLevel"
+			},
+			{
+				"name": "Devoted Commander",
+				"level": 20,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "NobleLevel"
+			}
+		]
+	},
+	{
+		"Class": "Noble",
+		"subclass": "Brave",
+		"counters": [{
+			"name": "Overwhelming Blow",
+			"level": 14,
+			"value": 3,
+			"reset": "short",
+			"display": "default",
+			"classLevel": "NobleLevel"
+		}]
+	},
+	{
+		"Class": "Noble",
+		"subclass": "Heart",
+		"counters": [{
+				"name": "Cry Out",
+				"level": 2,
+				"value": [0, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3],
+				"reset": "short",
+				"display": "default",
+				"classLevel": "NobleLevel"
+			},
+			{
+				"name": "Tears of the Pure-Hearted",
+				"level": 6,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "NobleLevel"
+			},
+			{
+				"name": "Heart's Redemption",
+				"level": 17,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "NobleLevel"
+			}
+		]
+	},
+	{
+		"Class": "Noble",
+		"subclass": "Mystic Royal",
+		"counters": [{
+				"name": "Mystic Charge",
+				"level": 11,
+				"value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2],
+				"reset": "short",
+				"display": "default",
+				"classLevel": "NobleLevel"
+			},
+			{
+				"name": "For Crown and Country",
+				"level": 14,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "NobleLevel"
+			}
+		]
+	},
+	{
+		"Class": "Noble",
+		"subclass": "Tactician",
+		"counters": [{
+			"name": "Maneuver Die",
+			"level": 2,
+			"value": [0, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6],
+			"reset": "long",
+			"display": "default",
+			"classLevel": "NobleLevel"
+		}]
+	},
+	{
+		"Class": "Ignoble",
+		"hitDie": "d10",
+		"subclassLevel": 3,
+		"counters": [{
+				"name": "Infernal Conduit",
+				"level": 1,
+				"value": [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10, 10],
+				"reset": "long",
+				"display": "'bubble",
+				"classLevel": "IgnobleLevel"
+			},
+			{
+				"name": "Baleful Interdict",
+				"level": 2,
+				"value": "charismaMod",
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "IgnobleLevel"
+			},
+			{
+				"name": "Hellsight",
+				"level": 3,
+				"value": "charismaMod",
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "IgnobleLevel"
+			},
+			{
+				"name": "Invoke Authority",
+				"level": 3,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "IgnobleLevel"
+			},
+			{
+				"name": "Summon Hell",
+				"level": 15,
+				"value": 1,
+				"reset": "none",
+				"display": "bubble",
+				"classLevel": "IgnobleLevel"
+			}
+		]
+	},
+	{
+		"Class": "Ignoble",
+		"subclass": "Painkiller",
+		"counters": [{
+				"name": "You Die On My Command",
+				"level": 13,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "IgnobleLevel"
+			},
+			{
+				"name": "Pain Devil",
+				"level": 20,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "IgnobleLevel"
+			}
+		]
+	},
+	{
+		"Class": "Ignoble",
+		"subclass": "Shadowmaster",
+		"counters": [{
+			"name": "Shadowform",
+			"level": 20,
+			"value": 1,
+			"reset": "long",
+			"display": "bubble",
+			"classLevel": "IgnobleLevel"
+		}]
+	},
+	{
+		"Class": "Ignoble",
+		"subclass": "Architect of Ruin",
+		"counters": [{
+				"name": "Asmodeus's Blessing",
+				"level": 17,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "IgnobleLevel"
+			},
+			{
+				"name": "Lore Devil",
+				"level": 20,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "IgnobleLevel"
+			}
+		]
+	},
+	{
+		"Class": "Pirate",
+		"hitDie": "d8",
+		"subclassLevel": 3,
+		"counters": [{
+				"name": "Swagger Points",
+				"level": 2,
+				"value": "PirateLevel",
+				"reset": "short",
+				"display": "default",
+				"classLevel": "PirateLevel"
+			},
+			{
+				"name": "Piece of Eight",
+				"level": 13,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "PirateLevel"
+			}
+		]
+	},
+	{
+		"Class": "Pirate",
+		"subclass": "Fool",
+		"counters": []
+	},
+	{
+		"Class": "Pirate",
+		"subclass": "Dread Pirate",
+		"counters": [{
+				"name": "Raise Morale",
+				"level": 3,
+				"value": [0, 0, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3],
+				"reset": "long",
+				"display": "default",
+				"classLevel": "PirateLevel"
+			},
+			{
+				"name": "Demoralize",
+				"level": 7,
+				"value": [0, 0, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3],
+				"reset": "long",
+				"display": "default",
+				"classLevel": "PirateLevel"
+			}
+		]
+	},
+	{
+		"Class": "Pirate",
+		"subclass": "Seafallen",
+		"counters": [{
+				"name": "Black Spot",
+				"level": 3,
+				"value": "charismaMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "PirateLevel"
+			},
+			{
+				"name": "Conjure Briny Being",
+				"level": 10,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "PirateLevel"
+			},
+			{
+				"name": "Stormcaller",
+				"level": 15,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "PirateLevel"
+			}
+		]
+	},
+	{
+		"Class": "Pirate",
+		"subclass": "Powder Keg",
+		"counters": []
+	},
+	{
+		"Class": "Pugilist",
+		"hitDie": "d8",
+		"subclassLevel": 3,
+		"counters": [{
+				"name": "Moxie",
+				"level": 2,
+				"value": [0, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10, 10, 12],
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "PugilistLevel"
+			},
+			{
+				"name": "Bloodied But Unbowed",
+				"level": 3,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "PugilistLevel"
+			},
+			{
+				"name": "Down But Not Out",
+				"level": 9,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "PugilistLevel"
+			},
+			{
+				"name": "Fighting Spirit",
+				"level": 18,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "PugilistLevel"
+			}
+		]
+	},
+	{
+		"Class": "Pugilist",
+		"subclass": "ArenaRoyale",
+		"counters": [{
+				"name": "Persona Points",
+				"level": 3,
+				"value": "charismaMod",
+				"modifier": 3,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "PugilistLevel"
+			},
+			{
+				"name": "Work the Crowd",
+				"level": 6,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "PugilistLevel"
+			},
+			{
+				"name": "Signature Move",
+				"level": 17,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "PugilistLevel"
+			}
+		]
+	},
+	{
+		"Class": "Pugilist",
+		"subclass": "BloodhoundBruisers",
+		"counters": []
+	},
+	{
+		"Class": "Pugilist",
+		"subclass": "DogandHound",
+		"counters": []
+	},
+	{
+		"Class": "Pugilist",
+		"subclass": "HandofDread",
+		"counters": [{
+				"name": "Dread Hand",
+				"level": 3,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "PugilistLevel"
+			},
+			{
+				"name": "Fountain of Viscera",
+				"level": 17,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "PugilistLevel"
+			}
+		]
+	},
+	{
+		"Class": "Pugilist",
+		"subclass": "PissandVinegar",
+		"counters": [{
+				"name": "Dirty Tricks",
+				"level": 6,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "PugilistLevel"
+			},
+			{
+				"name": "Uncouth Art",
+				"level": 17,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "PugilistLevel"
+			}
+		]
+	}, {
+		"Class": "Pugilist",
+		"subclass": "SquaredCircle",
+		"counters": []
+	},
+	{
+		"Class": "Pugilist",
+		"subclass": "SweetScience",
+		"counters": []
+	},
+	{
+		"Class": "Pugilist",
+		"subclass": "TrainingDummy",
+		"counters": []
+	},
+	{
+		"Class": "Rouge",
+		"hitDie": "d6",
+		"subclassLevel": 2,
+		"counters": []
+	},
+	{
+		"Class": "Rouge",
+		"subclass": "Clown",
+		"counters": [{
+			"name": "Pop-Up Carnival",
+			"level": 20,
+			"value": 1,
+			"reset": "short",
+			"display": "bubble",
+			"classLevel": "RougeLevel"
+		}]
+	},
+	{
+		"Class": "Rouge",
+		"subclass": "Effects Master",
+		"counters": [{
+			"name": "Nightmare Weaver",
+			"level": 13,
+			"value": 1,
+			"reset": "long",
+			"display": "bubble",
+			"classLevel": "RougeLevel"
+		}]
+	},
+	{
+		"Class": "Rouge",
+		"subclass": "Fashionista",
+		"counters": []
+	},
+	{
+		"Class": "Rouge",
+		"subclass": "Goth",
+		"counters": []
+	},
+	{
+		"Class": "Rouge",
+		"subclass": "Pretty Face",
+		"counters": []
+	},
+	{
+		"Class": "Witch",
+		"hitDie": "d6",
+		"subclassLevel": 2,
+		"counters": [{
+			"name": "Jinx",
+			"level": 2,
+			"value": "intelligenceMod",
+			"reset": "short",
+			"display": "default",
+			"classLevel": "WitchLevel"
+		}]
+	},
+	{
+		"Class": "Witch",
+		"subclass": "Dark Moon",
+		"counters": [{
+				"name": "Minions of the Dark Moon",
+				"level": 6,
+				"value": "intelligenceMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WitchLevel"
+			},
+			{
+				"name": "Orb of Night",
+				"level": 10,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WitchLevel"
+			}
+		]
+	},
+	{
+		"Class": "Witch",
+		"subclass": "Full Moon",
+		"counters": [{
+				"name": "Warding Moonlight",
+				"level": 10,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WitchLevel"
+			},
+			{
+				"name": "Light of the Full Moon",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WitchLevel"
+			}
+		]
+	},
+	{
+		"Class": "Witch",
+		"subclass": "Half Moon",
+		"counters": [{
+				"name": "Hidden Spellcraft",
+				"level": 10,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WitchLevel"
+			},
+			{
+				"name": "Figments",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WitchLevel"
+			}
+		]
+	},
+	{
+		"Class": "Witch",
+		"subclass": "Crescent Moon",
+		"counters": []
+	},
+	{
+		"Class": "Witch",
+		"subclass": "Eclipse",
+		"counters": [{
+				"name": "Fiendish Affinity",
+				"level": 2,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WitchLevel"
+			},
+			{
+				"name": "Sanguine Rain",
+				"level": 6,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WitchLevel"
+			},
+			{
+				"name": "Hellish Influence",
+				"level": 10,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WitchLevel"
+			},
+			{
+				"name": "Hagform",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WitchLevel"
+			}
+		]
+	},
+	{
+		"Class": "Witch",
+		"subclass": "Gibbous Moon",
+		"counters": [{
+				"name": "Read the Entrails",
+				"level": 2,
+				"value": [0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2],
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WitchLevel"
+			},
+			{
+				"name": "Psychopomp",
+				"level": 6,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WitchLevel"
+			},
+			{
+				"name": "Fortune Telling",
+				"level": 10,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WitchLevel"
+			}
+		]
+	},
+	{
+		"Class": "Witch",
+		"subclass": "Lost Moon",
+		"counters": [{
+				"name": "Starlight Seeker",
+				"level": 2,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WitchLevel"
+			},
+			{
+				"name": "Lost Knowledge",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WitchLevel"
+			}
+		]
+	}
+]

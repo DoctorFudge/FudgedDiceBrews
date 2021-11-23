@@ -1,0 +1,162 @@
+[{
+		"Class": "Barbarian",
+		"subclass": "Chem Blitzer",
+		"counters": [{
+				"name": "Exhaust Fumes",
+				"level": 6,
+				"value": "constitutionMod",
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "BarbarianLevel"
+			},
+			{
+				"name": "Chem-Bomb",
+				"level": 10,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "BarbarianLevel"
+			}
+		]
+	},
+	{
+		"Class": "Barbarian",
+		"subclass": "Goodberry",
+		"counters": [{
+				"name": "Thrashing Vines",
+				"level": 6,
+				"value": 3,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "BarbarianLevel"
+			},
+			{
+				"name": "Praise or Die",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "BarbarianLevel"
+			}
+		]
+	},
+	{
+		"Class": "Barbarian",
+		"subclass": "Gunrager",
+		"counters": [{
+				"name": "Stalwart Defense",
+				"level": 6,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "BarbarianLevel"
+			},
+			{
+				"name": "Steelskinned",
+				"level": 14,
+				"value": 2,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "BarbarianLevel"
+			},
+			{
+				"name": "Domino Shot",
+				"level": 14,
+				"value": 2,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "BarbarianLevel"
+			}
+		]
+	},
+	{
+		"Class": "Barbarian",
+		"subclass": "Rune Sage",
+		"counters": []
+	},
+	{
+		"Class": "Barbarian",
+		"subclass": "Skinchanger",
+		"counters": [{
+				"name": "Skinchanging",
+				"level": 3,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "BarbarianLevel"
+			},
+			{
+				"name": "Shape of the Lesser Beast",
+				"level": 6,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "BarbarianLevel"
+			},
+			{
+				"name": "Primal Rage",
+				"level": 10,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "BarbarianLevel"
+			},
+			{
+				"name": "Shape of the Greater Beast",
+				"level": 14,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "BarbarianLevel"
+			}
+		]
+	},
+	{
+		"Class": "Barbarian",
+		"subclass": "Sylvan Warden",
+		"counters": [{
+			"name": "Warden's Respite",
+			"level": 10,
+			"value": 1,
+			"reset": "short",
+			"display": "bubble",
+			"classLevel": "BarbarianLevel"
+		}]
+	},
+	{
+		"Class": "Barbarian",
+		"subclass": "Terror Mask",
+		"counters": [{
+			"name": "Blood Points",
+			"level": 10,
+			"value": 5,
+			"reset": "none",
+			"display": "default",
+			"classLevel": "BarbarianLevel"
+		}]
+	},
+	{
+		"Class": "Barbarian",
+		"subclass": "Unbreakable",
+		"counters": [{
+			"name": "Fury",
+			"level": 3,
+			"value": 2,
+			"reset": "long",
+			"display": "bubble",
+			"classLevel": "BarbarianLevel"
+		}]
+	},
+	{
+		"Class": "Barbarian",
+		"subclass": "War Chief",
+		"counters": [{
+			"name": "Commanding Presence",
+			"level": 10,
+			"value": 1,
+			"reset": "short",
+			"display": "bubble",
+			"classLevel": "BarbarianLevel"
+		}]
+	}
+]

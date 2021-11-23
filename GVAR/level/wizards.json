@@ -1,0 +1,109 @@
+[{
+		"Class": "Wizard",
+		"subclass": "Fundamentals",
+		"counters": []
+	},
+	{
+		"Class": "Wizard",
+		"subclass": "Golemancy",
+		"counters": []
+	},
+	{
+		"Class": "Wizard",
+		"subclass": "Goodberry",
+		"counters": []
+	},
+	{
+		"Class": "Wizard",
+		"subclass": "Grey Guild",
+		"counters": [{
+				"name": "Encoded Speech",
+				"level": 2,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "WizardLevel"
+			},
+			{
+				"name": "Conspiracy of One",
+				"level": 10,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "WizardLevel"
+			}
+		]
+	},
+	{
+		"Class": "Wizard",
+		"subclass": "Honey Mage",
+		"counters": []
+	},
+	{
+		"Class": "Wizard",
+		"subclass": "Invention",
+		"counters": []
+	},
+	{
+		"Class": "Wizard",
+		"subclass": "Spellgunner",
+		"counters": [{
+			"name": "Spellgunner's Litany",
+			"level": 2,
+			"value": 2,
+			"reset": "short",
+			"display": "default",
+			"classLevel": "WizardLevel"
+		}]
+	},
+	{
+		"Class": "Wizard",
+		"subclass": "Theurgy",
+		"counters": [{
+				"name": "Channel Divinity",
+				"level": 2,
+				"value": [0, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2],
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "WizardLevel"
+			},
+			{
+				"name": "Radiant Countenance",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "WizardLevel"
+			}
+		]
+	},
+	{
+		"Class": "Wizard",
+		"subclass": "Wizard School Dropout",
+		"counters": [{
+				"name": "Hightail It!",
+				"level": 2,
+				"value": "proficiencyBonus",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WizardLevel"
+			},
+			{
+				"name": "Aura of Malfunction",
+				"level": 6,
+				"value": "intelligenceMod",
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "WizardLevel"
+			},
+			{
+				"name": "Master of Misfortune",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "WizardLevel"
+			}
+		]
+	}
+]

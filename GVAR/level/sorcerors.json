@@ -1,0 +1,107 @@
+[{
+		"Class": "Sorcerer",
+		"subclass": "Alicorn Bloodline",
+		"counters": [{
+			"name": "Divine Favor",
+			"level": 18,
+			"value": 1,
+			"reset": "short",
+			"display": "bubble",
+			"classLevel": "SorcererLevel"
+		}]
+	},
+	{
+		"Class": "Sorcerer",
+		"subclass": "Blood Doll",
+		"counters": [{
+			"name": "Puppeterring",
+			"level": 18,
+			"value": 1,
+			"reset": "long",
+			"display": "bubble",
+			"classLevel": "SorcererLevel"
+		}]
+	},
+	{
+		"Class": "Sorcerer",
+		"subclass": "Catastrophe",
+		"counters": [{
+				"name": "Succumb to Disaster",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "SorcererLevel"
+			},
+			{
+				"name": "Obliterate",
+				"level": 18,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "SorcererLevel"
+			}
+		]
+	},
+	{
+		"Class": "Sorcerer",
+		"subclass": "Cursed Existence",
+		"counters": []
+	},
+	{
+		"Class": "Sorcerer",
+		"subclass": "Goodberry Soul",
+		"counters": [{
+			"name": "Call of the Wild",
+			"level": 6,
+			"value": 1,
+			"reset": "long",
+			"display": "bubble",
+			"classLevel": "SorcererLevel"
+		}]
+	},
+	{
+		"Class": "Sorcerer",
+		"subclass": "Greenheart",
+		"counters": []
+	},
+	{
+		"Class": "Sorcerer",
+		"subclass": "Mirrorborn",
+		"counters": [{
+			"name": "The Other Side",
+			"level": 6,
+			"value": 1,
+			"reset": "long",
+			"display": "bubble",
+			"classLevel": "SorcererLevel"
+		}]
+	},
+	{
+		"Class": "Sorcerer",
+		"subclass": "Oceanborne",
+		"counters": []
+	},
+	{
+		"Class": "Sorcerer",
+		"subclass": "Powderblood",
+		"counters": []
+	},
+	{
+		"Class": "Sorcerer",
+		"subclass": "Reincarnated Warrior",
+		"counters": [{
+			"name": "Warrior's Resolve",
+			"level": 14,
+			"value": 1,
+			"reset": "long",
+			"display": "bubble",
+			"classLevel": "SorcererLevel"
+		}]
+	},
+	{
+		"Class": "Sorcerer",
+		"subclass": "Stone",
+		"counters": []
+	}
+]

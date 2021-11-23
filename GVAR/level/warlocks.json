@@ -1,0 +1,439 @@
+[{
+		"Class": "Warlock",
+		"subclass": "Crone",
+		"counters": []
+	},
+	{
+		"Class": "Warlock",
+		"subclass": "Dearly Departed",
+		"counters": []
+	},
+	{
+		"Class": "Warlock",
+		"subclass": "Eldrazi Titan",
+		"counters": [{
+				"name": "Profane Consumption",
+				"level": 1,
+				"value": "charismaMod",
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Devoid",
+				"level": 10,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Ceaseless Hunger",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			}
+		]
+	},
+	{
+		"Class": "Warlock",
+		"subclass": "Eldritch Marksman",
+		"counters": [{
+				"name": "Marksman's Shroud",
+				"level": 1,
+				"value": "1",
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Marksman's Blessing",
+				"level": 6,
+				"value": "1",
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Eldritch Ammunition",
+				"level": 10,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Banishing Shot",
+				"level": 14,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "WarlockLevel"
+			}
+		]
+	},
+	{
+		"Class": "Warlock",
+		"subclass": "Great Goodberry",
+		"counters": [{
+				"name": "Speak With Plants",
+				"level": 10,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Kevin's Goodberry Ale",
+				"level": 10,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Goodberry Lord",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "WarlockLevel"
+			}
+		]
+	},
+	{
+		"Class": "Warlock",
+		"subclass": "Great Trickster",
+		"counters": [{
+				"name": "Spellswipe",
+				"level": 1,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Steal Fortune",
+				"level": 6,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Two Steps Ahead",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "WarlockLevel"
+			}
+		]
+	},
+	{
+		"Class": "Warlock",
+		"subclass": "Hero King",
+		"counters": [{
+				"name": "Heart of the People",
+				"level": 6,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Hero King's Court",
+				"level": 14,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "WarlockLevel"
+			}
+		]
+	},
+	{
+		"Class": "Warlock",
+		"subclass": "Imaginary Friend",
+		"counters": [{
+				"name": "Friendly Assistance",
+				"level": 1,
+				"value": "charismaMod",
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Guardian Patron",
+				"level": 1,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Protector's Vengeance",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			}
+		]
+	},
+	{
+		"Class": "Warlock",
+		"subclass": "Inescapable Void",
+		"counters": []
+	},
+	{
+		"Class": "Warlock",
+		"subclass": "Living Light",
+		"counters": [{
+				"name": "Living Light Channel",
+				"level": 1,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Light Dice",
+				"level": 1,
+				"value": [1, 1, 1, 2, 2, 2, 3, 3, 3, 4, 4, 4, 5, 5, 5, 6, 6, 6, 7, 7],
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Light Walk",
+				"level": 10,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Light Command",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			}
+		]
+	},
+	{
+		"Class": "Warlock",
+		"subclass": "Magical Girl",
+		"counters": [{
+				"name": "Magical Girl Evolution",
+				"level": 1,
+				"value": 2,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Climactic Showdown",
+				"level": 6,
+				"value": 2,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			}
+		]
+	},
+	{
+		"Class": "Warlock",
+		"subclass": "Pumpkin King",
+		"counters": [{
+				"name": "Trick or Treat",
+				"level": 1,
+				"value": "charismaMod",
+				"reset": "long$6$short",
+				"display": "bubble",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Unearthly Fright",
+				"level": 6,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Ghoulish Revelry",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			}
+		]
+	},
+	{
+		"Class": "Warlock",
+		"subclass": "Raven Queen",
+		"counters": [{
+			"name": "Queen's Right Hand",
+			"level": 14,
+			"value": 1,
+			"reset": "long",
+			"display": "default",
+			"classLevel": "WarlockLevel"
+		}]
+	},
+	{
+		"Class": "Warlock",
+		"subclass": "Sleeping Chaos",
+		"counters": [{
+				"name": "Nightmare Enterprise",
+				"level": 1,
+				"value": 1,
+				"reset": "long$10$short",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Just a Nightmare",
+				"level": 6,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Aspect of the Unconscious",
+				"level": 10,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Dream of Teeth",
+				"level": 14,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			}
+		]
+	},
+	{
+		"Class": "Warlock",
+		"subclass": "Symbiote",
+		"counters": []
+	},
+	{
+		"Class": "Warlock",
+		"subclass": "Thing Beneath the Waves",
+		"counters": [{
+				"name": "Siren's Song",
+				"level": 6,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Storm Shield",
+				"level": 10,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Command the Gale",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			}
+		]
+	},
+	{
+		"Class": "Warlock",
+		"subclass": "Thing That Should Not Be",
+		"counters": [{
+				"name": "Negative Acceleration",
+				"level": 1,
+				"value": "proficiencyBonus",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Rubberbanding",
+				"level": 6,
+				"value": "charismaMod",
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Out of Bounds",
+				"level": 10,
+				"value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2],
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Spaghettification",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			}
+		]
+	},
+	{
+		"Class": "Warlock",
+		"subclass": "Undead",
+		"counters": [{
+				"name": "Form of Dread",
+				"level": 1,
+				"value": "proficiencyBonus",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Spirit Projection",
+				"level": 14,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			}
+		]
+	},
+	{
+		"Class": "Warlock",
+		"subclass": "Void",
+		"counters": [{
+				"name": "Entropic Field",
+				"level": 1,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			},
+			{
+				"name": "Planar Disruption",
+				"level": 10,
+				"value": 2,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "WarlockLevel"
+			}
+		]
+	}
+]

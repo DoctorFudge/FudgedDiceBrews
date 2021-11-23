@@ -1,0 +1,131 @@
+[{
+		"Class": "Ranger",
+		"subclass": "Apex Predator",
+		"counters": []
+	},
+	{
+		"Class": "Ranger",
+		"subclass": "Bounty Hunter",
+		"counters": []
+	},
+	{
+		"Class": "Ranger",
+		"subclass": "Country Music",
+		"counters": []
+	},
+	{
+		"Class": "Ranger",
+		"subclass": "Dragoon",
+		"counters": [{
+			"name": "Terrain Awareness",
+			"level": 7,
+			"value": [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2],
+			"reset": "short",
+			"display": "default",
+			"classLevel": "RangerLevel"
+		}]
+	},
+	{
+		"Class": "Ranger",
+		"subclass": "Drakewarden",
+		"counters": [{
+			"name": "Drake Companion",
+			"level": 3,
+			"value": 1,
+			"reset": "long",
+			"display": "default",
+			"classLevel": "RangerLevel"
+		}]
+	},
+	{
+		"Class": "Ranger",
+		"subclass": "Eldritch Trailblazer",
+		"counters": [{
+				"name": "Ghastly Shot",
+				"level": 3,
+				"value": "wisdomMod",
+				"reset": "long&11&short",
+				"display": "default",
+				"classLevel": "RangerLevel"
+			},
+			{
+				"name": "Come Unto Your Maker",
+				"level": 15,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "RangerLevel"
+			}
+		]
+	},
+	{
+		"Class": "Ranger",
+		"subclass": "Fey Wanderer",
+		"counters": [{
+			"name": "Misty Presence",
+			"level": 15,
+			"value": 1,
+			"reset": "long",
+			"display": "default",
+			"classLevel": "RangerLevel"
+		}]
+	},
+	{
+		"Class": "Ranger",
+		"subclass": "Geomancer",
+		"counters": [{
+			"name": "Geomantic Recovery",
+			"level": 7,
+			"value": "RangerLevel",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "RangerLevel"
+		}]
+	},
+	{
+		"Class": "Ranger",
+		"subclass": "Gilded Speaker",
+		"counters": [{
+				"name": "Name Extortion",
+				"level": 3,
+				"value": "wisdomMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "RangerLevel"
+			},
+			{
+				"name": "Fateful Recital",
+				"level": 11,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "RangerLevel"
+			},
+			{
+				"name": "Immutable Identity",
+				"level": 15,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "RangerLevel"
+			}
+		]
+	},
+	{
+		"Class": "Ranger",
+		"subclass": "Goodberry",
+		"counters": []
+	},
+	{
+		"Class": "Ranger",
+		"subclass": "Spirit Guardian",
+		"counters": [{
+			"name": "Elemental Vessel",
+			"level": 15,
+			"value": 1,
+			"reset": "short",
+			"display": "default",
+			"classLevel": "RangerLevel"
+		}]
+	}
+]

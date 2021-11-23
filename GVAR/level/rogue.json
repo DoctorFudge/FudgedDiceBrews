@@ -1,0 +1,182 @@
+[{
+		"Class": "Rogue",
+		"subclass": "Apothecary",
+		"counters": [{
+				"name": "Doses",
+				"level": 3,
+				"value": [0, 0, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 6, 6, 6, 6],
+				"reset": "long",
+				"display": "default",
+				"classLevel": "RogueLevel"
+			},
+			{
+				"name": "Cocktail Crafter",
+				"level": 17,
+				"value": "intelligenceMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "RogueLevel"
+			}
+		]
+	},
+	{
+		"Class": "Rogue",
+		"subclass": "Beanstalker",
+		"counters": [{
+			"name": "Beans",
+			"level": 3,
+			"value": "charismaMod",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "RogueLevel"
+		}]
+	},
+	{
+		"Class": "Rogue",
+		"subclass": "Bouncer",
+		"counters": []
+	},
+	{
+		"Class": "Rogue",
+		"subclass": "Bushmaster",
+		"counters": [{
+			"name": "Bushcraft",
+			"level": 3,
+			"value": 1,
+			"reset": "long",
+			"display": "default",
+			"classLevel": "RogueLevel"
+		}]
+	},
+	{
+		"Class": "Rogue",
+		"subclass": "Copycat",
+		"counters": []
+	},
+	{
+		"Class": "Rogue",
+		"subclass": "Corsair",
+		"counters": []
+	},
+	{
+		"Class": "Rogue",
+		"subclass": "Freebooter",
+		"counters": []
+	},
+	{
+		"Class": "Rogue",
+		"subclass": "Harrower",
+		"counters": [{
+				"name": "Thief of Thoughts",
+				"level": 3,
+				"value": "intelligenceMod",
+				"reset": "short",
+				"display": "default",
+				"classLevel": "RogueLevel"
+			},
+			{
+				"name": "Thief of Secrets",
+				"level": 3,
+				"value": "intelligenceMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "RogueLevel"
+			},
+			{
+				"name": "Thief of Freedom",
+				"level": 9,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "RogueLevel"
+			},
+			{
+				"name": "Thief of Hope",
+				"level": 3,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "RogueLevel"
+			}
+		]
+	},
+	{
+		"Class": "Rogue",
+		"subclass": "Paramour",
+		"counters": [{
+				"name": "Thief of Hearts",
+				"level": 3,
+				"value": "charismaMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "RogueLevel"
+			},
+			{
+				"name": "Inspire Harm",
+				"level": 13,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "RogueLevel"
+			}
+		]
+	},
+	{
+		"Class": "Rogue",
+		"subclass": "Sniper",
+		"counters": [{
+				"name": "Superiority Dice",
+				"level": 3,
+				"value": "4",
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "RogueLevel"
+			},
+			{
+				"name": "Sniper's Mark",
+				"level": 13,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "RogueLevel"
+			},
+			{
+				"name": "Killshot",
+				"level": 17,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "RogueLevel"
+			}
+		]
+	},
+	{
+		"Class": "Rogue",
+		"subclass": "Zealous Inquisitor",
+		"counters": [{
+				"name": "Judgement",
+				"level": 3,
+				"value": "charismaMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "RogueLevel"
+			},
+			{
+				"name": "Divine Reward (3rd)",
+				"level": 13,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "RogueLevel"
+			},
+			{
+				"name": "Divine Reward (4th)",
+				"level": 19,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "RogueLevel"
+			}
+		]
+	}
+]

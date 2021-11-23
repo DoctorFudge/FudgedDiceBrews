@@ -1,0 +1,95 @@
+[
+	{
+		"Class": "Druid",
+		"subclass": "Bond",
+		"counters": []
+	},
+	{
+		"Class": "Druid",
+		"subclass": "Branch",
+		"counters": []
+	},
+	{
+		"Class": "Druid",
+		"subclass": "Cataclysm",
+		"counters": [{
+			"name": "Cataclysmic Font",
+			"level": 2,
+			"value": "DruidLevel",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "DruidLevel"
+		}]
+	},
+	{
+		"Class": "Druid",
+		"subclass": "Goodberry",
+		"counters": [{
+				"name": "Berries",
+				"level": 2,
+				"value": "wisdomMod",
+				"reset": "none",
+				"display": "default",
+				"classLevel": "DruidLevel"
+			},
+			{
+				"name": "Land of the Goodberry",
+				"level": 6,
+				"value": "wisdomMod",
+				"reset": "none",
+				"display": "default",
+				"classLevel": "DruidLevel"
+			},
+			{
+				"name": "Berries",
+				"level": 14,
+				"value": "wisdomMod",
+				"reset": "none",
+				"display": "default",
+				"classLevel": "DruidLevel"
+			},
+			{
+				"name": "Land of the Goodberry",
+				"level": 14,
+				"value": 1,
+				"reset": "none",
+				"display": "default",
+				"classLevel": "DruidLevel"
+			}
+		]
+	},
+	{
+		"Class": "Druid",
+		"subclass": "Spirit",
+		"counters": [{
+			"name": "Shamanic Vision",
+			"level": 2,
+			"value": "wisdomMod",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "DruidLevel"
+		}]
+	},
+	{
+		"Class": "Druid",
+		"subclass": "Spores",
+		"counters": []
+	},
+	{
+		"Class": "Druid",
+		"subclass": "Steel",
+		"counters": []
+	},
+	{
+		"Class": "Druid",
+		"subclass": "Thunder",
+		"counters": [{
+			"name": "Forest Affinity",
+			"level": 6,
+			"value": 2,
+			"reset": "long",
+			"display": "bubble",
+			"classLevel": "DruidLevel"
+		}]
+	}
+]

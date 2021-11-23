@@ -1,0 +1,201 @@
+[{
+		"Class": "Fighter",
+		"subclass": "Buccaneer",
+		"counters": [{
+				"name": "Superiority Dice",
+				"level": 3,
+				"value": [0, 0, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6],
+				"reset": "short",
+				"display": "default",
+				"classLevel": "FighterLevel"
+			},
+			{
+				"name": "Reckless Daring",
+				"level": 15,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "FighterLevel"
+			}
+		]
+	},
+	{
+		"Class": "Fighter",
+		"subclass": "Brute",
+		"counters": []
+	},
+	{
+		"Class": "Fighter",
+		"subclass": "Combat Medic",
+		"counters": [{
+			"name": "Battlefield Medicine",
+			"level": 3,
+			"value": "FighterLevel",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "FighterLevel"
+		}]
+	},
+	{
+		"Class": "Fighter",
+		"subclass": "Corsair",
+		"counters": [{
+			"name": "Corsair's Feint",
+			"level": 3,
+			"value": "constitutionMod",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "FighterLevel"
+		}]
+	},
+	{
+		"Class": "Fighter",
+		"subclass": "Crusader",
+		"counters": [{
+			"name": "Channel Divinity",
+			"level": 3,
+			"value": [0, 0, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2],
+			"reset": "short",
+			"display": "bubble",
+			"classLevel": "FighterLevel"
+		}]
+	},
+	{
+		"Class": "Fighter",
+		"subclass": "Dreadnought",
+		"counters": []
+	},
+	{
+		"Class": "Fighter",
+		"subclass": "Ethereal Warrior",
+		"counters": [{
+				"name": "Planar Leap",
+				"level": 3,
+				"value": "constitutionMod",
+				"reset": "short",
+				"display": "default",
+				"classLevel": "FighterLevel"
+			},
+			{
+				"name": "See Beyond",
+				"level": 3,
+				"value": [0, 0, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3],
+				"reset": "short",
+				"display": "default",
+				"classLevel": "FighterLevel"
+			},
+			{
+				"name": "Planar Cloister",
+				"level": 7,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "FighterLevel"
+			}
+		]
+	},
+	{
+		"Class": "Fighter",
+		"subclass": "Fencer",
+		"counters": [{
+				"name": "Swift Disable",
+				"level": 7,
+				"value": [0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2],
+				"reset": "long",
+				"display": "default",
+				"classLevel": "FighterLevel"
+			},
+			{
+				"name": "Reaching Footwork",
+				"level": 7,
+				"value": [0, 0, 0, 0, 0, 0, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2],
+				"reset": "long",
+				"display": "default",
+				"classLevel": "FighterLevel"
+			}
+		]
+	},
+	{
+		"Class": "Fighter",
+		"subclass": "Gladiator",
+		"counters": [{
+				"name": "Roar of the Crowd",
+				"level": 7,
+				"value": "charismaMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "FighterLevel"
+			},
+			{
+				"name": "Signature Move",
+				"level": 18,
+				"value": 1,
+				"reset": "none",
+				"display": "bubble",
+				"classLevel": "FighterLevel"
+			}
+		]
+	},
+	{
+		"Class": "Fighter",
+		"subclass": "Goodberry Conqueror",
+		"counters": []
+	},
+	{
+		"Class": "Fighter",
+		"subclass": "Gunslinger (CMH)",
+		"counters": [{
+			"name": "True Grit",
+			"level": 3,
+			"value": 3,
+			"reset": "none",
+			"display": "bubble",
+			"classLevel": "FighterLevel"
+		}]
+	},
+	{
+		"Class": "Fighter",
+		"subclass": "Huscarl",
+		"counters": [{
+				"name": "Warrior Fugue",
+				"level": 3,
+				"value": [0, 0, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3],
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "FighterLevel"
+			},
+			{
+				"name": "Ferocious Valor",
+				"level": 3,
+				"value": "charismaMod",
+				"reset": "short",
+				"display": "default",
+				"classLevel": "FighterLevel"
+			}
+		]
+	},
+	{
+		"Class": "Fighter",
+		"subclass": "Monster Hunter",
+		"counters": [{
+			"name": "Superiority Dice",
+			"level": 3,
+			"value": [0, 0, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6],
+			"reset": "short",
+			"display": "default",
+			"classLevel": "FighterLevel"
+		}]
+	},
+	{
+		"Class": "Fighter",
+		"subclass": "Toy Soldier",
+		"counters": [{
+			"name": "Peacekeeper's Accuracy",
+			"level": 18,
+			"value": 1,
+			"reset": "short",
+			"display": "bubble",
+			"classLevel": "FighterLevel"
+		}]
+	}
+]

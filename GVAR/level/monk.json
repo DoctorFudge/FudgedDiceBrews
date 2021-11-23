@@ -1,0 +1,127 @@
+[{
+		"Class": "Monk",
+		"subclass": "Ascendant Dragon",
+		"counters": [{
+				"name": "Breath of the Dragon",
+				"level": 3,
+				"value": "proficiencyBonus",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MonkLevel"
+			},
+			{
+				"name": "Wings Unfurled",
+				"level": 6,
+				"value": "proficiencyBonus",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MonkLevel"
+			},
+			{
+				"name": "Aspect of the Wyrm",
+				"level": 11,
+				"value": 1,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MonkLevel"
+			}
+		]
+	},
+	{
+		"Class": "Monk",
+		"subclass": "Bloom",
+		"counters": []
+	},
+	{
+		"Class": "Monk",
+		"subclass": "Firedancer",
+		"counters": []
+	},
+	{
+		"Class": "Monk",
+		"subclass": "Frost",
+		"counters": []
+	},
+	{
+		"Class": "Monk",
+		"subclass": "Goodberry",
+		"counters": [{
+			"name": "Goodberry Tendrils",
+			"level": 11,
+			"value": "wisdomMod",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "MonkLevel"
+		}]
+	},
+	{
+		"Class": "Monk",
+		"subclass": "Heavy-Handed",
+		"counters": []
+	},
+	{
+		"Class": "Monk",
+		"subclass": "Hurtling Hare",
+		"counters": []
+	},
+	{
+		"Class": "Monk",
+		"subclass": "Internal Alchemy",
+		"counters": [{
+			"name": "Perfect Balance",
+			"level": 17,
+			"value": 1,
+			"reset": "long",
+			"display": "bubble",
+			"classLevel": "MonkLevel"
+		}]
+	},
+	{
+		"Class": "Monk",
+		"subclass": "Kabuki",
+		"counters": []
+	},
+	{
+		"Class": "Monk",
+		"subclass": "Northern Lights",
+		"counters": []
+	},
+	{
+		"Class": "Monk",
+		"subclass": "Peaceful Warrior",
+		"counters": [{
+			"name": "Fist of Mercy",
+			"level": 6,
+			"value": 1,
+			"reset": "short",
+			"display": "bubble",
+			"classLevel": "MonkLevel"
+		}]
+	},
+	{
+		"Class": "Monk",
+		"subclass": "Tattooed Temple",
+		"counters": []
+	},
+	{
+		"Class": "Monk",
+		"subclass": "Tip-Toe",
+		"counters": [{
+				"name": "Concentrated Ki",
+				"level": 3,
+				"value": "MonkLevel",
+				"reset": "none",
+				"display": "default",
+				"classLevel": "MonkLevel"
+			},
+			{
+				"name": "Shattering Force",
+				"level": 17,
+				"value": "wisdomMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "MonkLevel"
+			}
+		]
+	}
+]

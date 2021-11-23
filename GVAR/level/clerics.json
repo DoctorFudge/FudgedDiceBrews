@@ -1,0 +1,124 @@
+[{
+		"Class": "Cleric",
+		"subclass": "Air",
+		"counters": []
+	},
+	{
+		"Class": "Cleric",
+		"subclass": "Celebration",
+		"counters": []
+	},
+	{
+		"Class": "Cleric",
+		"subclass": "Commerce",
+		"counters": [{
+			"name": "Instant Gratification",
+			"level": 1,
+			"value": "wisdomMod",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "ClericLevel"
+		}]
+	},
+	{
+		"Class": "Cleric",
+		"subclass": "Darkness",
+		"counters": [{
+			"name": "Tendril of Darkness",
+			"level": 1,
+			"value": "wisdomMod",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "ClericLevel"
+		}]
+	},
+	{
+		"Class": "Cleric",
+		"subclass": "Dust",
+		"counters": [{
+			"name": "Gust of Dust",
+			"level": 1,
+			"value": "wisdomMod",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "ClericLevel"
+		}]
+	},
+	{
+		"Class": "Cleric",
+		"subclass": "Earth",
+		"counters": []
+	},
+	{
+		"Class": "Cleric",
+		"subclass": "Fire",
+		"counters": []
+	},
+	{
+		"Class": "Cleric",
+		"subclass": "Goodberry",
+		"counters": [{
+			"name": "Banner of the Goodberry",
+			"level": 6,
+			"value": 1,
+			"reset": "short",
+			"display": "bubble",
+			"classLevel": "ClericLevel"
+		}]
+	},
+	{
+		"Class": "Cleric",
+		"subclass": "Love",
+		"counters": []
+	},
+	{
+		"Class": "Cleric",
+		"subclass": "Music",
+		"counters": [{
+				"name": "Catchy Tune",
+				"level": 1,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "ClericLevel"
+			},
+			{
+				"name": "Celestial Chorus",
+				"level": 17,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "ClericLevel"
+			}
+		]
+	},
+	{
+		"Class": "Cleric",
+		"subclass": "Prophecy",
+		"counters": [{
+			"name": "Cryptic Advice",
+			"level": 6,
+			"value": "wisdomMod",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "ClericLevel"
+		}]
+	},
+	{
+		"Class": "Cleric",
+		"subclass": "Valour",
+		"counters": [{
+			"name": "Bastion of Hope",
+			"level": 6,
+			"value": 1,
+			"reset": "short",
+			"display": "bubble",
+			"classLevel": "ClericLevel"
+		}]
+	},
+	{
+		"Class": "Cleric",
+		"subclass": "Water",
+		"counters": []
+	}
+]

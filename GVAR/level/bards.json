@@ -1,0 +1,117 @@
+[{
+		"Class": "Bard",
+		"subclass": "Drama",
+		"counters": [{
+				"name": "Starring Role",
+				"level": 3,
+				"value": 1,
+				"reset": "short",
+				"display": "default",
+				"classLevel": "BardLevel"
+			},
+			{
+				"name": "Enthrall",
+				"level": 6,
+				"value": "1",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "BardLevel"
+			}
+		]
+	},
+	{
+		"Class": "Bard",
+		"subclass": "Drifting",
+		"counters": []
+	},
+	{
+		"Class": "Bard",
+		"subclass": "Goodberry",
+		"counters": []
+	},
+	{
+		"Class": "Bard",
+		"subclass": "Fortune",
+		"counters": []
+	},
+	{
+		"Class": "Bard",
+		"subclass": "Knowledge",
+		"counters": []
+	},
+	{
+		"Class": "Bard",
+		"subclass": "Machismo",
+		"counters": [{
+			"name": "Tireless Showboating",
+			"level": 6,
+			"value": "strengthMod",
+			"reset": "short",
+			"display": "default",
+			"classLevel": "BardLevel"
+		}]
+	},
+	{
+		"Class": "Bard",
+		"subclass": "Pantomime",
+		"counters": []
+	},
+	{
+		"Class": "Bard",
+		"subclass": "Pistolero",
+		"counters": []
+	},
+	{
+		"Class": "Bard",
+		"subclass": "Puppetry",
+		"counters": [{
+			"name": "Storm of Strings",
+			"level": 14,
+			"value": "1",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "BardLevel"
+		}]
+	},
+	{
+		"Class": "Bard",
+		"subclass": "Ratters",
+		"counters": [{
+			"name": "Ushering Song",
+			"level": 3,
+			"value": 1,
+			"reset": "short",
+			"display": "bubble",
+			"classLevel": "BardLevel"
+		}]
+	},
+	{
+		"Class": "Bard",
+		"subclass": "Rhyme",
+		"counters": [{
+			"name": "Freestyle",
+			"level": 14,
+			"value": 1,
+			"reset": "short",
+			"display": "bubble",
+			"classLevel": "BardLevel"
+		}]
+	},
+	{
+		"Class": "Bard",
+		"subclass": "Scream",
+		"counters": []
+	},
+	{
+		"Class": "Bard",
+		"subclass": "Spirits",
+		"counters": [{
+			"name": "Spirit Session",
+			"level": 6,
+			"value": 1,
+			"reset": "long",
+			"display": "bubble",
+			"classLevel": "BardLevel"
+		}]
+	}
+]

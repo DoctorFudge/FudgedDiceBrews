@@ -1,0 +1,112 @@
+[
+	{
+		"Class": "Artificer",
+		"subclass": "Arcane Armorer",
+		"counters": [{
+				"name": "Shield Battery",
+				"level": 3,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "ArtificerLevel"
+			},
+			{
+				"name": "Shielding",
+				"level": 3,
+				"value": 3,
+				"reset": "long",
+				"display": "default",
+				"classLevel": "ArtificerLevel"
+			},
+			{
+				"name": "Defensive Syphon",
+				"level": 5,
+				"value": "intelligenceMod",
+				"reset": "long",
+				"display": "default",
+				"classLevel": "ArtificerLevel"
+			},
+			{
+				"name": "Emergency Barrier",
+				"level": 9,
+				"value": 1,
+				"reset": "long",
+				"display": "bubble",
+				"classLevel": "ArtificerLevel"
+			},
+			{
+				"name": "Ultimate Shield",
+				"level": 15,
+				"value": 1,
+				"reset": "short",
+				"display": "bubble",
+				"classLevel": "ArtificerLevel"
+			}
+		]
+	},
+	{
+		"Class": "Artificer",
+		"subclass": "Arsonist",
+		"counters": [{
+				"name": "Bombs",
+				"level": 3,
+				"value": [1, 1, 2, 2, 3, 3, 4, 4, 5, 5, 6, 6, 7, 7, 8, 8, 9, 9, 10, 10],
+				"reset": "none",
+				"display": "default",
+				"classLevel": "ArtificerLevel"
+			}]
+	},
+	{
+		"Class": "Artificer",
+		"subclass": "Clockwork Engineer",
+		"counters": [{
+			"name": "Mechanical Mount",
+			"level": 9,
+			"value": "intelligenceMod",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "ArtificerLevel"
+		}]
+	},
+	{
+		"Class": "Artificer",
+		"subclass": "Custodian Defender",
+		"counters": [{
+			"name": "Create Barrier",
+			"level": 3,
+			"value": 1,
+			"reset": "long",
+			"display": "default",
+			"classLevel": "ArtificerLevel"
+		}]
+	},
+	{
+		"Class": "Artificer",
+		"subclass": "Forge Adept",
+		"counters": [{
+			"name": "Runes of War",
+			"level": 9,
+			"value": "intelligenceMod",
+			"reset": "long",
+			"display": "default",
+			"classLevel": "ArtificerLevel"
+		}]
+	},
+	{
+		"Class": "Artificer",
+		"subclass": "Self-Forged",
+		"counters": []
+	},
+	{
+		"Class": "Artificer",
+		"subclass": "Suit Driver",
+		"counters": [{
+			"name": "Core Blaster",
+			"level": 15,
+			"value": 1,
+			"reset": "long",
+			"display": "bubble",
+			"classLevel": "ArtificerLevel"
+		}]
+	}
+]

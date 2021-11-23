@@ -1,0 +1,756 @@
+[
+ {
+  "Class":"Artificer",
+  "hitDie":"d8",
+  "subclassLevel":3,
+  "counters":[
+   {
+    "name":"Magical Tinkering",
+    "level":1,
+    "value":"intelligenceMod",
+    "reset":"none",
+    "display":"bubble",
+    "classLevel":"ArtificerLevel",
+    "desc":"At 1st level, you learn how to invest a spark of magic into mundane objects. To use this ability, you must have tinker's tools or other artisan's tools in hand. You then touch a Tiny nonmagical object as an action and give it magical properties of your choice.\n\nUse `!classfeat magical tinkering` to see the options and full description."
+   },
+   {
+    "name":"Infused Items",
+    "level":2,
+    "value":[0,2,2,2,2,3,3,3,3,4,4,4,4,5,5,5,5,6,6,6],
+    "reset":"none",
+    "display":"bubble",
+    "classLevel":"ArtificerLevel",
+    "desc":"At 2nd level, you gain the ability to imbue mundane items with certain magical infusions. The magic items you create with this feature are effectively prototypes of permanent items.\n\nUse `!classfeat infuse item` to see the full description."
+   },
+   {
+    "name":"Flash of Genius",
+    "level":7,
+    "value":"intelligenceMod",
+    "reset":"long",
+    "display":"bubble",
+    "classLevel":"ArtificerLevel",
+    "desc":"Starting at 7th level, you gain the ability to come up with solutions under pressure. When you or another creature you can see within 30 feet of you makes an ability check or a saving throw, you can use your reaction to add your Intelligence modifier to the roll.\n\nYou can use this feature a number of times equal to your Intelligence modifier (minimum of once). You regain all expended uses when you finish a long rest."
+   }
+  ]
+ },
+ {
+  "Class":"Artificer",
+  "subclass":"Alchemist",
+  "counters":[
+   {
+    "name":"Lesser Restoration",
+    "level":9,
+    "value":"intelligenceMod",
+    "reset":"long",
+    "display":"bubble",
+    "classLevel":"ArtificerLevel",
+    "desc":"You can cast lesser restoration without expending a spell slot and without preparing the spell, provided you use alchemist's supplies as the spellcasting focus. You can do so a number of times equal to your Intelligence modifier (minimum of once), and you regain all expended uses when you finish a long rest."
+   },
+   {
+    "name":"Greater Restoration",
+    "level":15,
+    "value":1,
+    "reset":"long",
+    "display":"bubble",
+    "classLevel":"ArtificerLevel",
+    "desc":"You can cast greater restoration and heal without expending a spell slot, without preparing the spell, and without material components, provided you use alchemist's supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a long rest."
+   },
+   {
+    "name":"Heal",
+    "level":15,
+    "value":1,
+    "reset":"long",
+    "display":"bubble",
+    "classLevel":"ArtificerLevel",
+    "desc":"You can cast greater restoration and heal without expending a spell slot, without preparing the spell, and without material components, provided you use alchemist's supplies as the spellcasting focus. Once you cast either spell with this feature, you can't cast that spell with it again until you finish a long rest."
+   }
+  ]
+ },
+ {
+  "Class": "Artificer",
+  "subclass": "Armorer",
+  "counters": []
+ },
+ {
+  "Class":"Artificer",
+  "subclass":"Artillerist",
+  "counters":[
+   {
+    "name":"Eldritch Cannon",
+    "level":3,
+    "value":1,
+    "reset":"long",
+    "display":"bubble",
+    "classLevel":"ArtificerLevel",
+    "desc":"At 3rd level, you learn how to create a magical cannon. Using woodcarver's tools or smith's tools, you can take an action to magically create a Small or Tiny eldritch cannon in an unoccupied space on a horizontal surface within 5 feet of you. A Small eldritch cannon occupies its space, and a Tiny one can be held in one hand.\n\nOnce you create a cannon, you can't do so again until you finish a long rest or until you expend a spell slot of 1st level or higher. You can have only one cannon at a time and can't create one while your cannon is present.\n\nUse `!classfeat eldritch cannon` to view the full description."
+   }
+  ]
+ },
+ {
+  "Class":"Artificer",
+  "subclass":"Battle Smith",
+  "counters":[
+   {
+    "name":"Arcane Jolt",
+    "level":9,
+    "value":"intelligenceMod",
+    "reset":"long",
+    "display":"bubble",
+    "classLevel":"ArtificerLevel",
+    "desc":"At 9th level, you learn new ways to channel arcane energy to harm or heal. When either you hit a target with a magic weapon attack or your steel defender hits a target, you can channel magical energy through the strike to create one of the following effects:\n\n- The target takes an extra 2d6 force damage.\n- Choose one creature or object you can see within 30 feet of the target. Healing energy flows into the chosen recipient, restoring 2d6 hit points to it.\n\nYou can use this energy a number of times equal to your Intelligence modifier (minimum of once), but you can do so no more than once on a turn. You regain all expended uses when you finish a long rest."
+   }
+  ]
+ },
+ {
+  "Class": "Barbarian",
+  "subclass": "Beast",
+  "counters": [
+   {
+    "name": "Infectious Fury",
+    "level": 10,
+    "value": "proficiencyBonus",
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "BarbarianLevel",
+    "desc":"When you hit a creature with your natural weapons while you are raging, the beast within you can curse your target with rabid fury. The target must succeed on a Wisdom saving throw (DC equal to 8 + your Constitution modifier + your proficiency bonus) or suffer one of the following effects (your choice):\n\n- The target must use its reaction to make a melee attack against another creature of your choice that you can see.\n- The target takes 2d12 psychic damage.\n\nYou can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+   },
+   {
+    "name": "Call the Hunt",
+    "level": 14,
+    "value": "proficiencyBonus",
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "BarbarianLevel",
+    "desc":"The beast within you grows so powerful that you can spread its ferocity to others and gain resilience from them joining your hunt. When you enter your rage, you can choose a number of other willing creatures you can see within 30 feet of you equal to your Constitution modifier (minimum of one creature). You gain 5 temporary hit points for each creature that accepts this feature. Until the rage ends, the chosen creatures can each use the following benefit once on each of their turns: when the creature hits a target with an attack roll and deals damage to it, the creature can roll a d6 and gain a bonus to the damage equal to the number rolled.\n\nYou can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+   }
+  ]
+ },
+ {
+  "Class": "Barbarian",
+  "subclass": "Wild Magic",
+  "counters": [
+   {
+    "name": "Magic Awareness",
+    "level": 3,
+    "value": "proficiencyBonus",
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "BarbarianLevel",
+    "desc":"As an action, you can open your awareness to the presence of concentrated magic. Until the end of your next turn, you know the location of any spell or magic item within 60 feet of you that isn’t behind total cover. When you sense a spell, you learn which school of magic it belongs to.\n\nYou can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+   },
+   {
+    "name": "Bolstering Magic",
+    "level": 6,
+    "value": "proficiencyBonus",
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "BarbarianLevel",
+    "desc":"You can harness your wild magic to bolster yourself or a companion. As an action, you can touch one creature (which can be yourself) and confer one of the following benefits of your choice to that creature:\n\n- For 10 minutes, the creature can roll a d3 whenever making an attack roll or an ability check and add the number rolled to the d20 roll.\n- Roll a d3. The creature regains one expended spell slot, the level of which equals the number rolled or lower (the creature’s choice). Once a creature receives this benefit, that creature can’t receive it again until after a long rest.\n\nYou can take this action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+   }
+  ]
+ },
+ {
+  "Class": "Bard",
+  "subclass": "Creation",
+  "counters": [
+   {
+    "name": "Performance of Creation",
+    "level": 3,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "BardLevel",
+    "desc":"As an action, you can channel the magic of the Song of Creation to create one nonmagical item of your choice in an unoccupied space within 10 feet of you. The item must appear on a surface or in a liquid that can support it. The gp value of the item can’t be more than 20 times your bard level, and the item must be Medium or smaller. The item glimmers softly, and a creature can faintly hear music when touching it. The created item disappears after a number of hours equal to your proficiency bonus.\n\nOnce you create an item with this feature, you can’t do so again until you finish a long rest, unless you expend a spell slot of 2nd level or higher to use this feature again. You can have only one item created by this feature at a time; if you use this action and already have an item from this feature, the first one immediately vanishes.\n\nUse `!classfeat performance of creation` to view the full description."
+   },
+   {
+    "name": "Animating Performance",
+    "level": 6,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "BardLevel",
+    "desc":"As an action, you can target a Large or smaller nonmagical item you can see within 30 feet of you and animate it. The animate item uses the Dancing Item stat block, which uses your proficiency bonus. The item is friendly to you and your companions and obeys your commands. It lives for 1 hour, until it is reduced to 0 hit points, or until you die.\n\nWhen you use your Bardic Inspiration feature, you can command the item as part of the same bonus action you use for Bardic Inspiration.\n\nOnce you animate an item with this feature, you can’t do so again until you finish a long rest, unless you expend a spell slot of 3rd level or higher to use this feature again. You can have only one item animated by this feature at a time; if you use this action and already have a dancing item from this feature, the first one immediately becomes inanimate.\n\nUse `!classfeat animating performance to view the full description."
+   }
+  ]
+ },
+ {
+  "Class":"Bard",
+  "subclass":"Eloquence",
+  "counters":[
+   {
+    "name":"Universal Speech",
+    "level":6,
+    "value":1,
+    "reset":"long",
+    "display":"bubble",
+    "classLevel":"BardLevel",
+    "desc":"You have gained the ability to make your speech intelligible to any creature. As an action, choose one or more creatures within 60 feet of you, up to a number equal to your Charisma modifier (minimum of one creature). The chosen creatures can magically understand you, regardless of the language you speak, for 1 hour. Once you use this feature, you can't use it again until you finish a long rest, unless you expend a spell slot to use it again."
+   },
+   {
+    "name":"Infectious Inspiration",
+    "level":14,
+    "value":"charismaMod",
+    "reset":"long",
+    "display":"bubble",
+    "classLevel":"BardLevel",
+    "desc":"When you successfully inspire someone, the power of your eloquence can now spread to someone else. When a creature within 60 feet of you adds one of your Bardic Inspiration dice to its ability check, attack roll, or saving throw and the roll succeeds, you can use your reaction to encourage a different creature (other than yourself) that can hear you within 60 feet of you, giving it a Bardic Inspiration die without expending any of your Bardic Inspiration uses.\n\nYou can use this reaction a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest."
+   }
+  ]
+ },
+ {
+  "Class":"Cleric",
+  "subclass":"Order",
+  "counters":[
+   {
+    "name":"Embodiment of Law",
+    "level":6,
+    "value":"wisdomMod",
+    "reset":"long",
+    "display":"bubble",
+    "classLevel":"ClericLevel",
+    "desc":"At 6th level, you become remarkably adept at channeling magical energy to compel others.\n\nIf you cast a spell of the enchantment school using a spell slot of 1st level or higher, you can change the spell's casting time to 1 bonus action for this casting, provided the spell's casting time is normally 1 action.\n\nYou can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest."
+   }
+  ]
+ },
+ {
+  "Class":"Cleric",
+  "subclass":"Peace",
+  "counters":[
+   {
+    "name":"Emboldening Bond",
+    "level":1,
+    "value":"proficiencyBonus",
+    "reset":"long",
+    "display":"bubble",
+    "classLevel":"ClericLevel",
+    "desc":"You can forge an empowering bond among people who are at peace with one another. As an action, you choose a number of willing creatures within 30 feet of you (this can include yourself) equal to your proficiency bonus. You create a magical bond among them for 10 minutes or until you use this feature again. While any bonded creature is within 30 feet of another, the creature can roll a d4 and add the number rolled to an attack roll, an ability check, or a saving throw it makes. Each creature can add the d4 no more than once per turn.\n\nYou can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+   }
+  ]
+ },
+ {
+  "Class": "Cleric",
+  "subclass": "Twilight",
+  "counters": [
+   {
+    "name": "Eyes of Night",
+    "level": 1,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "ClericLevel",
+    "desc":"You can see through the deepest gloom. You have darkvision out to a range of 300 feet. In that radius, you can see in dim light as if it were bright light and in darkness as if it were dim light.\n\nAs an action, you can magically share the darkvision of this feature with willing creatures you can see within 10 feet of you, up to a number of creatures equal to your Wisdom modifier (minimum of one creature). The shared darkvision lasts for 1 hour. Once you share it, you can’t do so again until you finish a long rest, unless you expend a spell slot of any level to share it again."
+   },
+   {
+    "name": "Steps of Night",
+    "level": 6,
+    "value": "proficiencyBonus",
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "ClericLevel",
+    "desc":"You can draw on the mystical power of night to rise into the air. As a bonus action when you are in dim light or darkness, you can magically give yourself a flying speed equal to your walking speed for 1 minute. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+   }
+  ]
+ },
+ {
+  "Class":"Druid",
+  "subclass":"Spores",
+  "counters":[
+   {
+    "name":"Fungal Infestation",
+    "level":6,
+    "value":"wisdomMod",
+    "reset":"long",
+    "display":"bubble",
+    "classLevel":"DruidLevel",
+    "desc":"At 6th level, your spores gain the ability to infest a corpse and animate it. If a beast or a humanoid that is Small or Medium dies within 10 feet of you, you can use your reaction to animate it, causing it to stand up immediately with 1 hit point. The creature uses the zombie stat block in the Monster Manual. It remains animate for 1 hour, after which time it collapses and dies.\n\nIn combat, the zombie's turn comes immediately after yours. It obeys your mental commands, and the only action it can take is the Attack action, making one melee attack.\n\nYou can use this feature a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses of it when you finish a long rest."
+   }
+  ]
+ },
+ {
+  "Class": "Druid",
+  "subclass": "Stars",
+  "counters": [
+   {
+    "name": "Guiding Bolt",
+    "level": 2,
+    "value": "proficiencyBonus",
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "DruidLevel",
+    "desc":"You can cast guiding bolt without expending a spell slot. You can do so a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+   },
+   {
+    "name": "Cosmic Omen",
+    "level": 6,
+    "value": "wisdomMod",
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "DruidLevel",
+    "desc":"Whenever you finish a long rest, you can consult your Star Map for omens. When you do so, roll a die. Until you finish your next long rest, you gain access to a special reaction based on whether you rolled an even or an odd number on the die:\n\n**Weal (even).** Whenever a creature you can see within 30 feet of you is about to make an attack roll, a saving throw, or an ability check, you can use your reaction to roll a d6 and add the number rolled to the total.\n**Woe (odd).** Whenever a creature you can see within 30 feet of you is about to make an attack roll, a saving throw, or an ability check, you can use your reaction to roll a d6 and subtract the number rolled from the total.\n\nYou can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+   }
+  ]
+ },
+ {
+  "Class":"Druid",
+  "subclass":"Wildfire",
+  "counters":[
+   {
+    "name":"Cauterizing Flames",
+    "level":10,
+    "value":"proficiencyBonus",
+    "reset":"long",
+    "display":"bubble",
+    "classLevel":"DruidLevel",
+    "desc":"You gain the ability to turn death into magical flames that can heal or incinerate. When a Small or larger creature dies within 30 feet of you or your wildfire spirit, a harmless spectral flame springs forth in the dead creature’s space and flickers there for 1 minute. When a creature you can see enters that space, you can use your reaction to extinguish the spectral flame there and either heal the creature or deal fire damage to it. The healing or damage equals 2d10 + your Wisdom modifier.\n\nYou can use this reaction a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+   },
+   {
+    "name":"Blazing Revival",
+    "level":14,
+    "value":1,
+    "reset":"long",
+    "display":"bubble",
+    "classLevel":"DruidLevel",
+    "desc":"The bond with your wildfire spirit can save you from death. If the spirit is within 120 feet of you when you are reduced to 0 hit points and thereby fall unconscious, you can cause the spirit to drop to 0 hit points. You then regain half your hit points and immediately rise to your feet.\n\nOnce you use this feature, you can’t use it again until you finish a long rest."
+   }
+  ]
+ },
+ {
+  "Class": "Fighter",
+  "subclass": "Psi Warrior",
+  "counters": [
+   {
+    "name": "Psionic Energy Dice",
+    "level": 3,
+    "value": "proficiencyBonus",
+    "multiplier": 2,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "FighterLevel",
+    "desc":"You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a d6. You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.\n\nSome of your powers expend the Psionic Energy die they use, as specified in a power’s description, and you can’t use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can’t do so again until you finish a short or long rest.\n\nWhen you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (d8), 11th level (d10), and 17th level (d12)."
+   },
+   {
+    "name": "Telekinetic Movement",
+    "level": 3,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "FighterLevel",
+    "desc":"You can move an object or a creature with your mind. As an action, you target one loose object that is Large or smaller or one willing creature, other than yourself. If you can see the target and it is within 30 feet of you, you can move it up to 30 feet to an unoccupied space you can see. Alternatively, if it is a Tiny object, you can move it to or from your hand. Either way, you can move the target horizontally, vertically, or both. Once you take this action, you can’t do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again."
+   },
+   {
+    "name": "Psi-Powered Leap",
+    "level": 7,
+    "value": 1,
+    "reset": "short",
+    "display": "bubble",
+    "classLevel": "FighterLevel",
+    "desc":"As a bonus action, you can propel your body with your mind. You gain a flying speed equal to twice your walking speed until the end of the current turn. Once you take this bonus action, you can’t do so again until you finish a short or long rest, unless you expend a Psionic Energy die to take it again."
+   },
+   {
+    "name": "Bulwark of force",
+    "level": 15,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "FighterLevel",
+    "desc":"You can shield yourself and others with telekinetic force. As a bonus action, you can choose creatures, which can include you, that you can see within 30 feet of you, up to a number of creatures equal to your Intelligence modifier (minimum of one creature). Each of the chosen creatures is protected by half cover for 1 minute or until you're incapacitated.\n\nOnce you take this bonus action, you can’t do so again until you finish a long rest, unless you expend a Psionic Energy die to take it again."
+   },
+   {
+    "name": "Telekinetic Master",
+    "level": 18,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "FighterLevel",
+    "desc":"Your ability to move creatures and objects with your mind is matched by few. You can cast the telekinesis spell, requiring no components, and your spellcasting ability for the spell is Intelligence. On each of your turns while you concentrate on the spell, including the turn when you cast it, you can make one attack with a weapon as a bonus action.\n\nOnce you cast the spell with this feature, you can’t do so again until you finish a long rest, unless you expend a Psionic Energy die to cast it again."
+   }
+  ]
+ },
+ {
+  "Class": "Fighter",
+  "subclass": "Rune Knight",
+  "counters": [
+   {
+    "name": "Runes",
+    "level": 3,
+    "value": [0,0,2,2,2,2,3,3,3,4,4,4,4,4,5,5,5,5,5,5],
+    "reset": "none",
+    "display": "bubble",
+    "classLevel": "FighterLevel",
+    "desc":"You can use magic runes to enhance your gear. You learn two runes of your choice, from among the runes described below, and each time you gain a level in this class, you can replace one rune you know with a different one from this feature. When you reach certain levels in this class, you learn additional runes, as shown in the Runes Known table.\n\nEach Rune you choose needs its own counters and you will need to make those yourself."
+   },
+   {
+    "name": "Giant's Might",
+    "level": 3,
+    "value": "proficiencyBonus",
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "FighterLevel",
+    "desc":"You have learned how to imbue yourself with the might of giants. As a bonus action, you magically gain the following benefits, which last for 1 minute:\n\n- If you are smaller than Large, you become Large, along with anything you are wearing. If you lack the room to become Large, your size doesn’t change.\n- You have advantage on Strength checks and Strength saving throws.\n- Once on each of your turns, one of your attacks with a weapon or an unarmed strike can deal an extra 1d6 damage to a target on a hit.\n\nYou can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses of it when you finish a long rest."
+   },
+   {
+    "name": "Runic Shield",
+    "level": 7,
+    "value": "proficiencyBonus",
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "FighterLevel",
+    "desc":"You learn to invoke your rune magic to protect your allies. When another creature you can see within 60 feet of you is hit by an attack roll, you can use your reaction to force the attacker to reroll the d20 and use the new roll.\n\nYou can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+   }
+  ]
+ },
+ {
+  "Class": "Monk",
+  "subclass": "Mercy",
+  "counters": [
+   {
+    "name": "Hand of Ultimate Mercy",
+    "level": 17,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "MonkLevel",
+    "desc":"Your mastery of life energy opens the door to the ultimate mercy. As an action, you can touch the corpse of a creature that died within the past 24 hours and expend 5 ki points. The creature then returns to life, regaining a number of hit points equal to 4d10 + your Wisdom modifier. If the creature died while subject to any of the following conditions, it revives with them removed: blinded, deafened, paralyzed, poisoned, and stunned.\n\nOnce you use this feature, you can’t use it again until you finish a long rest."
+   }
+  ]
+ },
+ {
+  "Class": "Monk",
+  "subclass": "The Astral Self",
+  "counters": []
+ },
+ {
+  "Class":"Paladin",
+  "subclass":"Glory",
+  "counters":[
+   {
+    "name":"Glorious Defense",
+    "level":15,
+    "value":"charismaMod",
+    "reset":"long",
+    "display":"bubble",
+    "classLevel":"PaladinLevel",
+    "desc":"You can turn defense into a sudden strike. When you or another creature you can see within 10 feet of you is hit by an attack roll, you can use your reaction to grant a bonus to the target's AC against that attack, potentially causing it to miss. The bonus equals your Charisma modifier (minimum of +1). If the attack misses, you can make one weapon attack against the attacker as part of this reaction, provided the attacker is within your weapon's range.\n\nYou can use this feature a number of times equal to your Charisma modifier (minimum of once), and you regain all expended uses when you finish a long rest."
+   },
+   {
+    "name":"Living Legend",
+    "level":20,
+    "value":1,
+    "reset":"long",
+    "display":"bubble",
+    "classLevel":"PaladinLevel",
+    "desc":"You can empower yourself with the legends--whether true or exaggerated--of your great deeds. As a bonus action, you gain the following benefits for 1 minute:\n\n- You are blessed with an otherworldly presence, gaining advantage on all Charisma checks.\n- Once on each of your turns when you make a weapon attack and miss, you can cause that attack to hit instead.\n- If you fail a saving throw, you can use your reaction to reroll it. You must use this new roll.\n\nOnce you use this feature, you can't use it again until you finish a long rest, unless you expend a 5th-level spell slot to use it again."
+   }
+  ]
+ },
+ {
+  "Class": "Paladin",
+  "subclass": "The Watchers",
+  "counters": [
+   {
+    "name": "Mortal Bulwark",
+    "level": 20,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "PaladinLevel",
+    "desc":"You manifest a spark of divine power in defense of the mortal realms. As a bonus action, you gain the following benefits for 1 minute:\n\n- You gain truesight with a range of 120 feet.\n- You have advantage on attack rolls against aberrations, celestials, elementals, fey, and fiends.\n- When you hit a creature with an attack roll and deal damage to it, you can also force it to make a Charisma saving throw against your spell save DC. On a failed save, the creature is magically banished to its native plane of existence if it’s currently not there. On a successful save, the creature can’t be banished by this feature for 24 hours.\n\nOnce you use this bonus action, you can’t use it again until you finish a long rest, unless you expend a 5th-level spell slot to use it again."
+   }
+  ]
+ },
+ {
+  "Class": "Ranger",
+  "subclass": "Fey Wanderer",
+  "counters": [
+   {
+    "name": "Fey Reinforcements",
+    "level": 11,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "RangerLevel",
+    "desc":"The royal courts of the Feywild have blessed you with the assistance of fey beings: you know summon fey (a spell in chapter 3). It doesn’t count against the number of ranger spells you know, and you can cast it without a material component. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.\n\nWhenever you start casting the spell, you can modify it so that it doesn’t require concentration. If you do so, the spell’s duration becomes 1 minute for that casting."
+   },
+   {
+    "name": "Misty Wanderer",
+    "level": 15,
+    "value": "wisdomMod",
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "RangerLevel",
+    "desc":"You can slip in and out of the Feywild to move in a blink of an eye: you can cast misty step without expending a spell slot. You can do so a number of times equal to your Wisdom modifier (minimum of once), and you regain all expended uses when you finish a long rest.\n\nIn addition, whenever you cast misty step, you can bring along one willing creature you can see within 5 feet of you. That creature teleports to an unoccupied space of your choice within 5 feet of your destination space."
+   }
+  ]
+ },
+ {
+  "Class": "Ranger",
+  "subclass": "Swarmkeeper",
+  "counters": [
+   {
+    "name": "Writhing Tide",
+    "level": 3,
+    "value": "proficiencyBonus",
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "RangerLevel",
+    "desc":"You can condense part of your swarm into a focused mass that lifts you up. As a bonus action, you gain a flying speed of 10 feet and can hover. This effect lasts for 1 minute or until you are incapacitated.\n\nYou can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+   },
+   {
+    "name": "Swarming Dispersal",
+    "level": 15,
+    "value": "proficiencyBonus",
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "RangerLevel",
+    "desc":"You can discorporate into your swarm, avoiding danger. When you take damage, you can use your reaction to give yourself resistance to that damage. You vanish into your swarm and then teleport to an unoccupied space that you can see within 30 feet of you, where you reappear with the swarm.\n\nYou can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+   }
+  ]
+ },
+ {
+  "Class": "Rogue",
+  "subclass": "Phantom",
+  "counters": [
+   {
+    "name": "Wails from the Grave",
+    "level": 3,
+    "value": "proficiencyBonus",
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "RogueLevel",
+    "desc":"As you nudge someone closer to the grave, you can channel the power of death to harm someone else as well. Immediately after you deal your Sneak Attack damage to a creature on your turn, you can target a second creature that you can see within 30 feet of the first creature. Roll half the number of Sneak Attack dice for your level (round up), and the second creature takes necrotic damage equal to the roll’s total, as wails of the dead sound around them for a moment.\n\nYou can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+   },
+   {
+    "name": "Tokens of the Departed",
+    "level": 9,
+    "value": "proficiencyBonus",
+    "reset": "none",
+    "display": "bubble",
+    "classLevel": "RogueLevel",
+    "desc":"When a life ends in your presence, you’re able to snatch a token from the departing soul, a sliver of its life essence that takes physical form: as a reaction when a creature you can see dies within 30 feet of you, you can open your free hand and cause a Tiny trinket to appear there, a soul trinket. The DM determines the trinket’s form or has you roll on the Trinkets table in the Player’s Handbook to generate it.\n\nYou can have a maximum number of soul trinkets equal to your proficiency bonus, and you can’t create one while at your maximum.\n\nUse `!classfeat tokens of the departed` to view the full description and see how to use them."
+   },
+   {
+    "name": "Ghost Walk",
+    "level": 13,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "RogueLevel",
+    "desc":"You can phase partially into the realm of the dead, becoming like a ghost. As a bonus action, you assume a spectral form. While in this form, you have a flying speed of 10 feet, you can hover, and attack rolls have disadvantage against you. You can also move through creatures and objects as if they were difficult terrain, but you take 1d10 force damage if you end your turn inside a creature or an object.\n\nYou stay in this form for 10 minutes or until you end it as a bonus action. To use this feature again, you must finish a long rest or destroy one of your soul trinkets as part of the bonus action you use to activate Ghost Walk."
+   }
+  ]
+ },
+ {
+  "Class": "Rogue",
+  "subclass": "Soulknife",
+  "counters": [
+    {
+    "name": "Psionic Energy Dice",
+    "level": 1,
+    "value": "proficiencyBonus",
+    "multiplier": 2,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "RogueLevel",
+    "desc":"You harbor a wellspring of psionic energy within yourself. This energy is represented by your Psionic Energy dice, which are each a d6. You have a number of these dice equal to twice your proficiency bonus, and they fuel various psionic powers you have, which are detailed below.\n\nSome of your powers expend the Psionic Energy die they use, as specified in a power’s description, and you can’t use a power if it requires you to use a die when your dice are all expended. You regain all your expended Psionic Energy dice when you finish a long rest. In addition, as a bonus action, you can regain one expended Psionic Energy die, but you can’t do so again until you finish a short or long rest.\n\nWhen you reach certain levels in this class, the size of your Psionic Energy dice increases: at 5th level (d8), 11th level (d10), and 17th level (d12)."
+    },
+    {
+    "name": "Psychic Whispers",
+    "level": 3,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "RogueLevel",
+    "desc":"You can establish telepathic communication between yourself and others—perfect for quiet infiltration. As an action, choose one or more creatures you can see, up to a number of creatures equal to your proficiency bonus, and then roll one Psionic Energy die. For a number of hours equal to the number rolled, the chosen creatures can speak telepathically with you, and you can speak telepathically with them. To send or receive a message (no action required), you and the other creature must be within 1 mile of each other. A creature can’t use this telepathy if it can’t speak any languages, and a creature can end the telepathic connection at any time (no action required). You and the creature don’t need to speak a common language to understand each other.\n\nThe first time you use this power after each long rest, you don’t expend the Psionic Energy die. All other times you use the power, you expend the die."
+    },
+    {
+    "name": "Psychic Veil",
+    "level": 13,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "RogueLevel",
+    "desc":"You can weave a veil of psychic static to mask yourself. As an action, you can magically become invisible, along with anything you are wearing or carrying, for 1 hour or until you dismiss this effect (no action required). This invisibility ends early immediately after you deal damage to a creature or you force a creature to make a saving throw.\n\nOnce you use this feature, you can’t do so again until you finish a long rest, unless you expend a Psionic Energy die to use this feature again."
+    },
+    {
+    "name": "Rend Mind",
+    "level": 17,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "RogueLevel",
+    "desc":"You can sweep your Psychic Blades directly through a creature’s mind. When you use your Psychic Blades to deal Sneak Attack damage to a creature, you can force that target to make a Wisdom saving throw (DC equal to 8 + your proficiency bonus + your Dexterity modifier). If the save fails, the target is stunned for 1 minute. The stunned target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.\n\nOnce you use this feature, you can’t do so again until you finish a long rest, unless you expend three Psionic Energy dice to use it again."
+    }
+  ]
+ },
+ {
+  "Class": "Sorcerer",
+  "subclass": "Aberrant Mind",
+  "counters": [
+   {
+    "name": "Warping Implosion",
+    "level": 18,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "SorcererLevel",
+    "desc":"You can unleash your aberrant power as a space-warping anomaly. As an action, you can teleport to an unoccupied space you can see within 120 feet of you. Immediately after you disappear, each creature within 30 feet of the space you left must make a Strength saving throw. On a failed save, a creature takes 3d10 force damage and is pulled straight toward the space you left, ending in an unoccupied space as close to your former space as possible. On a successful save, the creature takes half as much damage and isn’t pulled.\n\nOnce you use this feature, you can’t do so again until you finish a long rest, unless you spend 5 sorcery points to use it again."
+   }
+  ]
+ },
+ {
+  "Class": "Sorcerer",
+  "subclass": "Clockwork Soul",
+  "counters": [
+   {
+    "name": "Restore Balance",
+    "level": 1,
+    "value": "proficiencyBonus",
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "SorcererLevel",
+    "desc":"Your connection to the plane of absolute order allows you to equalize chaotic moments. When a creature you can see within 60 feet of you is about to roll a d20 with advantage or disadvantage, you can use your reaction to prevent the roll from being affected by advantage and disadvantage.\n\nYou can use this feature a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+   },
+   {
+    "name": "Trance of Order",
+    "level": 14,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "SorcererLevel",
+    "desc":"You gain the ability to align your consciousness to the endless calculations of Mechanus. As a bonus action, you can enter this state for 1 minute. For the duration, attack rolls against you can’t benefit from advantage, and whenever you make an attack roll, an ability check, or a saving throw, you can treat a roll of 9 or lower on the d20 as a 10.\n\nOnce you use this bonus action, you can’t use it again until you finish a long rest, unless you spend 5 sorcery points to use it again."
+   },
+   {
+    "name": "Clockwork Cavalcade",
+    "level": 18,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "SorcererLevel",
+    "desc":"You summon spirits of order to expunge disorder around you. As an action, you summon the spirits in a 30-foot cube originating from you. The spirits look like modrons or other constructs of your choice. The spirits are intangible and invulnerable, and they create the following effects within the cube before vanishing:\n\n- The spirits restore up to 100 hit points, divided as you choose among any number of creatures of your choice in the cube.\n- Any damaged objects entirely in the cube are repaired instantly.\n- Every spell of 6th level or lower ends on creatures and objects of your choice in the cube.\n\nOnce you use this action, you can’t use it again until you finish a long rest, unless you spend 7 sorcery points to use it again."
+   }
+  ]
+ },
+ {
+  "Class": "Warlock",
+  "subclass": "Fathomless",
+  "counters": [
+   {
+    "name": "Tentacle of the Deeps",
+    "level": 1,
+    "value": "proficiencyBonus",
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "WarlockLevel",
+    "desc":"You can magically summon a spectral tentacle that strikes at your foes. As a bonus action, you create a 10-foot-long tentacle at a point you can see within 60 feet of you. The tentacle lasts for 1 minute or until you use this feature to create another tentacle.\n\nWhen you create the tentacle, you can make a melee spell attack against one creature within 10 feet of it. On a hit, the target takes 1d8 cold damage, and its speed is reduced by 10 feet until the start of your next turn. When you reach 10th level in this class, the damage increases to 2d8.\n\nAs a bonus action on your turn, you can move the tentacle up to 30 feet and repeat the attack.\n\nYou can summon the tentacle a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+   },
+   {
+    "name": "Grasping Tentacles",
+    "level": 10,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "WarlockLevel",
+    "desc":"You learn the spell Evard’s black tentacles. It counts as a warlock spell for you, but it doesn’t count against the number of spells you know. You can also cast it once without a spell slot, and you regain the ability to do so when you finish a long rest.\n\nWhenever you cast this spell, your patron’s magic bolsters you, granting you a number of temporary hit points equal to your warlock level. Moreover, damage can’t break your concentration on this spell."
+   },
+   {
+    "name": "Fathomless Plunge",
+    "level": 14,
+    "value": 1,
+    "reset": "short",
+    "display": "bubble",
+    "classLevel": "WarlockLevel",
+    "desc":"You can magically open temporary conduits to watery destinations. As an action, you can teleport yourself and up to five other willing creatures that you can see within 30 feet of you. Amid a whirl of tentacles, you all vanish and then reappear up to 1 mile away in a body of water you’ve seen (pond size or larger) or within 30 feet of it, each of you appearing in an unoccupied space within 30 feet of the others.\n\nOnce you use this feature, you can’t use it again until you finish a short or long rest."
+   }
+  ]
+ },
+ {
+  "Class": "Warlock",
+  "subclass": "Genie",
+  "counters": [
+   {
+    "name": "Genie's Vessel: Bottled Respite",
+    "level": 1,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "WarlockLevel",
+    "desc":"As an action, you can magically vanish and enter your vessel, which remains in the space you left. The interior of the vessel is an extradimensional space in the shape of a 20-foot-radius cylinder, 20 feet high, and resembles your vessel. The interior is appointed with cushions and low tables and is a comfortable temperature. While inside, you can hear the area around your vessel as if you were in its space. You can remain inside the vessel up to a number of hours equal to twice your proficiency bonus. You exit the vessel early if you use a bonus action to leave, if you die, or if the vessel is destroyed. When you exit the vessel, you appear in the unoccupied space closest to it. Any objects left in the vessel remain there until carried out, and if the vessel is destroyed, every object stored there harmlessly appears in the unoccupied spaces closest to the vessel’s former space. Once you enter the vessel, you can’t enter again until you finish a long rest."
+   },
+   {
+    "name": "Elemental Gift",
+    "level": 6,
+    "value": "proficiencyBonus",
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "WarlockLevel",
+    "desc":"You begin to take on characteristics of your patron’s kind. You now have resistance to a damage type determined by your patron’s kind: bludgeoning (dao), thunder (djinni), fire (efreeti), or cold (marid).\n\nIn addition, as a bonus action, you can give yourself a flying speed of 30 feet that lasts for 10 minutes, during which you can hover. You can use this bonus action a number of times equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+   },
+   {
+    "name": "Limited Wish",
+    "level": 14,
+    "value": 1,
+    "reset": "none",
+    "display": "bubble",
+    "classLevel": "WarlockLevel",
+    "desc":"You entreat your patron to grant you a small wish. As an action, you can speak your desire to your Genie’s Vessel, requesting the effect of one spell that is 6th level or lower and has a casting time of 1 action. The spell can be from any class’s spell list, and you don’t need to meet the requirements in that spell, including costly components; the spell simply takes effect as part of this action.\n\nOnce you use this feature, you can’t use it again until you finish 1d4 long rests."
+   }
+  ]
+ },
+ {
+  "Class":"Wizard",
+  "subclass":"Bladesinging",
+  "counters":[
+   {
+    "name":"Bladesong",
+    "level":2,
+    "value":"proficiencyBonus",
+    "reset":"short",
+    "display":"bubble",
+    "classLevel":"WizardLevel",
+    "desc":"You can use a bonus action to start a Bladesong, which lasts for 1 minute. It ends early if you are incapacitated, if you don medium or heavy armor or a shield, or if you use two hands to make an attack with a weapon. You can also dismiss the Bladesong at any time you choose (no action required).\n\nWhile your Bladesong is active, you gain the following benefits:\n\n- You gain a bonus to your AC equal to your Intelligence modifier (minimum of +1).\n- Your walking speed increases by 10 feet.\n- You have advantage on Dexterity (Acrobatics) checks.\n- You gain a bonus to any Constitution saving throw you make to maintain your concentration on a spell. The bonus equals your Intelligence modifier (minimum of +1).\n\nYou can use this feature a number of times equal to your proficiency bonus. You regain all expended uses of it when you finish a short or long rest."
+   }
+  ]
+ },
+ {
+  "Class": "Wizard",
+  "subclass": "Scribes",
+  "counters": [
+   {
+    "name": "Awakened Spellbook: Quick Ritual",
+    "level": 2,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "WizardLevel",
+    "desc":"When you cast a wizard spell as a ritual, you can use the spell’s normal casting time, rather than adding 10 minutes to it. Once you use this benefit, you can’t do so again until you finish a long rest."
+   },
+   {
+    "name": "Manifest Mind",
+    "level": 10,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "WizardLevel",
+    "desc":"You can conjure forth the mind of your Awakened Spellbook. As a bonus action while the book is on your person, you can cause the mind to manifest as a Tiny spectral object, hovering in an unoccupied space of your choice within 60 feet of you. The spectral mind is intangible and doesn’t occupy its space, and it sheds dim light in a 10-foot radius. It looks like a ghostly tome, a cascade of text, or a scholar from the past (your choice).\n\nUse `!classfeat manifest mind` to view the full description.\n\nOnce you conjure the mind, you can’t do so again until you finish a long rest, unless you expend a spell slot of any level to conjure it again."
+   },
+   {
+    "name": "Manifest Mind: Awakened Casting",
+    "level": 10,
+    "value": "proficiencyBonus",
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "WizardLevel",
+    "desc":"Whenever you cast a wizard spell on your turn, you can cast it as if you were in the spectral mind’s space, instead of your own, using its senses. You can do so a number of times per day equal to your proficiency bonus, and you regain all expended uses when you finish a long rest."
+   },
+   {
+    "name": "One with the Word",
+    "level": 14,
+    "value": 1,
+    "reset": "long",
+    "display": "bubble",
+    "classLevel": "WizardLevel",
+    "desc":"While your Awakened Spellbook is on your person, you have advantage on all Intelligence (Arcana) checks, as the spellbook helps you remember magical lore.\n\nMoreover, if you take damage while your spellbook’s mind is manifested, you can prevent all of that damage to you by using your reaction to dismiss the spectral mind, using its magic to save yourself. Then roll 3d6. The spellbook temporarily loses spells of your choice that have a combined spell level equal to that roll or higher. If there aren’t enough spells in the book to cover this cost, you drop to 0 hit points.\n\nUntil you finish 1d6 long rests, you are incapable of casting the lost spells, even if you find them on a scroll or in another spellbook. After you finish the required number of rests, the spells reappear in the spellbook.\n\nOnce you use this reaction, you can’t do so again until you finish a long rest.\n\nUse `!classfeat one with the mind` to view the full description."
+   }
+  ]
+ }
+]
